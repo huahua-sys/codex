@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_e482c6b523d48deb076a",
+  "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2023-Q4/press-release-webcast",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:38.461069+00:00",
+  "source_path": "research/phase4/sources/us/e482c6b523d48deb076a.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2023-Q4/press-release-webcast",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "499cd4883563b1ba5bd98fcd446765fbd5f58784b9b204ccd341a6a354353266",
+  "bytes": 704916,
+  "text_path": "research/phase4/sources/us/e482c6b523d48deb076a.txt",
+  "text_sha256": "33cede11a3268c36d6bd1bf0cd1117617c72f699bebb0c002fbeaa458749abc1"
+}

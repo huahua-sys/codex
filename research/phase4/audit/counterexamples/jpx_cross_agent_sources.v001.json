@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "jp_event_source_025",
+    "url": "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001he5b-att/20170130-3e.pdf",
+    "path": "sources/counterexamples/JPX_2017_01_30_BUYBACK.pdf",
+    "sha256": "c3b6af155567c4e5adb7bafb52e68189428ab6d7f6f1d6f3ee6e391aaf0029cd",
+    "bytes": 58344,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:06.281377+00:00",
+    "audit_original_path": "research/phase4/sources/japan/jp_event_source_025.pdf",
+    "extract_path": "research/phase4/audit/counterexamples/JPX_2017_01_30_BUYBACK.extracted.txt"
+  },
+  {
+    "source_id": "jp_event_source_031",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/p6b22i0000001clt-att/20230703_E_1.pdf",
+    "path": "sources/counterexamples/JPX_2023_07_03_BUYBACK.pdf",
+    "sha256": "aba45501f8fba76ce0b9919cedb20e50ad5d9a74a6e30d7910065bc239a543dc",
+    "bytes": 65159,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:08.534756+00:00",
+    "audit_original_path": "research/phase4/sources/japan/jp_event_source_031.pdf",
+    "extract_path": "research/phase4/audit/counterexamples/JPX_2023_07_03_BUYBACK.extracted.txt"
+  }
+]

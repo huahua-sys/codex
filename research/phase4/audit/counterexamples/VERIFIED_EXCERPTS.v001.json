@@ -1,0 +1,380 @@
+[
+  {
+    "quote_id": "Q-FCIC-01",
+    "source_id": "FCIC_2011_FINANCIAL_CRISIS",
+    "source_sha256": "4ff588a66237fda69da2e08b162003716a08bce95be2e2fad0ee8c2d2825ae7c",
+    "quote": "This printing includes all corrections contained in the errata sheet issued by the Commission as found on the FCIC website as of February 25, 2011.",
+    "extract_path": "research/phase4/audit/counterexamples/FCIC_2011_FINANCIAL_CRISIS.extracted.txt",
+    "candidate_line_starts": [
+      51
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FCIC-02",
+    "source_id": "FCIC_2011_FINANCIAL_CRISIS",
+    "source_sha256": "4ff588a66237fda69da2e08b162003716a08bce95be2e2fad0ee8c2d2825ae7c",
+    "quote": "We conclude a combination of excessive borrowing, risky investments, and lack of transparency put the financial system on a collision course with crisis.",
+    "extract_path": "research/phase4/audit/counterexamples/FCIC_2011_FINANCIAL_CRISIS.extracted.txt",
+    "candidate_line_starts": [
+      538
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FCIC-03",
+    "source_id": "FCIC_2011_FINANCIAL_CRISIS",
+    "source_sha256": "4ff588a66237fda69da2e08b162003716a08bce95be2e2fad0ee8c2d2825ae7c",
+    "quote": "When borrowers stopped making mortgage payments, the losses—amplified by derivatives—rushed through the pipeline.",
+    "extract_path": "research/phase4/audit/counterexamples/FCIC_2011_FINANCIAL_CRISIS.extracted.txt",
+    "candidate_line_starts": [
+      753
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FSB-01",
+    "source_id": "FSB_2020_11_17_HOLISTIC_REVIEW",
+    "source_sha256": "17e29d0176db28cea676a12f741937730f4ba8764314bd27a9feea778f724a88",
+    "quote": "Market dysfunction was exacerbated by the substantial sales of US Treasuries by some leveraged non-bank investors and foreign holders.",
+    "extract_path": "research/phase4/audit/counterexamples/FSB_2020_11_17_HOLISTIC_REVIEW.extracted.txt",
+    "candidate_line_starts": [
+      112,
+      1443
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FSB-02",
+    "source_id": "FSB_2020_11_17_HOLISTIC_REVIEW",
+    "source_sha256": "17e29d0176db28cea676a12f741937730f4ba8764314bd27a9feea778f724a88",
+    "quote": "The increase in US Treasury price volatility also led to margin calls in spot markets for basis trade investors, some of whom encountered difficulties renewing funding for their trades.",
+    "extract_path": "research/phase4/audit/counterexamples/FSB_2020_11_17_HOLISTIC_REVIEW.extracted.txt",
+    "candidate_line_starts": [
+      1449
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FSB-03",
+    "source_id": "FSB_2020_11_17_HOLISTIC_REVIEW",
+    "source_sha256": "17e29d0176db28cea676a12f741937730f4ba8764314bd27a9feea778f724a88",
+    "quote": "Some investors in open-ended investment funds may have faced incentives to redeem ahead of others.",
+    "extract_path": "research/phase4/audit/counterexamples/FSB_2020_11_17_HOLISTIC_REVIEW.extracted.txt",
+    "candidate_line_starts": [
+      1304
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FSB-04",
+    "source_id": "FSB_2020_11_17_HOLISTIC_REVIEW",
+    "source_sha256": "17e29d0176db28cea676a12f741937730f4ba8764314bd27a9feea778f724a88",
+    "quote": "The policy measures succeeded in alleviating market strains to date, with announcement effects appearing to be particularly important in restoring confidence and shaping the expectations of market participants.",
+    "extract_path": "research/phase4/audit/counterexamples/FSB_2020_11_17_HOLISTIC_REVIEW.extracted.txt",
+    "candidate_line_starts": [
+      122,
+      1771
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FSB-05",
+    "source_id": "FSB_2020_11_17_HOLISTIC_REVIEW",
+    "source_sha256": "17e29d0176db28cea676a12f741937730f4ba8764314bd27a9feea778f724a88",
+    "quote": "the exceptional measures taken by central banks were not aimed at addressing the underlying vulnerabilities that amplified the stress.",
+    "extract_path": "research/phase4/audit/counterexamples/FSB_2020_11_17_HOLISTIC_REVIEW.extracted.txt",
+    "candidate_line_starts": [],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FED-01",
+    "source_id": "FED_2020_06_25_BANK_DISTRIBUTIONS",
+    "source_sha256": "dbbe8b847429cedd389818b626409d4b826908c72cb684345e0f42cdf708c8a1",
+    "quote": "For the third quarter of this year, the Board is requiring large banks to preserve capital by suspending share repurchases, capping dividend payments, and allowing dividends according to a formula based on recent income.",
+    "extract_path": "research/phase4/audit/counterexamples/FED_2020_06_25_BANK_DISTRIBUTIONS.extracted.txt",
+    "candidate_line_starts": [
+      1705
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-FED-02",
+    "source_id": "FED_2020_03_23_LIQUIDITY",
+    "source_sha256": "3542e26d4334574accfe59917f63f9aedcaaa89cde301f267c90eb86eaa60205",
+    "quote": "Supporting the flow of credit to employers, consumers, and businesses by establishing new programs that, taken together, will provide up to $300 billion in new financing.",
+    "extract_path": "research/phase4/audit/counterexamples/FED_2020_03_23_LIQUIDITY.extracted.txt",
+    "candidate_line_starts": [
+      1699,
+      1741
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-GE-01",
+    "source_id": "GE_2017_ANNUAL_REPORT",
+    "source_sha256": "95de172abb2ffadc46e543cd07a1af056c72a8d757cd61985ff0840ea4fd2766",
+    "quote": "Stock buyback $3.8 billion",
+    "extract_path": "research/phase4/audit/counterexamples/GE_2017_ANNUAL_REPORT.extracted.txt",
+    "candidate_line_starts": [
+      1825
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-GE-02",
+    "source_id": "GE_2017_ANNUAL_REPORT",
+    "source_sha256": "95de172abb2ffadc46e543cd07a1af056c72a8d757cd61985ff0840ea4fd2766",
+    "quote": "Cut our quarterly dividend from $0.24/share",
+    "extract_path": "research/phase4/audit/counterexamples/GE_2017_ANNUAL_REPORT.extracted.txt",
+    "candidate_line_starts": [
+      934
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-GE-03",
+    "source_id": "GE_2017_ANNUAL_REPORT",
+    "source_sha256": "95de172abb2ffadc46e543cd07a1af056c72a8d757cd61985ff0840ea4fd2766",
+    "quote": "to $0.12/share in November, reflecting a reset of",
+    "extract_path": "research/phase4/audit/counterexamples/GE_2017_ANNUAL_REPORT.extracted.txt",
+    "candidate_line_starts": [
+      935
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-GE-04",
+    "source_id": "GE_2017_ANNUAL_REPORT",
+    "source_sha256": "95de172abb2ffadc46e543cd07a1af056c72a8d757cd61985ff0840ea4fd2766",
+    "quote": "a payout level that exceeded our free cash flow.",
+    "extract_path": "research/phase4/audit/counterexamples/GE_2017_ANNUAL_REPORT.extracted.txt",
+    "candidate_line_starts": [
+      936
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-BRK-01",
+    "source_id": "BERKSHIRE_2008_SHAREHOLDER_LETTER",
+    "source_sha256": "46920242cbb861fd844453d5e20edd8b0ecea977d85111cf2a7cfb249913c6cf",
+    "quote": "I bought a large amount of ConocoPhillips stock when oil and gas prices were near their peak.",
+    "extract_path": "research/phase4/audit/counterexamples/BERKSHIRE_2008_SHAREHOLDER_LETTER.extracted.txt",
+    "candidate_line_starts": [
+      816
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-BRK-02",
+    "source_id": "BERKSHIRE_2008_SHAREHOLDER_LETTER",
+    "source_sha256": "46920242cbb861fd844453d5e20edd8b0ecea977d85111cf2a7cfb249913c6cf",
+    "quote": "Even if prices should rise, moreover, the terrible timing of my purchase has cost Berkshire several billion dollars.",
+    "extract_path": "research/phase4/audit/counterexamples/BERKSHIRE_2008_SHAREHOLDER_LETTER.extracted.txt",
+    "candidate_line_starts": [
+      819
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-SEC-01",
+    "source_id": "SEC_2022_12_14_INSIDER_PLANS",
+    "source_sha256": "9724f38a1b8b0df1426efe71fb40bb7658e26192fff8bcf1563362c807b60698",
+    "quote": "the amendments adopt cooling-off periods for persons other than issuers before trading can commence under a Rule 10b5-1 plan.",
+    "extract_path": "research/phase4/audit/counterexamples/SEC_2022_12_14_INSIDER_PLANS.extracted.txt",
+    "candidate_line_starts": [
+      1228
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-SEC-02",
+    "source_id": "SEC_2022_12_14_INSIDER_PLANS",
+    "source_sha256": "9724f38a1b8b0df1426efe71fb40bb7658e26192fff8bcf1563362c807b60698",
+    "quote": "Insiders that report on Forms 4 or 5 will be required to indicate by checkbox that a reported transaction was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) and to disclose the date of adoption of the trading plan.",
+    "extract_path": "research/phase4/audit/counterexamples/SEC_2022_12_14_INSIDER_PLANS.extracted.txt",
+    "candidate_line_starts": [
+      1240
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-BOJ-01",
+    "source_id": "BOJ_2024_03_19_END_ETF_PURCHASES",
+    "source_sha256": "e07e26da39f4428bd5be1c870d7ec2229a98d0428f687b19fef220c6cc70e851",
+    "quote": "The Bank will discontinue purchases of exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs).",
+    "extract_path": "research/phase4/audit/counterexamples/BOJ_2024_03_19_END_ETF_PURCHASES.extracted.txt",
+    "candidate_line_starts": [
+      57
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-BOJ-02",
+    "source_id": "BOJ_2024_03_19_END_ETF_PURCHASES",
+    "source_sha256": "e07e26da39f4428bd5be1c870d7ec2229a98d0428f687b19fef220c6cc70e851",
+    "quote": "With the price stability target of 2 percent, it will conduct monetary policy as appropriate",
+    "extract_path": "research/phase4/audit/counterexamples/BOJ_2024_03_19_END_ETF_PURCHASES.extracted.txt",
+    "candidate_line_starts": [
+      15
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-GPIF-01",
+    "source_id": "GPIF_2014_10_31_POLICY_MIX",
+    "source_sha256": "621fbb9fa3d8c973a90bbf2fe1b90ae3c6c40c06bc95c2f7a63d0e271b6a2be9",
+    "quote": "According to the Actuarial Valuation, the reserve asset level is to decrease for 10 years",
+    "extract_path": "research/phase4/audit/counterexamples/GPIF_2014_10_31_POLICY_MIX.extracted.txt",
+    "candidate_line_starts": [
+      160
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-GPIF-02",
+    "source_id": "GPIF_2014_10_31_POLICY_MIX",
+    "source_sha256": "621fbb9fa3d8c973a90bbf2fe1b90ae3c6c40c06bc95c2f7a63d0e271b6a2be9",
+    "quote": "GPIF adopts tactical asset allocation within permissible ranges of deviation for each asset class",
+    "extract_path": "research/phase4/audit/counterexamples/GPIF_2014_10_31_POLICY_MIX.extracted.txt",
+    "candidate_line_starts": [
+      57,
+      422
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-IEA-01",
+    "source_id": "IEA_2022_PV_SUPPLY_CHAINS",
+    "source_sha256": "1c61eb5e86987c8c66d8b1f5227d58b5a45c803150978b43b939986e900f9ded",
+    "quote": "The net profitability of the solar PV sector for all supply chain segments has been volatile, resulting in several bankruptcies despite policy support.",
+    "extract_path": "research/phase4/audit/counterexamples/IEA_2022_PV_SUPPLY_CHAINS.extracted.txt",
+    "candidate_line_starts": [
+      1924
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-SSE-01",
+    "source_id": "SSE_2015_11_13_MARGIN_CHANGE",
+    "source_sha256": "bd5bdd0c7166bc8c7748a101425778868d730fc22f516baee4871f9ccdfeeeba",
+    "quote": "本次《实施细则》修改实施前尚未了结的融资融券合约及其展期，仍按照修改前的相关规定执行。",
+    "extract_path": "research/phase4/audit/counterexamples/SSE_2015_11_13_MARGIN_CHANGE.extracted.txt",
+    "candidate_line_starts": [
+      307
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-CSRC-01",
+    "source_id": "CSRC_2023_08_27_MARGIN_CHANGE",
+    "source_sha256": "4defe35005e657cae044c64effe021fd216fd599a9bb04c3b6ab73ee1ecc77cb",
+    "quote": "本次调整同时适用于新开仓合约及存量合约，投资者不必了结存量合约即可适用新的保证金比例。",
+    "extract_path": "research/phase4/audit/counterexamples/CSRC_2023_08_27_MARGIN_CHANGE.extracted.txt",
+    "candidate_line_starts": [
+      223
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-CSRC-02",
+    "source_id": "CSRC_2024_02_05_MARGIN_LIQUIDATION",
+    "source_sha256": "135eb1822f5db33a95301d051237ae82c65248476a011b22390f1f81f49bbf1b",
+    "quote": "从实际平仓数据看，1月以来全市场累计平仓金额约9亿元，占融资规模的万分之6",
+    "extract_path": "research/phase4/audit/counterexamples/CSRC_2024_02_05_MARGIN_LIQUIDATION.extracted.txt",
+    "candidate_line_starts": [
+      219
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-CSRC-03",
+    "source_id": "CSRC_2024_02_05_MARGIN_LIQUIDATION",
+    "source_sha256": "135eb1822f5db33a95301d051237ae82c65248476a011b22390f1f81f49bbf1b",
+    "quote": "有些投资者主动卖股票归还融资，会形成融资余额被动下降。",
+    "extract_path": "research/phase4/audit/counterexamples/CSRC_2024_02_05_MARGIN_LIQUIDATION.extracted.txt",
+    "candidate_line_starts": [
+      219
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-JPX-01",
+    "source_id": "JPX_2017_01_30_BUYBACK",
+    "source_sha256": "c3b6af155567c4e5adb7bafb52e68189428ab6d7f6f1d6f3ee6e391aaf0029cd",
+    "quote": "Total value of shares acquired JPY 0",
+    "extract_path": "research/phase4/audit/counterexamples/JPX_2017_01_30_BUYBACK.extracted.txt",
+    "candidate_line_starts": [
+      30,
+      50
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-JPX-02",
+    "source_id": "JPX_2017_01_30_BUYBACK",
+    "source_sha256": "c3b6af155567c4e5adb7bafb52e68189428ab6d7f6f1d6f3ee6e391aaf0029cd",
+    "quote": "Total value of shares acquired JPY 3,994,268,900",
+    "extract_path": "research/phase4/audit/counterexamples/JPX_2017_01_30_BUYBACK.extracted.txt",
+    "candidate_line_starts": [
+      30,
+      50
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-JPX-03",
+    "source_id": "JPX_2023_07_03_BUYBACK",
+    "source_sha256": "aba45501f8fba76ce0b9919cedb20e50ad5d9a74a6e30d7910065bc239a543dc",
+    "quote": "Total value of shares acquired JPY 0",
+    "extract_path": "research/phase4/audit/counterexamples/JPX_2023_07_03_BUYBACK.extracted.txt",
+    "candidate_line_starts": [
+      28,
+      51
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  },
+  {
+    "quote_id": "Q-JPX-04",
+    "source_id": "JPX_2023_07_03_BUYBACK",
+    "source_sha256": "aba45501f8fba76ce0b9919cedb20e50ad5d9a74a6e30d7910065bc239a543dc",
+    "quote": "Total value of shares acquired JPY 12,620,624,250",
+    "extract_path": "research/phase4/audit/counterexamples/JPX_2023_07_03_BUYBACK.extracted.txt",
+    "candidate_line_starts": [
+      28,
+      51
+    ],
+    "verification": "NORMALIZED_WHITESPACE_EXACT_SUBSTRING",
+    "signal_use_permitted": false
+  }
+]

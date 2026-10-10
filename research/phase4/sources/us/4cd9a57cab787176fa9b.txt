@@ -1,0 +1,230 @@
+SEC.gov | SEC Adopts Rules to Modernize Information Reported by Funds, Require Liquidity Risk Management Programs, and Permit Swing Pricing
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock
+(LockA locked padlock)
+or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+Data Library
+Statistics & Data Visualizations
+Structured Data
+Investment Management Data
+Open Data at the SEC
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Submit Public Comments
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+Videos
+Social Media Directory
+Podcasts
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+Videos
+Social Media Directory
+Podcasts
+What's New
+Home
+Newsroom
+Press Releases
+SEC Adopts Rules to Modernize Information Reported by Funds, Require Liquidity Risk Management Programs, and Permit Swing Pricing
+Press Release
+SEC Adopts Rules to Modernize Information Reported by Funds, Require Liquidity Risk Management Programs, and Permit Swing Pricing
+Rules Enhance Investor Protection, Provide More Effective Data Collection by Commission
+For Immediate Release
+2016-215
+Washington D.C., Oct. 13, 2016 —
+The Securities and Exchange Commission today voted to adopt changes to modernize and enhance the reporting and disclosure of information by registered investment companies and to enhance liquidity risk management by open-end funds, including mutual funds and exchange-traded funds (ETFs). The new rules will enhance the quality of information available to investors and will allow the Commission to more effectively collect and use data reported by funds. The new rules also will promote effective liquidity risk management across the open-end fund industry and will enhance disclosure regarding fund liquidity and redemption practices.
+The new rules are part of the Commission’s initiative to enhance its monitoring and regulation of the asset management industry.
+“These new rules represent a sweeping change for the industry by requiring strong transparency provisions and enhanced investor protections,” said SEC Chair Mary Jo White. “Funds will more effectively manage liquidity risk and both Commission staff and investors will receive additional and better quality information about fund holdings.”
+The reporting modernization rules will enhance data reporting for mutual funds, ETFs and other registered investment companies. With these rules, registered funds will be required to file a new monthly portfolio reporting form (Form N-PORT) and a new annual reporting form (Form N-CEN) that will require census-type information. The information will be reported in a structured data format, which will allow the Commission and the public to better analyze the information. The rules also will require enhanced and standardized disclosures in financial statements and will add new disclosures in fund registration statements relating to a fund’s securities lending activities.
+The liquidity risk management rules are designed to promote effective liquidity risk management for mutual funds and ETFs, reducing the risk that funds will not be able to meet shareholder redemptions and mitigating potential dilution of the interests of fund shareholders. The new rules will require mutual funds and ETFs to establish liquidity risk management programs that address multiple elements, including classification of the liquidity of fund portfolio investments and a highly liquid investment minimum. The rules also strengthen the 15 percent limit on illiquid investments and will require enhanced disclosure regarding fund liquidity and redemption practices.
+The swing pricing rule will permit mutual funds to use swing pricing – the process of adjusting a fund’s net asset value to pass on to purchasing or redeeming shareholders costs associated with their trading activity.
+The new rules and forms will be published on the Commission’s website and in the Federal Register.
+FACT SHEET
+Investment Company Reporting Modernization
+SEC Open Meeting
+October 13, 2016
+Action
+The Commission will consider whether to adopt new rules and forms, as well as amendments to existing rules and forms that would enhance transparency and modernize reporting requirements for mutual funds, ETFs and other registered investment companies. The new rules would improve the access and quality of information available to the Commission and investors about fund investments. The rules would also enable the Commission to more effectively collect and use data, as well as enhance its ability to conduct more targeted examinations, which would ultimately benefit investors.
+The recommendations are part of an initiative to enhance the SEC’s monitoring and regulation of the asset management industry.
+Highlights of the Investment Company Rules and Forms
+The new rules and forms would enhance data reporting for mutual funds, ETFs and other registered investment companies.
+Portfolio Reporting
+A new monthly portfolio reporting form, Form N-PORT, would require registered funds other than money market funds to provide portfolio-wide and position-level holdings data to the Commission on a monthly basis. The form would require monthly reporting of the fund’s investments, including:
+Data related to the pricing of portfolio securities
+Information regarding repurchase agreements, securities lending activities, and counterparty exposures
+Terms of derivatives contracts
+Discrete portfolio level and position level risk measures to better understand fund exposure to changes in market conditions
+Information contained on reports for the last month of each fund’s fiscal quarter would be available to the public after 60days. The Commission would also rescind Form N-Q, on which funds currently report certain portfolio holdings for the first and third fiscal quarters.
+Census Reporting
+A new annual reporting form, Form N-CEN, would require registered funds to annually report certain census-type information to the Commission and would replace the form currently used to report fund census information (Form N-SAR). The form would streamline and update information reported to the Commission to reflect current information needs, such as requiring more information on exchange-traded funds and securities lending. Reports would be filed annually within 75 days of the end of the fund’s fiscal year, rather than semi-annually as is currently required by Form N-SAR for most funds.
+Structured Data Format
+Funds would report portfolio and census information in a structured data format, which would improve the ability of the Commission and the public to aggregate and analyze information across all funds and to link the reported information with information from other sources. The Commission currently receives this type of reporting for both money market funds, through Form N-MFP, and certain private fund advisers, through Form PF.
+Reporting on Fund Financial Statements
+The Commission will consider adopting amendments that would require enhanced and standardized disclosures in financial statements that are required in fund registration statements and shareholder reports. The amendments would include specific information related to derivatives, similar to the information about derivatives that would be required in the monthly portfolio holdings reports. Current requirements do not require specific information for many types of derivatives, including swaps, futures, and forwards.
+Additionally, in order to make fund derivatives holdings easier to review, the amended rules would require derivative disclosures to be displayed prominently in the financial statements, rather than in the notes.
+Increased Disclosure Concerning Securities Lending Activities
+The Commission will consider adopting amendments to fund registration statements requiring disclosures relating to fund securities lending activities, including income and fees from securities lending, and the fees paid to securities lending agents in the prior fiscal year. These specific requirements with respect to fees would increase the comparability of securities lending fees between funds.
+What’s Next
+The new rules and forms would be published on the Commission’s website and in the Federal Register. Most funds would be required to begin filing reports on new Forms N-PORT and N-CEN after June 1, 2018, while fund complexes with less than a $1 billion in net assets would be required to begin filing reports on Form N-PORT after June 1, 2019.
+FACT SHEET
+Liquidity Risk Management Programs and Swing Pricing
+SEC Open Meeting
+Oct. 13, 2016
+Action
+The Commission will consider whether to adopt a new rule and form, and amendments designed to promote effective liquidity risk management across the open-end fund industry. The Commission also will consider rule and form amendments that would permit certain open-end funds to use “swing pricing.” Additionally, the amendments would enhance disclosure regarding fund liquidity and redemption practices and would enhance funds’ management of their liquidity risks, which would strengthen our securities markets and better protect investors.
+The recommendations are part of an initiative to enhance the SEC’s monitoring and regulation of the asset management industry.
+Highlights of the Rulemaking
+A fundamental feature of open-end funds is that they allow investors to redeem their shares daily. Funds must maintain sufficiently liquid assets in order to meet shareholder redemptions while also minimizing the impact of those redemptions on the fund’s remaining shareholders.
+Liquidity Risk Management Programs
+Rule 22e-4 would require mutual funds and other open-end management investment companies, including ETFs, to establish liquidity risk management programs. The rule would exclude money market funds from all requirements of this rule and ETFs that qualify as “in-kind ETFs” from certain requirements. The liquidity risk management program would be required to include multiple elements, including:
+Assessment, management, and periodic review of a fund’s liquidity risk
+Classification of the liquidity of fund portfolio investments
+Determination of a highly liquid investment minimum
+Limitation on illiquid investments
+Board oversight
+Assessment, Management, and Periodic Review of a Fund’s Liquidity Risk: Funds would be required to assess, manage, and periodically review their liquidity risk, based on specified factors. Liquidity risk would be defined as the risk that a fund could not meet requests to redeem shares issued by the fund without significant dilution of remaining investors’ interests in the fund.
+Classification of the Liquidity of Fund Portfolio Investments: Each fund would be required to classify each of the investments in its portfolio. The classification would be based on the number of days in which the fund reasonably expects the investment would be convertible to cash in current market conditions without significantly changing the market value of the investment, and the determination would have to take into account the market depth of the investment. Funds would be required to classify each investment into one of four liquidity categories: highly liquid investments, moderately liquid investments, less liquid investments, and illiquid investments. Additionally, funds would be permitted to classify investments by asset class, unless market, trading, or investment-specific considerations with respect to a particular investment are expected to significantly affect the liquidity characteristics of that investment as compared to the fund’s other portfolio holdings within that asset class.
+Determination of a Highly Liquid Investment Minimum: A fund would be required to determine a minimum percentage of its net assets that must be invested in highly liquid investments, defined as cash or investments that are reasonably expected to be converted to cash within three business days without significantly changing the market value of the investment. The fund also would be required to implement policies and procedures for responding to a highly liquid investment minimum shortfall, which must include board reporting in the event of a shortfall.
+Limitation on Illiquid Investments: A fund would not be permitted to purchase additional illiquid investments if more than 15 percent of its net assets are illiquid assets. An illiquid investment is an investment that the fund reasonably expects cannot be sold in current market conditions in seven calendar days without significantly changing the market value of the investment. The determination would have to follow the same process as the other liquidity classifications, and funds would have to review their illiquid investments at least monthly. If a fund breaches the 15 percent limit, the occurrence must be reported to the board, along with an explanation of how the fund plans to bring its illiquid investments back within the limit within a reasonable period of time, and if it is not resolved within 30 days, the board must assess whether the plan presented to it is in the best interest of the fund and its shareholders.
+Board Oversight: A fund’s board, including a majority of the fund’s independent directors, would be required to approve the fund’s liquidity risk management program and the designation of the fund’s adviser or officer to administer the program. The fund’s board also would be required to review, at least annually, a written report on the adequacy of the program and the effectiveness of its implementation.
+Form N-LIQUID: The new form would generally require a fund to confidentially notify the Commission when the fund’s level of illiquid assets exceeds 15 percent of its net assets or when its highly liquid investments fall below its minimum for more than a brief period of time.
+Swing Pricing
+Swing pricing is the process of adjusting a fund’s net asset value per share to pass on to purchasing or redeeming shareholders certain of the costs associated with their trading activity. It is designed to protect existing shareholders from dilution associated with shareholder purchases and redemptions and would be another tool to help funds manage liquidity risks. Pooled investment vehicles in certain foreign jurisdictions currently use forms of swing pricing. The reforms will permit open-end funds (except money market funds or ETFs) to use swing pricing.
+A fund that chooses to use swing pricing would adjust its net asset value by a specified amount– the swing factor – once the level of net purchases into or net redemptions from the fund has exceeded a specified percentage or percentages of the fund’s net asset value known as the swing threshold. A fund’s swing pricing policies and procedures would have to specify the process for how the fund’s swing factor and swing threshold would be determined (taking into account certain considerations) and establish and disclose an upper limit on the swing factor used, which may not exceed two percent of net asset value per share.
+The amendments also would require the fund’s board to approve the fund’s swing pricing policies and procedures and periodically review a written report that would have to, among other things, review the adequacy of the fund’s swing pricing policies and procedures and the effectiveness of their implementation. The board also would be required to approve the funds’ swing factor upper limit, swing pricing threshold, and any changes thereto.
+Additional Disclosure and Reporting Requirements
+The Commission will consider amendments to the registration form used by open-end management investment companies and two reporting forms.
+Form N-1A
+Amendments to the registration form used by open-end funds (Form N-1A) would require funds to describe their procedures for redeeming fund shares, the number of days in which the fund typically expects to pay redemption proceeds, and the methods for meeting redemption requests. Amendments to Form N-1A and Regulation S-X would also address financial statement and performance reporting related to swing pricing, and would require funds that use swing pricing to provide an explanation of a fund’s use of swing pricing in its registration statement.
+Form N-PORT
+Amendments to the portfolio holdings reporting form (Form N-PORT) would require a fund to report the aggregated percentage of its portfolio representing each of the four classification categories. Funds also would be required to report position-level liquidity classification information to the Commission and information regarding a fund’s highly liquid investment minimum on a confidential basis.
+Form N-CEN
+Amendments to the census reporting form (Form N-CEN) would require funds to disclose information regarding the use of lines of credit and interfund borrowing and lending, and would require an ETF to report if it is an in-kind ETF under the rule. The swing pricing amendments would add a new item to Form N-CEN that would require a fund to report information regarding the use of swing pricing, including a fund’s swing factor upper limit.
+What’s Next
+The new rules and forms, and amendments to rules and forms, would be published on the Commission’s website and in the Federal Register. Most funds would be required to comply with the liquidity risk management program requirements on Dec. 1, 2018, while fund complexes with less than a $1 billion in net assets would be required to do so on June 1, 2019. The Commission is delaying the effective date of the amendments that would permit funds to use swing pricing. The final amendments, if adopted, would become effective 24 months after publication in the Federal Register. The compliance date for the form amendments would differ by form.
+###
+Last Reviewed or Updated: Oct. 13, 2016
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Super Intelligence
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

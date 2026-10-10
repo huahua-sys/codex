@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_3bf4638ed156bd7e623e",
+  "url": "https://www.federalreserve.gov/monetarypolicy/standing-overnight-repurchase-agreement-facility.htm",
+  "role": "institutional_reference_not_event",
+  "accessed_at": "2026-10-10T08:01:33.324689+00:00",
+  "source_path": "research/phase4/sources/us/3bf4638ed156bd7e623e.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/monetarypolicy/standing-overnight-repurchase-agreements.htm",
+  "content_type": "text/html",
+  "source_sha256": "f702cfba39dec05f60f6e22c89e64483a0c5a4f7697432f26f167c5c12c1da2b",
+  "bytes": 77841,
+  "text_path": "research/phase4/sources/us/3bf4638ed156bd7e623e.txt",
+  "text_sha256": "efc7792c807c4419813999ebcabf43740c3a1c66f7fb3c3ea9ad727014e00477"
+}

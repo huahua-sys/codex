@@ -1,0 +1,17 @@
+{
+  "accessed_at": "2026-10-09T05:40:03.798331+00:00",
+  "content_type": "application/pdf",
+  "final_url": "https://www.federalreserve.gov/data/documents/sloos-202510.pdf",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos/sloos-202510.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_full_report_cover",
+  "source_path": "research/phase4/sources/us/US_SOURCE_76687896799b3a1ba34d.pdf",
+  "source_sha256": "baf076bcaa61e03a688ed162d84fa4324867bf98153fa75ad62830f5c700bf1d",
+  "url": "https://www.federalreserve.gov/data/documents/sloos-202510.pdf",
+  "source_id": "US_SOURCE_76687896799b3a1ba34d",
+  "bytes": 1478258,
+  "reused_from": "research/phase3/data/credit/raw/76687896799b3a1b.bin"
+}

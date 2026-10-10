@@ -1,0 +1,40 @@
+{
+  "event_id": "CN-P4-027",
+  "market": "China",
+  "published_date": "2023-10-11",
+  "available_at": "2023-10-11T23:59:59+08:00",
+  "participant_type": "中央汇金",
+  "observed_action": "原公告明确已发生增持，同时许诺未来继续；不披露金额和剩余购买能力",
+  "constraint": "维护市场稳定/国有资本管理职责，可有非收益目标",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": null,
+  "flow_duration": "六个月（2023银行未来意向）；2025ETF持续期未知",
+  "voluntary_or_forced": "政策职责下主动执行；没有逐日被迫购买证据",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-HUIJIN-1002221.html"
+  ],
+  "source_urls": [
+    "https://www.huijin-inv.cn/huijin-inv/c100074/2023-10/1002221.shtml"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-HUIJIN-1002221.html": "25176ba8eff80b10ddfcf521611fa0757810788c847a0eab08364272b60ff35d"
+  },
+  "source_excerpt": "中央汇金公司近日已在二级市场增持工商银行、农业银行、中国银行、建设银行的A股股份，并将在未来六个月继续增持。 最新要闻 汇金公司发行2023年第八期非金融企业债务融资工具 12-28 汇金公司发行2023年第七期非金融企业债务融资工具 11-29 汇金公司发行2023年第六期非金融企业债务融资工具 11-01 使用条款 | 隐私条款 | 中投公司 | 网站地",
+  "publication_date_evidence": {
+    "source_id": "CN-S-HUIJIN-1002221",
+    "excerpt": "资讯中心 > 2023 公告 2023-10-11 中央汇金公司近日已在二级市场增持工商银行、农业银行、中国银",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "稳定市场职责可能降低短期价格敏感性；已成交与剩余额度必须分开",
+  "alternative_explanation": "约束变化可能只是响应已发生的市场/宏观变化；方向可由基本面或同期政策驱动",
+  "falsifier": "后续实际执行为零、其他资金完全抵销、基本面继续损坏或效应仅持续不足一周",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-027",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

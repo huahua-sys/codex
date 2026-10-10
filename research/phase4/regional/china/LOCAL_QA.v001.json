@@ -1,0 +1,8 @@
+{
+  "check": "CHINA_LOCAL_SOURCE_TIME_SCHEMA",
+  "pass": true,
+  "events": 42,
+  "errors": [],
+  "sha_and_publication_and_conservative_time_checked": true,
+  "old_results_touched": false
+}

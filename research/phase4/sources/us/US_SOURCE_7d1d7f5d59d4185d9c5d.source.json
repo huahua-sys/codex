@@ -1,0 +1,10 @@
+{
+  "url": "https://www.federalreserve.gov/data/sloos/sloos-201910-table-1.htm",
+  "source_path": "research/phase4/sources/us/US_SOURCE_7d1d7f5d59d4185d9c5d.pdf",
+  "source_sha256": "73253be3d52045f6c3b561de9d375a5a8b9fd9eab606595e3753d3828a4a5ca0",
+  "content_type": "application/pdf",
+  "role": "original_respondent_table",
+  "source_id": "US_SOURCE_7d1d7f5d59d4185d9c5d",
+  "bytes": 605843,
+  "reused_from": "research/phase3/data/credit/raw/7d1d7f5d59d4185d.bin"
+}

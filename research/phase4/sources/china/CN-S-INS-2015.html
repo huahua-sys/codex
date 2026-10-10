@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <title>国家金融监督管理总局</title>
+    <meta name="author" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="SiteName" content="">
+    <meta name="SiteDomain" content="">
+    <meta name="SiteIDCode" content="">
+    <meta name="ColumnName" content="">
+    <meta name="ColumnType" content="">
+    <meta name="ArticleTitle" content="">
+    <meta name="PubDate" content="">
+    <meta name="ContentSource" content="">
+    <meta http-equiv="Window-target" content="_top">
+    <meta property="og:image" content="/cn/static/images/share.jpg">
+    <link rel="Shortcut Icon" href="/cn/static/favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/cn/css/common/base.css?v=20200108" rel="stylesheet" />
+    <link href="/cn/css/common/Common.css?v=20200108" rel="stylesheet" />
+    <!--[if lt IE 9]>
+       <script src="/cn/js/common/html5shiv.min.js"></script>
+       <script src="/cn/js/common/respond.js"></script>
+    <![endif]-->
+    <style>
+        .content,
+        .footer {
+            display: none;
+        }
+
+        .Section0 {
+            layout-grid-mode: line !important;
+            -ms-layout-grid-mode: line !important;
+        }
+
+        .wenzhang-content span {
+            color: #333 !important;
+        }
+
+        .topTitle {
+            width: 390px;
+        }
+
+        .topTitlefirst {
+            margin-left: 215px;
+            margin-top: 0px;
+        }
+
+        .ItemDetailRed-header div {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div  style="display: none">
+        <img src="/cn/static/images/share.jpg"   />
+    </div>
+    <div class="main ng-cloak" ng-app="myApp">
+        <tpl src="/cn/view/components/Header.html"></tpl>
+        <div class="content" ng-controller="itemDetailCtrgdsj">
+            <link href="/cn/css/common/share.css?v=20200108" rel="stylesheet" />
+            <div class="breadcrumb">
+                <ul>
+                    <!-- <li>当前位置：<a href="/cn/view/pages/index/index.html">首页</a></li>
+                    <li><a href="/cn/view/pages/zhengwuxinxi/zhengwuxinxi.html">政务信息</a></li>
+                    <li><a href="/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html">政府信息公开</a></li>
+                    <li><a href="/cn/view/pages/zhengwuxinxi/yuanbaojianhui.html">原保监会政府信息公开目录历史信息检索</a></li>
+                    <li><a href="#">{{data.orginItemName}}</a></li> -->
+                    <li>当前位置：
+                        <a href="/cn/view/pages/index/index.html">首页</a>
+                    </li>
+                    <li>
+                        <a href="/cn/view/pages/index/guidangshuju.html">归档数据</a>
+                    </li>
+                    <li ng-if="data.orginWebSite=='0'"><a href="#">{{data.itemName}}</a></li>
+                    <li ng-if="data.orginWebSite=='1'"><a href="#">{{data.orginItemName}}</a></li>
+                    <li ng-if="docType=='2'"><a href="#">政府信息公开目录</a></li>
+                    <li ng-if="docType=='3'"><a href="#">{{data.itemName}}</a></li>
+                    <!-- <li><a href="#">{{data.orginItemName}}</a></li>  -->
+                </ul>
+            </div>
+            <div class="container">
+                <div class="row pages-dateprint">
+                    <div class="mb25" ng-if="docType=='2'">
+                        <div class="ItemDetailRed-header topTitlefirst">
+                            <div>
+                                <span class="ItemDetailRed-header-row12-span topTitle">索&ensp;引&ensp;号：
+                                    <span class="ItemDetailRed-header-row12-content">{{data.indexNo}}</span>
+                                </span>
+                                <span class="ItemDetailRed-header-row12-span topTitle">发文日期：
+                                    <span
+                                        class="ItemDetailRed-header-row12-content">{{data.budiDate|dateFormat2}}</span>
+                                </span>
+                            </div>
+                            <div>
+                                <span class="ItemDetailRed-header-row34-span">公文名称：
+                                    <span class="ItemDetailRed-header-row34-content">{{data.title|addBr}}</span>
+                                </span>
+                            </div>
+                            <div class="ItemDetailRed-header-row34" ng-show="data.docunmentNo">
+                                <span class="ItemDetailRed-header-row34-span">文&emsp;&emsp;号：
+                                    <span class="ItemDetailRed-header-row34-content">{{data.docunmentNo}}</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 pages-date">
+                        <span>发布时间：{{data.publishDate|dateFormat2}}</span>
+                        <!-- <span class="pages-date-laiyuan" ng-hide="data.docSource==null||data.interviewTypeName=='功能监管'||data.interviewTypeName=='政策法规'||data.interviewTypeName=='机构监管'||data.interviewTypeName=='综合管理'||data.editDocumentType=='政府信息公开'">来源：{{data.docSource}}</span> -->
+                        <span class="pages-date-laiyuan"
+                            ng-hide="data.docSource==null||data.interviewTypeName=='功能监管'||data.interviewTypeName=='政策法规'||data.interviewTypeName=='机构监管'||data.interviewTypeName=='综合管理'||data.interviewTypeName=='政府信息公开'">来源：{{data.docSource}}</span>
+                    </div>
+                    <div class="col-lg-6 pages-print">
+                        <span onclick="printpage();">&emsp;
+                            <img ng-src="/cn/static/{{image_path}}/common/dayin.png" alt=""
+                                class="pages-print-pic-dayin" />打印&emsp;</span>
+                        <span id="share-weibo"></span>微博&nbsp;
+                        <span id="share-weixin"></span>微信&nbsp;
+                        <div style="display: inline;">
+                            <span id="share-more">
+                                <img ng-src="/cn/static/{{image_path}}/common/more.png" alt=""
+                                    class="share-more-img" />更多
+                                <table id="share-more-all" class="share-more-all">
+                                    <tr>
+                                        <td id="share-qzone"></td>
+                                        <td style="cursor:text;">QQ空间</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="share-qq"></td>
+                                        <td style="float: left;cursor:text;">QQ</td>
+                                    </tr>
+                                </table>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="row">
+                        <div ng-show="generaltype==1" class="mb25">
+                            <!-- <div class="ItemDetailRed-header" ng-if="isXingzhengxuke!=true">
+                               
+                                <div>
+                                    <span class="ItemDetailRed-header-row12-span">索&ensp;引&ensp;号：
+                                        <span class="ItemDetailRed-header-row12-content">{{data.indexNo}}</span>
+                                    </span>
+                                    <span class="ItemDetailRed-header-row12-span">主题分类：
+                                        <span
+                                            class="ItemDetailRed-header-row12-content">{{data.interviewTypeName}}</span>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span class="ItemDetailRed-header-row12-span">办文部门：
+                                        <span class="ItemDetailRed-header-row12-content">{{data.agencyTypeName}}</span>
+                                    </span>
+                                    <span class="ItemDetailRed-header-row12-span">发文日期：
+                                        <span
+                                            class="ItemDetailRed-header-row12-content">{{data.builddate|dateFormat2}}</span>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span class="ItemDetailRed-header-row12-span">原发布网站：
+                                        <span class="ItemDetailRed-header-row12-content">{{data.originWebSite}}</span>
+                                    </span>
+                                    <span class="ItemDetailRed-header-row12-span">发文日期：
+                                        <span
+                                            class="ItemDetailRed-header-row12-content">{{data.builddate|dateFormat2}}</span>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span class="ItemDetailRed-header-row34-span">公文名称：
+                                        <span class="ItemDetailRed-header-row34-content">{{data.docSubtitle}}</span>
+                                    </span>
+                                </div>
+                                <div class="ItemDetailRed-header-row34"
+                                    ng-show="data.documentNo!=null&&data.documentNo!=''&&data.documentNo!='无[]号'">
+                                    <span class="ItemDetailRed-header-row34-span">文&emsp;&emsp;号：
+                                        <span class="ItemDetailRed-header-row34-content">{{data.documentNo}}</span>
+                                    </span>
+                                </div>
+                            </div> -->
+                            <div class="ItemDetailRed-header-title mt25" ng-if="isYinbaojian==true">
+                                中国银行保险监督管理委员会
+                            </div>
+                            <div class="ItemDetailRed-header-title mt25" ng-if="isYinjian==true">
+                                中国银行业监督管理委员会
+                            </div>
+                            <div class="ItemDetailRed-header-title mt25" ng-if="isBaojian==true">
+                                中国保险监督管理委员会
+                            </div>
+                            <!-- <div class="ItemDetailRed-header-subtitle" ng-show="data.documentNo!='无[]号'"> -->
+                            <div class="ItemDetailRed-header-subtitle" ng-show="data.documentNo!='无[]号'">
+                                {{data.documentNo}}
+                            </div>
+                            <div class="ItemDetailRed-header-line">
+                            </div>
+                        </div>
+                        <div class="wenzhang-title" ng-show="showTitle" ng-bind-html="data.title|addBr">
+                        </div>
+                        <div class="wenzhang-content" id="wenzhang-content" ng-bind-html="data.content|trustHtml"
+                            ng-class="isWhite_space? 'iswhite-space': ''">
+                        </div>
+                        <!-- <div class="wenzhang-fujian mt25" ng-hide="data.attachmentInfoVOList[0].title==null"> -->
+                        <div class="wenzhang-fujian mt25" ng-hide="data.attachmentlist[0].title==null">
+                            <div>附件信息:</div>
+                            <ul>
+                                <li ng-repeat="x in data.attachmentlist">
+                                    <!-- <a ng-href="{{x.urlothername}}">{{x.title}}</a> -->
+                                    <a ng-click="fileDownload(x.urlothername)">{{x.title}}</a>
+                                    <!-- <a ng-href="{{x.attachmentUrl+'/'+x.attachmentName}}">{{x.title}}</a> -->
+                                    <!-- <a ng-click="fileDownload(x.urlOtherName)">{{x.title}}</a> -->
+                                </li>
+                            </ul>
+                        </div>
+                        <!--ng-show="generaltype!=1"判断红头文件不进行显示-->
+                        <!--红头文件进行显示地址-->
+                        <!-- <div class="wenzhang-fulu mt25" ng-bind-html="data.remark2|trustHtml" id="redline" ></div> -->
+                        <!-- 设置跳转链接 -->
+                        <!-- <a ng-show="data.stillUrl" ng-href="{{data.stillUrl}}">{{data.stillUrl}}</a> -->
+                    </div>
+                </div>
+                <div id="qrcode" class="mt25">
+                    <div>手机扫一扫打开此页</div>
+                </div>
+                <div class="banquanmianze">
+                    <div class="banquanmianze-title">版权与免责声明
+                        <img ng-src="/cn/static/{{image_path}}/common/warn.png" />
+                    </div>
+                    <div>
+                        1.凡本站及其子站注明“文章类型：原创”的所有作品，其版权属于国家金融监督管理总局网站及其子站所有。其他媒体、网站或个人转载使用时必须注明：“文章来源：国家金融监督管理总局网站”。
+                    </div>
+                    <div>
+                        2.凡本站及其子站注明“文章类型：转载”、“文章类型：编译”、“文章类型：摘编”的所有作品，均转载、编译或摘编自其他媒体，转载、编译或摘编的目的在于传递更多信息，并不代表本站及子站赞同其观点和对其真实性负责。其他媒体、网站或个人转载使用时必须注明文章来源，并自负法律责任。
+                    </div>
+                </div>
+            </div>
+        </div>
+        <tpl src="/cn/view/components/Footer.html"></tpl>
+
+    </div>
+
+    <script src="/cn/js/common/jquery/jquery.1.12.4.min.js"></script>
+    <script src="/cn/js/common/angular.1.2.32.min.js"></script>
+    <script src="/cn/js/common/QRCode.js"></script>
+    <script src="/cn/js/common/jquery.share.min.js"></script>
+    <!--common-->
+    <script src="/cn/js/common/Script.js?v=20200108"></script>
+    <script src="/cn/js/common/Nav.js?v=20200108"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            /*二维码*/
+            var qrcode = new QRCode(document.getElementById("qrcode"), {
+                text: window.location.href,
+                width: 125,
+                height: 125
+            });
+
+            $('#share-more').myHoverTip('share-more-all');
+            $('#share-weixin').share({ sites: ['wechat'] });
+            $('#share-weibo').share({ sites: ['weibo'] });
+            $('#share-qzone').share({ sites: ['qzone'] });
+            $('#share-qq').share({ sites: ['qq'] });
+        })      
+    </script>
+    <script src="/cn/js/common/ItemDetail_gdsj.js?v=20200108"></script>
+    <!--custom-->
+
+</body>
+
+</html>

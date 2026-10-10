@@ -1,0 +1,839 @@
+{
+  "version": "v001",
+  "purpose": "Mechanism, measurement and current-rule reference evidence; never historical replay inputs",
+  "sources": [
+    {
+      "source_id": "FW01",
+      "title": "SEC T+1 implementation",
+      "url": "https://www.sec.gov/newsroom/press-releases/2024-62",
+      "document_date_hint": "2024-04-30",
+      "fetched_at": "2026-10-10T07:55:24.394891+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.sec.gov/newsroom/press-releases/2024-62",
+      "bytes": 64562,
+      "sha256": "8fd03e6ced200fb5915bdce1072160fba6638cd14b5df19a69c87f00bc842117",
+      "path": "FW01.html",
+      "matched_terms": [
+        "May 28, 2024",
+        "T+1"
+      ],
+      "excerpts": [
+        {
+          "term": "May 28, 2024",
+          "excerpt": " securities market to a T+1 standard settlement cycle, which will take place on May 28, 2024: “For everyday investors who sell their stock on a Monday, shortening the settlement cycle will allow them to get their"
+        },
+        {
+          "term": "T+1",
+          "excerpt": " SEC.gov | SEC Chair Gensler Statement on Upcoming Implementation of T+1 Settlement Cycle Skip to search field Skip to main content An official website of the United States government Here’s h"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW02",
+      "title": "SEC current Treasury clearing hub",
+      "url": "https://www.sec.gov/featured-topics/treasury-clearing-implementation",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:24.395455+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.sec.gov/featured-topics/treasury-clearing-implementation",
+      "bytes": 163774,
+      "sha256": "fadda76168818df7dad9a609802009b3ae7ef43ea3f30c803cd3241c0d488648",
+      "path": "FW02.html",
+      "matched_terms": [
+        "Dec. 31, 2026",
+        "June 30, 2027"
+      ],
+      "excerpts": [
+        {
+          "term": "Dec. 31, 2026",
+          "excerpt": "ssion has extended the original compliance dates for these rules by one year to Dec. 31, 2026, for eligible cash market transactions and June 30, 2027, for eligible repo market transactions. Latest Updates Commiss"
+        },
+        {
+          "term": "June 30, 2027",
+          "excerpt": "e rules by one year to Dec. 31, 2026, for eligible cash market transactions and June 30, 2027, for eligible repo market transactions. Latest Updates Commissioner Mark Uyeda delivered a speech at the 2026 U.S. Trea"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW03",
+      "title": "SEC August 2026 Treasury clearing update",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-update-secs-work-toward-treasury-clearing-implementation-080726-update-secs-work-toward-treasury-clearing-implementation-august-2026",
+      "document_date_hint": "2026-08-07",
+      "fetched_at": "2026-10-10T07:55:24.395649+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-update-secs-work-toward-treasury-clearing-implementation-080726-update-secs-work-toward-treasury-clearing-implementation-august-2026",
+      "bytes": 84596,
+      "sha256": "2d65a3cc4af9e0cfd879a815dda1c4bb8213a17c1fbae04db1455ebba54f3596",
+      "path": "FW03.html",
+      "matched_terms": [
+        "June 30, 2027",
+        "Dec. 31, 2026"
+      ],
+      "excerpts": [
+        {
+          "term": "June 30, 2027",
+          "excerpt": "cash transactions at the end of the year and U.S. Treasury repo transactions by June 30, 2027. 2 Extraterritorial and Inter-affiliate Transactions Earlier this year, the Commission published two separate requests "
+        },
+        {
+          "term": "Dec. 31, 2026",
+          "excerpt": "ded the original compliance dates for the Treasury Clearing Rule by one year to Dec. 31, 2026, for eligible cash market transactions and June 30, 2027, for eligible repo market transactions. See Extension of Compl"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW04",
+      "title": "SEC Form 13F FAQ",
+      "url": "https://www.sec.gov/files/divisions/investment/13ffaq.htm",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:24.395777+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.sec.gov/files/divisions/investment/13ffaq.htm",
+      "bytes": 83924,
+      "sha256": "9d82d370eef6dc54ef9d80315bc8790c6d44f684370e5a3c593d33669d8172c1",
+      "path": "FW04.html",
+      "matched_terms": [
+        "45 days",
+        "$100 million",
+        "short positions"
+      ],
+      "excerpts": [
+        {
+          "term": "45 days",
+          "excerpt": "low such threshold. See, e.g., FAQs 28-29 . The first such filing is due within 45 days after the end of the fourth quarter of the calendar year, i.e., the quarter ending December 31 of the same calendar yea"
+        },
+        {
+          "term": "$100 million",
+          "excerpt": "e) in the course of their business and that exercise investment discretion over $100 million or more in Section 13(f) securities must file Form 13F. See Section 13(f)(1) of the Securities Exchange Act . Question "
+        },
+        {
+          "term": "short positions",
+          "excerpt": ", Tokyo's Nikkei) should not be reported on Form 13F. Question 41 Q: What about short positions? A: You should not include short positions on Form 13F. You also should not subtract your short position(s) in a securi"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW05",
+      "title": "SEC Insider transactions disclosure",
+      "url": "https://www.sec.gov/resources-small-businesses/going-public/officers-directors-10-shareholders",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:24.396311+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.sec.gov/resources-small-businesses/going-public/officers-directors-10-shareholders",
+      "bytes": 69227,
+      "sha256": "d5743b1d4316e96e48516fd57b57267d0ac66ab3b750a4b36b53390c69527f13",
+      "path": "FW05.html",
+      "matched_terms": [
+        "two business days",
+        "Forms 3"
+      ],
+      "excerpts": [
+        {
+          "term": "two business days",
+          "excerpt": " their transactions involving the company's equity securities to the SEC within two business days on Forms 3 , 4 or 5 . Section 16 also establishes mechanisms for a company to recover \"short swing\" profits, or profits"
+        },
+        {
+          "term": "Forms 3",
+          "excerpt": "nvolving the company's equity securities to the SEC within two business days on Forms 3 , 4 or 5 . Section 16 also establishes mechanisms for a company to recover \"short swing\" profits, or profits an insider"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW06",
+      "title": "CFTC COT release calendar",
+      "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:25.015438+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm",
+      "bytes": 47737,
+      "sha256": "afa2caf081c9d0ddfbd437758cb593173643ec0036ad3f2a58a6baa8be14242a",
+      "path": "FW06.html",
+      "matched_terms": [
+        "Tuesday",
+        "Friday",
+        "3:30"
+      ],
+      "excerpts": [
+        {
+          "term": "Tuesday",
+          "excerpt": "usually released on Friday. The release usually includes data from the previous Tuesday. The following is a tentative schedule of releases through 2026. Federal holidays may delay release by one or two days."
+        },
+        {
+          "term": "Friday",
+          "excerpt": "s Only reports and Futures and Options Combined reports are usually released on Friday. The release usually includes data from the previous Tuesday. The following is a tentative schedule of releases through"
+        },
+        {
+          "term": "3:30",
+          "excerpt": "nouncements Release Schedule The Commitments of Traders reports are released at 3:30 p.m. Eastern time. The Futures Only reports and Futures and Options Combined reports are usually released on Friday. Th"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW07",
+      "title": "New York Fed primary dealer statistics",
+      "url": "https://www.newyorkfed.org/markets/counterparties/primary-dealers-statistics",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:25.117330+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.newyorkfed.org/markets/counterparties/primary-dealers-statistics",
+      "bytes": 103052,
+      "sha256": "581c40a4f139f13b9e310ddfdf353c7f844f4899079ea6f8066c93a41b649f74",
+      "path": "FW07.html",
+      "matched_terms": [],
+      "excerpts": [],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW08",
+      "title": "OFR dealer release convention",
+      "url": "https://www.financialresearch.gov/short-term-funding-monitor/datasets/nypd/",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:25.188040+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.financialresearch.gov/short-term-funding-monitor/datasets/nypd/",
+      "bytes": 35992,
+      "sha256": "e823384c45b5687217bfcafaa9bc350bd4c9002e91821c183a14bb87ae2812de",
+      "path": "FW08.html",
+      "matched_terms": [
+        "Thursday",
+        "prior week"
+      ],
+      "excerpts": [
+        {
+          "term": "Thursday",
+          "excerpt": "in the Short-term Funding Monitor. The series are typically published weekly on Thursday by the New York Fed for the prior week. The OFR adds these data to the Short-term Funding Monitor the following busines"
+        },
+        {
+          "term": "prior week",
+          "excerpt": "e series are typically published weekly on Thursday by the New York Fed for the prior week. The OFR adds these data to the Short-term Funding Monitor the following business day. The time the data were last retr"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW09",
+      "title": "Fed Treasury holdings retrospective",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/sizing-hedge-funds-treasury-market-activities-and-holdings-20211006.html",
+      "document_date_hint": "2021-10-06",
+      "fetched_at": "2026-10-10T07:55:25.791747+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.federalreserve.gov/econres/notes/feds-notes/sizing-hedge-funds-treasury-market-activities-and-holdings-20211006.html",
+      "bytes": 136706,
+      "sha256": "506f65d29a96a38fc11cc71283554675bb4722ab6693333351616b6db4d2cb4e",
+      "path": "FW09.html",
+      "matched_terms": [
+        "148 billion",
+        "173 billion",
+        "cash-futures"
+      ],
+      "excerpts": [
+        {
+          "term": "148 billion",
+          "excerpt": " funds likely trading the Treasury cash-futures basis, which sold an estimated $148 billion in Treasury securities in March 2020. Figure 8: Estimated net Treasury transactions by likely basis traders and other h"
+        },
+        {
+          "term": "173 billion",
+          "excerpt": "0. After accounting for valuation changes, we estimate that they sold, on net, $173 billion of Treasury securities, and reduced their short derivatives positions by $232 billion. Furthermore, we document that mo"
+        },
+        {
+          "term": "cash-futures",
+          "excerpt": "and short derivatives positions in March was driven by funds likely trading the cash-futures basis. Finally, we show that, although hedge fund selling of Treasury securities in Q1 2020, at just over $170 billion,"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW10",
+      "title": "Fed futures-liquidity counterevidence",
+      "url": "https://www.federalreserve.gov/econres/feds/market-liquidity-in-treasury-futures-market-during-march-2020.htm",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:25.900848+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.federalreserve.gov/econres/feds/market-liquidity-in-treasury-futures-market-during-march-2020.htm",
+      "bytes": 84750,
+      "sha256": "7558c4457a7fb010d89873bf93aa4ab6e16ebba389e9496d2ccc2d0dc3b32606",
+      "path": "FW10.html",
+      "matched_terms": [
+        "do not find evidence",
+        "basis traders"
+      ],
+      "excerpts": [
+        {
+          "term": "do not find evidence",
+          "excerpt": "o the role of basis traders in the Treasury market disruption of March 2020, we do not find evidence for basis traders being important drivers of disruption in Treasury futures market. Keywords: PTFs; Basis Traders; Trea"
+        },
+        {
+          "term": "basis traders",
+          "excerpt": "by increasing transaction costs. Despite a significant attention to the role of basis traders in the Treasury market disruption of March 2020, we do not find evidence for basis traders being important drivers of d"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW11",
+      "title": "NBER Coval Stafford fire-sales paper",
+      "url": "https://www.nber.org/papers/w11357",
+      "document_date_hint": "2005-05",
+      "fetched_at": "2026-10-10T07:55:26.000339+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.nber.org/papers/w11357",
+      "bytes": 88574,
+      "sha256": "5f0932340591595efdd0d7fa7dcaa716298c6957351069c23b62d419e5c477dc",
+      "path": "FW11.html",
+      "matched_terms": [
+        "capital flows",
+        "1980",
+        "2003"
+      ],
+      "excerpts": [
+        {
+          "term": "capital flows",
+          "excerpt": "y, in equity markets, using market prices of mutual fund transactions caused by capital flows from 1980 to 2003. Funds experiencing large outflows (inflows) tend to decrease (increase) existing positions, which cr"
+        },
+        {
+          "term": "1980",
+          "excerpt": "s, using market prices of mutual fund transactions caused by capital flows from 1980 to 2003. Funds experiencing large outflows (inflows) tend to decrease (increase) existing positions, which creates pric"
+        },
+        {
+          "term": "2003",
+          "excerpt": " market prices of mutual fund transactions caused by capital flows from 1980 to 2003. Funds experiencing large outflows (inflows) tend to decrease (increase) existing positions, which creates price pressu"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW12",
+      "title": "BOJ ending new ETF purchases",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240319a.pdf",
+      "document_date_hint": "2024-03-19",
+      "fetched_at": "2026-10-10T07:55:26.027624+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240319a.pdf",
+      "bytes": 474660,
+      "sha256": "e07e26da39f4428bd5be1c870d7ec2229a98d0428f687b19fef220c6cc70e851",
+      "path": "FW12.pdf",
+      "matched_terms": [
+        "ETFs",
+        "J-REITs",
+        "discontinue"
+      ],
+      "excerpts": [
+        {
+          "term": "ETFs",
+          "excerpt": "nanimous vote) a) The Bank will discontinue purchases of exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs). b) The Bank will gradually reduce the amount of purchases of CP and"
+        },
+        {
+          "term": "J-REITs",
+          "excerpt": "chases of exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs). b) The Bank will gradually reduce the amount of purchases of CP and corporate bonds and will discontinue the purchase"
+        },
+        {
+          "term": "discontinue",
+          "excerpt": "3) Asset purchases other than JGB purchases (a unanimous vote) a) The Bank will discontinue purchases of exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs). b) The Bank will gradually"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW13",
+      "title": "BOJ ETF disposal decision",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250919a.htm",
+      "document_date_hint": "2025-09-19",
+      "fetched_at": "2026-10-10T07:55:26.097186+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250919a.htm",
+      "bytes": 49689,
+      "sha256": "ddb42afd42060d0b5a9fbc289be4b3943eebb91a03453533fd6831f45a7f8ef6",
+      "path": "FW13.html",
+      "matched_terms": [
+        "330 billion",
+        "5 billion",
+        "temporarily adjust",
+        "suspend"
+      ],
+      "excerpts": [
+        {
+          "term": "330 billion",
+          "excerpt": "s) as described below. The Bank will sell ETFs to the market at a pace of about 330 billion yen per year, based on the prices formed in the exchange market. 3 The Bank will sell J-REITs to the market at a pace o"
+        },
+        {
+          "term": "5 billion",
+          "excerpt": " exchange market. 3 The Bank will sell J-REITs to the market at a pace of about 5 billion yen per year, based on the prices formed in the exchange market. 4 Under the pace of sales described above, the Bank wi"
+        },
+        {
+          "term": "temporarily adjust",
+          "excerpt": "-REIT. (2) Under the set of principles stipulated in (1) above, the trustee may temporarily adjust the amount of sales within the range set in prior consultation with the Bank, in response to changes in the condition o"
+        },
+        {
+          "term": "suspend",
+          "excerpt": " response to changes in the condition of the financial markets. The trustee may suspend the sales, especially in the event of a considerable fall in relevant price indexes. (Supplementary Provision) The basi"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW14",
+      "title": "GPIF policy portfolio (current)",
+      "url": "https://www.gpif.go.jp/gpif/portfolio.html",
+      "document_date_hint": "2025-04-01",
+      "fetched_at": "2026-10-10T07:55:26.202434+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.gpif.go.jp/gpif/portfolio.html",
+      "bytes": 40088,
+      "sha256": "48dd34ee501b61ed4c4c7158e59d178ba888d41e85ab953d55ead8841955ac09",
+      "path": "FW14.html",
+      "matched_terms": [
+        "2025年4月1日",
+        "25%",
+        "乖離"
+      ],
+      "excerpts": [
+        {
+          "term": "2025年4月1日",
+          "excerpt": "たな基本ポートフォリオは、中期計画の一部としてGPIFの経営委員会で議決し、厚労省の社会保障審議会資金運用部会における諮問・答申を経て厚労大臣が認可したもので、2025年4月1日から適用されます。 なお、基本ポートフォリオについては、市場動向を踏まえた適切なリスク管理等を行い、策定時に想定した運用環境が大きく変化する可能性がないか等について毎年度適時適切に検証を行い、経営委員会が必要と認めるときは、中期目標期間中で"
+        },
+        {
+          "term": "25%",
+          "excerpt": "を満たしつつ、最もリスクの小さいポートフォリオを選定した結果、以下のような基本ポートフォリオとしました。 国内債券 外国債券 国内株式 外国株式 資産構成割合 25% 25% 25% 25% 乖離許容幅 各資産 ±6％ ±5％ ±6％ ±6％ 債券・株式 ±9％ ±9％ ※オルタナティブ資産（インフラストラクチャー、プライベートエクイティ、不動産その他経営委員会の議 を経て決定するもの）については、引き"
+        },
+        {
+          "term": "乖離",
+          "excerpt": "ンやリスク・相関係数を推計し、年金財政上必要な利回りを最低限のリスクで達成するための基本ポートフォリオを策定した結果、資産構成割合は第４期と同様となりました。 乖離許容幅は、4資産の幅とともに、株式リスクの管理強化の観点から、債券・株式全体についても設定しました。新たに想定したリスクを元に乖離許容幅を推計したところ、第４期と比べて小さくなりました。 年金財政上必要な利回り を満たしつつ、最もリスクの小"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW15",
+      "title": "JPX equities investor trading (current)",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/investor-type/",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:27.106369+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.jpx.co.jp/markets/statistics-equities/investor-type/",
+      "bytes": 38922,
+      "sha256": "ffeb758f608744ab0893edc31777fb5ab622786ea20a11aaf8dd02e767e4864a",
+      "path": "FW15.html",
+      "matched_terms": [
+        "週間",
+        "2026",
+        "売買"
+      ],
+      "excerpts": [
+        {
+          "term": "週間",
+          "excerpt": " 週間 | 株式 | 投資部門別売買状況 | 日本取引所グループ 東京証券取引所 大阪取引所 東京商品取引所 JPX総研 日本取引所自主規制法人 日本証券クリアリング機構 JPX企業情報 ニュース マーケット情報 上場会社情報 株式・ETF・RE"
+        },
+        {
+          "term": "2026",
+          "excerpt": " お問合せ 金融経済教育 サステナビリティ English JPX企業情報 トップページ マーケット情報 統計情報（株式関連） 投資部門別売買状況 株式 週間 2026/10/08 更新 Javaスクリプトの設定を有効にしてください。 当サイトを正しく表示及び操作するにはJavaスクリプトの設定を有効にしていただく必要があります。Javaスクリプトを有効にする方法は、お使いのブラウザのヘルプを参照してくだ"
+        },
+        {
+          "term": "売買",
+          "excerpt": " 週間 | 株式 | 投資部門別売買状況 | 日本取引所グループ 東京証券取引所 大阪取引所 東京商品取引所 JPX総研 日本取引所自主規制法人 日本証券クリアリング機構 JPX企業情報 ニュース マーケット情報 上場会社情報 株式・ETF・REIT等 先物・オプション 規則"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW16",
+      "title": "JPX derivatives publication guide",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-derivatives/sector/b5b4pj0000008ox8-att/guide-en.pdf",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:27.348266+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.jpx.co.jp/english/markets/statistics-derivatives/sector/b5b4pj0000008ox8-att/guide-en.pdf",
+      "bytes": 64248,
+      "sha256": "9413b92d7ffdee708af14cf006ef79bcf462cc587bdcc0c93d17e24491a210c9",
+      "path": "FW16.pdf",
+      "matched_terms": [
+        "Thursday",
+        "prior"
+      ],
+      "excerpts": [
+        {
+          "term": "Thursday",
+          "excerpt": "y, 3:30 p.m. (JST) on the fourth business day of every week -Normally posted on Thursdays. -If there are non-business days such as national holidays, we will defer the publication for the days. Especially in "
+        },
+        {
+          "term": "prior",
+          "excerpt": "sted on a case-by-case basis. 3. Total period Usually, the week (Monday-Friday) prior to the date of publication -In the case of year-end and New Year holidays, Golden Week, etc., it may be the week before"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW17",
+      "title": "CSRC actual versus lending-cap distinction",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7513040/content.shtml",
+      "document_date_hint": "2024-10-18",
+      "fetched_at": "2026-10-10T07:55:27.607933+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.csrc.gov.cn/csrc/c100028/c7513040/content.shtml",
+      "bytes": 14044,
+      "sha256": "3820b194d79f878435fa570af5b35bd15bf04c2f5021c56492fcff381491abb7",
+      "path": "FW17.html",
+      "matched_terms": [
+        "3000亿元",
+        "贷款",
+        "回购"
+      ],
+      "excerpts": [
+        {
+          "term": "3000亿元",
+          "excerpt": "回购增持再贷款有关事宜的通知》，设立股票回购增持再贷款，激励引导金融机构向符合条件的上市公司和主要股东提供贷款，支持其回购和增持上市公司股票。 再贷款首期额度 3000亿元，年利率1.75%，期限1年，可视情况展期。股票回购增持再贷款政策适用于不同所有制上市公司。国家开发银行、政策性银行、国有商业银行、中国邮政储蓄银行、股份制商业银行等21家全国性金融机构（以下简称21家金融机构）按政策规定，发放贷款支持上市"
+        },
+        {
+          "term": "贷款",
+          "excerpt": " 中国人民银行设立股票回购增持再贷款 支持维护资本市场稳定运行_中国证券监督管理委员会 --> | English 移动端 | 微博 | 微信 | 无障碍 首页 机构概况 新闻发布 政务信息 办事服务 互动交流 统计信息 专题专栏 当前位置： 首页 > 新闻发布 > 证监会要"
+        },
+        {
+          "term": "回购",
+          "excerpt": " 中国人民银行设立股票回购增持再贷款 支持维护资本市场稳定运行_中国证券监督管理委员会 --> | English 移动端 | 微博 | 微信 | 无障碍 首页 机构概况 新闻发布 政务信息 办事服务 互动交流 统计信息 专题专栏 当前位置： 首页 > 新闻发布 >"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW18",
+      "title": "CSRC securities relending suspension",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7493852/content.shtml",
+      "document_date_hint": "2024-07-10",
+      "fetched_at": "2026-10-10T07:55:28.460377+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.csrc.gov.cn/csrc/c100028/c7493852/content.shtml",
+      "bytes": 18466,
+      "sha256": "1b4539059370e52eb40e0cf3ce7994bc1340e22fd0d14f3de3b6f3b2c7fffd69",
+      "path": "FW18.html",
+      "matched_terms": [
+        "暂停"
+      ],
+      "excerpts": [
+        {
+          "term": "暂停",
+          "excerpt": " 证监会依法批准暂停转融券业务 进一步强化融券逆周期调节_中国证券监督管理委员会 --> | English 移动端 | 微博 | 微信 | 无障碍 首页 机构概况 新闻发布 政务信息 办事服务 互动交流 统计信息 专题专栏 当前位置： 首页 > 新闻发布 >"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW19",
+      "title": "SSE margin rule 2026 (current effective)",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20260114_10805174.shtml",
+      "document_date_hint": "2026-01-14",
+      "fetched_at": "2026-10-10T07:55:28.840130+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20260114_10805174.shtml",
+      "bytes": 31414,
+      "sha256": "cb5ea2ef602fa44ebcda305068e51013572254bd39ba1b1928cfeaafb9fd597f",
+      "path": "FW19.html",
+      "matched_terms": [
+        "2026年01月19日",
+        "现行有效",
+        "100%"
+      ],
+      "excerpts": [
+        {
+          "term": "2026年01月19日",
+          "excerpt": "务专区 债券业务专区 衍生品与基金业务专区 --> 关于调整融资保证金比例的通知 发文文号 上证发〔2026〕5号 发布日期 2026年01月14日 生效日期 2026年01月19日 时效性 现行有效 规则类别 融资融券 规则层级 业务通知 上证发〔2026〕5号 各市场参与人： 为加强融资逆周期调节，经中国证监会批准，上海证券交易所（以下简称本所）现就调整融资保证金比例相关安排通知如下： 一、投资者融资买入证券时，融"
+        },
+        {
+          "term": "现行有效",
+          "excerpt": "金业务专区 --> 关于调整融资保证金比例的通知 发文文号 上证发〔2026〕5号 发布日期 2026年01月14日 生效日期 2026年01月19日 时效性 现行有效 规则类别 融资融券 规则层级 业务通知 上证发〔2026〕5号 各市场参与人： 为加强融资逆周期调节，经中国证监会批准，上海证券交易所（以下简称本所）现就调整融资保证金比例相关安排通知如下： 一、投资者融资买入证券时，融资保证金比例不得低"
+        },
+        {
+          "term": "100%",
+          "excerpt": "为加强融资逆周期调节，经中国证监会批准，上海证券交易所（以下简称本所）现就调整融资保证金比例相关安排通知如下： 一、投资者融资买入证券时，融资保证金比例不得低于100%。 本通知实施前尚未了结的融资合约及其展期，融资保证金比例要求仍按照原规定执行。 二、本通知自2026年1月19日起施行。本所于2023年8月27日发布的《关于修改<上海证券交易所融资融券交易实施细则（2023年修订）>第三十九条的通知》（"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW20",
+      "title": "SSE previous margin regime",
+      "url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20230827_5725661.shtml",
+      "document_date_hint": "2023-08-27",
+      "fetched_at": "2026-10-10T07:55:28.849958+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20230827_5725661.shtml",
+      "bytes": 28575,
+      "sha256": "4d592dfb0fba6e03b66a7ff5a780c18d293395d4292d21373b6bb47b4a60617e",
+      "path": "FW20.html",
+      "matched_terms": [
+        "80%",
+        "2023年9月8日"
+      ],
+      "excerpts": [
+        {
+          "term": "80%",
+          "excerpt": "日，经中国证监会批准，上海证券交易所（以下简称上交所）修改了《上海证券交易所融资融券交易实施细则（2023年修订）》第三十九条，将融资保证金比例从100%降低至80%，此次调整将于2023年9月8日收市后正式实施。 融资保证金比例，是指投资者融资买入时交付的保证金与融资交易金额的比例。例如，当融资保证金比例为100%时，投资者用100万元的保证金最多可以向证券公司融资100万元买入证券。而当融资保证金比"
+        },
+        {
+          "term": "2023年9月8日",
+          "excerpt": "，上海证券交易所（以下简称上交所）修改了《上海证券交易所融资融券交易实施细则（2023年修订）》第三十九条，将融资保证金比例从100%降低至80%，此次调整将于2023年9月8日收市后正式实施。 融资保证金比例，是指投资者融资买入时交付的保证金与融资交易金额的比例。例如，当融资保证金比例为100%时，投资者用100万元的保证金最多可以向证券公司融资100万元买入证券。而当融资保证金比例降低至80%时，客户用100万"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW21",
+      "title": "HKEX Northbound disclosure change",
+      "url": "https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/2024/ce_HKSCC_NOM_096_2024.pdf",
+      "document_date_hint": "2024-07-26",
+      "fetched_at": "2026-10-10T07:55:29.472912+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/2024/ce_HKSCC_NOM_096_2024.pdf",
+      "bytes": 116020,
+      "sha256": "279f9250d4c27137e28cb1ee27be3c51b0505c10c1e28407e42d373054cd32d9",
+      "path": "FW21.pdf",
+      "matched_terms": [
+        "quarterly",
+        "5th Northbound"
+      ],
+      "excerpts": [
+        {
+          "term": "quarterly",
+          "excerpt": "nd Stock Connect Northbound Shareholdings Search will be adjusted and available quarterly on the 5th Northbound trading day following the quarter end (including ETFs) . Details of all adjustments to the market"
+        },
+        {
+          "term": "5th Northbound",
+          "excerpt": "Northbound Shareholdings Search will be adjusted and available quarterly on the 5th Northbound trading day following the quarter end (including ETFs) . Details of all adjustments to the market data dissemination ar"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW22",
+      "title": "US Treasury auction data definition",
+      "url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/treasury-securities-auctions-data",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:29.955611+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/treasury-securities-auctions-data",
+      "bytes": 596541,
+      "sha256": "6aaf0e77cb40075128b669717aee2355faa180bfffb57b8cd5d2d2b5f2d30dce",
+      "path": "FW22.html",
+      "matched_terms": [
+        "auction",
+        "bids",
+        "accepted"
+      ],
+      "excerpts": [
+        {
+          "term": "auction",
+          "excerpt": " Treasury Securities Auctions Data | U.S. Treasury Fiscal Data An official website of the U.S. government Here's how you know Topics Tools Dataset S"
+        },
+        {
+          "term": "bids",
+          "excerpt": "set at auction. At the close of an auction, Treasury accepts all noncompetitive bids that comply with the auction rules, and then accepts competitive bids in ascending order in terms of their rates, yield"
+        },
+        {
+          "term": "accepted",
+          "excerpt": "ir rates, yields, or discount margins (lowest to highest) until the quantity of accepted bids reaches the offering amount. All bidders, noncompetitive and competitive, will receive the same rate, yield, or sp"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW23",
+      "title": "FINRA margin statistics definition",
+      "url": "https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-statistics",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:30.139141+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.finra.org/rules-guidance/key-topics/margin-accounts/margin-statistics",
+      "bytes": 88019,
+      "sha256": "550ea1f0a43d58549ef931343c731ece485f450f883606e3017d95fd15865706",
+      "path": "FW23.html",
+      "matched_terms": [
+        "month",
+        "debit",
+        "FINRA"
+      ],
+      "excerpts": [
+        {
+          "term": "month",
+          "excerpt": "of Hearing Officers (OHO) R&G Section 4 Enforcement Disciplinary Actions Online Monthly Disciplinary Actions Sanction Guidelines Individuals Barred by FINRA Registration, Exams & CE Registration section 1 "
+        },
+        {
+          "term": "debit",
+          "excerpt": "business day of the month, the following customer information: the total of all debit balances in securities margin accounts; and the total of all free credit balances in all cash accounts and all securiti"
+        },
+        {
+          "term": "FINRA",
+          "excerpt": " Margin Statistics | FINRA.org Skip to main content FINRA Utility Menu About Us Careers BrokerCheck Data Media Center For Firms For the Public FIN"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW24",
+      "title": "Fed SLOOS releases",
+      "url": "https://www.federalreserve.gov/data/sloos.htm",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:31.401787+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "bytes": 103050,
+      "sha256": "aa02545bc5ae5f25259f5cf4cc48759df14a6fc5e46d4b013d4993d70f4ced8d",
+      "path": "FW24.html",
+      "matched_terms": [
+        "quarter",
+        "standards",
+        "2026"
+      ],
+      "excerpts": [
+        {
+          "term": "quarter",
+          "excerpt": "nd agencies of foreign banks. The Federal Reserve generally conducts the survey quarterly, timing it so that results are available for the January/February, April/May, August, and October/November meetings o"
+        },
+        {
+          "term": "standards",
+          "excerpt": "cial Market Infrastructures Designated Financial Market Utilities International Standards for Financial Market Infrastructures Research, Reports, & Committees Federal Reserve Payments Study (FRPS) Payments Res"
+        },
+        {
+          "term": "2026",
+          "excerpt": "survey often includes questions on one or two other topics of current interest. 2026 July* April January 2025 October July April January 2024 October July April January 2023 October July April January 202"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    },
+    {
+      "source_id": "FW25",
+      "title": "BOJ current ETF operating page",
+      "url": "https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_t/index.htm",
+      "document_date_hint": null,
+      "fetched_at": "2026-10-10T07:55:31.461203+00:00",
+      "role": "CURRENT_REFERENCE_OR_LATER_EXPLANATORY_ONLY",
+      "historical_event_admissible": false,
+      "available_at_for_historical_replay": null,
+      "date_hint_is_publication_proof": false,
+      "http_status": 200,
+      "final_url": "https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_t/index.htm",
+      "bytes": 43033,
+      "sha256": "83b42971124de780356f678d3896035ab7492f2251d1a518abb1a91d6e398615",
+      "path": "FW25.html",
+      "matched_terms": [
+        "2026",
+        "2025",
+        "ETFs"
+      ],
+      "excerpts": [
+        {
+          "term": "2026",
+          "excerpt": " : Introduction or Modification of Schemes of Operations Date Releases Jan. 16, 2026 Abolishment of \"Amount of Cash Collateral for Lending of ETFs\" [PDF 78KB] Sept. 19, 2025 Amendment to \"Special Rules fo"
+        },
+        {
+          "term": "2025",
+          "excerpt": "ishment of \"Amount of Cash Collateral for Lending of ETFs\" [PDF 78KB] Sept. 19, 2025 Amendment to \"Special Rules for Lending of ETFs\" [PDF 89KB] Sept. 19, 2025 Statement on Monetary Policy Mar. 19, 2024 A"
+        },
+        {
+          "term": "ETFs",
+          "excerpt": " Purchases of ETFs and J-REITs : 日本銀行 Bank of Japan Skip to main content 日本語 English Home About the Bank About the Bank Outline of the Ban"
+        }
+      ],
+      "status": "FETCHED_REFERENCE_NOT_PIT_EVENT"
+    }
+  ]
+}

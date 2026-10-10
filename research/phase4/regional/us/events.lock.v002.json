@@ -1,0 +1,65 @@
+{
+  "file": "research/phase4/regional/us/events.v002.json",
+  "sha256": "fbdfee5ad5af50bbf09a4c1a2b6a9c809190aceb438d3c3a2d51d254feeb7d5a",
+  "locked_at": "2026-10-10T08:09:39.594156+00:00",
+  "previous_sha256": "9c42d767bec0fc4b0b0b5888d814535351515a6b289e1ba94977077915201777",
+  "previous_file": "research/phase4/regional/us/events.json",
+  "change_reason": "Independent QA found cross-year 2009 explanatory sentence repeated in every corporate event, potentially confusing event-specific evidence. Narrowed the sentence to its original 2009 source only, explicitly distinguished cash-row from open-market buying. No selected event, dates, numerical amount or outcomes changed.",
+  "changes": [
+    {
+      "event_id": "US-P4-010",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。2009原文另明确该季度无常规股份回购；2200万美元是现金流行金额，其交易类别未识别。"
+    },
+    {
+      "event_id": "US-P4-015",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    },
+    {
+      "event_id": "US-P4-020",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    },
+    {
+      "event_id": "US-P4-025",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    },
+    {
+      "event_id": "US-P4-029",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    },
+    {
+      "event_id": "US-P4-032",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    },
+    {
+      "event_id": "US-P4-034",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    },
+    {
+      "event_id": "US-P4-038",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    },
+    {
+      "event_id": "US-P4-040",
+      "field": "observed_action",
+      "old": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+      "new": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；现金流行不识别公开市场执行量。"
+    }
+  ],
+  "price_outcome_accessed_before_lock": false
+}

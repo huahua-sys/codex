@@ -1,0 +1,300 @@
+{
+  "central_bank_liquidity_execution": [
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080115a.htm",
+      "date": "2008-01-15",
+      "title": "Federal Reserve announces results of auction of $30 billion in 28-day credit held on January 14, 2008",
+      "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+      "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html",
+      "catalog_index": 0,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080506a.htm",
+      "date": "2008-05-06",
+      "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on May 5, 2008",
+      "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+      "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html",
+      "catalog_index": 8,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080813a.htm",
+      "date": "2008-08-13",
+      "title": "Federal Reserve announces results of auction of $50 billion in 28-day credit held on August 12, 2008",
+      "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+      "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html",
+      "catalog_index": 16,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081118a.htm",
+      "date": "2008-11-18",
+      "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on November 17, 2008",
+      "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+      "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html",
+      "catalog_index": 25,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090224b.htm",
+      "date": "2009-02-24",
+      "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on February 23, 2009",
+      "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+      "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html",
+      "catalog_index": 33,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090630a.htm",
+      "date": "2009-06-30",
+      "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on June 29, 2009",
+      "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+      "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html",
+      "catalog_index": 42,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20091020a.htm",
+      "date": "2009-10-20",
+      "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on October 19, 2009",
+      "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+      "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html",
+      "catalog_index": 50,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100629a.htm",
+      "date": "2010-06-29",
+      "title": "Federal Reserve announces results of auction of $2 billion in 28-day term deposits held on June 28, 2010",
+      "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+      "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html",
+      "catalog_index": 59,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110920a.htm",
+      "date": "2011-09-20",
+      "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on September 19, 2011",
+      "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+      "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html",
+      "catalog_index": 67,
+      "catalog_n": 77
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130312a.htm",
+      "date": "2013-03-12",
+      "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits from its Term Deposit Facility",
+      "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+      "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html",
+      "catalog_index": 76,
+      "catalog_n": 77
+    }
+  ],
+  "regulatory_capital_constraints": [
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080919c.htm",
+      "date": "2008-09-19",
+      "title": "Board approves two interim final rules in connection with its initiative to provide liquidity to markets",
+      "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+      "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html",
+      "catalog_index": 0,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090130a.htm",
+      "date": "2009-01-30",
+      "title": "Board announces final rules pertaining to the Asset-Backed Commercial Paper Money Market Fund Liquidity Facility (AMLF)",
+      "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+      "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html",
+      "catalog_index": 3,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20110614a.htm",
+      "date": "2011-06-14",
+      "title": "Agencies adopt final rule to establish a risk-based capital floor",
+      "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+      "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html",
+      "catalog_index": 7,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20121009a.htm",
+      "date": "2012-10-09",
+      "title": "Federal Reserve Board publishes two final rules with stress testing requirements for certain bank holding companies, state member banks, and savings and loan holding companies",
+      "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+      "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html",
+      "catalog_index": 11,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20131210a.htm",
+      "date": "2013-12-10",
+      "title": "Agencies issue final rules implementing the Volcker rule",
+      "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+      "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html",
+      "catalog_index": 15,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140408a.htm",
+      "date": "2014-04-08",
+      "title": "Agencies adopt enhanced supplementary leverage ratio final rule and issue supplementary leverage ratio notice of proposed rulemaking",
+      "catalog_source_id": "US_SOURCE_46b3e2c272f89aca3924",
+      "catalog_source_path": "research/phase4/sources/us/46b3e2c272f89aca3924.html",
+      "catalog_index": 18,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20151125a.htm",
+      "date": "2015-11-25",
+      "title": "Federal Reserve Board approves final rule to modify its capital plan and stress testing rules",
+      "catalog_source_id": "US_SOURCE_7403691da98a48d474ab",
+      "catalog_source_path": "research/phase4/sources/us/7403691da98a48d474ab.html",
+      "catalog_index": 22,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20161123a.htm",
+      "date": "2016-11-23",
+      "title": "Federal Reserve Board issues final rule regarding dividend payments on Reserve Bank capital stock",
+      "catalog_source_id": "US_SOURCE_c82c99f4c312944b050c",
+      "catalog_source_path": "research/phase4/sources/us/c82c99f4c312944b050c.html",
+      "catalog_index": 26,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20190709b.htm",
+      "date": "2019-07-09",
+      "title": "Agencies adopt final rule to exclude community banks from the Volcker Rule",
+      "catalog_source_id": "US_SOURCE_9fe0d364b05234a7d4b3",
+      "catalog_source_path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.html",
+      "catalog_index": 30,
+      "catalog_n": 35
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125b.htm",
+      "date": "2025-11-25",
+      "title": "Agencies issue final rule to modify certain regulatory capital standards ",
+      "catalog_source_id": "US_SOURCE_8879805e4bcc5c86b36b",
+      "catalog_source_path": "research/phase4/sources/us/8879805e4bcc5c86b36b.html",
+      "catalog_index": 34,
+      "catalog_n": 35
+    }
+  ],
+  "passive_and_fund_constraints": [
+    {
+      "url": "https://www.sec.gov/newsroom/press-releases/2014-143",
+      "date": "2014-07-23",
+      "title": "SEC Adopts Money Market Fund Reform Rules",
+      "catalog_source_id": "US_SOURCE_d0f57e93ede4728329f4",
+      "catalog_source_path": "research/phase4/sources/us/d0f57e93ede4728329f4.html",
+      "original_source_id": "US_SOURCE_8e42dfd09e371a158290",
+      "catalog_index": 0,
+      "catalog_n": 3
+    },
+    {
+      "url": "https://www.sec.gov/newsroom/press-releases/2021-258",
+      "date": "2021-12-15",
+      "title": "SEC Proposes Amendments to Money Market Fund Rules",
+      "catalog_source_id": "US_SOURCE_d44c01a937142042ee71",
+      "catalog_source_path": "research/phase4/sources/us/d44c01a937142042ee71.html",
+      "original_source_id": "US_SOURCE_73d708fd4e8ca811b3b1",
+      "catalog_index": 1,
+      "catalog_n": 3
+    },
+    {
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-129",
+      "date": "2023-07-12",
+      "title": "SEC Adopts Money Market Fund Reforms and Amendments to Form PF Reporting Requirements for Large Liquidity Fund Advisers",
+      "catalog_source_id": "US_SOURCE_fcabd7d9e7267f173eab",
+      "catalog_source_path": "research/phase4/sources/us/fcabd7d9e7267f173eab.html",
+      "original_source_id": "US_SOURCE_a74c40e4c51eaeaada89",
+      "catalog_index": 2,
+      "catalog_n": 3
+    }
+  ],
+  "corporate_capital_allocation": [
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2008-Q4/press-release-webcast",
+      "date": "2008-07-01",
+      "year": 2008,
+      "title": "Microsoft FY2008 Q4 official earnings release",
+      "catalog_index": 0,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2009-Q4/press-release-webcast",
+      "date": "2009-07-01",
+      "year": 2009,
+      "title": "Microsoft FY2009 Q4 official earnings release",
+      "catalog_index": 1,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2011-Q4/press-release-webcast",
+      "date": "2011-07-01",
+      "year": 2011,
+      "title": "Microsoft FY2011 Q4 official earnings release",
+      "catalog_index": 3,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2013-Q4/press-release-webcast",
+      "date": "2013-07-01",
+      "year": 2013,
+      "title": "Microsoft FY2013 Q4 official earnings release",
+      "catalog_index": 5,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2015-Q4/press-release-webcast",
+      "date": "2015-07-01",
+      "year": 2015,
+      "title": "Microsoft FY2015 Q4 official earnings release",
+      "catalog_index": 7,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2017-Q4/press-release-webcast",
+      "date": "2017-07-01",
+      "year": 2017,
+      "title": "Microsoft FY2017 Q4 official earnings release",
+      "catalog_index": 9,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2019-Q4/press-release-webcast",
+      "date": "2019-07-01",
+      "year": 2019,
+      "title": "Microsoft FY2019 Q4 official earnings release",
+      "catalog_index": 11,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2021-Q4/press-release-webcast",
+      "date": "2021-07-01",
+      "year": 2021,
+      "title": "Microsoft FY2021 Q4 official earnings release",
+      "catalog_index": 13,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2023-Q4/press-release-webcast",
+      "date": "2023-07-01",
+      "year": 2023,
+      "title": "Microsoft FY2023 Q4 official earnings release",
+      "catalog_index": 15,
+      "catalog_n": 18
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "date": "2025-07-01",
+      "year": 2025,
+      "title": "Microsoft FY2025 Q4 official earnings release",
+      "catalog_index": 17,
+      "catalog_n": 18
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "created_at_utc": "2026-10-10T08:08:54.595838+00:00",
+  "stage": "labels",
+  "status": "PASS_PRELIMINARY_STAGE_ONLY",
+  "independent_check_count": 64449,
+  "failures": [],
+  "coverage": {
+    "immutability": {
+      "strict_byte_checked": 4761,
+      "append_only_checked": 9,
+      "appended": 0,
+      "framework_metadata_only": 1
+    },
+    "baseline_raw_files": 4771,
+    "protocol_lock": {
+      "locked_at_utc": "2026-10-10T07:50:53.064266+00:00",
+      "path": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+      "sha256": "6cb47d6dc740cad9c59e7dd0bf9b98bddc83d2485ca928f117ac55868e832742",
+      "future_event_labels_opened": false,
+      "existing_phase3_labels_already_seen": true,
+      "mode": "EXPLORATORY_SOURCE_FIRST_NOT_BLIND"
+    },
+    "events": {
+      "raw_records": 115,
+      "unique_parent_episodes": 67,
+      "qualified_original_disclosures": 115,
+      "source_bytes_files": 145,
+      "market_action_counts": {
+        "China:OBSERVED_ACTION": 27,
+        "China:MANDATE_CHANGE": 15,
+        "Japan:ANNOUNCEMENT_ONLY": 10,
+        "Japan:MANDATE_CHANGE": 6,
+        "Japan:OBSERVED_ACTION": 15,
+        "US:OBSERVED_ACTION": 29,
+        "US:MANDATE_CHANGE": 12,
+        "US:ANNOUNCEMENT_ONLY": 1
+      },
+      "independent_n": null
+    },
+    "labels": {
+      "raw_event_records": 115,
+      "qualified_events": 115,
+      "event_and_control_reactions_checked": 2760,
+      "mature_by_horizon": {
+        "1w": 115,
+        "1m": 115,
+        "3m": 115,
+        "6m": 115,
+        "12m": 110,
+        "24m": 97
+      },
+      "probability_forecasts": 0
+    },
+    "statistics": {
+      "all_comparison_slots": 102,
+      "nonpositive_matched_case_horizons": 305
+    }
+  },
+  "notes": [
+    {
+      "code": "IDENTITY_NOT_PIT",
+      "detail": "原字节不变与哈希一致只证明本轮没有改写；不证明历史可得性、盲性或因果。"
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-001",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-002",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-003",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-004",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-005",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-006",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-007",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-008",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-009",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-010",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-011",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-012",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-013",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-014",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-015",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-016",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-017",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-018",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-019",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-020",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-021",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-022",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-023",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-024",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-025",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-026",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-027",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-028",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-029",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-030",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-031",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-032",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-033",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-034",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-035",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-036",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-037",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-038",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-039",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-040",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-041",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "PUBLICATION_EVIDENCE_MANUAL_REVIEW",
+      "detail": {
+        "event_id": "CN-P4-042",
+        "reason": "发布日期证据没有唯一source_path，不能以哈希自动替代原发布日期核验。"
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-024",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-025",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-026",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-027",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-028",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-029",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-030",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "REGIONAL_SCOPE_SCHEMA_ADAPTER",
+      "detail": {
+        "event_id": "JP-P4-031",
+        "scope_from": "flow_duration acquisition period + participant_type single issuer + PERIOD_ACTUAL_REPURCHASE_VALUE",
+        "data_changed": false
+      }
+    },
+    {
+      "code": "PARENT_DATE_YEAR_NOT_INDEPENDENT_N",
+      "detail": "同一制度/公司/全球regime重复发布只计父项目、日期与年份覆盖，不计独立实验。"
+    },
+    {
+      "code": "V002_AUDIT_SCHEMA_CORRECTION",
+      "detail": "v002的8条JP scope-key FAIL是QA adapter键名假定过严格；原记录已明确single-issuer期间、JPY单位、PERIOD_ACTUAL_REPURCHASE_VALUE。v002保留，新QA读取这些原字段而不改events/labels。"
+    },
+    {
+      "code": "MATCHED_CONTROLS_NOT_CAUSAL",
+      "detail": "同一资产不同日期的价格状态匹配不控制估值、信用与预期；后续控制日期不能用作T时已知数据，这里只能作探索性结果比较。"
+    }
+  ],
+  "qa_script_sha256": "0ffd03bf7e419ffa77f1d7d0cbcb489532d0e87bbb168083769671c5a81d4dcf",
+  "limitations": [
+    "工程QA不证明事件目录完整、不证明条件可投资或经济机制因果。",
+    "研究者已知历史，必须保持EXPLORATORY；新预测与live决策为0。"
+  ]
+}

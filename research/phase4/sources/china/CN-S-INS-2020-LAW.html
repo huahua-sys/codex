@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>全球法规网-中国商务法规</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit">
+    <meta name="keywords" content="your keywords">
+    <meta name="description" content="your description">
+    <meta name="author" content="hl,haolei@ec.com.cn">
+    <meta name="robots" content="index,follow">
+    <link rel="stylesheet" href="css/style.css" />
+	<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+    <!--[if IE]>
+    	<script src="js/html5.js"></script>
+    <![endif]-->
+</head>
+<body class="laws">
+	<header class="header">
+		<nav class="nav blank clearfix">
+	<!--div class="u-logo1"><img src="img/logo1.png" alt=""></div-->
+	
+	<ul class="nav01_ul">
+		<li>
+			<a href="/claw/index.shtml">中国法规</a>|
+			<ul class="nav02_ul">
+				<li><a href="/claw/index.shtml">商务法规</a></li>
+				<li><a href="/pact/index.shtml">中外条约</a></li>
+			</ul>
+		</li>
+		<li><a href="/page/list/nations.html">各国法规</a>|
+			<ul class="nav02_ul">
+				<li><a href="/page/list/nations.html">境外法规</a></li>
+				<li><a href="/page/list/organizations.html">国际条约</a></li>
+			</ul>
+		</li>
+		<li><a href="/jwfg/index.shtml">境外法规检索</a>|
+		</li>
+		<li><a href="http://www.mofcom.gov.cn/article/ckzn/index.shtml">出口指南</a><!-- | -->
+		</li>
+<!-- 		<li><a href="/tsfy/index.shtml">图说方圆</a></li> -->
+		<li class="last"><a href="/">首页</a></li>
+	</ul>
+</nav>
+
+<!-- Matomo -->
+<script type="text/javascript">
+//If used is logged-in then call 'setUserId'
+//$userId variable must be set by the server when the user has successfully authenticated to your app.
+var _paq = window._paq || [];
+	
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  _paq.push(['enableHeartBeatTimer']);
+  (function() { 
+    var u="https://analysis.mofcom.gov.cn/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '137']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+	</header>
+	
+
+
+
+
+
+<script type="text/javascript">
+$(function(){
+	setReviseToolBar();
+	setAssociateToolbar();
+});
+function setReviseToolBar(){
+	$.ajax({
+		url:"/nflaw/front/www/claw/reviseCount?id=70890",
+		type:"get",
+		success:function(result){
+			if(!!result&&result>0){
+				$("#reviseToolbar").show();
+			}
+		}
+	});
+}
+
+function setAssociateToolbar(){
+	$.ajax({
+		url:"/nflaw/front/www/claw/associateCount?id=70890",
+		type:"get",
+		success:function(result){
+			if(!!result&&result>0){
+				$("#associateToolbar").show();
+			}
+		}
+	});
+}
+/* function doSubmitReviseForm(){
+	$("#clawForm").attr("action","/claw/clawRevise.shtml");
+	$("#clawForm").submit();
+}
+function doSubmitAssociateForm(){
+	$("#clawForm").attr("action","/claw/clawAssociate.shtml");
+	$("#clawForm").submit();
+} */
+function doSubmitKeySearch(){
+	if($("#keyword").val()==''){
+		alert("请输入关键字！");
+		$("#keyword").focus();
+		return false;
+	}else if($("#keyword").val().length>100){
+		alert("关键字 不能超过100位字符！");
+		$("#keyword").focus();
+		return false;
+	}else{
+		$("#keySearchForm").submit();
+	}
+}
+</script>
+<section class="search blank">
+	<div class="mt20 mb30 clearfix">
+		<div class="logo fl">
+			<img src="img/logo.png" alt="" />
+		</div>
+		<div class="search_box fr">
+			<div class="clearfix">
+				<form id="keySearchForm" name="keySearchForm" method="get" action="/claw/keySearchList.shtml">
+					<span class="btn_search_show fl">中国商务法规</span>
+					<input class="txt_search fl" type="text" name="keyword" id="keyword">
+					<input class="btn_search fl" type="button" value="搜索" onclick="doSubmitKeySearch()">
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+<nav class="navMain blank">
+	<a class="a1" href="http://policy.mofcom.gov.cn/">首页</a>&gt;<a href="/claw/index.shtml"><i>中国商务法规</i></a>&gt;<span class="s1">法规详情</span>
+</nav>
+<section class="main blank">
+	<div class="content mt18 posr">
+		<div class="conBox_01">
+			<h2 class="tit_08">中国银保监会办公厅关于优化保险公司权益类资产配置监管有关事项的通知</h2>
+			<section class="con">
+				<h3 class="tit_09">
+					【信息来源：<em>
+					
+					   
+					   
+					   	北大法宝
+					   
+					
+					</em>】
+				</h3>
+				<div class="tableBox">
+					<table class="table_01" width="100%">
+						<tr>
+							<td width="50%"><span>【发布部门】</span>银保监会</td>
+							<td width="50%"><span>【发布文号】</span></td>
+						</tr>
+						<tr>
+							<td><span>【效力级别】</span>部门规范性文件</td>
+							<td><span>【时效状态】</span>
+								现行有效
+								
+								
+								
+								
+							</td>
+						</tr>
+						<tr>
+							<td><span>【发布日期】</span>
+								
+									2020-07-17
+								
+							</td>
+							<td><span>【实施日期】</span>
+								
+									2020-07-17
+								
+							</td>
+						</tr>
+						<tr>
+							<td><span>【法律话题】</span>
+								
+									
+									金融监管
+								
+							</td>
+							<td><span>【产业领域】</span>
+								
+								
+									金融
+								
+							</td>
+						</tr>
+							
+					</table>
+				</div>
+				<div class="article">
+					<p style="text-align:center;">中国银保监会办公厅关于优化保险公司权益类资产配置监管有关事项的通知</p><p><br /></p><p>各保险集团（控股）公司、保险公司、保险资产管理公司：</p><p><br /></p><p>　　为进一步深化保险资金运用市场化改革，赋予保险公司更多投资自主权，实施差异化的审慎监管，根据《保险资金运用管理办法》等规定，现就保险公司权益类资产配置有关事项通知如下：</p><p><br /></p><p>　　一、保险公司权益类资产配置比例，应当符合以下规定：</p><p><br /></p><p>　　（一）公司上季末综合偿付能力充足率不足100%的，权益类资产投资余额不得高于本公司上季末总资产的10%；</p><p><br /></p><p>　　（二）公司上季末综合偿付能力充足率为100%以上（含此数，下同）但不足150%的，权益类资产投资余额不得高于本公司上季末总资产的20%；</p><p><br /></p><p>　　（三）公司上季末综合偿付能力充足率为150%以上但不足200%的，权益类资产投资余额不得高于本公司上季末总资产的25%；</p><p><br /></p><p>　　（四）公司上季末综合偿付能力充足率为200%以上但不足250%的，权益类资产投资余额不得高于本公司上季末总资产的30%；</p><p><br /></p><p>　　（五）公司上季末综合偿付能力充足率为250%以上但不足300%的，权益类资产投资余额不得高于本公司上季末总资产的35%；</p><p><br /></p><p>　　（六）公司上季末综合偿付能力充足率为300%以上但不足350%的，权益类资产投资余额不得高于本公司上季末总资产的40%；</p><p><br /></p><p>　　（七）公司上季末综合偿付能力充足率为350%以上的，权益类资产投资余额不得高于本公司上季末总资产的45%。</p><p><br /></p><p>　　二、保险公司上季末综合偿付能力充足率不足100%时，应当立即停止新增权益类资产投资。</p><p><br /></p><p>　　三、保险公司存在以下情形之一的，权益类资产投资余额不得高于本公司上季末总资产的15%：</p><p><br /></p><p>　　（一）人身保险公司上季末责任准备金覆盖率不足100%；</p><p><br /></p><p>　　（二）最近一年资金运用出现重大风险事件；</p><p><br /></p><p>　　（三）资产负债管理能力较弱且匹配状况较差；</p><p><br /></p><p>　　（四）具有重大风险隐患或被银保监会列为重点监管对象；</p><p><br /></p><p>　　（五）最近三年因重大违法违规行为受到银保监会处罚；</p><p><br /></p><p>　　（六）银保监会规定的其他情形。</p><p><br /></p><p>　　四、保险公司出现综合偿付能力充足率大幅下降，或者因监管处罚、突发事件、市场变化等情况导致权益类资产配置超过规定比例的，应当自该情形发生之日起5个工作日内向银保监会报告，提交切实可行的整改方案，并在6个月内调整至满足监管规定；如市场波动较大或有可能引发较大风险时，可申请延长调整时间。</p><p><br /></p><p>　　五、保险公司应当坚持价值投资、长期投资和审慎投资原则，结合自身偿付能力充足率、负债特点和久期、资产负债匹配缺口和投资管理能力等情况，建立健全与保险资金权益类资产投资相适应的中长期绩效考核指标体系。</p><p><br /></p><p>　　六、保险公司应当严格执行流动性监管比例要求，加强权益类资产的限额、品种和法人主体集中度管理，确保公司普通账户和独立账户保持充足流动性。保险公司投资单一上市公司股票的股份总数，不得超过该上市公司总股本的10%，银保监会另有规定或经银保监会批准的除外。</p><p><br /></p><p>　　七、保险公司应当根据上市和未上市权益类资产的风险特征，确定不同类别资产的配置策略，强化组合管理，合理优化资产结构。保险公司投资上市权益类资产，应当加强投资研究，根据风险收益特征，重点配置流动性较强、业绩较好、分红稳定的品种。保险公司投资未上市权益类资产，应当强化投资能力建设，重点考察投资标的风险，稳健开展各项投资。</p><p><br /></p><p>　　八、保险公司应当设置专门岗位，配备专职人员，切实加强投资后续管理。投资上市权益类资产的，保险公司应当遵守各项监管规定，加强对权益法计价股票的管理，切实履行股东和机构投资者义务；投资未上市权益类资产的，保险公司应当根据监管规定，加强项目全程管理，每年向董事会或专业委员会提交项目管理报告。</p><p><br /></p><p>　　九、保险公司应当严格按照偿付能力监管有关规则确定资产类别，适用相应的风险因子计算偿付能力充足率，不得通过调整资产类别、调高资产价值等方式虚增偿付能力。</p><p><br /></p><p>　　十、保险公司应当严格执行单一权益类资产、重大股权投资等监管规定。保险公司现有投资超过规定配置比例的，应当制定切实可行的整改方案，并在12个月内调整到位；超过本通知集中度比例的，不得新增相关投资。</p><p><br /></p><p>　　十一、银保监会可以依据审慎监管原则，结合日常非现场监管、现场检查和调查、资产负债管理评价等情况，责令相关保险公司调整权益类资产配置比例、制定针对性的处置方案，并采取相关监管措施。银保监会可以根据风险处置特殊情况需要，制定相关保险公司的权益类资产配置比例调整和过渡期安排方案。</p><p><br /></p><p>　　十二、此前有关规定与本通知不一致的，依照本通知执行。</p><p><br /></p><p style="text-align:right;">　　2020年7月17日</p><p style="text-align:justify;"><br /></p><p style="text-align:justify;"><br /></p><p style="text-align:justify;"><br /></p>
+						
+						<br/>
+						<font color="#B22222">免责声明：本网站提供的法规来源于数据提供单位或网络，网站不对法规内容的准确性负责，请务必与正式文本核对后使用。网站访问者因使用或无法使用本网站提供的法规所造成的直接或间接损失，本网站不承担任何责任。禁止用户对本网站信息进行自动化采集。</font>
+						</div>
+				</div>
+			</section>
+		
+		</div>
+	</div>
+</section>
+<form action="" method="get" id="clawForm">
+	<input type="hidden" name="id" value="70890"/>
+	<input type="hidden" name="title" value="中国银保监会办公厅关于优化保险公司权益类资产配置监管有关事项的通知"/>
+	<input type="hidden" name="clawUrl" value=""/>
+</form>
+<div id="global-toolbar">
+  <div class="toolbar-wrap wrap">
+	<div class="toolbar">
+	  <div class="toolbar-tabs tab">
+		<!-- div class="toolbar-tab tbar-tab-word" onclick=""><i class="tab-ico"></i><em class="tab-text">修订对照<br />下载</em></div 
+		-->
+	  </div>
+	  <div class="toolbar-footer">
+		<div class="toolbar-tab tbar-tab-top">
+			<a href="#"><i class="tab-ico"></i><em class="footer-tab-text">顶部</em></a>
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+	<footer class="footer mt30">
+				<section class="blank clearfix">
+			<dl class="nav_03 clearfix">
+				<dd>主办单位：中华人民共和国商务部</dd>
+				<dd>技术支持：中国国际电子商务中心</dd>
+				<dd>邮箱：global-law@ec.com.cn</dd>
+				<dd>客户服务：010-67801039</dd>
+				
+			</dl>
+			<dl class="nav_03 clearfix">
+				<dd>网站管理：商务部电子商务和信息化司</dd>
+			
+					<dd>网站标识码bm22000001</dd>
+					<dd><a href="https://beian.miit.gov.cn/" target="_blank"  onclick="if(confirm('您访问的链接即将离开“中华人民共和国商务部”政府网站，是否继续？')==false)return false;">京ICP备05004093号-1</a><br><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700091" target="_blank"  onclick="if(confirm('您访问的链接即将离开“中华人民共和国商务部”政府网站，是否继续？')==false)return false;"><img src="/law/img/footer-img03.png">京公网安备11040102700091号</a></dd>
+					
+			</dl>
+			<dl class="nav_03 cur clearfix">
+			
+				<dd style="width:200px">
+					<span id="_span_jiucuo" style="display: inline-block; margin-top: 13px;">
+						<!-- <script id="_jiucuo_" sitecode='bm22000001' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script> -->
+					<a class="ft-jiucuo-link ediAssetsTextCon" href="https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm22000001&amp;url=http%3A%2F%2Fwww.mofcom.gov.cn/" target="_blank"><img style="margin: 0px; border: 0px currentColor; border-image: none; cursor: pointer;" src="https://zfwzgl.www.gov.cn/exposure/images/jiucuo.png?v=bm22000001"></a>
+					</span>
+					<a href="//bszs.conac.cn/sitename?method=show&id=0726B28348831856E053012819AC9312" target="_blank" onclick="if(confirm('您访问的链接即将离开“中华人民共和国商务部”政府网站，是否继续？')==false)return false;">
+						<img src="http://dcs.conac.cn/image/red.png">
+					</a>
+				</dd>
+			</dl>
+			
+		</section>
+	</footer>
+	<script type="text/javascript">
+	
+	$(function(){
+		var article = $(".article").html();
+		if(null==article||''==article||article.length<20){
+			window.location.href="/index.shtml"
+		}
+	})
+	
+		/** scroll 浮层
+		$(window).scroll(function(){
+			var ht = $(this).scrollTop();
+			if(ht>210){
+				boxLeft();
+				$(".conBox_01,#toolbar_box").addClass("cur");
+			}else{
+				$(".conBox_01,#toolbar_box").removeClass("cur").removeAttr("style");
+			}
+		});***/
+	</script>
+</body>
+</html>

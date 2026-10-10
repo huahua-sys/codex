@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_5058f00c35c1eaab1ed1",
+  "url": "https://www.irs.gov/retirement-plans/retirement-plan-investments-faqs",
+  "role": "institutional_reference_not_event",
+  "accessed_at": "2026-10-10T08:02:33.652038+00:00",
+  "source_path": "research/phase4/sources/us/5058f00c35c1eaab1ed1.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.irs.gov/retirement-plans/retirement-plan-investments-faqs",
+  "content_type": "text/html; charset=UTF-8",
+  "source_sha256": "959b178a345659847c13f12bf7506afee8b74311243df8cf690801baa357f12c",
+  "bytes": 103156,
+  "text_path": "research/phase4/sources/us/5058f00c35c1eaab1ed1.txt",
+  "text_sha256": "c9134b53bdff18930386aef4894d0a8e6f75c0582091e6d1c9589c1f538819c6"
+}

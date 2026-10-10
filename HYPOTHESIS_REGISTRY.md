@@ -83,3 +83,16 @@ H-P3-TREND：r252符号跨时间/市场分布稳定性，不运行旧63/252策�
 
 
 PHASE3-LIVE-FORWARD-v002：在真实capture0时按独立QA追加工程更正；simple-return/252peak/505参考和完整sessions benchmark匹配。保留v001/全部原锁，不是研究条件/阈值搜索，新probability0。
+
+
+## Phase4 — 机制源先行登记与第一轮边界
+
+|ID|经济问题|第一轮状态|下一识别数据|
+|---|---|---|---|
+|H-P4-001|Holder-only强卖能否留下>=1w错价|PLAUSIBLE_MECHANISM / NOT_IDENTIFIED|赎回/现金与融资缺口→原持仓→实际出售→发行人偿付，含未受暴露对照|
+|H-P4-002|Slow mandate实施余量是否未price-in|ACTION/DISCLOSURE_FACTS / RETURN_EDGE_NOT_IDENTIFIED|原净交易、重估/FX、未完成余额、容忍带与预期|
+|H-P4-003|有资金约束力的执行比表态有增量信息|NOT_IDENTIFIED / ANNOUNCEMENT_COUNTEREVIDENCE|同项目表态/融资/付款时钟、期前预期、无执行对照|
+|H-P4-004|Funding/collateral headroom触发反身危机|RETROSPECTIVE_MECHANISM_REFERENCE / T_SIGNAL_NOT_IDENTIFIED|原haircut、可用抵押、到期负债、追保及资产信用|
+|H-P4-005|供给capital cycle毁掉好行业投资|PLAUSIBLE_MECHANISM / DATA_REQUIRED|原需求/新增供给/订单/现金回收/估值预期|
+
+115源卡与102宽基描述槽不计5次已识别机制实验；不复活任何已失败趋势/择时参数，最高动作事实LEVEL2、收益机制未升LEVEL3/4。

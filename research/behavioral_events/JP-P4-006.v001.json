@@ -1,0 +1,101 @@
+{
+  "event_id": "JP-P4-006",
+  "market": "Japan",
+  "family": "BOJ",
+  "parent_episode": "JP-BOJ-2013_2015_QQE",
+  "published_date": "2015-07-15",
+  "available_at": "2015-07-15T23:59:59+09:00",
+  "timezone": "Asia/Tokyo",
+  "published_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "July 15, 2015",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/boj_catalog_2015.html",
+    "source_sha256": "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83",
+    "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2015/index.htm",
+    "historical_vintage_independently_archived": false
+  },
+  "participant_type": "Central Bank (BOJ)",
+  "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+  "trigger": "Statement on Monetary Policy (Announced at 12:18 p.m.) [PDF 57KB]",
+  "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+  "action_status": "ANNOUNCEMENT_ONLY",
+  "action_type": "ANNOUNCEMENT_ONLY",
+  "flow_size": null,
+  "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+  "assets": [
+    "NIKKEI"
+  ],
+  "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+  "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+  "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+  "known_at_t": [
+    "当日官方政策指导原文已公开",
+    "政策额度/年度速度是指导，不等于已完成现金流",
+    "annual pace of about 80 trillion yen"
+  ],
+  "known_only_after_t": [
+    "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+  ],
+  "unknown_at_t": [
+    "市场预期中已计入的行动规模/时间",
+    "同日其他政策与全球风险变化",
+    "可靠原始信用/盈利修正",
+    "实际可交易alpha",
+    "未来真实ETF/JGB执行日与净额",
+    "日元变化是否导致对冲/去杠杆"
+  ],
+  "source_ids": [
+    "jp_event_source_006",
+    "boj_catalog_2015"
+  ],
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_006.pdf",
+    "research/phase4/sources/japan/boj_catalog_2015.html"
+  ],
+  "source_urls": [
+    "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2015/k150715a.pdf",
+    "https://www.boj.or.jp/en/mopo/mpmdeci/state_2015/index.htm"
+  ],
+  "source_sha256": [
+    "f992a6d57c559747233c1f4b8f593cc69215cde677f71968e43fbf9a4710eb3f",
+    "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83"
+  ],
+  "source_excerpt": "Bank of Japan Statement on Monetary Policy 1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by an 8-1 majority vote, to set the following guideline for money market operations for the in",
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+  "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+  "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+    "catalog_index": 121,
+    "catalog_n": 219,
+    "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+    "outcome_used": false
+  },
+  "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+  "study_asset": "N225",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_006.pdf": "f992a6d57c559747233c1f4b8f593cc69215cde677f71968e43fbf9a4710eb3f",
+    "research/phase4/sources/japan/boj_catalog_2015.html": "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83"
+  },
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "July 15, 2015",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/boj_catalog_2015.html",
+    "source_sha256": "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83",
+    "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2015/index.htm",
+    "historical_vintage_independently_archived": false
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

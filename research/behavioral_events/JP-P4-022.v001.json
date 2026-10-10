@@ -1,0 +1,101 @@
+{
+  "event_id": "JP-P4-022",
+  "market": "Japan",
+  "family": "GovernanceCrossShareholding",
+  "parent_episode": "JP-JPX-CORPORATE-GOVERNANCE-CODE",
+  "published_date": "2018-06-01",
+  "available_at": "2018-06-01T23:59:59+09:00",
+  "timezone": "Asia/Tokyo",
+  "published_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Jun. 01, 2018",
+    "locator": "original Market News date heading",
+    "source_path": "research/phase4/sources/japan/jp_event_source_022.html",
+    "source_sha256": "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d",
+    "source_url": "https://www.jpx.co.jp/english/news/1020/20180601.html",
+    "historical_vintage_independently_archived": false
+  },
+  "participant_type": "Exchange / Listing Rule Authority",
+  "constraint": "上市公司治理、compliance-or-explain与董事会披露约束；不等于强制卖出所有交叉持股",
+  "trigger": "Publication of Revised Japan Corporate Governance Code",
+  "observed_action": "制定/修订治理准则与上市规则；无独立持股出售金额证据",
+  "action_status": "MANDATE_CHANGE",
+  "action_type": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "多年治理/董事会实施；个体出售、回购与资本投入进度未知",
+  "assets": [
+    "NIKKEI"
+  ],
+  "voluntary_or_forced": "RULE_CONSTRAINED_DISCLOSURE_WITH_COMPANY_DISCRETION",
+  "price_sensitive": "企业资产出售与回购可以等待/调整；非刚性立即成交",
+  "information_based": "规则信息；不是现金流改善或低估值证明",
+  "known_at_t": [
+    "原发布日期规则文本已公开",
+    "2015规则2015-06-01生效；2018/2021修订按原公告生效",
+    "治理规则本身没有给出交叉持股实售或回购规模"
+  ],
+  "known_only_after_t": [
+    "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+  ],
+  "unknown_at_t": [
+    "市场预期中已计入的行动规模/时间",
+    "同日其他政策与全球风险变化",
+    "可靠原始信用/盈利修正",
+    "实际可交易alpha",
+    "各公司实际出售、买回与CapEx分配",
+    "少数股东能否捕获回报"
+  ],
+  "source_ids": [
+    "jp_event_source_022",
+    "jpx_governance_catalog"
+  ],
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_022.html",
+    "research/phase4/sources/japan/jpx_governance_catalog.html"
+  ],
+  "source_urls": [
+    "https://www.jpx.co.jp/english/news/1020/20180601.html",
+    "https://www.jpx.co.jp/english/equities/listing/cg/index.html"
+  ],
+  "source_sha256": [
+    "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d",
+    "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94"
+  ],
+  "source_excerpt": "Jun. 01, 2018 TSE Publication of Revised Japan's Corporate Governance Code Tweet Tokyo Stock Exchange, Inc. (TSE) has partially revised the Securities Listing Regulations pertaining to the revision of Japan's Corporate Governance ",
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "mechanism": "董事会解释政策持股合理性/资本效率后可能出售、改变股东治理与利润留存用途；必须识别实际行动及价值捕获",
+  "alternative_explanation": "企业已计划出售或改资本政策；全球利润与日元环境可解释指数上涨",
+  "falsifier": "只有披露措辞改变，持股未减且资本回报/盈利未改善，则治理改革=新增买盘逻辑失败",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+    "catalog_index": 1,
+    "catalog_n": 3,
+    "catalog_coverage": "PARTIAL_CATALOG",
+    "outcome_used": false
+  },
+  "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+  "study_asset": "N225",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_022.html": "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d",
+    "research/phase4/sources/japan/jpx_governance_catalog.html": "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94"
+  },
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Jun. 01, 2018",
+    "locator": "original Market News date heading",
+    "source_path": "research/phase4/sources/japan/jp_event_source_022.html",
+    "source_sha256": "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d",
+    "source_url": "https://www.jpx.co.jp/english/news/1020/20180601.html",
+    "historical_vintage_independently_archived": false
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

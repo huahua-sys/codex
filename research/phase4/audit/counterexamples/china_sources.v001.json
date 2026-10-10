@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CSRC_2023_08_27_MARGIN_CHANGE",
+    "requested_url": "https://www.csrc.gov.cn/csrc/c100028/c7428485/content.shtml",
+    "resolved_url": "https://www.csrc.gov.cn/csrc/c100028/c7428485/content.shtml",
+    "retrieved_at": "2026-10-10T07:57:20.114371+00:00",
+    "path": "sources/counterexamples/CSRC_2023_08_27_MARGIN_CHANGE.html",
+    "sha256": "4defe35005e657cae044c64effe021fd216fd599a9bb04c3b6ab73ee1ecc77cb",
+    "bytes": 14034,
+    "status": 200
+  },
+  {
+    "id": "SSE_2015_11_13_MARGIN_CHANGE",
+    "requested_url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20151113_4012108.shtml",
+    "resolved_url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20151113_4012108.shtml",
+    "retrieved_at": "2026-10-10T07:57:18.574715+00:00",
+    "path": "sources/counterexamples/SSE_2015_11_13_MARGIN_CHANGE.html",
+    "sha256": "bd5bdd0c7166bc8c7748a101425778868d730fc22f516baee4871f9ccdfeeeba",
+    "bytes": 28357,
+    "status": 200
+  },
+  {
+    "id": "CSRC_2024_02_05_MARGIN_LIQUIDATION",
+    "requested_url": "https://www.csrc.gov.cn/csrc/c100028/c7461992/content.shtml",
+    "resolved_url": "https://www.csrc.gov.cn/csrc/c100028/c7461992/content.shtml",
+    "retrieved_at": "2026-10-10T07:57:19.290144+00:00",
+    "path": "sources/counterexamples/CSRC_2024_02_05_MARGIN_LIQUIDATION.html",
+    "sha256": "135eb1822f5db33a95301d051237ae82c65248476a011b22390f1f81f49bbf1b",
+    "bytes": 13244,
+    "status": 200
+  }
+]

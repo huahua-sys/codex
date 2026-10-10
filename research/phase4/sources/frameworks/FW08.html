@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]> <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]><html lang="en" class="no-js ie9" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en" class="no-js"> <!--<![endif]-->
+
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OFR STFM - Federal Reserve Bank of New York Primary Dealer Statistics | Office of Financial Research</title>
+    <meta name="twitter:title" content="OFR STFM - Federal Reserve Bank of New York Primary Dealer Statistics | Office of Financial Research">
+    <meta name="description" content="The FRBNY Primary Dealer Statistics are a weekly snapshot of the activity of primary dealers, which account for a large fraction of the total activity">
+    <meta name="twitter:description" content="The FRBNY Primary Dealer Statistics are a weekly snapshot of the activity of primary dealers, which account for a large fraction of the total activity">
+    <meta name="author" content="Office of Financial Research">
+    <link rel="alternate" type="application/rss+xml" title="Office of Financial Research" href="https://www.financialresearch.gov/feed.rss" />
+    <link rel="stylesheet" href="/assets/css/ofr.min.css?202610051549">
+    <link rel="apple-touch-icon" href="/favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" href="/favicon-152.png">
+    <link rel="canonical" href="https://www.financialresearch.gov/short-term-funding-monitor/datasets/nypd/">
+    <meta name="msapplication-TileColor" content="#001871">
+    <meta name="msapplication-TileImage" content="/favicon-144.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:image" content="https://www.financialresearch.gov/assets/images/monitor-meta-stfm.jpg">
+    <meta name="twitter:image" content="https://www.financialresearch.gov/assets/images/monitor-meta-stfm.jpg">
+    <script>
+      /* We are not using Modernizr, so remove the no-js class on the HTML element here */
+      document.documentElement.className = document.documentElement.className.replace("no-js", "js");
+    </script>
+    <!-- prevent clickjacking -->
+    <style id="antiClickjack">
+      .js body {
+        display: none !important;
+      }
+    </style>
+    <script type="text/javascript">
+      if (self === top) {
+        const antiClickjack = document.getElementById("antiClickjack");
+        antiClickjack.parentNode.removeChild(antiClickjack);
+      } else {
+        top.location = self.location;
+      }
+    </script>
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,200;0,300;0,400;1,400&display=swap" rel="stylesheet">
+    <!-- DAP -->
+    <script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=TRE&subagency=OFR&pga4=G-58753541-1&yt=false"></script>
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js"
+        });
+        let f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l !== "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-WQWNFP3N");
+    </script>
+    <!-- End Google Tag Manager -->
+    <script type="module" src="/assets/components/gov-banner/index-e9be130c.js"></script>
+  </head>
+
+  <body class="stfm_dataset_landing federal-reserve-bank-of-new-york-primary-dealer-statistics" role="document">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQWNFP3N" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- START global/header.html -->
+    <div id="site-header" class="site-header">
+      <uswds-gov-banner></uswds-gov-banner>
+      <div class="container site-header__container" role="banner">
+        <a class="skip-to-content" href="#content" id="skip-to-content-link">Skip to main content</a>
+        <script>
+          document.getElementById("skip-to-content-link").addEventListener("click", function() {
+            document.getElementById("content").focus();
+          });
+        </script>
+        <!--  <div class="row site-header__tagline-row">
+        <div class="col-sm-12">
+          <div class="site-header__logo pull-right"><a href="/"><h3>FinancialResearch.gov</h3></a></div>
+        </div>
+      </div> -->
+        <div class="site-header__logo-row">
+          <div class="site-header__logo-col">
+            <a href="/"><img class="site-header__ofr-logo" src="/assets/svg/OFR_LOGO_WEB.svg" alt="Office of Financial Research" /></a>
+          </div>
+          <div class="site-header__search-col">
+            <div class="site-header__logo pull-right"><a href="/">
+                <h3>FinancialResearch.gov</h3>
+              </a></div>
+            <div class="site-header__search">
+              <form accept-charset="UTF-8" action="https://search.usa.gov/search" method="get" role="search" id="search_form">
+                <div class="input-group">
+                  <input name="affiliate" type="hidden" value="ofr">
+                  <label class="sr-only" for="query">Enter Search Term(s):</label>
+                  <input autocomplete="off" id="query" class="form-control site-header__search-input" placeholder="Search" name="query" type="text">
+                  <span class="input-group-btn">
+                    <button name="commit" type="submit" class="site-header__search-button" aria-label="Search"><span class="fa-solid fa-search"></span><span class="btn-hidden-label">Submit</span></button>
+                </div>
+              </form>
+            </div><!-- /.site-header__search -->
+          </div><!-- /.site-header__search-col -->
+        </div><!-- /.site-header__logo-row -->
+      </div><!-- /.site-header__container -->
+    </div><!-- /.site-header -->
+    <nav>
+      <div id="site-navbar" class="navbar navbar-default site-navbar">
+        <div class="container">
+          <div class="row">
+            <!-- MOBILE DISPLAY -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#site-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+            <!-- END MOBILE DISPLAY -->
+            <div class="collapse navbar-collapse" id="site-navbar-collapse">
+              <ul class="nav navbar-nav" role="menubar">
+                <li class="dropdown active">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="menuitem" aria-expanded="false">Monitoring Tools <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a role="menuitem" href="/monitoring-tools/">Monitoring Tools Overview</a></li>
+                    <li><a role="menuitem" href="/bank-systemic-risk-monitor/">Bank Systemic Risk Monitor</a></li>
+                    <li><a role="menuitem" href="/financial-stress-index/">Financial Stress Index</a></li>
+                    <li><a role="menuitem" href="/hedge-fund-monitor/">Hedge Fund Monitor</a></li>
+                    <li><a role="menuitem" href="/short-term-funding-monitor/">Short-term Funding Monitor</a></li>
+                    <li><a role="menuitem" href="/money-market-funds/">U.S. Money Market Fund Monitor</a></li>
+                    <li role="separator" class="divider">Discontinued</li>
+                    <li class="dropdown-header">Discontinued Monitors</li>
+                    <li><a role="menuitem" href="/financial-vulnerabilities/">Financial System Vulnerabilities Monitor</a></li>
+                    <li><a role="menuitem" href="/financial-markets-monitor/">Financial Markets Monitor</a></li>
+                    <li><a role="menuitem" href="/gsib-scores-chart/">G-SIB Scores Interactive Chart</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown ">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="menuitem" aria-expanded="false">Data &amp; Standards <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a role="menuitem" href="/data/">Data & Standards Overview</a></li>
+                    <li><a role="menuitem" href="/data/financial-instrument-reference-database/">Financial Instrument Reference Database (FIRD)</a></li>
+                    <li><a role="menuitem" href="/data/collections/">Data Collections</a></li>
+                    <li><a role="menuitem" href="/data/legal-entity-identifier/">Legal Entity Identifier (LEI)</a></li>
+                    <li><a role="menuitem" href="/data/interagency-data-inventory/">Interagency Data Inventory</a></li>
+                    <li><a role="menuitem" href="/data/libor-alternatives/">LIBOR Alternatives</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown ">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="menuitem" aria-expanded="false">News &amp; Events <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a role="menuitem" href="/news-events/">News &amp; Events Overview</a></li>
+                    <li><a role="menuitem" href="/from-the-director/">From the Director</a></li>
+                    <li><a role="menuitem" href="/the-ofr-blog/">Blog</a></li>
+                    <li><a role="menuitem" href="/press-releases/">Press Releases</a></li>
+                    <li><a role="menuitem" href="/congressional-testimony/">Congressional Testimony</a></li>
+                    <li><a role="menuitem" href="/public-appearances/">Public Appearances</a></li>
+                    <li><a role="menuitem" href="/conferences/">Conferences</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown ">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="menuitem" aria-expanded="false">Inside the OFR <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a role="menuitem" href="/about/">About Us</a></li>
+                    <li><a role="menuitem" href="/staff/">OFR Leadership</a></li>
+                    <li><a role="menuitem" href="/careers/">Careers</a></li>
+                    <li><a role="menuitem" href="/frac/">Financial Research Advisory Committee</a></li>
+                    <li><a role="menuitem" href="/about/policies/">Policies</a></li>
+                    <li><a role="menuitem" href="/budget/">Budget</a></li>
+                    <li><a role="menuitem" href="/strategy/">Strategy</a></li>
+                    <li><a role="menuitem" href="/grants/">Grants</a></li>
+                    <li><a role="menuitem" href="/research-staff/">Meet the Research Staff</a></li>
+                    <li><a role="menuitem" href="/partnerships/">Partnerships</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown ">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="menuitem" aria-expanded="false">Publications <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a role="menuitem" href="/publications/">Publications Overview</a></li>
+                    <li><a role="menuitem" href="/briefs/">Briefs</a></li>
+                    <li><a role="menuitem" href="/reports/">Reports</a></li>
+                    <li><a role="menuitem" href="/staff-discussion-papers/">Staff Discussion Papers</a></li>
+                    <li><a role="menuitem" href="/viewpoint-papers/">Viewpoint Papers</a></li>
+                    <li><a role="menuitem" href="/working-papers/">Working Papers</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                <li class="feedback-email"><a href="#">Feedback <i class="fa-solid fa-envelope" aria-hidden="true"></i></a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Subscribe <i class="fa-solid fa-rss" aria-hidden="true"></i></a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USTREASOFR/subscribers/qualify" method="post" class="sign-up-form">
+                        <div class="form-group">
+                          <input name="utf8" type="hidden" value="✓">
+                          <input name="authenticity_token" type="hidden" value="tiEIApP9aICsyys4QgVy481rtOQbrpsx25Vt1auxjO8=">
+                          <input id="topic_id" name="topic_id" type="hidden" value="USTREASOFR_1">
+                          <label for="email">Get updates from the OFR:</label>
+                          <div class="input-group">
+                            <input type="text" class="form-control" id="email" name="email" placeholder="e-mail">
+                            <span class="input-group-btn">
+                              <button class="btn btn-info" type="submit">Sign up</button>
+                            </span>
+                          </div>
+                        </div>
+                      </form>
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item-twitter">
+                  <a href="https://twitter.com/ofrgov" data-toggle="tooltip" data-placement="bottom" title="The website associated with the link you have selected is located on another server and is not subject to Federal information quality, privacy, security, and related guidelines. The OFR does not endorse this other website, its sponsor, or any of the views, activities, products, or services offered on the website or by any advertiser on the website." target="_blank" rel="noopener noreferrer">
+                    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" height="14" width="14" xml:space="preserve" fill="currentcolor">
+                      <title>Logo for Twitter</title>
+                      <path d="m0 0v100h100v-100h-100zm10 10h25.312l17.479 25.562 20.213-25.562h12.268l-26.799 33.887 31.527 46.113h-24.686l-19.336-27.967-22.125 27.967h-12.273l28.666-36.246-30.246-43.754zm14.326 7.6973 44.373 64.18h6.7969l-43.877-64.18h-7.293z" fill-rule="evenodd" stroke-width="3.9005" />
+                    </svg>
+                  </a>
+                </li>
+                <li class="nav-item-twitter">
+                  <a href="https://www.linkedin.com/company/office-of-financial-research/" data-toggle="tooltip" data-placement="bottom" title="The website associated with the link you have selected is located on another server and is not subject to Federal information quality, privacy, security, and related guidelines. The OFR does not endorse this other website, its sponsor, or any of the views, activities, products, or services offered on the website or by any advertiser on the website." target="_blank" rel="noopener noreferrer">
+                    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" height="14" width="14" xml:space="preserve" fill="currentcolor">
+                      <title>Logo for LinkedIn</title>
+                      <path d="m7.5391 0c-4.0762 0-7.5391 3.2239-7.5391 7.1953v85.605c0 3.9762 2.2715 7.1992 6.3477 7.1992h85.219c4.0809 0 8.4336-3.223 8.4336-7.1992v-85.605c0-3.9714-3.1612-7.1953-7.2422-7.1953zm15.439 12.646a8.9262 8.9262 0 0 1 7.3789 8.7812 8.9268 8.9268 0 1 1-17.854 0.0058 8.9262 8.9262 0 0 1 10.475-8.7871zm44.336 24.854c14.386 0 18.4 7.6376 18.4 21.785v26.43h-14.287v-23.824c0-6.3333-2.5271-11.891-8.4414-11.891-7.1809 0-10.605 4.8628-10.605 12.844v22.871h-14.285v-47.619h13.461v6.8613h0.14845c2.0524-3.7 8.1141-7.457 15.609-7.457zm-53.029 0.5957h14.287v47.619h-14.287zm-14.285-38.096v7.1953c0-3.9714 3.4629-7.1953 7.5391-7.1953zm92.758 0c4.0809 0 7.2422 3.2239 7.2422 7.1953v-7.1953zm-92.758 92.801v7.1992h6.3477c-4.0762 0-6.3477-3.223-6.3477-7.1992zm100 0c0 3.9762-4.3527 7.1992-8.4336 7.1992h8.4336z" fill-rule="evenodd" stroke-width=".4" />
+                    </svg>
+                  </a>
+                </li>
+              </ul>
+            </div><!--/.collapse -->
+          </div><!--/.row -->
+        </div><!--/.container -->
+      </div><!--/.navbar -->
+    </nav>
+    <!-- END global/header.html -->
+    <div id="content">
+      <link rel="stylesheet" href="/assets/css/ofr.min.css">
+      <link rel="stylesheet" href="/assets/css/stfm/stfm.css">
+      <link rel="stylesheet" href="/assets/css/stfm/jquery-ui.css">
+      <link rel="stylesheet" href="/assets/css/jquery.dataTables.min.css">
+      <script src="/assets/js/legacyLibraries/jquery-ui.min.js"></script>
+      <script src="/assets/js/stfm/stfmHighChartsNodeModules.js"></script>
+      <script src="/assets/js/jquery.dataTables.min.js"></script>
+      <script src="/assets/js/stfm/stfm-dataset.js"></script>
+      <div class="container main-container">
+        <div class="row main-content">
+          <div id="body-content" class="body-content-one-col" role="main">
+            <div class="row"> <!-- START banner.html -->
+              <!-- page.section: monitoring-tools -->
+              <!-- page.categories: short-term-funding-monitor -->
+              <!-- page.layout_name:  -->
+              <!-- page.layout_type:  -->
+              <div class="banner">
+                <header>
+                  <a href="/">Home</a>
+                  <!-- section.homepage: /monitoring-tools/ --> / <a href="/monitoring-tools/" id="banner">Monitoring Tools</a> / <a href="/short-term-funding-monitor/" id="banner">Short-term Funding Monitor</a> / Federal Reserve Bank of New York Primary Dealer Statistics
+                </header>
+              </div><!-- ./banner -->
+              <div class="page-title__col">
+                <h1 class="page-title h2"> Federal Reserve Bank of New York Primary Dealer Statistics </h1>
+              </div>
+              <!-- END banner.html -->
+            </div>
+            <nav id="stfmNav">
+              <a class="skipNav" href="#skip1">Skip to Content</a>
+              <!-- MOBILE DISPLAY -->
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#site-navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div>
+              <!-- END MOBILE DISPLAY -->
+              <div class="stfmNav" id="sub-navbar-collapse">
+                <ul class="nav navbar-nav">
+                  <li><a href="/short-term-funding-monitor/">Overview</a></li>
+                  <li class="dropdown "><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Market Digests <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="/short-term-funding-monitor/market-digests/collateral/chart-6/">Collateral</a></li>
+                      <li><a href="/short-term-funding-monitor/market-digests/tenor/chart-27/">Tenor</a></li>
+                      <li><a href="/short-term-funding-monitor/market-digests/volume/chart-28/">Volume</a></li>
+                      <li><a href="/short-term-funding-monitor/market-digests/rates/chart-18/">Rates</a></li>
+                    </ul>
+                  </li>
+                  <li class="dropdown ">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Data Sets<span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="/short-term-funding-monitor/datasets/mmf/">U.S. Money Market Funds</a></li>
+                      <li><a href="/short-term-funding-monitor/datasets/repo/">U.S. Repo Markets</a></li>
+                      <li><a href="/short-term-funding-monitor/datasets/fnyr/">Reference Rates</a></li>
+                      <li><a href="/short-term-funding-monitor/datasets/nypd/">Primary Dealer Statistics</a></li>
+                      <li><a href="/short-term-funding-monitor/datasets/tyld/">Treasury Constant Maturity Rates</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="/short-term-funding-monitor/api/">API Reference</a></li>
+                  <li><a href="/short-term-funding-monitor/mnemonics/">Mnemonics</a></li>
+                  <li><a href="/short-term-funding-monitor/documentation/">Documentation</a></li>
+                </ul>
+                <div id="STFM_API" style="display: none;">https://data.financialresearch.gov/</div>
+              </div>
+              <span id="skip1" tabindex="-1"></span>
+            </nav>
+            <div style="clear: both"></div>
+            <section class="dataSeriesMain">
+              <div id="dataKey" style="display: none;">nypd</div>
+              <div class="dropdown clear">
+                <button id="downloadDatasetData" class="get-timeseries-data download dropbtn">Download Data Set</button>
+                <div id="downloadDatasetContent" class="dropdown-content clear"> </div>
+              </div>
+              <h2>Federal Reserve Bank of New York Primary Dealer Statistics</h2>
+              <script>
+                $('.page-title').html("OFR Short-term Funding Monitor - Data Sets");
+                document.title = "OFR STFM - Federal Reserve Bank of New York Primary Dealer Statistics | Office of Financial Research";
+              </script>
+              <div class="col70">
+                <p>The Federal Reserve Bank of New York <a href="https://www.newyorkfed.org/markets/gsds/search" target="_blank">Primary Dealer Statistics</a> are a weekly snapshot of the activity of <a href="https://www.newyorkfed.org/markets/primarydealers" target="_blank">primary dealers</a>, which account for a large fraction of the total activity of all securities dealers. These data include information on the positions, transactions, financing, and fails (both failures-to-deliver and failures-to-receive) for primary dealers, along with other information. Only a subset of the series published by the New York Fed are included in the Short-term Funding Monitor.</p>
+                <p>The series are typically published weekly on Thursday by the New York Fed for the prior week. The OFR adds these data to the Short-term Funding Monitor the following business day. The time the data were last retrieved is noted on each individual data series page.</p>
+              </div>
+              <div class="col30">
+                <div class="latest-daily-observation timeseriesList">
+                  <h3>Series in This Data Set</h3>
+                  <div style="display:none" id="datasetID">nypd</div>
+                  <div style="display:none" id="datasetrows">10</div>
+                  <div class="timeseries-text">
+                    <table id='timeSeriesTable' data-type="dataSet" class='display' style='width:100%'>
+                      <thead>
+                        <tr>
+                          <th>Series Name</th>
+                        </tr>
+                      </thead>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div><!-- /.body-content-one-col -->
+          <div class="stfmDisclaimer">
+            <b>General Disclaimer</b>
+            <p class="stfm-text">This OFR monitor is presented solely for informative purposes and should not be relied upon for financial decisions; it is not intended to provide any investment or financial advice. If you have any specific questions about any financial or other matter please consult an appropriately qualified professional. The OFR makes no warranty, express or implied, nor assumes any legal liability or responsibility for the accuracy, completeness, reliability, and usefulness of any information that is available through this website, nor represents that its use would not infringe on any privately owned rights.</p>
+            <b>Disclaimer Regarding Non-OFR Data and Information</b>
+            <p class="stfm-text">For convenience and informational purposes only, the OFR may provide links and references to nongovernment sites. These sites may contain information that is copyrighted with restrictions on reuse. Permission to use copyrighted materials must be obtained from the original source and cannot be obtained from the OFR or from the U.S. Treasury Department. The OFR is not responsible for the content of external websites linked to or referenced from this site or from the OFR web server. The U.S. government, the U.S. Treasury Department, the Financial Stability Oversight Council, and the OFR neither endorse the data, information, content, materials, opinions, advice, statements, offers, products, services, presentation, or accuracy, nor make any warranty, express or implied, regarding these external websites. Please note that neither the U.S. Treasury Department nor the OFR controls, and cannot guarantee, the relevance, timeliness, or accuracy of third-party content or other
+              materials. Users should be aware that when they select a link on this OFR website to an external website, they are leaving the OFR site.</p>
+            <b>Suggested Citation</b>
+            <p class="stfm-text">Office of Financial Research, "OFR Short-term Funding Monitor," refreshed daily, https://www.financialresearch.gov/short-term-funding-monitor/ (accessed <span class="todayDate"></span>).</p>
+          </div>
+        </div><!-- /.main-conent -->
+      </div><!-- /.container -->
+      <script>
+        (function() {
+          var MNEMONIC_PATTERN = /^[A-Za-z0-9_-]+$/;
+          var mnemonic = new URLSearchParams(window.location.search).get('mnemonic') || '';
+          if (MNEMONIC_PATTERN.test(mnemonic)) {
+            document.querySelectorAll('.mnemonicName').forEach(function(el) {
+              el.textContent = mnemonic;
+            });
+          }
+        })();
+      </script>
+    </div><!-- /#content -->
+    <!-- Empty modal used to "dynamically" pull in content for external links -->
+    <div class="modal fade" id="externalSitenotification" role="dialog" aria-labelledby="externalLinkLabel">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="externalLinkLabel">You are now leaving the OFR’s website.</h4>
+          </div>
+          <div class="modal-body">
+            <p>You will be redirected to:</p>
+            <p><span class="modal-external-link"></span></p>
+            <p>You are now leaving the OFR Website. The website associated with the link you have selected is located on another server and is not subject to Federal information quality, privacy, security, and related guidelines. To remain on the OFR Website, click 'Cancel'. To continue to the other website you selected, click 'Proceed'. The OFR does not endorse this other website, its sponsor, or any of the views, activities, products, or services offered on the website or by any advertiser on the website.</p>
+            <p>Thank you for visiting www.financialresearch.gov.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default modal-cancel" data-dismiss="modal">Cancel</button>
+            <a class="btn btn-primary proceed-to-external-link proceed-to-external-link-btn" href="#">Proceed</a>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <footer>
+      <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px">
+        <div id="divThumbs"> Was this page helpful? <button id="btnThumbsUp" title="Thumbs Up" style="background: none; border: none; padding: 0">
+            <svg aria-hidden="true" focusable="false" role="img" style="height: 2em; width: 2em; vertical-align: text-bottom; fill: #31458c">
+              <use xlink:href="/assets/images/uswds/sprite.svg#thumb_up_alt"></use>
+            </svg>
+          </button>
+          <button id="btnThumbsDown" title="Thumbs Down" style="background: none; border: none; padding: 0">
+            <svg aria-hidden="true" focusable="false" role="img" style="height: 2em; width: 2em; vertical-align: text-bottom; fill: #31458c">
+              <use xlink:href="/assets/images/uswds/sprite.svg#thumb_down_alt"></use>
+            </svg>
+          </button>
+        </div>
+        <div id="divComment" hidden>
+          <label for="txtTouchpoint" style="display: block">How can we make this page better?</label>
+          <textarea id="txtTouchpoint" name="txtTouchpoint" maxlength="10000" rows="2" cols="25"></textarea>
+          <input id="hidAnswer1" type="hidden" />
+          <br />
+          <input type="button" value="Send feedback" id="btnSubmitFeedback" class="btn btn-primary" style="margin-top: 0.5em" />
+        </div>
+        <div id="divThanks" hidden>Thank you for your feedback!</div>
+      </div>
+      <script>
+        const divThumbs = document.querySelector("#divThumbs");
+        const divComment = document.querySelector("#divComment");
+        const divThanks = document.querySelector("#divThanks");
+        const txtTouchpoint = document.querySelector("#txtTouchpoint");
+        const hidAnswer1 = document.querySelector("#hidAnswer1");
+        /**
+         * Send survey responses to touchpoints API.
+         * Switch view to thank you message.
+         */
+        async function submitForm() {
+          await fetch("https://touchpoints.app.cloud.gov/touchpoints/5fc4d26d/submissions.json", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json; charset=UTF-8;",
+            },
+            body: JSON.stringify({
+              submission: {
+                answer_01: hidAnswer1.value,
+                answer_02: txtTouchpoint.value,
+                referer: document.referrer,
+                hostname: location.hostname,
+                page: location.pathname,
+                location_code: "",
+                fba_directive: "",
+                language: navigator.language,
+              },
+            }),
+          });
+          divThumbs.hidden = divComment.hidden = true;
+          divThanks.hidden = false;
+        }
+        /**
+         * Set the value of the hidden input element to `ans`.
+         * Switch view to comment and submit button.
+         * @param {'Yes' | 'No'} ans
+         */
+        function showForm(ans) {
+          hidAnswer1.value = ans;
+          divComment.hidden = false;
+          divThumbs.hidden = divThanks.hidden = true;
+          gas4("was_this_helpful_submit", {
+            event_category: "cx_feedback",
+            event_action: "was_this_page_helpful2",
+            event_label: ans,
+          });
+        }
+        document.querySelector("#btnThumbsUp").addEventListener("click", function() {
+          showForm("Yes");
+        });
+        document.querySelector("#btnThumbsDown").addEventListener("click", function() {
+          showForm("No");
+        });
+        document.querySelector("#btnSubmitFeedback").addEventListener("click", submitForm);
+        var thumbSvgs = document.querySelectorAll("#divThumbs svg");
+        thumbSvgs.forEach(function(svg) {
+          svg.addEventListener("mouseover", function() {
+            this.style.fill = "#4C8C2B";
+          });
+          svg.addEventListener("mouseout", function() {
+            this.style.fill = "#31458c";
+          });
+        });
+      </script>
+      <div id="site-footer" class="site-footer">
+        <div class="site-footer__body">
+          <div class="container site-footer--border-top">
+            <div class="row">
+              <div class="site-footer__address-col">
+                <a href="/about/#contact-us">
+                  <p>
+                    <strong>OFFICE OF FINANCIAL RESEARCH</strong><br /> U.S. Department of the Treasury<br /> 717 14th Street, NW<br /> Washington, DC 20220
+                  </p>
+                </a>
+              </div>
+              <div class="site-footer__links-col">
+                <ul>
+                  <li><a href="/about/#contact-us">Contact us</a></li>
+                  <li><a href="/accessibility/">Accessibility</a></li>
+                  <li><a href="/careers/">Careers</a></li>
+                  <li><a href="/foia/">FOIA</a></li>
+                </ul>
+              </div>
+              <div class="site-footer__links-col">
+                <ul>
+                  <li><a href="/legal-notices/">Legal Notices</a></li>
+                  <li><a href="/no-fear-act/">No FEAR Act</a></li>
+                  <li><a href="/privacy-policy/">Privacy</a><br /></li>
+                  <li><a href="https://home.treasury.gov/subfooter/site-policies-and-notices/plain-writing" class="link-external">Plain Writing</a></li>
+                </ul>
+              </div><!-- ./col-md-3 -->
+              <div class="col-sm-2 site-footer__links-col--last">
+                <ul>
+                  <li><a href="https://oig.treasury.gov/" class="link-external">Office of Inspector General</a></li>
+                  <li><a href="https://home.treasury.gov/services/report-fraud-waste-and-abuse" class="link-external">Report Fraud Waste and Abuse</a></li>
+                  <li><a href="https://home.treasury.gov/" class="link-external">U.S. Department of the Treasury</a></li>
+                  <li><a href="https://www.usa.gov/" class="link-external">USA.gov</a></li>
+                </ul>
+              </div><!-- ./col-md-3 -->
+              <div class="site-footer__emblem-col">
+                <a href="/">
+                  <div class="site-footer__emblem pull-right">Office of Financial Research</div>
+                </a>
+              </div><!-- ./col-md-3 -->
+            </div><!-- ./row -->
+          </div><!-- /.container -->
+        </div><!-- /.site-footer__body -->
+      </div><!-- /#site-footer -->
+    </footer>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/assets/js/ofr.min.js?202610051549"></script>
+  </body>
+
+</html>

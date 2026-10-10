@@ -446,3 +446,8 @@
 ## Phase3预测口径隔离 — 2026-10-09T15:27:03.912849+00:00
 
 新增主观Bear/Base/Bull/概率预测=0；2113是固定单变量决策feature，不是2113预测。2087/1995为12/24m成熟价格标签，经验winrate不是主观概率校准；没有新Brier或“70%概率”成功声明。原377有效预测与原374成熟12m锁完全不改，282基集保持。forward168planned/0real capture/0decision/0probability/0outcome；首月末2026-10-30。RAW OBSERVATIONS和独立N见Phase3面板/有效样本报告，不将多个期限标签记成新的实验。
+
+
+## Phase4 — 行为事件不等于新增预测
+
+115 source-first卡、667成熟宽基价格event-horizon标签、102描述统计槽；**0新增概率/方向预测、0实时capture、0新增可操作原则**。这些不是115 Historical Replay预测，不进入原主观概率Calibration分母。置信度表示原来源/动作或机制可信度，不是上涨概率。第一真实live forward日期仍2026-10-30；旧预测和冻结结果不变。

@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_974a467bb400871d0cdb",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/2011all.htm",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:23.760356+00:00",
+  "source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/2011all.htm",
+  "content_type": "text/html",
+  "source_sha256": "175c3aa353bcb1ef2289f7eb7617d51a3243a16fcc4cdfb00497f95d9db9e795",
+  "bytes": 253228,
+  "text_path": "research/phase4/sources/us/974a467bb400871d0cdb.txt",
+  "text_sha256": "9025c29bce881ff6d8dadb0eebef094215c6ad937c8397129efa5437046b44de"
+}

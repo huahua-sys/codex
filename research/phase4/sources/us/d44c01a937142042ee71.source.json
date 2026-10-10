@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_d44c01a937142042ee71",
+  "url": "https://www.sec.gov/newsroom/press-releases?year=2021&combine=money+market",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:28.506563+00:00",
+  "source_path": "research/phase4/sources/us/d44c01a937142042ee71.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.sec.gov/newsroom/press-releases?year=2021&combine=money+market",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "de2ffc57b47c9e929462af8ad1f2334511d4d129ed53d6d1a4cc3e77de19adb4",
+  "bytes": 68477,
+  "text_path": "research/phase4/sources/us/d44c01a937142042ee71.txt",
+  "text_sha256": "5aa684e48bf1de9cb1d9627c221a59baa0676ec1db4a65de4ed0ed447b65c344"
+}

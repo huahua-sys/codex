@@ -1,0 +1,32 @@
+{
+  "repository": "huahua-sys/codex",
+  "branch": "main",
+  "parent_commit": "ec9d0dc8c3af317c54707de3ff4e089a24b70725",
+  "allowed_existing_changes": [
+    "CANDIDATE_PRINCIPLES.md",
+    "CHANGELOG.md",
+    "CURRENT_FRAMEWORK.json",
+    "FAILED_HYPOTHESES.md",
+    "HYPOTHESIS_REGISTRY.md",
+    "MULTIPLE_TESTING_LEDGER.md",
+    "OPEN_QUESTIONS.md",
+    "PREDICTION_LEDGER.md",
+    "RESEARCH_LEDGER.md",
+    "research/status/LATEST.md"
+  ],
+  "core_zip_path": "deliverables/Investment_Research_Phase4_CORE.zip",
+  "core_zip_sha256": "bdef7229e0c67ad0323c640c2776d4fce49df94c4d829d030a3a8b7eb7eec942",
+  "core_zip_bytes": 9007829,
+  "original_135mb_zip_in_git": false,
+  "original_135mb_zip_recompressed": false,
+  "original_release_upload_not_retried_in_phase4": true,
+  "push_attempts_planned": 1,
+  "force_push_permitted": false,
+  "on_write_authorization_failure": "STOP_WITHOUT_RETRY",
+  "commit_message": "Add Phase 4 market ecology research with frozen event evidence and verified core export",
+  "post_push_checks": [
+    "remote main commit matches local commit",
+    "remote ZIP blob SHA and size match local tracked file"
+  ],
+  "user_download_confirmed": false
+}

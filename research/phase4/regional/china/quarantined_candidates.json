@@ -1,0 +1,104 @@
+[
+  {
+    "source_id": "CN-S-INS-2014",
+    "url": "https://www.iamac.org.cn/flfg/gfxwj/201503/t20150319_298.html",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:56:45.618533+00:00",
+    "status": "BLOCKED",
+    "error": "TimeoutError: The read operation timed out",
+    "pit_status": "POINT_IN_TIME_UNCERTAIN",
+    "reason": "下载失败/JS shell无正文，或只有成文日期未证明原首次发布日期；未纳入量化事件",
+    "known_only_after_t": [
+      "今日检索/工具抽取不可替代当时已公开原文"
+    ]
+  },
+  {
+    "source_id": "CN-S-INS-2015",
+    "url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail_gdsj.html?docId=17512&docType=2",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:56:45.767220+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail_gdsj.html?docId=17512&docType=2",
+    "content_type": "text/html",
+    "sha256": "406870216957226a2ea3ff49739f6c4cc62a22e37966a4d3e18f4247829e6335",
+    "bytes": 15610,
+    "path": "research/phase4/sources/china/CN-S-INS-2015.html",
+    "pit_status": "POINT_IN_TIME_UNCERTAIN",
+    "reason": "下载失败/JS shell无正文，或只有成文日期未证明原首次发布日期；未纳入量化事件",
+    "known_only_after_t": [
+      "今日检索/工具抽取不可替代当时已公开原文"
+    ]
+  },
+  {
+    "source_id": "CN-S-INS-2025",
+    "url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1203998&itemId=928",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:56:46.777186+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1203998&itemId=928",
+    "content_type": "text/html",
+    "sha256": "2746269444dfbb546796f82825e20d277d6f21e04a357922a03218f9a5bd14d6",
+    "bytes": 20416,
+    "path": "research/phase4/sources/china/CN-S-INS-2025.html",
+    "pit_status": "POINT_IN_TIME_UNCERTAIN",
+    "reason": "下载失败/JS shell无正文，或只有成文日期未证明原首次发布日期；未纳入量化事件",
+    "known_only_after_t": [
+      "今日检索/工具抽取不可替代当时已公开原文"
+    ]
+  },
+  {
+    "source_id": "CN-S-CORP-2019",
+    "url": "https://www.szse.cn/aboutus/trends/news/t20190111_564058.html",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:56:53.818932+00:00",
+    "status": "BLOCKED",
+    "error": "HTTPError: HTTP Error 503: Service Unavailable",
+    "pit_status": "POINT_IN_TIME_UNCERTAIN",
+    "reason": "下载失败/JS shell无正文，或只有成文日期未证明原首次发布日期；未纳入量化事件",
+    "known_only_after_t": [
+      "今日检索/工具抽取不可替代当时已公开原文"
+    ]
+  },
+  {
+    "source_id": "CN-S-CORP-RELOAN-2024",
+    "url": "https://www.csrc.gov.cn/csrc/c100028/c7513043/content.shtml",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:56:58.142722+00:00",
+    "status": "BLOCKED",
+    "error": "HTTPError: HTTP Error 503: Service Unavailable",
+    "pit_status": "POINT_IN_TIME_UNCERTAIN",
+    "reason": "下载失败/JS shell无正文，或只有成文日期未证明原首次发布日期；未纳入量化事件",
+    "known_only_after_t": [
+      "今日检索/工具抽取不可替代当时已公开原文"
+    ]
+  },
+  {
+    "source_id": "CN-S-CORP-RELOAN-2024-PBOC",
+    "url": "https://www.pbc.gov.cn/redianzhuanti/118742/5444129/5444142/481faf4556cb42a5b444677b9673ea5c/index.html",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:56:59.910277+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.pbc.gov.cn/redianzhuanti/118742/5444129/5444142/481faf4556cb42a5b444677b9673ea5c/index.html",
+    "content_type": "text/html",
+    "sha256": "7cecae26cce7f583b4857fd71f9d3c58c6d0d57590c81d3bc3f1260dd1b66234",
+    "bytes": 16219,
+    "path": "research/phase4/sources/china/CN-S-CORP-RELOAN-2024-PBOC.html",
+    "pit_status": "POINT_IN_TIME_UNCERTAIN",
+    "reason": "下载失败/JS shell无正文，或只有成文日期未证明原首次发布日期；未纳入量化事件",
+    "known_only_after_t": [
+      "今日检索/工具抽取不可替代当时已公开原文"
+    ]
+  }
+]

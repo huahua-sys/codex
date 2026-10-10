@@ -1,0 +1,12 @@
+{
+  "recorded_at_utc": "2026-10-10T08:19:18.138355+00:00",
+  "stage": "C2_PRICE_CONTEXT",
+  "reconstructed_checkpoint_record_not_fake_ex_ante_time": true,
+  "files": {
+    "research/phase4/labels/event_reactions.v001.json": "d3644fa40ce164c23f21cab826168d9a824a6ec933ab86fd49cc2ca7adfadc55",
+    "research/phase4/analysis/event_study.results.v001.json": "83ce0b01621a988dc050481f3bfd7cc4ca77a3c61aaa8f804d2ece7b9069599c"
+  },
+  "probability_forecasts": 0,
+  "operational_principles": 0,
+  "old_results_changed": false
+}

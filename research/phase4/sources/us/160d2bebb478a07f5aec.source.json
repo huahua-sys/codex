@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_160d2bebb478a07f5aec",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080115a.htm",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:33.816657+00:00",
+  "source_path": "research/phase4/sources/us/160d2bebb478a07f5aec.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080115a.htm",
+  "content_type": "text/html",
+  "source_sha256": "320cb82594ce336f02dd7b04b3657dfef4af43dde1d577dd7a72ed5f039ab9b8",
+  "bytes": 80579,
+  "text_path": "research/phase4/sources/us/160d2bebb478a07f5aec.txt",
+  "text_sha256": "f6d9f594f5655cb5a028950caf19c6f95bc03afa066008ebfade6e9637849376"
+}

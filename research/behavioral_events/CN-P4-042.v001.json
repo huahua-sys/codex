@@ -1,0 +1,92 @@
+{
+  "event_id": "CN-P4-042",
+  "market": "China",
+  "family": "公司/产业资金",
+  "parent_episode": "CN-CAPITAL-MARKET-FACILITIES-2024",
+  "published_date": "2025-05-12",
+  "available_at": "2025-05-12T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "商业银行/上市公司/主要股东",
+  "constraint": "银行风险自担、回购专用账户、现金用途限制",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "官方上海门户在5月12日发布并附2025Q1报告：3月末相关贷款已发放约420亿元；拟申请近900亿元/合同超700亿元并非实际支出",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 420,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_LOAN_DISBURSEMENT_NOT_VERIFIED_EQUITY_TRADE",
+    "scope": "截至2025年3月末股票回购增持银行贷款",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "存量贷款；后续回购/增持期未知",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "price_sensitive": "UNKNOWN_AT_T",
+  "information_based": "UNKNOWN_AT_T",
+  "known_at_t": [
+    "截至报告期末实际发放贷款约420亿元",
+    "贷款合同/申请上限大于实发",
+    "采用可查官方转载5月12日作为保守公开日；不将3月31日季度末当已知时点"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "逐笔股票购买、贷款尚未部署/是否已用",
+    "剩余贷款和计划执行时间",
+    "是否提前计价、是否替代原自有资金",
+    "贷款企业和股东资产负债表风险"
+  ],
+  "source_ids": [
+    "CN-S-CORP-LOAN-2025-Q1-PUBLICATION",
+    "CN-S-CORP-LOAN-2025-Q1"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1-PUBLICATION.html",
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1.pdf"
+  ],
+  "source_urls": [
+    "https://jrj.sh.gov.cn/SCGK194/20250512/f0ae149093614c04ab6b911c5df2c80b.html",
+    "https://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/f5c4690f2cbd40918bf24c2d39ac58af/2025091218344076234/2025081517321679368.pdf"
+  ],
+  "source_sha256": [
+    "4428fffe5d94d3062dce1948d8681a2cd9c68ebe4ce0bd1b1bd7e4af187413d9",
+    "ca0d0af85241dbde98f21bc9442120fe2c4bd944999555ac27668c4277d26408"
+  ],
+  "source_excerpt": "3 月末，上市公司披露拟申请股票回购增持贷款金额上限近\n\n900 亿元，金融机构签订股票回购增持贷款合同金额超 700 亿元，已\n\n发放约 420 亿元。坚定支持中央汇金公司加大力度增持股票市场指数\n\n基金，并在必要时向中央汇金公司提供充足的再贷款支持，坚决维护\n\n\n                  13\n\f资本市场平稳运行。\n\n  四、发挥货币政策结构优化作用\n\n  加大普惠金融支持力度。积极运用支农支小再贷款、再贴现，引\n\n导地方法人金融机构扩大对涉农、小微和民营企业的信贷投放。1 月\n\n",
+  "publication_date_evidence": {
+    "source_id": "CN-S-CORP-LOAN-2025-Q1-PUBLICATION",
+    "excerpt": "来源：中国人民银行 发布时间：2025-05-12 [打印本页] [纠错] --> 1 1 1 1 Micro",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "资金便宜/专用贷款增强购买能力；融资到账仍需成交明细核实，不能认定净新增市场买盘",
+  "alternative_explanation": "约束变化可能只是响应已发生的市场/宏观变化；方向可由基本面或同期政策驱动",
+  "falsifier": "后续实际执行为零、其他资金完全抵销、基本面继续损坏或效应仅持续不足一周",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "source_excerpt_source_id": "CN-S-CORP-LOAN-2025-Q1",
+  "original_report_cover_date": "2025-05-09",
+  "original_first_publication_verified_from_native_contemporaneous_source": false,
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1-PUBLICATION.html": "4428fffe5d94d3062dce1948d8681a2cd9c68ebe4ce0bd1b1bd7e4af187413d9",
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1.pdf": "ca0d0af85241dbde98f21bc9442120fe2c4bd944999555ac27668c4277d26408"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

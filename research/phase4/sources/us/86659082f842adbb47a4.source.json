@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_86659082f842adbb47a4",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/2022-press.htm",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:24.593322+00:00",
+  "source_path": "research/phase4/sources/us/86659082f842adbb47a4.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/2022-press.htm",
+  "content_type": "text/html",
+  "source_sha256": "9f05eddb78bbb3346847a3d309a61fa1b142b544d7ce6bc4822b10cf447ba42c",
+  "bytes": 190572,
+  "text_path": "research/phase4/sources/us/86659082f842adbb47a4.txt",
+  "text_sha256": "d1a7336e295c6d69544e66489fa426543e07a2e147ed19b1fa62b411db68a522"
+}

@@ -1,0 +1,891 @@
+[
+  {
+    "source_id": "boj_catalog_2008",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2008/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2008.html",
+    "sha256": "cd2c2996f23d70570ec89be0df9c82512d0e4b2ba86b3a9154c0ed1436b99d5f",
+    "bytes": 40449,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:49.297077+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2009",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2009/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2009.html",
+    "sha256": "eea4ddac39804e91b699a5ac7177ba1d58079fa74ce94e3deafa340a3440bd20",
+    "bytes": 40003,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:48.602240+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2010",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2010/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2010.html",
+    "sha256": "be6fb2d5010b1b683a3b9d224b3c452d70a1c5df4381f32e4cf498a1b90a373c",
+    "bytes": 40582,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:50.465613+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2011",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2011/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2011.html",
+    "sha256": "302a2a56b64f170183bcf5ed6df324f98858a45ea4b7f7149b180e1b0ac1869c",
+    "bytes": 39742,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:48.830465+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2012",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2012/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2012.html",
+    "sha256": "eb056edcb0d37f583d800594663c5542ff48438977dc2fd02dc876ef8d97ad92",
+    "bytes": 39924,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:49.833822+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2013",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2013/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2013.html",
+    "sha256": "12c661b5fdcbb59b0ec24aa904726d7a25dc608c7bd99b7ae5a0970671fdced7",
+    "bytes": 39755,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:50.325736+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2014",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2014/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2014.html",
+    "sha256": "6d2b2bfe762b2898468c378e9f05f1352b1c71d5824c80e6daf2779d280973a2",
+    "bytes": 39292,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:50.439894+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2015",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2015/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2015.html",
+    "sha256": "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83",
+    "bytes": 39329,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:51.195770+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2016",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2016/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2016.html",
+    "sha256": "0da5a70658b764f0b5d3c7339de635162e98be3ff0ac28cb9dadd54014f577f9",
+    "bytes": 38331,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:51.199280+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2017",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2017/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2017.html",
+    "sha256": "ebeb187c762f0a322d87722fddcbce5dfd04c93877be382786449ccf0e80a4ae",
+    "bytes": 37734,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:51.128708+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2018",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2018/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2018.html",
+    "sha256": "babf0dbb0be29a639ae3f8278d5c504c3ffec10c2f2d17527dfab618f183332c",
+    "bytes": 37674,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:51.904404+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2019",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2019/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2019.html",
+    "sha256": "e6de502c4a548fa18877147ae1b4d6372acca12b245b925159bf1137c7b124ae",
+    "bytes": 37630,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:51.321129+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2020",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2020.html",
+    "sha256": "4e05b9209769d947a120b2d3e362378a0b76bce511ffd1906974bccfbb5e0ce2",
+    "bytes": 38106,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:52.053421+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2021",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2021/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2021.html",
+    "sha256": "3f128bd9bd3852d83a65fc583944324d4d771d84dda5c1029efcb302423f80ed",
+    "bytes": 37654,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:51.952475+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2022",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2022/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2022.html",
+    "sha256": "a2bdeecaa39cf1b5d9e6ec39341b61247e0cd27bec4ba02c4cb4f008cb418325",
+    "bytes": 37632,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:51.989047+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2023",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2023/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2023.html",
+    "sha256": "82b670bc0586ea72df80ac172e975a1274c5d7c1adde21cf68a3343d3e152686",
+    "bytes": 37633,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:52.283747+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2024",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2024.html",
+    "sha256": "2a5742c0602ee86cc4e2fad1c86a4c22a748503af6793354fd48b5f63ad00eba",
+    "bytes": 38412,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:52.740742+00:00"
+  },
+  {
+    "source_id": "boj_catalog_2025",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/index.htm",
+    "path": "research/phase4/sources/japan/boj_catalog_2025.html",
+    "sha256": "0fcd98b2f17f96fc5754c0fcde00c204910ecba266a37eef1c29abf1b5238ecc",
+    "bytes": 38511,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:52.782996+00:00"
+  },
+  {
+    "source_id": "gpif_catalog_2014",
+    "url": "https://www.gpif.go.jp/en/topics/2014/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "gpif_catalog_2015",
+    "url": "https://www.gpif.go.jp/en/topics/2015/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "gpif_catalog_2016",
+    "url": "https://www.gpif.go.jp/en/topics/2016/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "gpif_catalog_2017",
+    "url": "https://www.gpif.go.jp/en/topics/2017/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "gpif_catalog_2018",
+    "url": "https://www.gpif.go.jp/en/topics/2018/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "gpif_catalog_2019",
+    "url": "https://www.gpif.go.jp/en/topics/2019/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "gpif_catalog_2020",
+    "url": "https://www.gpif.go.jp/en/topics/2020/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "gpif_catalog_2021",
+    "url": "https://www.gpif.go.jp/en/topics/2021/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "gpif_catalog_2022",
+    "url": "https://www.gpif.go.jp/en/topics/2022/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "gpif_catalog_2023",
+    "url": "https://www.gpif.go.jp/en/topics/2023/",
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "gpif_catalog_2024",
+    "url": "https://www.gpif.go.jp/en/topics/2024/",
+    "path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+    "sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+    "bytes": 24961,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:55.512371+00:00"
+  },
+  {
+    "source_id": "gpif_catalog_2025",
+    "url": "https://www.gpif.go.jp/en/topics/2025/",
+    "path": "research/phase4/sources/japan/gpif_catalog_2025.html",
+    "sha256": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050",
+    "bytes": 23499,
+    "role": "OFFICIAL_DATED_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:55.789023+00:00"
+  },
+  {
+    "source_id": "jpx_governance_catalog",
+    "url": "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
+    "path": "research/phase4/sources/japan/jpx_governance_catalog.html",
+    "sha256": "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94",
+    "bytes": 34554,
+    "role": "INSTITUTIONAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:56.969947+00:00"
+  },
+  {
+    "source_id": "jpx_capital_catalog",
+    "url": "https://www.jpx.co.jp/english/corporate/investor-relations/shareholders/basic-policy/index.html",
+    "path": "research/phase4/sources/japan/jpx_capital_catalog.html",
+    "sha256": "504f8988d5c1e2461689ae4bc3e21f5ed9a9a5f8acf8e80fd7abac60861029be",
+    "bytes": 33268,
+    "role": "CURRENT_PROGRAM_CATALOG_NOT_PIT",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:57.792232+00:00"
+  },
+  {
+    "source_id": "jpx_foreign_catalog_2025",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/00-00-archives-01.html",
+    "path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+    "sha256": "72b62f76e313e912a5edd865b23306b07096716f0c48a0b1a7d3e80b0b5815bc",
+    "bytes": 98773,
+    "role": "DATED_OBSERVATION_CATALOG_NO_RELEASE_DATE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:58.612730+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_201701",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_201701.html",
+    "sha256": "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21",
+    "bytes": 25540,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:58.724471+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_201702",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201702.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_201702.html",
+    "sha256": "504b0e248d517aa20588b14d865b0228d86bbed1b0398cebeb020089adbe64b2",
+    "bytes": 24271,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:59.308814+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_201705",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201705.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_201705.html",
+    "sha256": "e02037b25f2c59655e64c55a5b074b6d32054c4029510cecf8059d36f28148e6",
+    "bytes": 24726,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:58.745083+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_201706",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201706.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_201706.html",
+    "sha256": "ca826cdeeb13c28dd96a1c8f1d302ce09f0a8badff66f67901f9a478d2df51a9",
+    "bytes": 23624,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:59.483658+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_202109",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202109.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_202109.html",
+    "sha256": "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e",
+    "bytes": 24659,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:57:59.634932+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_202110",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202110.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_202110.html",
+    "sha256": "b4d028253ead2c7e6b41b38889c4b4469cbfeb4c393301743a7a49d487025d14",
+    "bytes": 25164,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:00.028928+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_202307",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202307.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_202307.html",
+    "sha256": "1f0d8121e25925fb8a2b082923bcbc4a6f8d36f805836eff51d0093ec018a6d2",
+    "bytes": 25906,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:00.287958+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_202308",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202308.html",
+    "path": "research/phase4/sources/japan/jpx_corp_catalog_202308.html",
+    "sha256": "5e0fb01d730c20b9a03812cdfe2d80e2c17f98e03dcbaf9ad14c6397c4842933",
+    "bytes": 25026,
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:00.396651+00:00"
+  },
+  {
+    "source_id": "jpx_corp_catalog_202507",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202507.html",
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "jpx_corp_catalog_202508",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202508.html",
+    "role": "OFFICIAL_DATED_PARTIAL_CATALOG",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "jp_event_source_001",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2008/k080122.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_001.pdf",
+    "sha256": "4b0170afbfe6de0254b64407342de2e73cb03a0c52e4afb17b651ea26be43fc2",
+    "bytes": 69599,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:02.629119+00:00"
+  },
+  {
+    "source_id": "jp_event_source_002",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2009/k090616.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_002.pdf",
+    "sha256": "96a7ad62401ca09a77c702a81c8df7cba6860f5dbc4432163535dd8661a5159d",
+    "bytes": 84178,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:01.745293+00:00"
+  },
+  {
+    "source_id": "jp_event_source_003",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2010/k100907.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_003.pdf",
+    "sha256": "9736ca5db7126e2963e7c0ac202eea4eb4ec7093ecd4bf4fb9587db4317387c9",
+    "bytes": 21173,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:01.755612+00:00"
+  },
+  {
+    "source_id": "jp_event_source_004",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2012/k120410a.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_004.pdf",
+    "sha256": "e16304b6f60fc5d93524b573ea9be90dce7d0f919c3ab7fc8073fd33640a0bd5",
+    "bytes": 37086,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:01.774367+00:00"
+  },
+  {
+    "source_id": "jp_event_source_005",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2013/k131004a.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_005.pdf",
+    "sha256": "19accfe9cf4f4f11858d596115ab9fa516af48781c8a57ccf7211faf6d9986ce",
+    "bytes": 16417,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:01.696887+00:00"
+  },
+  {
+    "source_id": "jp_event_source_006",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2015/k150715a.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_006.pdf",
+    "sha256": "f992a6d57c559747233c1f4b8f593cc69215cde677f71968e43fbf9a4710eb3f",
+    "bytes": 57441,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:02.561975+00:00"
+  },
+  {
+    "source_id": "jp_event_source_007",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2017/k171221a.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_007.pdf",
+    "sha256": "d116781f513017576b29d9fd82e58670bc077af53ca79b0950fe2fe049cb8d0c",
+    "bytes": 24373,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:02.465667+00:00"
+  },
+  {
+    "source_id": "jp_event_source_008",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/k200917a.htm",
+    "path": "research/phase4/sources/japan/jp_event_source_008.html",
+    "sha256": "87ff8c991e8ce6d8f9157f585a312ed240bf37ff4afd790f63f6ecf202a50663",
+    "bytes": 45472,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:02.543727+00:00"
+  },
+  {
+    "source_id": "jp_event_source_009",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2023/k230922a.htm",
+    "path": "research/phase4/sources/japan/jp_event_source_009.html",
+    "sha256": "c2404059f54159a7cdbf17f1c1ee315bac6959e1facdce62efd99ea0dcd68bc7",
+    "bytes": 44691,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:03.321813+00:00"
+  },
+  {
+    "source_id": "jp_event_source_010",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k251219a.htm",
+    "path": "research/phase4/sources/japan/jp_event_source_010.html",
+    "sha256": "c2919ea70749595db70751db0051556b2f2d67e81c49395f3cb78d37079888de",
+    "bytes": 47235,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:03.277743+00:00"
+  },
+  {
+    "source_id": "jp_event_source_011",
+    "url": "https://www.gpif.go.jp/en/performance/65829801gpif/unyoujoukyou_2022_17_en.xlsx",
+    "path": "research/phase4/sources/japan/jp_event_source_011.xlsx",
+    "sha256": "6f52d8592b40d5e53ea3ed130d694766138da7d91068b225da8afc0080b2e5cc",
+    "bytes": 1177023,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:03.831964+00:00",
+    "content_format": "XLSX"
+  },
+  {
+    "source_id": "jp_event_source_012",
+    "url": "https://www.gpif.go.jp/operation/29880651gpif/2024_1Q_0802_en.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_012.pdf",
+    "sha256": "48b11498411f4e1886cf081cabb14e49dda1f098fc207035b53899a5e99a2d33",
+    "bytes": 389215,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:03.601377+00:00"
+  },
+  {
+    "source_id": "jp_event_source_013",
+    "url": "https://www.gpif.go.jp/en/performance/62590877gpif/2024_2Q_1101_en.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_013.pdf",
+    "sha256": "fe1198f375d16c394539acf54eb85e84a3a74798ccfa2a10fedfa8c5f1059384",
+    "bytes": 460122,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:03.655811+00:00"
+  },
+  {
+    "source_id": "jp_event_source_014",
+    "url": "https://www.gpif.go.jp/en/performance/23713581gpif/2024_3Q_0207_en.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_014.pdf",
+    "sha256": "f1d3f853df9ce96cb77202c45825446159369d14083798faadefd31e336119be",
+    "bytes": 549186,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:04.362673+00:00"
+  },
+  {
+    "source_id": "jp_event_source_015",
+    "url": "https://www.gpif.go.jp/en/investment/26487392gpif/20250331_Policy%20to%20Fulfill%20Stewardship%20Responsibilities_en.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_015.pdf",
+    "sha256": "d8384437a4acb93205fa054f2ba163f73b0b87ae15e8c99b5ed5053786d3d4aa",
+    "bytes": 160540,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:03.994879+00:00"
+  },
+  {
+    "source_id": "jp_event_source_016",
+    "url": "https://www.gpif.go.jp/en/topics/Adoption_of_New_Policy_Portfolio_details_2_en.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_016.pdf",
+    "sha256": "981eb1dd20bfa76a811cf41b524d862dbc1f606f78a742b8f8fc698556fe398d",
+    "bytes": 1074514,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:04.364230+00:00"
+  },
+  {
+    "source_id": "jp_event_source_017",
+    "url": "https://www.gpif.go.jp/en/performance/32821257gpif/unyoujoukyou_2024_15_en.xlsx",
+    "path": "research/phase4/sources/japan/jp_event_source_017.xlsx",
+    "sha256": "22db0e574f84ab01c02606793b66d9b56abf8f6373a25d9988f67e356cbf53d2",
+    "bytes": 967223,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:04.314981+00:00",
+    "content_format": "XLSX"
+  },
+  {
+    "source_id": "jp_event_source_018",
+    "url": "https://www.gpif.go.jp/en/performance/2025_1Q_0801-en.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_018.pdf",
+    "sha256": "21e41302402914af7fa3bce6f927013ae1b3c77b805f3c0a86dd65916bd5e5c7",
+    "bytes": 639957,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:04.903386+00:00"
+  },
+  {
+    "source_id": "jp_event_source_019",
+    "url": "https://www.gpif.go.jp/en/performance/92011372gpif/2025_2Q_1107_en.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_019.pdf",
+    "sha256": "a23d1170f8626dda29249080c27b2444d6d2afa1a1517418716f37af4e36198f",
+    "bytes": 354836,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:04.415602+00:00"
+  },
+  {
+    "source_id": "jp_event_source_020",
+    "url": "https://www.gpif.go.jp/en/investment/20251208_Stewardship%20Principles%20and%20Proxy%20Voting%20Principles.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_020.pdf",
+    "sha256": "549212f7eb3f9380c8ff78764ec5e974d8c1cc64c59bfce16b775cd963f23a9e",
+    "bytes": 156367,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:04.666037+00:00"
+  },
+  {
+    "source_id": "jp_event_source_021",
+    "url": "https://www.jpx.co.jp/english/news/1020/20150511-02.html",
+    "path": "research/phase4/sources/japan/jp_event_source_021.html",
+    "sha256": "0d5b6b57645983aafb47abed33c3529a1d8016b3093d7df8628a07df15f68f99",
+    "bytes": 24162,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:06.474648+00:00"
+  },
+  {
+    "source_id": "jp_event_source_022",
+    "url": "https://www.jpx.co.jp/english/news/1020/20180601.html",
+    "path": "research/phase4/sources/japan/jp_event_source_022.html",
+    "sha256": "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d",
+    "bytes": 25448,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:06.871753+00:00"
+  },
+  {
+    "source_id": "jp_event_source_023",
+    "url": "https://www.jpx.co.jp/english/news/1020/20210611-01.html",
+    "path": "research/phase4/sources/japan/jp_event_source_023.html",
+    "sha256": "6be72b0f42585760fd11ac9f99cb4bd75d01eacb2f8ecf10c8ae5011d7c61d65",
+    "bytes": 28285,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:05.271415+00:00"
+  },
+  {
+    "source_id": "jp_event_source_024",
+    "url": "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001gfvx-att/20170104_AOSE.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_024.pdf",
+    "sha256": "52e41e4a3ace5f82950a56846fb1c4cfc78b5820df59032ad32df04af46a5eaa",
+    "bytes": 67072,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:07.463031+00:00"
+  },
+  {
+    "source_id": "jp_event_source_025",
+    "url": "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001he5b-att/20170130-3e.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_025.pdf",
+    "sha256": "c3b6af155567c4e5adb7bafb52e68189428ab6d7f6f1d6f3ee6e391aaf0029cd",
+    "bytes": 58344,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:06.281377+00:00"
+  },
+  {
+    "source_id": "jp_event_source_026",
+    "url": "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001hj9o-att/20170201_AOSE.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_026.pdf",
+    "sha256": "8a9733d802b0181ab01fed29ed21fbb3933c3faeb5c81dcc6137d7d696f59137",
+    "bytes": 67158,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:06.421434+00:00"
+  },
+  {
+    "source_id": "jp_event_source_027",
+    "url": "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001m9gr-att/20170501_AOSE.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_027.pdf",
+    "sha256": "b030b65ee7232963cc1a6fe08fb7a4ee7bc35adcb980e03dc51513f951a6e5d8",
+    "bytes": 67155,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:07.545354+00:00"
+  },
+  {
+    "source_id": "jp_event_source_028",
+    "url": "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001nm1r-att/20170518_01e.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_028.pdf",
+    "sha256": "7d3ade9cf98ee3087a1491aadad340c7759095e2232a6699d39ae54e53f8676d",
+    "bytes": 68096,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:07.735292+00:00"
+  },
+  {
+    "source_id": "jp_event_source_029",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/b5b4pj000004ajui-att/20210901_e_1.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_029.pdf",
+    "sha256": "be024400931ba014eb8736d2d449e0261f103abb470a690598768b27e2a615b0",
+    "bytes": 59459,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:07.300248+00:00"
+  },
+  {
+    "source_id": "jp_event_source_030",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/b5b4pj000004ay7m-att/20210907_e_1.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_030.pdf",
+    "sha256": "9a1e268edb5a461198297b043bda62cebe5f995c3acd08c22c1694f84e7a2c41",
+    "bytes": 60439,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:08.278774+00:00"
+  },
+  {
+    "source_id": "jp_event_source_031",
+    "url": "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/p6b22i0000001clt-att/20230703_E_1.pdf",
+    "path": "research/phase4/sources/japan/jp_event_source_031.pdf",
+    "sha256": "aba45501f8fba76ce0b9919cedb20e50ad5d9a74a6e30d7910065bc239a543dc",
+    "bytes": 65159,
+    "role": "SELECTED_EVENT_SOURCE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:08.534756+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_01",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/dh3otn000000pp8l-att/stock_val_1_250101.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_01.pdf",
+    "sha256": "60e0661b70469419d182608e98154eff1e73205f831097ba930d52396c461589",
+    "bytes": 116831,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:08.474873+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_02",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000000swlj-att/stock_val_1_250202.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_02.pdf",
+    "sha256": "97b22d923d8139cbaf80b4e163937a9fd93c2b6da916e3f83b4a0cc1ff5be72c",
+    "bytes": 117070,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:08.437267+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_03",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq0000013m66-att/stock_val_1_250304.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_03.pdf",
+    "sha256": "63213b6e27c4b987aebcb2af8e11dd02f241039ee361d4794b34295eb50564d2",
+    "bytes": 141851,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:08.599436+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_04",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000001ial1-att/stock_val_1_250502.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_04.pdf",
+    "sha256": "3a3024aa324349c346a8d32122322402996a28c779e95a8b4385f4a5f9a6e62d",
+    "bytes": 116995,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:09.373017+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_05",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000001oc6o-att/stock_val_1_250602.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_05.pdf",
+    "sha256": "e8573298be019219c42470935c8b6a98718e4dda46611e34e3b5d1ecfdfdcdfb",
+    "bytes": 141921,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:09.306828+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_06",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000001ulvg-att/stock_val_1_250704.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_06.pdf",
+    "sha256": "ef6f79262aa8394f27311a239959189c0b4d91ca2af1c0a44475471956fd60ea",
+    "bytes": 141673,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:09.509114+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_07",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq00000256cp-att/stock_val_1_250901.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_07.pdf",
+    "sha256": "7841a9054943f1387e3e2dbe0dd059e83d190ff186dfafa10388ea6cad3f1deb",
+    "bytes": 142503,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:09.539438+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_08",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq00000293by-att/stock_val_1_251002.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_08.pdf",
+    "sha256": "30d1b537e65e1ae52f0837404bac2009448c75c766978c8307125635909d7ff4",
+    "bytes": 284743,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:10.388683+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_09",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/vk0khi0000008lwh-att/stock_val_1_251103.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_09.pdf",
+    "sha256": "fa5fae763f0ae9317fedd4d16cbba074ae6ce84a617428cabbe68d5a8f52f9d5",
+    "bytes": 284687,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:10.403793+00:00"
+  },
+  {
+    "source_id": "jp_foreign_missing_10",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/vk0khi000000l4py-att/stock_val_1_251205.pdf",
+    "path": "research/phase4/sources/japan/jp_foreign_missing_10.pdf",
+    "sha256": "ab651d4057b78d7ab58f35f420d3675ee901a8385ee7184b62cd8cf7f44e5c20",
+    "bytes": 284488,
+    "role": "EXCLUDED_RELEASE_DATE_UNCERTAIN",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:10.523016+00:00"
+  },
+  {
+    "source_id": "boj_2024_exit",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240319a.pdf",
+    "path": "research/phase4/sources/japan/boj_2024_exit.pdf",
+    "sha256": "e07e26da39f4428bd5be1c870d7ec2229a98d0428f687b19fef220c6cc70e851",
+    "bytes": 474660,
+    "role": "INSTITUTIONAL_CONTEXT_NOT_SELECTED_EVENT",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:10.846030+00:00"
+  },
+  {
+    "source_id": "boj_2025_disposal",
+    "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k250919a.pdf",
+    "path": "research/phase4/sources/japan/boj_2025_disposal.pdf",
+    "sha256": "3f0700adb18629b355a07fb71b1de1f7ae835258e46534cfccddca499267fece",
+    "bytes": 232154,
+    "role": "INSTITUTIONAL_CONTEXT_NOT_SELECTED_EVENT",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:10.649704+00:00"
+  },
+  {
+    "source_id": "boj_2025_disposal_terms",
+    "url": "https://www.boj.or.jp/en/mopo/measures/term_cond/etf_s1.htm",
+    "path": "research/phase4/sources/japan/boj_2025_disposal_terms.html",
+    "sha256": "8b19db5e0fcf6a4ca2cce39d35c2791afc052bcd4f74994678bc7c69b3c236a6",
+    "bytes": 37810,
+    "role": "INSTITUTIONAL_CONTEXT_NOT_SELECTED_EVENT",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:11.227057+00:00"
+  },
+  {
+    "source_id": "gpif_2014_policy_mix",
+    "url": "https://www.gpif.go.jp/en/performance/pdf/adoption_of_new_policy_asset_mix.pdf",
+    "path": "research/phase4/sources/japan/gpif_2014_policy_mix.pdf",
+    "sha256": "621fbb9fa3d8c973a90bbf2fe1b90ae3c6c40c06bc95c2f7a63d0e271b6a2be9",
+    "bytes": 181088,
+    "role": "INSTITUTIONAL_CONTEXT_NO_PUBLISH_DATE",
+    "status": "FETCHED",
+    "retrieved_at": "2026-10-10T07:58:10.754451+00:00"
+  },
+  {
+    "source_id": "jpx_capital_cost_request",
+    "url": "https://www.jpx.co.jp/english/equities/listing/cg/tvdivq0000008jdy-att/20230331_e.pdf",
+    "role": "INSTITUTIONAL_CONTEXT_VERIFY_ONLY",
+    "status": "FAILED",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "probe_0",
+    "path": "research/phase4/sources/japan/probe_0.pdf",
+    "sha256": "111d0f9403b6a8413edf9da7376b7bf2e2f4ccb83c0ef2d6beff40cd45cb9862",
+    "bytes": 647775,
+    "status": "FETCHED",
+    "role": "PRESELECTION_ACCESS_PROBE_NOT_EVENT",
+    "url": "https://www.gpif.go.jp/en/performance/pdf/2014_q1.pdf"
+  },
+  {
+    "source_id": "probe_1",
+    "path": "research/phase4/sources/japan/probe_1.pdf",
+    "sha256": "621fbb9fa3d8c973a90bbf2fe1b90ae3c6c40c06bc95c2f7a63d0e271b6a2be9",
+    "bytes": 181088,
+    "status": "FETCHED",
+    "role": "PRESELECTION_ACCESS_PROBE_NOT_EVENT",
+    "url": "https://www.gpif.go.jp/en/performance/pdf/adoption_of_new_policy_asset_mix.pdf"
+  },
+  {
+    "source_id": "probe_2",
+    "path": "research/phase4/sources/japan/probe_2.html",
+    "sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+    "bytes": 24961,
+    "status": "FETCHED",
+    "role": "PRESELECTION_ACCESS_PROBE_NOT_EVENT",
+    "url": "https://www.gpif.go.jp/en/topics/2024/"
+  },
+  {
+    "source_id": "probe_stock250101",
+    "path": "research/phase4/sources/japan/probe_stock250101.pdf",
+    "sha256": "60e0661b70469419d182608e98154eff1e73205f831097ba930d52396c461589",
+    "bytes": 116831,
+    "status": "FETCHED",
+    "role": "PRESELECTION_ACCESS_PROBE_NOT_EVENT",
+    "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/dh3otn000000pp8l-att/stock_val_1_250101.pdf"
+  }
+]

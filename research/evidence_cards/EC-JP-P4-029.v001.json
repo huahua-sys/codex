@@ -1,0 +1,49 @@
+{
+  "event_id": "JP-P4-029",
+  "market": "Japan",
+  "published_date": "2021-09-01",
+  "available_at": "2021-09-01T23:59:59+09:00",
+  "participant_type": "Corporation (Japan Exchange Group; single company only)",
+  "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+  "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 2593968550,
+    "unit": "JPY",
+    "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+  },
+  "flow_duration": "August 1, 2021– August 31, 2021",
+  "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_029.pdf",
+    "research/phase4/sources/japan/jpx_corp_catalog_202109.html"
+  ],
+  "source_urls": [
+    "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/b5b4pj000004ajui-att/20210901_e_1.pdf",
+    "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202109.html"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_029.pdf": "be024400931ba014eb8736d2d449e0261f103abb470a690598768b27e2a615b0",
+    "research/phase4/sources/japan/jpx_corp_catalog_202109.html": "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e"
+  },
+  "source_excerpt": "2． Total no. of shares acquired 996,700 shares 3． Total value of shares acquired JPY 2,593,968,550 4． Acquisition period August 1, 2021– August 31, 2021 5． Acquisition method Purchase on the market of Tokyo Stock Exchange * The acquisition period is based on t",
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Sep. 01, 2021",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/jpx_corp_catalog_202109.html",
+    "source_sha256": "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e",
+    "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202109.html",
+    "historical_vintage_independently_archived": false
+  },
+  "source_proof_admitted": true,
+  "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+  "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+  "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "evidence_id": "EC-JP-P4-029",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

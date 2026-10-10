@@ -1,0 +1,515 @@
+       Summary (1)
+                                    Adoption of New Policy Asset Mix
+ Government Pension Investment Fund (“GPIF”) has reviewed its policy asset mix for the third medium-term plan, which starts
+  from April 2015. In June 2014, Ministry of Health, Labour and Welfare (“MHLW”) published financial stability report (“Actuarial
+  Valuation”) on public pension scheme, including several scenarios of targeted return for GPIF. Given that Japan is about to
+  significantly transform itself from economy of persistent deflation, GPIF accelerated review process of its policy asset mix,
+  which should be more compatible with the changes of long-term economic prospect, and has adopted its new policy asset mix.
+
+ Since June 2014, GPIF’s Investment Advisory Committee, which consists of finance and economics professionals appointed by
+  the Minister of Health, Labour and Welfare, has conducted thorough review on GPIF’s policy asset mix and intensely discussed
+  optimal asset allocation; the Investment Advisory Committee was held seven times , the working sub-committee six times.
+  Upon the approval by the Investment Advisory Committee, the President of GPIF submitted to the Minister the revised
+  medium-term plan including new policy asset mix. It has just been authorized and becomes effective from October 31st, 2014.
+
+ In addition to the new policy asset mix, the Investment Advisory Committee adopted a resolution as to the reinforcement of
+  the governance structure. GPIF’s implementation includes:
+    (1)Reinforcement of the internal control
+    • “Governance Council”, created under the Investment Advisory Committee
+    • “Investment Principles” and “Code of Conducts” to be drawn by the “Governance Council”
+    • “Compliance officer”, newly appointed by GPIF’s President
+    (2)Reinforcement of the risk management capabilities
+    • Strengthen the capabilities for macro economic analysis and market forecast
+    • Upgrade an IT system to analyze both investment asset and expected payout
+    • Sophisticate risk management by adding multiple risk measurements of total portfolio, as well as permissible ranges of
+         deviations of each asset class
+    (3) Enhancement of human resource management
+
+ With regard to the policy asset mix, GPIF will monitor macro economic environment and market condition, will periodically
+  verify the appropriateness of the assumptions used to this policy mix, and will consider reviewing it when needed.
+                                                                                                                          1
+        Summary (2)
+                                         【Adoption of New Policy Asset Mix】
+
+（Old）                                 Domestic          Domestic         International     International     Short-term
+                                       bonds             stocks              bonds             stocks          assets
+            Target allocation            60%               12%               11%               12%               5%
+           Permissible range
+                                        ±8%               ±6%               ±5%               ±5%                 －
+             of deviation
+
+
+
+（New）                                 Domestic          Domestic         International     International
+                                       bonds             stocks              bonds             stocks
+
+            Target allocation            35%               25%               15%               25%
+           Permissible range
+                                        ±10%              ±9%               ±4%               ±8%
+             of deviation
+
+          (Note 1) Alternative investment will be made within maximum 5% of total portfolio, in accordance with
+          development of dedicated team. Infrastructure, private equities, real estates or other assets determined
+          upon deliberation at the Investment Advisory Committee, are classified as domestic bonds, domestic stocks,
+          international bonds or international stocks, depending on their risk and return profiles.
+
+          (Note 2) GPIF adopts tactical asset allocation within permissible ranges of deviation for each asset class, and
+          this allocation is solely based upon thorough analysis on economic and market environment, and prudent
+          judgment.
+
+                                                                                                                            2
+           Background of New Policy Asset Mix (1)
+(1) Actuarial Valuation
+                                                                                      Level of reserve
+ Japan’s public pension scheme (Employees’ Pension Insurance                              asset
+  and National Pension) is basically managed by pay-as-you-go                                                                          Hold assets
+  system which incorporates the concept of intergenerational                                                                          equivalent to
+  dependency, where the contributions paid by working                                                                                 1-year benefit
+  generations support elder generations.
+ Given decreasing birthrate and aging population, funding the                                    Reach the financial
+  pension benefits solely by the contribution from working                                      equilibrium in 100 years
+  generations would unduly weigh on them, thus the fiscal plan was
+  drawn up to use the reserve asset (GPIF) to fund the benefits to                                                                                    Time
+  later generations and after it will reach the financial equilibrium in                       Schematic Diagram of Actuarial Valuation
+  100 years, it will hold assets equivalent to 1-year benefits.
+ With regard to the pension finance, the government is required to make assessment and projection on the
+  pension finance (“Actuarial Valuation”) and verify the robustness every five years, and the Actuarial
+  Valuation should be taken into account in drawing up a policy asset mix for the reserve investment
+  management.                                          Total factor productivity
+                                                                 (TFP) growth rate
+                                                                                                         1.8%               1.8%
+ The Actuarial Valuation announced on June 3rd                                                                             1.6%
+                                                                                                                                           Scenario A
+                                                                    Cabinet Office estimate:                                               Scenario B
+  2014, refers Cabinet Office’s “Medium to Long-term                Upside scenario                                         1.4%           Scenario C
+                                                                                                                            1.2%
+  Economic and Fiscal Estimates” (January 2014) and                                                                         1.0%
+                                                                                                                                           Scenario D
+                                                                                                         1.0%                              Scenario E
+  assumes a wide variety of scenarios focused on                                                                            1.0%           Scenario F
+
+  total factor productivity (TFP) growth rate (such as                               Cabinet Office estimate:               0.7%
+                                                                                                                                           Scenario G
+                                                                                                                                           Scenario H
+  technological advance) which is important in                   0.5%
+                                                                                     Downside scenario                      0.5%
+                                                                                                                Assume inflation, wage increase and
+  forecasting long-term economic situations.                                                                    investment return for each scenario
+
+                                                             2012                                    2023 2024                                  (fiscal year)
+
+
+                                                  Current period (in accordance with Cabinet Office estimate) Long-term average (assume several decelerations)   3
+          Background of New Policy Asset Mix (2)
+
+(2) Changes of medium-term objective
+
+ The revised medium-term objective set by the Minister of Health, Labour and Welfare stipulates target
+  return, allowable risk and risk management procedures:
+
+       Given the present assessment and projection on the pension finance (“Actuarial Valuation”), the
+        reserve asset must achieve a 1.7% “Real Investment Return” (nominal investment return less nominal
+        wage increase) with the lowest risk while maintaining liquidity necessary for the pension benefits.
+
+       The policy asset mix must be based upon the expertise generally recognized for asset management, as
+        well as long-term perspective with forward-looking risk analysis.
+
+       Downside risk to underperform nominal wage increase should not be larger than that of portfolio
+        comprised solely of domestic bonds. It should be fully noted that stocks may have larger unexpected
+        downside risk. The degree of probability that the reserve asset becomes smaller than originally
+        anticipated should be evaluated appropriately and the further examination should be carried out using
+        various scenarios.
+
+
+
+
+                                                                                                                4
+              Key assumptions for New Policy Asset Mix
+
+ Key assumptions for new policy asset mix are followings:
+
+       Instead of a long-term equilibrium rate, domestic bond return is based upon a scenario that interest
+        rates are expected to rise for 10 years. This scenario is consistent with the Actuarial Valuation,
+        conducted by MHLW.
+
+        When assessing risk of policy asset mix, we referred the probability (“Reference Probability”) that all-
+        domestic-bond portfolio falls below the required value of the reserve assets. Specifically, we examined
+        whether the probability that new policy asset mix fall below the required value of the reserve asset is
+        smaller than Reference Probability. Moreover, we took into account the expected shortfall in case that
+        new policy asset mix fall below the required value.
+
+        We assumed two scenarios on Japan’s economic growth. Among scenarios in the Actuarial Valuation,
+        “Upside Scenario” (Scenario E in the Actuarial Valuation: P3) is chosen, because the investment target
+        in Scenario E is highest and able to secure necessary investment return in any scenario in the Actuarial
+        Valuation. “Downside Scenario” (Scenario G: P3) is chosen, because interest rate levels in Scenario G
+        are most consistent with current Yen yield curve.
+
+
+
+
+                                                                                                                    5
+       Assumed Investment Horizon of Reserve Asset
+      and Preservation of Liquidity for Pension Benefits
+(1) Assumed Investment Horizon                                           Assumed Investment Horizon
+                                                                                 (25 years)
+ According to the Actuarial Valuation, the reserve asset level is to
+  decrease for 10 years (payout is larger than contribution), which is
+  followed by 15 years increase (payout is smaller than contribution).
+  Then, the reserve asset level will decrease again.
+
+ Hence, the assumed investment horizon was set to be 25 years             (10 years)
+  (10+15years) , beyond which the reserve asset is expected to start       Preserve necessary
+  declining and investment policy should be more focused on the            liquidity for payouts
+  preservation of liquidity.
+                                                                         Development of Planned Reserve Asset in the
+                                                                           Actuarial Valuation (Schematic Diagram)
+
+(2) Preservation of Liquidity for Pension Benefits
+
+ As mentioned above, the reserve asset is expected to be paid out (“Payout”) for 10 years to come. During this
+  period, sufficient liquidity is very important for the pensioners.
+
+ Therefore, not only did we revise our policy asset mix, but also expanded a special fund for expected payouts
+  between 2015 and 2019 (approximately 20 trillion yen, assumed in the Actuarial Valuation). In this fund, some
+  of domestic bonds are held to maturity so that their redemptions and coupon payments meet payout for the
+  pensioners.
+
+
+
+
+                                                                                                                       6
+          Assumption of Returns
+ Future real long-term interests rates are set to be 2.7% in Upside Scenario and 1.9% in Downside Scenario respectively
+  (Future inflation rates are set to be 1.2% in Upside scenario and 0.9% in Downside scenario respectively.)
+
+ Prior to this policy change, expected return of domestic bonds was a single rate which reflected long-term equilibrium
+  states. This time, however, we conducted forward-looking risk analysis , assumed a scenario that interest rates are rising
+  for 10 years and become flat thereafter, and averaged each year return for the assumed investment horizon.
+
+ With regard to expected returns of domestic stocks, international bonds and international stocks, we used a short-term
+  interest rate plus respective risk premiums. In terms of the real short-term interest rate, we used an estimation from
+  historical short-term interest rates in Upside Scenario, taking into consideration the consistency to the Actuarial
+  Valuation and a real long-term interest rate less term premium in Downside Scenario.
+
+
+     Expected Real Return (Nominal Return minus Wage Increase)
+                                                                                                     International               International           Short-term
+                                            Domestic Bonds              Domestic Stocks
+                                                                                                         Bonds                      Stocks                 Assets
+
+           Upside Scenario                        -0. 2％                      3.2％                       0.9％                        3.6％                -1.7％ (Note)
+          Downside Scenario                       -0.1％                       3.1％                       1.4％                       4.1 ％                -1.1％ (Note)
+
+     Expected Nominal Return
+                                                                                                     International               International           Short-term
+                                            Domestic Bonds              Domestic Stocks                                                                                 Wage Increase
+                                                                                                         Bonds                      Stocks                 Assets
+
+           Upside Scenario                         2.6％                       6.0％                       3.7％                        6.4％                1.1％ (Note)       2.8％
+          Downside Scenario                        2.0％                       5.2％                       3.5％                        6.2％                1.0％ (Note)       2.1％
+      (Note) Expected returns of short-term assets are not ones generally observed in markets but ones which incorporate cash reserve for the payouts.
+
+                                                                                                                                                                                        7
+     Assumption of Risks and Correlations
+ We estimated the risks (standard deviation) and the correlations among 4 assets using historical data for
+  the past 20 years (Note)
+     Risk (Standard Deviation)
+                                   Domestic           Domestic         International      International       Short-term
+                                                                                                                              Wage Increase
+                                    Bonds              Stocks              Bonds             Stocks             Assets
+
+       Standard Deviation            4.7％              25.1％              12.6％              27.3％               0.5％             1.9％
+
+
+     Correlation
+                                  Domestic           Domestic         International      International       Short-term
+                                                                                                                              Wage Increase
+                                   Bonds              Stocks              Bonds             Stocks             Assets
+        Domestic Bonds               1.00
+        Domestic Stocks             -0.16               1.00
+       International Bonds           0.25               0.04              1.00
+      International Stocks           0.09               0.64              0.57               1.00
+       Short-term Assets             0.12              -0.10              -0.15              -0.14              1.00
+         Wage Increase               0.18               0.12              0.07               0.10               0.35              1.00
+
+     (Note) In estimating the risk of domestic bonds, the extension of duration in the future was taken into consideration.
+
+
+
+
+                                                                                                                                              8
+        Preserving Necessary Reserve Asset and Minimizing Downside Risk (1)
+(1) Identification of the Policy Asset Mix
+
+ As follows, while preserving the necessary reserve asset, from a view point of minimizing the downside risk, we identified a
+  portfolio to meet the investment requirement (nominal wage increase plus 1.7% (Note 1)) with the lowest risk.
+
+        Based on the expected returns and risks of 4 assets, we generated various candidates of asset allocations and estimated
+         the return, risk (standard deviation), probability to underperform nominal wage increase (“Lower Partial Probability”)
+         and its average shortfall (“Expected Shortfall”). With regard to the constraints on asset allocation, no less allocation
+         should be made to international stocks than international bonds, however, there is no constraint that same or more
+         allocation should be made to domestic stocks than international stocks.
+
+        We identified a portfolio which meets the return requirement (nominal wage increase plus 1.7%) in both Upside and
+         Downside Scenarios, and examined whether the “Lower Partial Probability” is smaller than “Reference Probability” (P5).
+         Moreover, Expected Shortfall of the portfolio is found smallest.
+     Profiles of Policy Asset Mix
+
+                                                                                                                      Expected Shortfall   Expected Shortfall
+                                                                               Standard           Lower Partial
+                                     Real Return        Nominal Return                                                    (Normal               (Empirical
+                                                                               Deviation           Probability
+                                                                                                                        Distribution)      Distribution) (Note2)
+
+          Upside Scenario              1.77％                4.57％               12.8％                44.4％                 9.45％                 11.2％
+         Downside Scenario             1.98％                4.08％               12.8％                43.8％                 9.38％                 11.2％
+
+     (Reference) Profiles of All-Domestic-Bond Portfolio
+                                                                                              Reference Probability
+          Upside Scenario             -0.20％               2.60％                 4.7％                51.7％                 3.86％                 3.52％
+         Downside Scenario            -0.10％               2.00％                 4.7％                50.8％                 3.83％                 3.48％
+      (Note 1) Although the return requirement is 1.7%, we assume a 2% allocation to short-term assets whose returns are very low. Hence, 1.7% target is
+               adjusted to 1.77% in Upside Scenario and 1.76% in Downside Scenario respectively.
+      (Note 2) “Expected Shortfall (Empirical Distribution)” is supplementarily estimated by Monte Carlo simulation based on historical data (Empirical
+               Distribution) with consideration that stocks may have larger downside probability than expected (“Tail Risk”).                                      9
+Lower Partial Probability and Expected Shortfall
+
+                                 Nominal wage increase
+   Frequency
+
+
+           Proportion in the overall area =
+           Probability to underperform in
+                                                         Expected distribution by
+           comparison with nominal wage
+                                                         investments (Frequency)
+               increase (Lower Partial
+                     Probability)
+
+
+
+
+                                                                                    Investment return
+     Degree of stretch of curve = Probability-
+    weighted average shortfall when the reserve
+     assets underperform in comparison with
+    nominal wage increase (Expected shortfall)
+
+
+
+                                                                                                        10
+   Preserving Necessary Reserve Asset and Minimizing Downside Risk (1)
+(2) Verification of Risk of Policy Asset Mix
+
+ It is important to verify the degree of risk (long-term probability) that a certain policy asset mix may fall
+  below the reserve asset which the Actuarial Valuation assumes. In order to estimate how new asset policy
+  mix performs in comparison with the assumed level of reserve asset, we made a simulation 100,000 times
+  for each scenario and looked into the distribution (see P12).
+
+ The results show that the probability that New Asset Policy Mix falls below the assumed level of reserve
+  asset in year of 2039 is 40% in Upside Scenario and 25% in Downside Scenario respectively.
+
+ We also conducted a similar simulation for all-domestic-bond portfolio and the result indicates that this
+  hypothetical portfolio always fall below the assumed level of reserve asset in Upside and Downside scenario.
+  Based upon the analysis from P9 to P11, the new asset policy mix is the most efficient to achieve the
+  assumed level of reserve asset, while minimizing the downside risk.
+
+
+
+
+                                                                                                                  11
+         (trillion yen)                  Reserve Asset Expectation (Upside Scenario)
+        250
+                                                                                                               237.5
+
+                                                                                        75 percentile
+                              Bold line: Planned                                                                       Policy asset mix
+        200                                                                                                    194.2
+                              reserve asset in the                                        Median
+                              Actuarial Valuation                                                              180.8
+                                                                                        25 percentile          159.2
+        150
+                                                                                       75 percentile
+                                                                                                               126.9   All-domestic-
+                                                                                          Median
+                                                                                                               118.1
+                                                                                                               109.9   bond portfolio
+                                                                                        25 percentile
+        100
+
+
+
+         50
+
+
+
+          0
+                          平成31（2019）            平成36（2024）     平成41（2029）       平成46（2034）              平成51（2039）
+
+
+
+         (trillion yen)                  Reserve Asset Expectation (Downside Scenario)
+        250
+
+
+                                                                                       75 percentile          205.9
+        200                   Bold line: Planned
+                              reserve asset in the                                                                     Policy asset mix
+                              Actuarial Valuation                                        Median               164.5
+        150
+                                                                                       25 percentile
+                                                                                                              131.0
+
+                                                                                       75 percentile
+                                                                                                              129.1
+        100                                                                              Median               98.6
+                                                                                                              91.1     All-domestic-
+                                                                                       25 percentile          84.2     bond portfolio
+
+         50
+
+
+           0
+                          平成31（2019）            平成36（2024）     平成41（2029）       平成46（2034）              平成51（2039）
+
+
+
+(Note) “Reserve Asset Expectation” is expressed as real reserve asset (present value discounted by nominal wage increase).                12
+    Diversifying Investment Strategies
+(1) Alternative Investments
+
+   In order to achieve efficient investments by diversification, policy on alternative investment is stated in the
+    new policy asset mix for the first time.
+
+   Alternative investment will be made within maximum 5% of total portfolio, in accordance with development
+    of dedicated team. Infrastructure, private equities, real estates or other assets determined upon
+    deliberation at the Investment Advisory Committee, are classified as domestic bonds, domestic stocks,
+    international bonds or international stocks, depending on their risk and return profiles.
+
+(2) Multi-Asset Investment
+
+ We will consider multi-asset investments. For example, an external manager whose expertise widely covers
+  both international and domestic stocks is considered. Multi-asset investments will be reconciled and classified
+  into either of four asset classes when we compute a percentage of each asset class in accordance with the
+  policy asset mix.
+
+(3) Change of International Stock Benchmark
+
+ Formerly, the benchmark of International Stock, with which we compare the investment results, was “MSCI
+  KOKUSAI” representing public equity markets in developed countries. We have changed it to “MSCI ACWI ex.
+  Japan” including public equity markets in emerging countries.
+
+ With regard to the passive investments, we have completed this transition.
+
+
+                                                                                                                      13
+        Management of Policy Asset Mix
+(1) Tactical Asset Allocation
+
+ GPIF adopts tactical asset allocation within permissible ranges of deviation for each asset class, and this allocation is
+  solely based upon thorough analysis on economic and market environment, and prudent judgment.
+
+(2) Sophistication of Portfolio Management
+
+ We will sophisticate risk management by adding multiple risk measurements of total portfolio, as well as permissible
+  ranges of deviations of each asset class.
+
+(3) Permissible Ranges of Deviation during Transition Period to New Policy Asset Mix
+
+ In order to minimize market impact which our transition may cause, actual asset allocation may exceed the permissible
+  ranges of deviation of the new policy asset mix.
+
+(4) Short-term Assets
+
+ In the previous policy asset mix, we allocated 5% to short-term assets and calculated the allocations of the other
+  assets (i.e. allocated 95% to the four asset classes). In the new policy asset mix, however, we do not assume short-
+  term assets and the four asset classes account for 100% .
+
+ In actual operations, short-term assets held in both GPIF and the Pension Special Account are included in the new
+  policy asset mix. As such, holding short-term assets reduce the allocation to the four asset classes and we take it into
+  consideration in managing each asset within the corresponding permissible range of deviation.
+
+
+                                                                                                                              14
+        Reinforcing Governance Structure (1)
+ Acknowledging the importance of internal control, Investment Advisory Committee has established “Governance
+  Council” , will draw up GPIF’s “Investment Principles” and “Code of Conducts” and will monitor how GPIF is governed.
+
+ In addition to the new policy asset mix, the Investment Advisory Committee adopted a resolution as to the
+  reinforcement of the governance structure in a following manner:
+
+
+          Recommended actions for better governance structure
+
+    Upon adoption of new policy asset mix, acknowledging that the governance structure of GPIF has been strengthened and will be further discussed
+   at the government body, the Investment Advisory Committee encourages GPIF to continue investment management safely and efficiently and to
+   strengthen the governance structure with following view points:
+
+   1. Reinforce the internal control
+   (1) Clarify and implement thoroughly the rules of information security management
+   (2) Appoint a compliance officer
+   (3) Expand the role of auditors and reinforce the internal auditing system
+   (4) Review disclosure policy, which considers importance of transparency and effective investment management
+
+   2. Reinforce the risk management capabilities
+   (1) Strengthen the capabilities for macro economic analysis and market forecasts
+   (2) Sophisticate risk management by adding multiple risk measurements of total portfolio, as well as permissible ranges of deviations
+   (3) Upgrade the risk management capabilities for investing in a new asset class.
+
+   3. Enhance human resource management
+   (1) Revise the remuneration scheme for executives and professional staffs
+   (2) Report to the Investment Advisory Committee the progress of human resource management
+
+   With regard to the policy asset mix, GPIF should monitor macro economic environment and market condition, periodically verify the
+   appropriateness of the assumptions used to this policy mix, and consider reviewing it when needed.
+
+
+                                                                                                                                                     15
+     Reinforcing Governance Structure (2)
+
+ GPIF fully respects the resolution by the Investment Advisory Committee and starts implementation in a
+  following way:
+
+【Reinforce the internal control】
+
+   A newly appointed “Compliance officer” will monitor how “Investment Principles” and “Code of
+    Conducts” are implemented and observed, and will report to the “Compliance Committee” chaired by the
+    President of GPIF.
+
+   In accordance with the reform of independent administrative agencies, we will reinforce the internal
+    audit procedure.
+
+【Reinforce the risk management capabilities】
+
+   Strengthen our capability of macro economic analysis and market forecasts by adding external
+    consultants (Fall, 2014) and continue to increase and train internal professionals
+
+   Install an IT system to jointly analyze both the investment asset and the expected payout(Fall, 2014), in
+    order to enhance risk management
+
+   Sophisticate risk management by adding multiple risk measurements of total portfolio, as well as
+    permissible ranges of deviations of each asset class
+
+   Create comprehensive risk management tool which covers overall portfolio including alternative assets
+
+                                                                                                                16
+      Reinforcing Governance Structure (3)
+
+【Enhance human resource management】
+
+  Revise the remuneration scheme with the help of external consultants and add new professionals
+
+  Report to the Investment Advisory Committee the progress of human resource management and reflect
+   their feedback to enhance better management
+
+【Review the policy asset mix】
+
+  With regard to the policy asset mix, GPIF will monitor macro economic environment and market
+   condition, will periodically verify the appropriateness of the assumptions used to this policy mix, and will
+   consider reviewing it when needed.
+
+
+
+
+                                                                                                                  17
+

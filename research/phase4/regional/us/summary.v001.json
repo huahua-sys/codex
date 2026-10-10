@@ -1,0 +1,27 @@
+{
+  "raw_events": 42,
+  "unique_dates": 42,
+  "unique_years": 14,
+  "unique_parent_episodes": 23,
+  "families": {
+    "central_bank_liquidity_execution": 10,
+    "bank_lending_standards": 10,
+    "regulatory_capital_constraints": 10,
+    "corporate_capital_allocation": 9,
+    "passive_and_fund_constraints": 3
+  },
+  "action_status": {
+    "OBSERVED_ACTION": 29,
+    "MANDATE_CHANGE": 12,
+    "ANNOUNCEMENT_ONLY": 1
+  },
+  "action_type": {
+    "RETROSPECTIVE_DISCLOSURE": 29,
+    "MANDATE_CHANGE": 12,
+    "ANNOUNCEMENT_ONLY": 1
+  },
+  "missing_slots": 1,
+  "price_or_outcome_read": false,
+  "effective_sample": "UNKNOWN: 10 SLOOS releases, 10 auctions primarily two Fed programs, 9 single-issuer records and shared regulatory parents; raw not independent N",
+  "highest_confidence": "LEVEL 1 prior to price study; source action is not return edge"
+}

@@ -1,0 +1,82 @@
+{
+  "event_id": "CN-P4-021",
+  "market": "China",
+  "family": "央行执行",
+  "parent_episode": "CN-PBOC-OMO-2022",
+  "published_date": "2022-12-14",
+  "available_at": "2022-12-14T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "中国人民银行/一级交易商",
+  "constraint": "货币市场流动性、央票/回购到期结构",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "7天逆回购毛中标量；未扣到期",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 20,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "GROSS_OPERATION",
+    "scope": "7天逆回购毛中标量；未扣到期",
+    "direction": "GROSS_INJECTION"
+  },
+  "flow_duration": "7天",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "央行政策执行；交易商依规则投标",
+  "price_sensitive": "招标利率/价格；股票价格敏感性未识别",
+  "information_based": "资金供需管理，不是资产盈利预测",
+  "known_at_t": [
+    "7天逆回购毛中标量；未扣到期",
+    "未获知到期规模，因此不能将毛操作当净投放"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "市场事前预期和已计价程度",
+    "新增流量的未来净额、持续性和对手方",
+    "受益资产长期盈利、偿付能力是否受损"
+  ],
+  "source_ids": [
+    "CN-S-PBOC-OMO-09"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-PBOC-OMO-09.html"
+  ],
+  "source_urls": [
+    "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/4736254/index.html"
+  ],
+  "source_sha256": [
+    "e74cfcb0de9fe4bd820124dc7b00248365c5c59975ef8edadff058a36824c3c4"
+  ],
+  "source_excerpt": "开展了20亿元逆回购操作。具体情况如下： 逆回购操作情况 期限 中标量 中标利率 7 天 20 亿元 2.00% 中国人民银行公开市场业务操作室 二〇二二年十二月十四日 打印本页 关闭窗口 ﻿ 法律声明 | 联系我们 | 设为首页 | 加入收藏 | 网站地图 京ICP备05073439号 网站标识码：bm25000001 京公网安备 110102020000",
+  "publication_date_evidence": {
+    "source_id": "CN-S-PBOC-OMO-09",
+    "excerpt": "字号 大 中 小 文章来源： 2022-12-14 09:20:30 打印本页 关闭窗口 为维护银行体系流动性",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "央行与银行体系之间的准备金/抵押融资传导；不识别股票资金归属或股票回报",
+  "alternative_explanation": "约束变化可能只是响应已发生的市场/宏观变化；方向可由基本面或同期政策驱动",
+  "falsifier": "后续实际执行为零、其他资金完全抵销、基本面继续损坏或效应仅持续不足一周",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-PBOC-OMO-09.html": "e74cfcb0de9fe4bd820124dc7b00248365c5c59975ef8edadff058a36824c3c4"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

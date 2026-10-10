@@ -1,0 +1,174 @@
+Margin Statistics | FINRA.org
+Skip to main content
+FINRA Utility Menu
+About Us
+Careers
+BrokerCheck
+Data
+Media Center
+For Firms
+For the Public
+FINRA DATA
+FINRA Data provides non-commercial use of data, specifically the ability to save data views and create and manage a Bond Watchlist.
+Login
+For Industry Professionals
+FINPRO GATEWAY
+Registered representatives can fulfill Continuing Education requirements, view their industry CRD record and perform other compliance tasks.
+Login
+For Member Firms
+FINRA GATEWAY
+Firm compliance professionals can access filings and requests, run reports and submit support tickets.
+Login
+For Case Participants
+DR PORTAL
+Arbitration and mediation case participants and FINRA neutrals can view case information and submit documents through this Dispute Resolution Portal.
+Login
+Need Help? | Check System Status
+Log In to other FINRA systems
+Rules & Guidance
+R&G Section 1
+FINRA ManualUpdates
+Interpreting the RulesNoticesGuidanceFrequently Asked QuestionsKey TopicsInterpretive Questions
+R&G Section 2
+The Rulemaking ProcessRule FilingsRule Filing Status ReportRequests for CommentsRegulatory Policy AgendaRulebook Consolidation
+R&G Section 3
+Adjudications & DecisionsNational Adjudicatory Council (NAC)Office of Hearing Officers (OHO)
+R&G Section 4
+EnforcementDisciplinary Actions OnlineMonthly Disciplinary ActionsSanction GuidelinesIndividuals Barred by FINRARegistration, Exams & CE
+Registration section 1
+RegistrationBroker DealersCapital Acquisition BrokersFunding PortalsIndividuals
+Registration Section 2
+Qualification ExamsSecurities Industry Essentials Exam (SIE)Series 7
+Continuing Education (CE)View a Regulatory Element Learning Plan
+Registration Section 3
+Registration SystemsClassic CRDFinancial Professional Gateway (FinPro)Financial Industry Networking Directory (FIND)Events & Training
+Events & Training Section 1Upcoming EventsOn-Demand EducationFINRA Crypto and Blockchain Education ProgramFINRA Certified Regulatory and Compliance Professional (CRCP)® ProgramFinancial Learning Experience (FLEX)Technical & Navigational WebinarsFiling & Reporting
+Filing & Reporting Section 1FINRA GatewaySystems StatusEntitlement ProgramFinancial Intelligence Fusion Center (FIFC)Market Transparency Reporting ToolsRegulatory Filing SystemsData Transfer ToolsE-BillCompliance Tools
+Compliance Tools Section 1Anti-Money Laundering TemplateCybersecurity ChecklistCompliance CalendarWeekly Update Email ArchiveMembership Application Program (MAP) ToolsReport CenterFor Investors
+For Investors Section 1Investor InsightsTools & Calculators
+InvestingInvesting BasicsInvestment AccountsInvestment ProductsInvestment StrategiesWorking With an Investment Professional
+For Investors Section 2
+Protect Your MoneyCheck RegistrationAvoid FraudWatch for Red FlagsSafeguard Your IdentityFinancial Industry Investor Resources
+For Investors Section 3For the Military
+Need Help?File a ComplaintFINRA Securities Helpline for SeniorsDispute Resolution ServicesSIPC ProtectionAvenues for Recovery of Losses
+FINRA Utility Menu
+About Us
+Careers
+BrokerCheck
+Data
+Media Center
+For Firms
+For the Public
+FINRA DATA
+FINRA Data provides non-commercial use of data, specifically the ability to save data views and create and manage a Bond Watchlist.
+Login
+For Industry Professionals
+FINPRO GATEWAY
+Registered representatives can fulfill Continuing Education requirements, view their industry CRD record and perform other compliance tasks.
+Login
+For Member Firms
+FINRA GATEWAY
+Firm compliance professionals can access filings and requests, run reports and submit support tickets.
+Login
+For Case Participants
+DR PORTAL
+Arbitration and mediation case participants and FINRA neutrals can view case information and submit documents through this Dispute Resolution Portal.
+Login
+Need Help? | Check System Status
+Log In to other FINRA systems
+Rules & Guidance
+Key Topics
+Margin Regulation
+EXPLORE THIS SECTION
+FINRA Main Navigation
+FINRA Manual
+Updates
+Interpreting the Rules
+Notices
+Guidance
+Frequently Asked Questions
+Key Topics
+Interpretive Questions
+The Rulemaking Process
+Rule Filings
+Rule Filing Status Report
+Requests for Comments
+Regulatory Policy Agenda
+Rulebook Consolidation
+Retrospective Rule Review
+Enforcement
+Disciplinary Actions Online
+Monthly Disciplinary Actions
+Sanction Guidelines
+Individuals Barred by FINRA
+Adjudication & Decisions
+National Adjudicatory Council (NAC)
+Office of Hearing Officers (OHO)
+Margin Statistics
+Pursuant to FINRA Rule 4521(d), FINRA member firms carrying margin accounts for customers are required to submit, on a settlement date basis, as of the last business day of the month, the following customer information:the total of all debit balances in securities margin accounts; andthe total of all free credit balances in all cash accounts and all securities margin accounts.
+FINRA collects the required data via FINRA's Customer Margin Balance Form. The data is compiled in aggregate form, made available below and in Excel format via the download link on this page. See Margin Balance Reporting: Frequently Asked Questions under FINRA Rule 4521(d) (published April 13, 2021) for additional guidance on the calculation of these balances. Monthly variations in the reported balances may be partially due to member firms modifying the methods used in determining the balances reported to FINRA since the publication of the FAQ. Please note, FINRA generally publishes updates to the Margin Statistics on the third week of the month following the reference month. FINRA does not provide the data outside of this webpage and data feeds are not available.
+FINRA Statistics1 (shown in $ millions)
+Month/YearDebit Balances in Customers' Securities Margin AccountsFree Credit Balances in Customers' Cash AccountsFree Credit Balances in Customers' Securities Margin Accounts
+Aug-261,453,832207,641217,499
+Jul-261,417,225205,132217,305
+Jun-261,502,072217,441223,412
+May-261,415,557206,600217,256
+Apr-261,304,281217,836215,445
+Mar-261,220,922221,860205,600
+Feb-261,253,192205,060200,047
+Jan-261,279,042203,700196,911
+Dec-251,225,597211,720199,762
+Nov-251,214,321202,131194,418
+Oct-251,183,654197,923195,376
+Sep-251,126,494204,106194,884
+Aug-251,059,723188,221181,563
+1As of February 2010, data are collected pursuant to FINRA Rule 4521 and are aggregated across all member firms, regardless of whether the firm was designated to NASD or the New York Stock Exchange (NYSE) before the consolidation of NASD and the member firm regulation operations of NYSE Regulation in July 2007 that created FINRA.
+Historical Data
+For data prior to the last month shown in the above table, please download the data, starting from January 1997, in Excel format by clicking on the “Download the Data” button on the right. Through January 2010, NYSE and FINRA each independently collected similar margin data from their respective member firms but combined the Free Credit Balances in both Cash and Margin into a single amount.
+Download the Data
+Most Recent
+Investor Education
+Frequent Intraday Trading: Understanding the Basics
+June 04, 2026
+Investor Education
+Know What Triggers a Margin Call
+June 04, 2026
+Investor Education
+Understanding the New Intraday Margin Requirements
+April 20, 2026
+FINRA Utility Menu
+About Us
+Careers
+BrokerCheck
+Data
+Media Center
+For Firms
+FINRA Main Navigation
+Rules & Guidance
+Registration, Exams & CE
+Events & Training
+Filing & Reporting
+Compliance Tools
+For Investors
+General Inquiries
+301-590-6500
+Securities Helpline for Seniors®
+844-574-3577 (Mon-Fri 9am-5pm ET)
+File a Regulatory Tip
+To report on abuse or fraud in the industry
+Arbitration & Mediation
+FINRA operates the largest securities dispute resolution forum in the United States
+File an Investor Complaint
+File a complaint about fraud or unfair practices.
+Small Firm Help Line
+833-26-FINRA (Mon-Fri 9am-6pm ET)
+Office of the Ombuds
+Report a concern about FINRA at 888-700-0028
+Footer Legal Links
+Site Map
+Privacy Policy
+Terms of Use
+Translate
+Contact Us
+© 2026 FINRA. All Rights Reserved.
+FINRA is a Registered Trademark of the Financial Industry Regulatory Authority, Inc.

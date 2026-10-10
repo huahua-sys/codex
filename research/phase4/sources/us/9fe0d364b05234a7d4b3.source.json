@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_9fe0d364b05234a7d4b3",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/2019-press.htm",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:24.399767+00:00",
+  "source_path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/2019-press.htm",
+  "content_type": "text/html",
+  "source_sha256": "7cbd6e6d6977e4273945567fb40c347183b75ba4fd5a22c96bd2bab1c3b71b6c",
+  "bytes": 230117,
+  "text_path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.txt",
+  "text_sha256": "81d86dd748275d32d3887f23f427a24a605009da503e5edb0998a1f96e2ed752"
+}

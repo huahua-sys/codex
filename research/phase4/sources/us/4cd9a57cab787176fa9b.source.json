@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_4cd9a57cab787176fa9b",
+  "url": "https://www.sec.gov/newsroom/press-releases/2016-215",
+  "role": "institutional_reference_not_event",
+  "accessed_at": "2026-10-10T08:01:33.573972+00:00",
+  "source_path": "research/phase4/sources/us/4cd9a57cab787176fa9b.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.sec.gov/newsroom/press-releases/2016-215",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "f379a3ce97a7e9a0aebd4798a536c1aef46b642fddb658186e3511c8df9686c1",
+  "bytes": 82984,
+  "text_path": "research/phase4/sources/us/4cd9a57cab787176fa9b.txt",
+  "text_sha256": "c180fcf4df0c70f9595974a7d01dc01780931b46903bafb5b87ce1fe0204f5e1"
+}

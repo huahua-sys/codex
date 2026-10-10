@@ -1,0 +1,12 @@
+{
+  "recorded_at_utc": "2026-10-10T08:19:18.138355+00:00",
+  "stage": "C1_SOURCE_LOCK",
+  "reconstructed_checkpoint_record_not_fake_ex_ante_time": true,
+  "files": {
+    "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.lock.json": "e85e102ae57ac7b670bc0e819fc1559f6d5ef18f0d60fa93f57296bd958258ea",
+    "research/phase4/data/events.all.v001.lock.json": "aa1ac652657344f70d1036bb190c31025075bd46a1dde27feec2823e944c7c33"
+  },
+  "probability_forecasts": 0,
+  "operational_principles": 0,
+  "old_results_changed": false
+}

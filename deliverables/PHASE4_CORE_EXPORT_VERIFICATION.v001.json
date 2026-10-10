@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2026-10-10T08:20:56.003884+00:00",
+  "archive": "/workspace/outputs/Investment_Research_Phase4_CORE.zip",
+  "shared_copy": "/workspace/scratch/Investment_Research_Phase4_CORE.zip",
+  "size_bytes": 9007829,
+  "sha256": "bdef7229e0c67ad0323c640c2776d4fce49df94c4d829d030a3a8b7eb7eec942",
+  "manifested_files": 909,
+  "crc": "PASS",
+  "readback_all_file_hashes": "PASS",
+  "original_135mb_archive_unchanged": true,
+  "recipient_download_confirmed": false
+}

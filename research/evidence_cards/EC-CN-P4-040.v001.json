@@ -1,0 +1,40 @@
+{
+  "event_id": "CN-P4-040",
+  "market": "China",
+  "published_date": "2025-04-08",
+  "available_at": "2025-04-08T23:59:59+08:00",
+  "participant_type": "保险机构/保险资产管理人",
+  "observed_action": "调整为按偿付能力分五档上限10/20/30/40/50%；不能将50%上限乘资产当确定流入",
+  "constraint": "偿付能力、负债久期、集中度、流动性、内部授权",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "制度可能多年；实际配置速度UNKNOWN_AT_T",
+  "voluntary_or_forced": "制度强制上限；具体投资自主决策",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-INS-2025-MIRROR.html"
+  ],
+  "source_urls": [
+    "https://www.shanghai.gov.cn/gwk/search/content/2d9f79775c814b41b06d0f6c4bd8656e"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-INS-2025-MIRROR.html": "5e165125cc4684260e00d1ebaefe6dc908e5f069aaf1ba2c3b533ec9c2c7d7aa"
+  },
+  "source_excerpt": "权益类资产配置比例，调整为以下标准： （一）上季末综合偿付能力充足率低于 100%的，权益类资产的账面余额不得高于本公司上季末总资产的10%； （二）上季末综合偿付能力充足率超过 100%（含此数，下同）低于150%的，权益类资产账面余额不得高于本公司上季末总资产的20%； （三）上季末综合偿付能力充足率超过 150%低于250%的，权益类资产账面余额不得高",
+  "publication_date_evidence": {
+    "source_id": "CN-S-INS-2025-MIRROR",
+    "excerpt": "比例有关事项的通知 印发日期：2025-04-08 发布日期：2025-04-08 金规〔2025〕12 号 ",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "扩大合格保险人的可配置集合；需求仍取决于偿付能力、资产负债匹配和投资意愿",
+  "alternative_explanation": "此前未接近上限，因此上限提升不约束边际买入；专项产品还可能投资债权",
+  "falsifier": "约束原本不绑定或放开后实际权益仓位不升，则“释放确定股市增量”失败",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-040",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

@@ -1,0 +1,45 @@
+{
+  "event_id": "JP-P4-012",
+  "market": "Japan",
+  "published_date": "2024-08-02",
+  "available_at": "2024-08-02T23:59:59+09:00",
+  "participant_type": "Public Pension (GPIF)",
+  "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+  "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": null,
+  "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+  "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_012.pdf",
+    "research/phase4/sources/japan/gpif_catalog_2024.html"
+  ],
+  "source_urls": [
+    "https://www.gpif.go.jp/operation/29880651gpif/2024_1Q_0802_en.pdf",
+    "https://www.gpif.go.jp/en/topics/2024/"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_012.pdf": "48b11498411f4e1886cf081cabb14e49dda1f098fc207035b53899a5e99a2d33",
+    "research/phase4/sources/japan/gpif_catalog_2024.html": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+  },
+  "source_excerpt": "Investment results for 1Q of fiscal 2024(update report) Government Pension Investment Fund (GPIF) manages the public pension fund in the long term and its investment results should be assessed in the same manne",
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Aug 2, 2024",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+    "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+    "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+    "historical_vintage_independently_archived": false
+  },
+  "source_proof_admitted": true,
+  "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+  "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+  "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "evidence_id": "EC-JP-P4-012",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

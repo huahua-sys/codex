@@ -1,0 +1,229 @@
+SEC.gov | SEC Adopts Money Market Fund Reform Rules
+Skip to search field
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock
+(LockA locked padlock)
+or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+SEC homepage
+Menu
+Close
+Search SEC.gov & EDGAR
+Search
+Search Filings
+Search Filings
+Full Text Search
+Latest Filings
+Mutual Fund Search
+Variable Insurance Products Search
+SIC Codes
+CIK Lookup
+Public Dissemination Service (PDS)
+Search Assistance
+Submit Filings
+Submit Filings
+EDGAR Filer Management Portal
+EDGAR Filing Portal
+Online Forms Management Portal
+EDGAR Next
+Forms Index
+Filer Support & Resources
+Data & Research
+Data & Research
+Data Library
+Statistics & Data Visualizations
+Structured Data
+Investment Management Data
+Open Data at the SEC
+Rules, Enforcement, & Compliance
+Rules & Regulations
+Rulemaking Activity
+Submit Public Comments
+Staff Guidance
+No-Action, Interpretive, and Exemptive Letters
+Self-Regulatory Organization Rulemaking
+Public Petitions for Rulemaking
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Compliance
+Examination Priorities
+Risk Alerts
+Compliance Outreach Program
+Proposed Rules
+What's New
+Whistleblower Program
+Featured Topics
+Featured Topics
+Crypto Task Force
+Cybersecurity
+Market Structure Analytics
+Saving and Investing for Military Personnel
+Saving and Investing for Teachers
+SEC-CFTC Harmonization Initiative
+Treasury Clearing Implementation
+About
+About
+Mission
+Commissioners
+Divisions & Offices
+Division & Office Directors
+Advisory Committees
+Budget & Performance
+Reports & Publications
+Commission Votes
+Contact the SEC
+Careers
+Submit a Tip or Complaint
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Newsroom
+|
+Investors
+Small Businesses
+Whistleblowers
+Search SEC.gov & EDGAR
+Search
+More in this Section
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+Videos
+Social Media Directory
+Podcasts
+What's New
+Newsroom
+Press Releases
+Speeches & Statements
+Meetings & Events
+Videos
+Social Media Directory
+Podcasts
+What's New
+Home
+Newsroom
+Press Releases
+SEC Adopts Money Market Fund Reform Rules
+Press Release
+SEC Adopts Money Market Fund Reform Rules
+Rules Provide Structural and Operational Reform to Address Run Risks in Money Market Funds
+For Immediate Release
+2014-143
+Washington D.C., July 23, 2014 —
+The Securities and Exchange Commission today adopted amendments to the rules that govern money market mutual funds. The amendments make structural and operational reforms to address risks of investor runs in money market funds, while preserving the benefits of the funds.
+Today’s rules build upon the reforms adopted by the Commission in March 2010 that were designed to reduce the interest rate, credit and liquidity risks of money market fund portfolios. When the Commission adopted the 2010 amendments, it recognized that the 2008 financial crisis raised questions of whether more fundamental changes to money market funds might be warranted.
+The new rules require a floating net asset value (NAV) for institutional prime money market funds, which allows the daily share prices of these funds to fluctuate along with changes in the market-based value of fund assets and provide non-government money market fund boards new tools – liquidity fees and redemption gates – to address runs.
+“Today’s reforms fundamentally change the way that money market funds operate. They will reduce the risk of runs in money market funds and provide important new tools that will help further protect investors and the financial system,” said SEC Chair Mary Jo White. “Together, this strong reform package will make our markets more resilient and enhance transparency and fairness of these products for America’s investors.”
+With a floating NAV, institutional prime money market funds (including institutional municipal money market funds) are required to value their portfolio securities using market-based factors and sell and redeem shares based on a floating NAV. These funds no longer will be allowed to use the special pricing and valuation conventions that currently permit them to maintain a constant share price of $1.00. With liquidity fees and redemption gates, money market fund boards have the ability to impose fees and gates during periods of stress. The final rules also include enhanced diversification, disclosure and stress testing requirements, as well as updated reporting by money market funds and private funds that operate like money market funds.
+The final rules provide a two-year transition period to enable both funds and investors time to fully adjust their systems, operations and investing practices.
+Norm Champ, director of the SEC’s Division of Investment Management, said, “Today’s adoption of final money market fund reforms represents a significant additional step to address a key area of systemic risk identified during the financial crisis. These reforms are important both to investors who use money market funds as a cash management vehicle and to the corporations, financial institutions, municipalities and others that use them as a source of short-term funding.”
+The SEC today also issued a related notice proposing exemptions from certain confirmation requirements for transactions effected in shares of floating NAV money market funds. Additionally, the SEC re-proposed amendments to the Commission’s money market fund rules and Form N-MFP to address provisions that reference credit ratings. The re-proposed amendments would implement section 939A of the Dodd-Frank Wall Street and Consumer Protection Act of 2010, which requires the Commission to review its rules that use credit ratings as an assessment of credit-worthiness, and replace those credit-rating references with other appropriate standards.
+The rules adopted today will be effective 60 days after their publication in the Federal Register, and the re-proposal will have a 60-day public comment period following its publication in the Federal Register.
+* * *
+FACT SHEET
+Money Market Fund Reform
+SEC Open Meeting
+July 23, 2014
+Action
+The Commission will consider whether to adopt final rules that reform the way money market funds are structured and operate in order to better equip them to address run risks, while preserving the benefits of money market funds. The money market fund reforms would:
+Floating NAV
+·Require certain money market funds to maintain a floating net asset value (NAV) for sales and redemptions based on the current market value of the securities in their portfolios rounded to the fourth decimal place (e.g., $1.0000). The requirement, which would apply to institutional prime money market funds (including institutional municipal money market funds), would result in the daily share prices of the money market funds fluctuating along with changes in the market-based value of the funds’ investments.
+Fees and Gates
+Provide new tools to money market fund boards of directors to directly address a run on a fund. The new tools – fees and gates – would give fund boards the ability to impose liquidity fees or to suspend redemptions temporarily, also known as “gate,” if a fund’s level of weekly liquid assets falls below a certain threshold.
+Portfolio Diversification, Disclosure and Stress Testing
+Enhance diversification, disclosure and stress testing requirements as well as provide updated reporting by money market funds and private funds that operate like money market funds.
+Tax and Accounting
+The SEC was informed that should these rules be adopted, the U.S. Department of the Treasury and the Internal Revenue Service today will release two types of tax guidance. They will propose new regulations to allow floating NAV money market fund investors to use a simplified tax accounting method to track gains and losses that could be used beginning today. The proposed regulation will eliminate the need to track individual purchase and sale transactions for tax reporting purposes. And, they will release a new revenue procedure that provides relief from the “wash sale” rules for any losses on shares of a floating NAV money market fund.
+Other Measures
+In addition, the Commission will consider whether to re-propose amendments to the Commission’s money market fund rules and Form N-MFP to address provisions that reference credit ratings, and propose an additional amendment to the issuer diversification provisions in the rule.
+Background
+Money market funds are a type of mutual fund registered under the Investment Company Act of 1940 and regulated under rule 2a-7 of the Act. Money market funds pay dividends that reflect prevailing short-term interest rates, are redeemable on demand, and, unlike other investment companies, seek to maintain a stable NAV, typically $1.00. This combination of principal stability, liquidity and payment of short-term yields has made money market funds popular cash management vehicles for both retail and institutional investors.
+There are many kinds of money market funds, including ones that invest primarily in government securities, tax-exempt municipal securities, or corporate debt securities. Money market funds that primarily invest in corporate debt securities are referred to as prime funds. In addition, money market funds are often structured to cater to different types of investors. Some funds are marketed to individuals and intended for retail investors, while other funds that typically require high minimum investments are intended for institutional investors.
+After the events of the 2008 financial crisis, in March 2010, the SEC adopted a number of amendments to rule 2a-7. These amendments were designed to make money market funds more resilient by reducing the interest rate, credit and liquidity risks of fund portfolios. When the SEC adopted the 2010 amendments, the SEC stated that money market funds’ experience during the 2008 financial crisis raised questions of whether more fundamental changes to money market funds might be warranted.
+Several significant market events since the 2010 reforms have allowed the SEC to evaluate the efficacy of those reforms. Specifically, in the summer of 2011, the Eurozone sovereign debt crisis and an impasse over the U.S. government’s debt ceiling unfolded, and during the fall of 2013 another U.S. government debt ceiling impasse occurred.
+Although the 2010 reforms were an important step in making money market funds better able to withstand heavy redemptions, analysis and data from the SEC’s Division of Economic and Risk Analysis (DERA) suggested that additional reforms would assist in addressing potential future situations when credit losses may cause a fund’s portfolio to lose value or when the short-term financing markets more generally come under stress. In response, in 2013, the SEC proposed alternative reforms that could also be adopted in combination. Those reforms were a floating NAV for institutional prime funds and permissible liquidity fees and redemption gates. After consideration of the approximately 1,400 comments received on the proposal, the SEC is now considering whether to adopt final rules that further amend the rules that govern money market funds.
+Money Market Fund Reform Package
+Floating NAV – Under the floating NAV amendments, institutional prime money market funds would be required to transact at a floating NAV, instead of at a $1.00 stable share price. The floating NAV amendments are designed to reduce the first mover advantage inherent in a stable NAV fund, by dis-incentivizing redemption activity that can result from investors attempting to exploit the possibility of redeeming shares at the stable share price even if the portfolio has suffered a loss. They are also intended to reduce the chance of unfair investor dilution and make it more transparent to certain of the impacted investors that they, and not the fund sponsors or the Federal government, bear the risk of loss.
+Floating the NAV – Institutional prime money market funds would no longer be able to use amortized cost to value their portfolio securities. Daily share prices of these money market funds would fluctuate along with changes in the market-based value of their portfolio securities.
+Showing Fluctuations in Price – Institutional prime money market funds would be required to price their shares using a more precise method so that investors are more likely to see fluctuations in value. Currently, money market funds “penny round” their share prices to the nearest one percent (to the nearest penny in the case of a fund with a $1.00 share price). Under the floating NAV amendments, institutional prime money market funds instead would be required to “basis point round” their share price to the nearest 1/100th of one percent (the fourth decimal place in the case of a fund with a $1.0000 share price).
+Government and Retail Money Market Funds – Government and retail money market funds would be allowed to continue using the amortized cost method and/or penny rounding method of pricing to seek to maintain a stable share price. A government money market fund would be defined as any money market fund that invests 99.5 percent (formerly 80 percent) or more of its total assets in cash, government securities and/or repurchase agreements that are collateralized solely by government securities or cash. A retail money market fund would be defined as a money market fund that has policies and procedures reasonably designed to limit all beneficial owners of the money market fund to natural persons. A municipal (or tax-exempt) fund would be required to transact at a floating NAV unless the fund meets the definition of a retail money market fund, in which case it would be allowed to use the amortized cost method and/or penny rounding method of pricing to seek to maintain a stable share price.
+Notice of Proposed Rule 10b-10 Exemptive Relief – The SEC today would issue a Notice of Proposed Rule 10b-10 Exemptive Relief, soliciting comment on a proposal to exempt broker-dealers from the written notification requirement under Rule 10b-10(a) of the Securities Exchange Act of 1934 for transactions effected in shares of floating NAV money market funds. The proposed order would, subject to certain conditions, grant exemptive relief from the immediate confirmation delivery requirements of Rule 10b-10 for such floating NAV transactions.
+Liquidity Fees and Redemption Gates – The SEC would adopt a new liquidity fees and gates regime to give fund boards a new tool to directly address runs.
+Liquidity Fees – Under the rules, if a money market fund’s level of “weekly liquid assets” falls below 30 percent of its total assets (the regulatory minimum), the money market fund’s board would be allowed to impose a liquidity fee of up to two percent on all redemptions. Such a fee could be imposed only if the money market fund’s board of directors determines that such a fee is in the best interests of the fund. If a money market fund’s level of weekly liquid assets falls below 10 percent, the money market fund would be required to impose a liquidity fee of one percent on all redemptions. However, such a fee would not be imposed if the fund’s board of directors determines that such a fee is not in the best interests of the fund or that a lower or higher (up to two percent) liquidity fee is in the best interests of the fund. Weekly liquid assets generally include cash, U.S. Treasury securities, certain other government securities with remaining maturities of 60 days or less, and securities that convert into cash within one week.
+Redemption Gates – Under the rules, if a money market fund’s level of weekly liquid assets falls below 30 percent, a money market fund’s board could in its discretion temporarily suspend redemptions (gate). To impose a gate, the board of directors would find that imposing a gate is in the money market fund’s best interests. A money market fund that imposes a gate would be required to lift that gate within 10 business days, although the board of directors could determine to lift the gate earlier. Money market funds would not be able to impose a gate for more than 10 business days in any 90-day period.
+Prompt Public Disclosure – Money market funds would be required to promptly and publicly disclose instances in which the fund’s level of weekly liquid assets falls below the 10 percent threshold and the imposition and removal of any liquidity fee or gate.
+Government Money Market Funds – Government money market funds would not be subject to the new fees and gates provisions. However, under the proposed rules, these funds could voluntarily opt into them, if previously disclosed to investors.
+Enhanced Disclosure Requirements – The final rules would seek to improve the transparency of money market fund operations and risks by, among other things:
+Website Disclosure – Money market funds would be required to disclose on their website, on a daily basis, their levels of daily and weekly liquid assets, net shareholder inflows or outflows, market-based NAVs per share, imposition of fees and gates, and any use of affiliate sponsor support.
+New Material Event Disclosure – Money market funds would be required to promptly disclose certain events on a new Form N-CR. These events would include the imposition or removal of fees or gates and the primary considerations or factors taken into account by a board of directors in its decision related to fees and gates; portfolio security defaults; sponsor or fund affiliate support, including the amount of support and a brief description of the reason for support; and–for retail and government funds–a fall in the fund’s market-based NAV per share below $0.9975.
+Disclosure of Sponsor Support – Money market funds would be required to provide in their statements-of-additional-information (SAIs) disclosure regarding any occasion during the last 10 years (but not for occasions that occurred before the compliance date) in which the money market fund received sponsor or fund affiliate support. This disclosure would be in addition to the current-event disclosures required on Form N-CR.
+Immediate Reporting of Fund Portfolio Holdings – Money market funds currently report detailed information about their portfolio holdings to the SEC each month on Form N-MFP. The final rules would amend Form N-MFP to clarify existing requirements and require reporting of additional information relevant to assessing money market fund risk. In addition, the final rules would eliminate the current 60-day delay on public availability of the information filed on the form and make it public immediately upon filing.
+Improved Private Liquidity Fund Reporting – To better monitor whether substantial assets migrate to private “liquidity funds” in response to money market fund reforms, the final rules would amend Form PF, which private fund advisers use to report information about certain private funds they advise.
+The final rules would require a large liquidity fund adviser (a liquidity fund adviser managing at least $1 billion in combined money market fund and liquidity fund assets) to report substantially the same portfolio information on Form PF as registered money market funds are required to report on Form N-MFP. A liquidity fund is essentially an unregistered money market fund.
+Stronger Diversification Requirements – The final rules would also include the following changes to the diversification requirements for money market funds’ portfolios:
+Aggregation of Affiliates – Money market funds would be required to treat certain entities that are affiliated with each other as single issuers for purposes of determining whether they are complying with money market funds’ five percent issuer diversification limit. Under this limitation, a fund generally could not invest more than five percent of its assets in any one issuer, or group of affiliated issuers.
+Removal of the 25 Percent Basket – For money market funds other than tax-exempt money market funds, the final rules would require that all of a money market fund’s assets meet the 10 percent diversification limit for guarantors and demand feature providers, thereby removing the so-called 25 percent basket that permitted as much as 25 percent of the value of securities held in a money market fund’s portfolio to be subject to guarantees or demand features from a single institution. For tax-exempt money market funds (also referred to as municipal money market funds), the 25 percent guarantor basket would be reduced to 15 percent so that no more than 15 percent of the value of securities held in a tax-exempt money market fund’s portfolio could be subject to guarantees or demand features from a single institution.
+Asset-Backed Securities – Money market funds would be required to treat the sponsors of asset-backed securities as guarantors subject to the 10 percent diversification limit applicable to guarantees and demand features, unless the money market fund’s board of directors (or its delegate) determines that the fund is not relying on the sponsor’s financial strength or its ability or willingness to provide liquidity, credit or other support to determine the asset-backed security’s quality or liquidity.
+Enhanced Stress Testing – The final rules would further enhance the stress testing requirements adopted by the SEC in 2010. In particular, a money market fund would be required to test its ability to maintain weekly liquid assets of at least 10 percent and to minimize principal volatility in response to certain specified hypothetical stress scenarios. In addition, the SEC would be adopting modifications to the current reporting requirements to boards of directors regarding stress testing aimed at improving the quality of reports the boards receive.
+Removal of References to Credit Ratings and Amendment to Issuer Diversification Provisions
+In addition to the broad reforms to money market fund regulation discussed above, the SEC today would re-propose amendments to rule 2a-7 and Form N-MFP to address provisions that reference credit ratings. The SEC would also propose an amendment to the issuer diversification provisions of rule 2a-7.
+Re-proposed Ratings Removal – The re-proposed amendments would implement section 939A of the Dodd-Frank Act, which requires the SEC to remove any reference to or requirement of reliance on credit ratings in its regulations and to establish appropriate standards of creditworthiness in place of certain references to credit ratings in SEC rules. Currently, to ensure that these funds are invested in high quality short-term securities, rule 2a-7 requires that money market funds invest only in securities that have received one of the two highest short-term ratings (that is, are rated either “first tier” or “second tier”) or if they are not rated, are of comparable quality.
+It also currently requires that a money market fund invest at least 97 percent of its assets in first tier securities. In addition, rule 2a-7 requires that a fund’s board of directors (or its delegate) determine that the security presents minimal credit risks. This determination must be based on factors pertaining to credit quality in addition to any rating assigned to the security.
+Credit Quality Determinations for Money Market Fund Portfolio Securities – The re-proposed amendments to rule 2a-7 would eliminate the credit ratings requirements for money market funds. Instead, a money market fund could invest in a security only if the fund’s board of directors (or its delegate) determines that it presents minimal credit risks, and that determination would require the board of directors to find that the security’s issuer has an exceptionally strong capacity to meet its short-term obligations.
+Amendments to Form N-MFP – Currently money market funds report their portfolio holdings and other information to the Commission each month on Form N-MFP, including certain credit ratings assigned to each portfolio security. The re-proposed amendments to Form N-MFP would require that a money market fund disclose any credit rating that the fund’s board considered in determining that a portfolio security presents minimal credit risk.
+Proposed Issuer Diversification Exclusion – The proposed amendment to rule 2a-7 would eliminate an exclusion from the issuer diversification provisions for securities with certain guarantees.
+Compliance Dates for Money Market Fund Reform
+The amendments would become effective 60 days after the date of publication of the rules in the Federal Register. The compliance dates would be as follows:
+The compliance date for the floating NAV amendments and fees and gates amendments would be two years after the date of publication of the release in the Federal Register.
+The compliance date for a new Form N-CR would be nine months after the date of publication of the rules in the Federal Register.
+The compliance date for the amendments to diversification, stress testing, disclosure, Form PF, Form N-MFP and clarifying amendments would be 18 months after the date of publication of the rules in the Federal Register.
+###
+Last Reviewed or Updated: Sept. 14, 2023
+Resources
+SEC Final Rule
+Return to top
+SEC homepage
+About the SEC
+Budget & Performance
+Careers
+Commission Votes
+Contact
+Contracts
+Transparency
+Accessibility & Disability
+Super Intelligence
+FOIA
+Inspector General
+No FEAR Act Data
+Ombuds
+SEC Excess Personal Property Guidance
+Websites
+Investor.gov
+Related Sites
+USA.gov
+Site Information
+Plain Writing
+Privacy & Security
+Site Map
+Stay connected. Sign up for email updates.
+Your email address
+Sign Up
+X
+Facebook
+Instagram
+RSS
+YouTube
+Email Updates

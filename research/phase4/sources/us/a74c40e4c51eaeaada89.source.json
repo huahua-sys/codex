@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_a74c40e4c51eaeaada89",
+  "url": "https://www.sec.gov/newsroom/press-releases/2023-129",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:32.796684+00:00",
+  "source_path": "research/phase4/sources/us/a74c40e4c51eaeaada89.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.sec.gov/newsroom/press-releases/2023-129",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "4c84a82b56c5489b2e5e6e4eb967c89a10a17420847feca87c8a68b1451e7456",
+  "bytes": 65032,
+  "text_path": "research/phase4/sources/us/a74c40e4c51eaeaada89.txt",
+  "text_sha256": "a13ac44cd96d16f48b184c2de9b30f1d57e4cbdd7933b195cef9ec7d3caec317"
+}

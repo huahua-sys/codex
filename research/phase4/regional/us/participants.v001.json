@@ -1,0 +1,878 @@
+[
+  {
+    "participant_id": "US-ACTOR-01",
+    "name": "财政部/政府债务与采购",
+    "capital_controller": "财政部融资官员/立法预算",
+    "capital_source": "税收与发债",
+    "mandate": "按授权筹资和财政支付",
+    "time_horizon": "拍卖日到多年预算",
+    "benchmark": "融资稳定及成本，非股票alpha",
+    "liability_structure": "滚动国债到期和财政现金支付",
+    "liquidity_needs": "TGA现金及到期本金",
+    "leverage": "主权债务；非保证金交易",
+    "regulatory_constraints": "借款授权/债务上限/预算",
+    "risk_limits": "操作现金与债务期限风险",
+    "rebalancing_rules": "季度refund/已公告拍卖表",
+    "forced_buy_trigger": "预算批准后的采购/实际支付",
+    "forced_sell_trigger": "需要筹资而发行债务，非抛股",
+    "action_speed": "公告提前，拍卖日执行",
+    "potential_flow_size": "本事件库未量化；按auction实际授标",
+    "observable_footprints": "拍卖公告/结果/TGA，存量不是净flow",
+    "price_sensitive_when": "融资结构与期限选择",
+    "price_insensitive_when": "法定支付/到期兑付",
+    "forced_condition": "现金不足/上限制度绑定",
+    "opportunity_or_danger": "财政支出可支持收入；供给/利率挤出并存",
+    "source_ids": [
+      "US_SOURCE_d2b9e828479ae581146f"
+    ],
+    "source_urls": [
+      "https://home.treasury.gov/policy-issues/financing-the-government"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/d2b9e828479ae581146f.html"
+    ],
+    "source_sha256": [
+      "2c946340bb4ef0c9113298ddfb884d80012d2beba5501123b0080cb8447e8f8e"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-02",
+    "name": "Federal Reserve",
+    "capital_controller": "FOMC/Board/执行纽约Fed",
+    "capital_source": "资产负债表/银行准备金",
+    "mandate": "货币政策、支付和金融稳定",
+    "time_horizon": "隔夜到多年框架",
+    "benchmark": "政策目标，非股票指数",
+    "liability_structure": "准备金与通货/回购负债",
+    "liquidity_needs": "支付结算和合格交易对手融资",
+    "leverage": "央行资产负债表非普通基金杠杆",
+    "regulatory_constraints": "法定工具权限/资格/抵押品",
+    "risk_limits": "抵押折扣、期限、工具规则",
+    "rebalancing_rules": "工具/资产购买规则按政策调整",
+    "forced_buy_trigger": "操作承诺/资格满足后的授标",
+    "forced_sell_trigger": "到期不续作/缩表不是股市强卖",
+    "action_speed": "工具隔夜；规则与仓位调整可慢",
+    "potential_flow_size": "TAF授标确数；未量化净股市注入",
+    "observable_footprints": "操作结果/H4.1；授标与settlement分开",
+    "price_sensitive_when": "工具定价/抵押估值",
+    "price_insensitive_when": "政策操作不以股票回报最大化",
+    "forced_condition": "履行政策/支付职责，而非股票方向约束",
+    "opportunity_or_danger": "缓解融资可能有效；资产资不抵债仍危险",
+    "source_ids": [
+      "US_SOURCE_3bf4638ed156bd7e623e",
+      "US_SOURCE_40c56ac57e23969c257e"
+    ],
+    "source_urls": [
+      "https://www.federalreserve.gov/monetarypolicy/standing-overnight-repurchase-agreement-facility.htm",
+      "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/3bf4638ed156bd7e623e.html",
+      "research/phase4/sources/us/40c56ac57e23969c257e.html"
+    ],
+    "source_sha256": [
+      "f702cfba39dec05f60f6e22c89e64483a0c5a4f7697432f26f167c5c12c1da2b",
+      "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-03",
+    "name": "外国主权财富/储备资金",
+    "capital_controller": "外方政府/基金董事会/外聘经理",
+    "capital_source": "财政盈余/资源收入/外汇储备",
+    "mandate": "本国长期财富或储备流动性",
+    "time_horizon": "数年到跨代",
+    "benchmark": "因授权而异；13F不披露全部",
+    "liability_structure": "预算提取/外汇支付需要",
+    "liquidity_needs": "主权财政调用与储备干预",
+    "leverage": "因基金/委托而异，未统一测量",
+    "regulatory_constraints": "在美披露与本国投资限制",
+    "risk_limits": "汇率/集中度/政治限制各异",
+    "rebalancing_rules": "政策配置和预算提取",
+    "forced_buy_trigger": "授权配置变更后增配",
+    "forced_sell_trigger": "本国现金需求/授权减配",
+    "action_speed": "季度披露滞后，执行可数月",
+    "potential_flow_size": "未知；13F仅部分美国证券存量",
+    "observable_footprints": "13F/主权原报告；变化非净flow",
+    "price_sensitive_when": "价值授权允许等候时",
+    "price_insensitive_when": "基准/储备支付目标绑定时",
+    "forced_condition": "财政提款/储备干预",
+    "opportunity_or_danger": "慢配置可能持续；主权目标不证明证券看涨",
+    "source_ids": [
+      "US_SOURCE_2dc9bffc49f061afa9cc"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/divisions/investment/13ffaq"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/2dc9bffc49f061afa9cc.html"
+    ],
+    "source_sha256": [
+      "8987bb0b302f39037483f9ec9fae9b1ab72d499caa698f00a4db52c81c9fae6d"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-04",
+    "name": "养老金DB（公司/公共分别核验）",
+    "capital_controller": "受托人/投资委员会与外部经理",
+    "capital_source": "雇主缴款/投资收入",
+    "mandate": "履行养老金给付/长期配置",
+    "time_horizon": "多年，给付按月",
+    "benchmark": "政策资产组合/负债匹配",
+    "liability_structure": "承诺养老金；公共计划制度另查",
+    "liquidity_needs": "退休给付及抵押/衍生品现金",
+    "leverage": "可含衍生品；因计划而异",
+    "regulatory_constraints": "公司ERISA/PBGC；公共计划不混同",
+    "risk_limits": "资金缺口/资负久期/配置带",
+    "rebalancing_rules": "预设配置带与给付现金需求",
+    "forced_buy_trigger": "跌后恢复权重，前提预算可用",
+    "forced_sell_trigger": "涨后减回权重/给付或融资压力",
+    "action_speed": "天到季度，未识别提前flow",
+    "potential_flow_size": "未知；静态AUM不能推边际流",
+    "observable_footprints": "资产配置报告/净缴款/托管执行",
+    "price_sensitive_when": "主动估值配置或容忍偏离时",
+    "price_insensitive_when": "固定再平衡/负债匹配时",
+    "forced_condition": "给付、配置带或抵押现金调用",
+    "opportunity_or_danger": "慢钱买跌可能支撑；缺口与liability可迫使卖",
+    "source_ids": [
+      "US_SOURCE_49d89231a02c918ef688",
+      "US_SOURCE_5058f00c35c1eaab1ed1"
+    ],
+    "source_urls": [
+      "https://www.pbgc.gov/about/how-pbgc-operates",
+      "https://www.irs.gov/retirement-plans/retirement-plan-investments-faqs"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/49d89231a02c918ef688.html",
+      "research/phase4/sources/us/5058f00c35c1eaab1ed1.html"
+    ],
+    "source_sha256": [
+      "8064185d10e91e47772a5726d055da1b42b976383474a3b1be17c58cfd8414ad",
+      "959b178a345659847c13f12bf7506afee8b74311243df8cf690801baa357f12c"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-05",
+    "name": "401(k)/DC及目标日期基金",
+    "capital_controller": "参与者/计划菜单/基金组合经理",
+    "capital_source": "工资扣缴/雇主匹配",
+    "mandate": "参与者退休储蓄；基金按glidepath",
+    "time_horizon": "多年，配置按年龄改变",
+    "benchmark": "目标日期资产组合或选定指数",
+    "liability_structure": "个人账户，可转移/提款",
+    "liquidity_needs": "退休提款/账户转换",
+    "leverage": "一般基金层不等于个人融资，逐个核验",
+    "regulatory_constraints": "计划投资/基金监管与提款规则",
+    "risk_limits": "选项/组合风险与glidepath",
+    "rebalancing_rules": "年龄滑轨/基金政策再平衡",
+    "forced_buy_trigger": "持续扣款和固定比例配置",
+    "forced_sell_trigger": "提款/转换/股票比重随年龄下降",
+    "action_speed": "缴款周期到季度",
+    "potential_flow_size": "未知；需净缴款和实际组合交易",
+    "observable_footprints": "计划净流/基金报告，缴款非方向预测",
+    "price_sensitive_when": "自行择时/主动配置时",
+    "price_insensitive_when": "自动扣缴/固定glidepath",
+    "forced_condition": "固定指令/提款/计划变更",
+    "opportunity_or_danger": "持续现金可慢进；家庭流动性需求反转",
+    "source_ids": [
+      "US_SOURCE_5058f00c35c1eaab1ed1",
+      "US_SOURCE_4cd9a57cab787176fa9b"
+    ],
+    "source_urls": [
+      "https://www.irs.gov/retirement-plans/retirement-plan-investments-faqs",
+      "https://www.sec.gov/newsroom/press-releases/2016-215"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/5058f00c35c1eaab1ed1.html",
+      "research/phase4/sources/us/4cd9a57cab787176fa9b.html"
+    ],
+    "source_sha256": [
+      "959b178a345659847c13f12bf7506afee8b74311243df8cf690801baa357f12c",
+      "f379a3ce97a7e9a0aebd4798a536c1aef46b642fddb658186e3511c8df9686c1"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-06",
+    "name": "寿险/年金保险",
+    "capital_controller": "保险投资委员会/ALM与外部经理",
+    "capital_source": "保费/长期储备资产",
+    "mandate": "给付保障与资产负债匹配",
+    "time_horizon": "数年到几十年",
+    "benchmark": "负债久期/收益及资本效率",
+    "liability_structure": "死亡/年金承诺，退保选择权",
+    "liquidity_needs": "给付/退保/衍生品collateral",
+    "leverage": "保险杠杆与融资要分开核验",
+    "regulatory_constraints": "州保险监管/NAIC风险资本框架",
+    "risk_limits": "偿付资本/评级/集中度/ALM",
+    "rebalancing_rules": "久期/风险资本/配置带",
+    "forced_buy_trigger": "保费/到期资金配置与ALM",
+    "forced_sell_trigger": "退保激增/资本不足/降级限制",
+    "action_speed": "周到季度，流动性危机可更快",
+    "potential_flow_size": "未知；持仓不是即将执行规模",
+    "observable_footprints": "法定报表/评级迁移/退保与投资变化",
+    "price_sensitive_when": "资本允许时重视收益与估值",
+    "price_insensitive_when": "给付/ALM/资本必须纠偏时",
+    "forced_condition": "退保/降级/资本约束",
+    "opportunity_or_danger": "长期资金有耐心；liability挤兑会改性质",
+    "source_ids": [
+      "US_SOURCE_846819e9995d12fec1c7"
+    ],
+    "source_urls": [
+      "https://content.naic.org/insurance-topics/risk-based-capital"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/846819e9995d12fec1c7.html"
+    ],
+    "source_sha256": [
+      "98e7fb3dfa2e9d070abf4882d834717c9b4d7f6ad7991dc64d9e30c0ff8f4af5"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-07",
+    "name": "商业银行",
+    "capital_controller": "银行董事会/ALCO/信贷委员会",
+    "capital_source": "存款/批发融资/股本",
+    "mandate": "贷款、支付、盈利与审慎合规",
+    "time_horizon": "贷款数年；融资可隔夜",
+    "benchmark": "净息差/风险调整回报",
+    "liability_structure": "可提取存款/到期融资",
+    "liquidity_needs": "提款/结算/到期偿付",
+    "leverage": "资产对股本杠杆；证券repo另分",
+    "regulatory_constraints": "适用银行资本/流动性/监管规则",
+    "risk_limits": "资本与流动性/抵押能力",
+    "rebalancing_rules": "ALM及资本计划",
+    "forced_buy_trigger": "贷款提款义务/合格流动资产",
+    "forced_sell_trigger": "存款外流/证券抵押折扣/资本不足",
+    "action_speed": "小时到数季度，事件非交易识别",
+    "potential_flow_size": "SLOOS无金额；需真实证券/贷款数据",
+    "observable_footprints": "SLOOS/存款/融资成本/证券仓位",
+    "price_sensitive_when": "贷款定价/债券配置主动时",
+    "price_insensitive_when": "提款/监管调整到期时",
+    "forced_condition": "存款或滚动融资失效",
+    "opportunity_or_danger": "holder融资问题可能局部；银行资产损失会反身化",
+    "source_ids": [
+      "US_SOURCE_40c56ac57e23969c257e"
+    ],
+    "source_urls": [
+      "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/40c56ac57e23969c257e.html"
+    ],
+    "source_sha256": [
+      "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-08",
+    "name": "Broker/dealer/Primary Dealer",
+    "capital_controller": "交易台/风控/资产负债表委员会",
+    "capital_source": "客户交易/repo/公司股本",
+    "mandate": "做市/中介/一级市场义务",
+    "time_horizon": "日到周库存，融资隔夜",
+    "benchmark": "库存收益与客户服务/风险预算",
+    "liability_structure": "repo到期/客户保证金和结算",
+    "liquidity_needs": "交割/借券/融资",
+    "leverage": "repo与库存杠杆，融资haircut重要",
+    "regulatory_constraints": "资本规则/primary-dealer资格与报告",
+    "risk_limits": "VaR/库存/融资/总资产杠杆",
+    "rebalancing_rules": "库存和对冲持续调整",
+    "forced_buy_trigger": "承销/交割或空头对冲",
+    "forced_sell_trigger": "库存超限/repo撤资/客户平仓",
+    "action_speed": "即时到几天；可持续周级需融资证明",
+    "potential_flow_size": "未知；NYFed总仓位非某dealerflow",
+    "observable_footprints": "dealer统计/repo报价/拍卖承销",
+    "price_sensitive_when": "库存风险和价差正常时",
+    "price_insensitive_when": "结算/资本/风控硬限制",
+    "forced_condition": "融资或库存限制绑定",
+    "opportunity_or_danger": "中介撤退可能暂时错价，也会使市场失灵",
+    "source_ids": [
+      "US_SOURCE_eb8fcdbdb8926223e20a",
+      "US_SOURCE_3bf4638ed156bd7e623e"
+    ],
+    "source_urls": [
+      "https://www.newyorkfed.org/markets/pridealers_policies",
+      "https://www.federalreserve.gov/monetarypolicy/standing-overnight-repurchase-agreement-facility.htm"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/eb8fcdbdb8926223e20a.html",
+      "research/phase4/sources/us/3bf4638ed156bd7e623e.html"
+    ],
+    "source_sha256": [
+      "2e491ec41302864deb33188679f6fc91461b42ee77c74ab9329f77f191eab825",
+      "f702cfba39dec05f60f6e22c89e64483a0c5a4f7697432f26f167c5c12c1da2b"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-09",
+    "name": "开放式主动共同基金",
+    "capital_controller": "组合经理/基金董事会",
+    "capital_source": "可日赎回投资者资金",
+    "mandate": "既定证券授权与基金业绩",
+    "time_horizon": "持仓月到年；负债可日赎回",
+    "benchmark": "招募书/市场指数",
+    "liability_structure": "可赎回股份与现金结算",
+    "liquidity_needs": "赎回及交易交割",
+    "leverage": "依招募书/监管，非统一无杠杆",
+    "regulatory_constraints": "投资公司流动性制度/授权",
+    "risk_limits": "现金/可卖资产/风险集中度",
+    "rebalancing_rules": "现金缓冲及基金授权",
+    "forced_buy_trigger": "净申购后建立仓位",
+    "forced_sell_trigger": "大赎回超现金/授权违规",
+    "action_speed": "天到周，原始净赎回public lag",
+    "potential_flow_size": "未知；基金净赎回不等于个股被卖额",
+    "observable_footprints": "净赎回/组合流动性/持仓与现金变化",
+    "price_sensitive_when": "无赎回压力主动价值判断",
+    "price_insensitive_when": "赎回必须筹资时",
+    "forced_condition": "赎回与流动性错配",
+    "opportunity_or_danger": "holder问题可错杀；赎回可能正确反映资产坏",
+    "source_ids": [
+      "US_SOURCE_4cd9a57cab787176fa9b"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/newsroom/press-releases/2016-215"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/4cd9a57cab787176fa9b.html"
+    ],
+    "source_sha256": [
+      "f379a3ce97a7e9a0aebd4798a536c1aef46b642fddb658186e3511c8df9686c1"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-10",
+    "name": "ETF/被动基金与AP",
+    "capital_controller": "指数基金经理/AP套利商分别决策",
+    "capital_source": "投资者份额与AP篮子交易",
+    "mandate": "跟踪指数/套利份额偏差",
+    "time_horizon": "指数长期；AP库存短期",
+    "benchmark": "跟踪的具体指数",
+    "liability_structure": "份额可交易；AP才通常能篮子赎回",
+    "liquidity_needs": "基金篮子/现金与AP交割",
+    "leverage": "基金与AP杠杆分开，非等同",
+    "regulatory_constraints": "ETF制度/豁免规则/AP合同",
+    "risk_limits": "跟踪误差/篮子交割/融资限制",
+    "rebalancing_rules": "指数更新/创建赎回篮子",
+    "forced_buy_trigger": "指数纳入/净创建的实际股票篮子",
+    "forced_sell_trigger": "删除/净赎回是否传出篮子须查",
+    "action_speed": "日级，调仓预告更早；持续性未知",
+    "potential_flow_size": "未知；ETF成交量≠基金净flow",
+    "observable_footprints": "份额变化/实际篮子/折溢价/AP融资",
+    "price_sensitive_when": "AP套利和优化复制",
+    "price_insensitive_when": "指数必须复制的成分变更时",
+    "forced_condition": "基准/交割硬要求；持有人可自愿卖份额",
+    "opportunity_or_danger": "公开纳入已price-in；in-kind赎回不等于基金市场抛售",
+    "source_ids": [
+      "US_SOURCE_f0cdfa3fadaf0f770964"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/newsroom/press-releases/2019-190"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/f0cdfa3fadaf0f770964.html"
+    ],
+    "source_sha256": [
+      "dcf51f40fc92be680afb1bf60f8eb6fee919486700aaf256092123005175a301"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-11",
+    "name": "Hedge Fund",
+    "capital_controller": "基金经理/风险委员会/prime broker",
+    "capital_source": "投资者权益/prime及repo融资",
+    "mandate": "依策略绝对回报，授权差异大",
+    "time_horizon": "日到年；融资滚动可短",
+    "benchmark": "自定目标/高水位，非统一",
+    "liability_structure": "LP赎回条款与融资到期",
+    "liquidity_needs": "保证金/赎回/抵押追加",
+    "leverage": "gross/net衍生杠杆不同",
+    "regulatory_constraints": "注册/披露/合同与资金规则",
+    "risk_limits": "VaR/资金/集中度/prime限额",
+    "rebalancing_rules": "策略/风险预算/赎回日历",
+    "forced_buy_trigger": "回补/对冲/mandate调整",
+    "forced_sell_trigger": "margin call/repo撤资/LP赎回",
+    "action_speed": "小时到周；公开持仓通常滞后",
+    "potential_flow_size": "未知；gross杠杆不能等同净看多",
+    "observable_footprints": "融资条件/基金申报/不完整13F",
+    "price_sensitive_when": "可主动跨资产估值时",
+    "price_insensitive_when": "追加保证金与风险限额时",
+    "forced_condition": "多prime同步收紧/抵押跌",
+    "opportunity_or_danger": "火卖可能短暂；对冲及共同杠杆可能持续危机",
+    "source_ids": [
+      "US_SOURCE_40c56ac57e23969c257e",
+      "US_SOURCE_2dc9bffc49f061afa9cc"
+    ],
+    "source_urls": [
+      "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf",
+      "https://www.sec.gov/divisions/investment/13ffaq"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/40c56ac57e23969c257e.html",
+      "research/phase4/sources/us/2dc9bffc49f061afa9cc.html"
+    ],
+    "source_sha256": [
+      "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e",
+      "8987bb0b302f39037483f9ec9fae9b1ab72d499caa698f00a4db52c81c9fae6d"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-12",
+    "name": "CTA/趋势与波动目标委托",
+    "capital_controller": "系统经理/客户风险授权",
+    "capital_source": "客户保证金/基金资本",
+    "mandate": "执行合同策略及目标风险",
+    "time_horizon": "天到月；按模型滚动",
+    "benchmark": "绝对回报/目标波动，非一规则",
+    "liability_structure": "赎回/每日期货结算",
+    "liquidity_needs": "variation margin",
+    "leverage": "期货杠杆/目标风险敞口",
+    "regulatory_constraints": "期货/客户授权与保证金",
+    "risk_limits": "合同VaR/波动/杠杆上限",
+    "rebalancing_rules": "各模型私有；不猜阈值",
+    "forced_buy_trigger": "策略翻多/降波动后的增敞口",
+    "forced_sell_trigger": "波动上升/保证金调用",
+    "action_speed": "日到周；参数未知",
+    "potential_flow_size": "未知；COT分类不等于CTA净flow",
+    "observable_footprints": "COT与基金报告只能近似聚合",
+    "price_sensitive_when": "模型可接受滑点时",
+    "price_insensitive_when": "风险目标/保证金硬限",
+    "forced_condition": "风险预算降/追加保证金",
+    "opportunity_or_danger": "机械调整可能持续；共同拥挤会反向放大",
+    "source_ids": [
+      "US_SOURCE_0850d09f28777d142e2f",
+      "US_SOURCE_40c56ac57e23969c257e"
+    ],
+    "source_urls": [
+      "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm",
+      "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/0850d09f28777d142e2f.html",
+      "research/phase4/sources/us/40c56ac57e23969c257e.html"
+    ],
+    "source_sha256": [
+      "d3d6de0b187a09185eee2fa4bc3e82d889fed5a0f0ad2c47cd937aca64c93ac1",
+      "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-13",
+    "name": "PE/Private Credit",
+    "capital_controller": "GP/信贷经理/基金投资委员会",
+    "capital_source": "长期LP承诺与基金/借款人融资",
+    "mandate": "私有企业/信贷回报和契约执行",
+    "time_horizon": "数年；周期长",
+    "benchmark": "私募IRR/现金回款而非股指",
+    "liability_structure": "closed-end承诺；半流动产品另分",
+    "liquidity_needs": "资本调用/赎回产品/基金到期",
+    "leverage": "基金信用额度/借款人杠杆分开",
+    "regulatory_constraints": "结构、证券法、合同/信贷契约",
+    "risk_limits": "借款人覆盖率/赎回与融资",
+    "rebalancing_rules": "投资期/退出/基金到期",
+    "forced_buy_trigger": "签约后资本调用",
+    "forced_sell_trigger": "基金清算/违约处置/半流动赎回",
+    "action_speed": "月到多年；估值更新滞后",
+    "potential_flow_size": "未知；私人估值不代表可成交额",
+    "observable_footprints": "资本调用/违约/重组/BDC公开报表",
+    "price_sensitive_when": "新放贷/退出谈判时",
+    "price_insensitive_when": "契约执行/基金期限/资本调用",
+    "forced_condition": "债务到期/赎回结构失配",
+    "opportunity_or_danger": "慢资金不保证无mark风险；资产credit最重要",
+    "source_ids": [
+      "US_SOURCE_40c56ac57e23969c257e"
+    ],
+    "source_urls": [
+      "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/40c56ac57e23969c257e.html"
+    ],
+    "source_sha256": [
+      "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-14",
+    "name": "公司回购/发行/CapEx",
+    "capital_controller": "董事会/CFO/treasury/经营部门",
+    "capital_source": "经营现金流/发债/股权发行",
+    "mandate": "资本结构、投资、股东分配",
+    "time_horizon": "季度到多年",
+    "benchmark": "ROIC/资金成本/股东回报",
+    "liability_structure": "债务到期/合同/员工薪酬",
+    "liquidity_needs": "营运资金/税/债务/投资付款",
+    "leverage": "公司债务；不等于回购价格杠杆",
+    "regulatory_constraints": "证券披露/回购规则/债券条款",
+    "risk_limits": "现金/评级/财务契约",
+    "rebalancing_rules": "授权及预算；不是买入承诺",
+    "forced_buy_trigger": "真实合同/供应采购、薪酬回购",
+    "forced_sell_trigger": "债务/现金紧缩致资产出售/股权融资",
+    "action_speed": "天到多年，不同动作分拆",
+    "potential_flow_size": "9MSFT回购cash rows；非全美浪潮",
+    "observable_footprints": "已执行现金流/净股数/债务/CapEx",
+    "price_sensitive_when": "自主资本配置和发行定价",
+    "price_insensitive_when": "签约采购/债务到期/员工约束",
+    "forced_condition": "流动性或契约绑定；回购可取消",
+    "opportunity_or_danger": "资本分配显示下注；贵买/供给过剩可毁回报",
+    "source_ids": [
+      "US_SOURCE_39ff2296b1dcaeaeac70"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/rules-regulations/2003/11/purchases-certain-equity-securities-issuer-others"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/39ff2296b1dcaeaeac70.html"
+    ],
+    "source_sha256": [
+      "18c1c7af505b7973bca16e2dd29ccb3972c89bedb2833ae4f436ce81a77b2bb1"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-15",
+    "name": "公司内部人",
+    "capital_controller": "个人/信托/既定交易计划",
+    "capital_source": "工资/股权薪酬/个人财富",
+    "mandate": "个人收益/分散/税/治理",
+    "time_horizon": "月到年；个别交易可短",
+    "benchmark": "个人财富与风险，非统一",
+    "liability_structure": "税/生活/贷款/锁定期",
+    "liquidity_needs": "纳税/生活/抵押借款",
+    "leverage": "个人借贷需查，不默认无杠杆",
+    "regulatory_constraints": "Form4/内部信息与交易规则",
+    "risk_limits": "个人集中度/合同/交易计划",
+    "rebalancing_rules": "个人计划或自主交易",
+    "forced_buy_trigger": "行权/持股政策/个人选择",
+    "forced_sell_trigger": "税务/分散/10b5-1计划/抵押追缴",
+    "action_speed": "交易日到披露有时滞",
+    "potential_flow_size": "未知；须逐笔code区分市场买入",
+    "observable_footprints": "Form4代码/价格/计划/权益性质",
+    "price_sensitive_when": "公开市场自掏现金且无强制",
+    "price_insensitive_when": "税和计划交易执行",
+    "forced_condition": "抵押追缴/强制计划/税负",
+    "opportunity_or_danger": "真实买不等于正确；gift/行权≠看涨买入",
+    "source_ids": [
+      "US_SOURCE_8ca6daef267ce0cbc20b"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/files/forms-3-4-5.pdf"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/8ca6daef267ce0cbc20b.html"
+    ],
+    "source_sha256": [
+      "c969ceba33551e1f92e7171d28a36e22aefe36fd379b6a957d083625de2b4ac3"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-16",
+    "name": "散户/家庭",
+    "capital_controller": "个人及经纪合同",
+    "capital_source": "储蓄/收入/借贷",
+    "mandate": "财富/投机/养老，各异",
+    "time_horizon": "日到几十年",
+    "benchmark": "各自目标，不统一",
+    "liability_structure": "生活支出/贷款/税",
+    "liquidity_needs": "失业/购房/消费",
+    "leverage": "现金账户或margin，不能混",
+    "regulatory_constraints": "账户资格/保证金/交易规则",
+    "risk_limits": "broker保证金/个人承受能力",
+    "rebalancing_rules": "分散选择/平台指令各异",
+    "forced_buy_trigger": "自动投资/期权行权",
+    "forced_sell_trigger": "margin call或家庭现金需求",
+    "action_speed": "天级；持续流需真实净交易",
+    "potential_flow_size": "未知；成交占比非净买卖",
+    "observable_footprints": "账户margin/聚合净买卖公开性有限",
+    "price_sensitive_when": "自主限价/价值偏好",
+    "price_insensitive_when": "现金压力/保证金平仓",
+    "forced_condition": "就业收入冲击/杠杆/broker调整",
+    "opportunity_or_danger": "不应视为统一反指标；价格下跌会伤家庭偿付",
+    "source_ids": [
+      "US_SOURCE_21066f6ff34682a2d033",
+      "US_SOURCE_e596da9ef1a186f6391b"
+    ],
+    "source_urls": [
+      "https://www.finra.org/rules-guidance/key-topics/margin-accounts/margin-statistics",
+      "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/21066f6ff34682a2d033.html",
+      "research/phase4/sources/us/e596da9ef1a186f6391b.html"
+    ],
+    "source_sha256": [
+      "550ea1f0a43d58549ef931343c731ece485f450f883606e3017d95fd15865706",
+      "d6a46e1a568d9864e949ff9c5e19c13011964c0dbb80afab0a40a9f8c6e78680"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-17",
+    "name": "外国主动投资者",
+    "capital_controller": "海外基金经理/投资委员会",
+    "capital_source": "海外投资者资金与融资",
+    "mandate": "本国授权、跨境收益/分散",
+    "time_horizon": "月到年",
+    "benchmark": "本币或全球股票指数",
+    "liability_structure": "本币赎回和客户负债",
+    "liquidity_needs": "本币融资/FX保证金",
+    "leverage": "本币/美元融资与衍生杠杆",
+    "regulatory_constraints": "美国披露及本国资本/税制度",
+    "risk_limits": "FX/国家风险/授权",
+    "rebalancing_rules": "全球配置和汇率对冲",
+    "forced_buy_trigger": "全球配置增配/对冲平仓",
+    "forced_sell_trigger": "本国赎回/FX压力/授权改变",
+    "action_speed": "天到季度",
+    "potential_flow_size": "未知；13F部分持仓不见FX对冲",
+    "observable_footprints": "13F/基金报告，TIC存量不等于动机",
+    "price_sensitive_when": "净值回报和相对价值时",
+    "price_insensitive_when": "本国流动性/mandate约束",
+    "forced_condition": "本国融资/赎回/资本规则",
+    "opportunity_or_danger": "跨境慢配置；美元/外汇对冲会改变方向",
+    "source_ids": [
+      "US_SOURCE_2dc9bffc49f061afa9cc"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/divisions/investment/13ffaq"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/2dc9bffc49f061afa9cc.html"
+    ],
+    "source_sha256": [
+      "8987bb0b302f39037483f9ec9fae9b1ab72d499caa698f00a4db52c81c9fae6d"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-18",
+    "name": "杠杆保证金投资者",
+    "capital_controller": "借款人/经纪或融资方共同决定",
+    "capital_source": "权益/保证金贷款/衍生品融资",
+    "mandate": "放大敞口，策略未统一",
+    "time_horizon": "隔夜资金到长持仓",
+    "benchmark": "策略目标或收益门槛",
+    "liability_structure": "collateral/每日settlement负债",
+    "liquidity_needs": "追加保证金/偿债",
+    "leverage": "证券/期货/repo杠杆分开",
+    "regulatory_constraints": "maintenance margin/合同规则",
+    "risk_limits": "融资方haircut/集中风险",
+    "rebalancing_rules": "按抵押价值重算",
+    "forced_buy_trigger": "短仓被追缴而回补",
+    "forced_sell_trigger": "长仓抵押贬值被追缴",
+    "action_speed": "即时到周；追缴不是公开flow",
+    "potential_flow_size": "未知；月margin债务不是call金额",
+    "observable_footprints": "margin债务/合同/融资成本，个体未知",
+    "price_sensitive_when": "正常资金余量",
+    "price_insensitive_when": "抵押追缴和期限到期",
+    "forced_condition": "equity低于maintenance或贷款不续",
+    "opportunity_or_danger": "holder约束可错价；credit reflexivity会破坏资产",
+    "source_ids": [
+      "US_SOURCE_e596da9ef1a186f6391b",
+      "US_SOURCE_40c56ac57e23969c257e"
+    ],
+    "source_urls": [
+      "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210",
+      "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/e596da9ef1a186f6391b.html",
+      "research/phase4/sources/us/40c56ac57e23969c257e.html"
+    ],
+    "source_sha256": [
+      "d6a46e1a568d9864e949ff9c5e19c13011964c0dbb80afab0a40a9f8c6e78680",
+      "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-19",
+    "name": "Money Market Funds",
+    "capital_controller": "基金董事会/经理及可赎回投资者",
+    "capital_source": "现金管理资金",
+    "mandate": "按产品约束持有短期工具",
+    "time_horizon": "隔夜到数月，负债日赎回",
+    "benchmark": "短端利率/流动性非股指",
+    "liability_structure": "可赎回股份，稳定/浮动NAV规则不同",
+    "liquidity_needs": "企业/个人取现",
+    "leverage": "一般短工具；流动性错配仍在",
+    "regulatory_constraints": "2a-7/具体类型及2014/2023改革",
+    "risk_limits": "流动资产、成熟期、credit与费用",
+    "rebalancing_rules": "滚动到期/客户现金需要",
+    "forced_buy_trigger": "申购/到期资金购买合格短债",
+    "forced_sell_trigger": "大赎回/信用违约/规则期限",
+    "action_speed": "日到周",
+    "potential_flow_size": "本事件库改革只有rule，不含actualflow",
+    "observable_footprints": "N-MFP/OFR持仓；有发布滞后",
+    "price_sensitive_when": "配置短工具利差",
+    "price_insensitive_when": "赎回/规则/期限必须满足",
+    "forced_condition": "挤兑/非政府工具失去融资",
+    "opportunity_or_danger": "现金涌入不等于股票看跌；可能是利率相对收益",
+    "source_ids": [
+      "US_SOURCE_1acd0eab7698cd8b5df2"
+    ],
+    "source_urls": [
+      "https://www.financialresearch.gov/money-market-funds/"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/1acd0eab7698cd8b5df2.html"
+    ],
+    "source_sha256": [
+      "2542de09bc39ad31a2effcc457c5d9c7fcd39f04e8357e6d1152071531fe5c30"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-20",
+    "name": "Market Makers（非必为Primary Dealer）",
+    "capital_controller": "做市台/交易公司风险部门",
+    "capital_source": "股本/清算融资/库存",
+    "mandate": "双边报价和库存风险补偿",
+    "time_horizon": "日内到几天",
+    "benchmark": "价差/风险调整库存PnL",
+    "liability_structure": "成交交割/借券和清算负债",
+    "liquidity_needs": "清算保证金和交割",
+    "leverage": "库存融资/对冲杠杆各异",
+    "regulatory_constraints": "做市/清算/资本/结算制度",
+    "risk_limits": "库存/对手/资金/集中度",
+    "rebalancing_rules": "delta与库存调整",
+    "forced_buy_trigger": "空仓风险及客户成交后对冲",
+    "forced_sell_trigger": "库存上限/清算压力/撤资",
+    "action_speed": "秒到天；通常不足一周窗口",
+    "potential_flow_size": "未知；报价义务不等于新增净买",
+    "observable_footprints": "价差/深度/失败交割，公开性有限",
+    "price_sensitive_when": "有正常库存资金时",
+    "price_insensitive_when": "交割/平仓风险限额绑定",
+    "forced_condition": "清算或融资受限",
+    "opportunity_or_danger": "短错价速度过快；周级须证明融资失灵未修复",
+    "source_ids": [
+      "US_SOURCE_24fa8491e8be361707df",
+      "US_SOURCE_e596da9ef1a186f6391b"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/newsroom/press-releases/2023-29",
+      "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/24fa8491e8be361707df.html",
+      "research/phase4/sources/us/e596da9ef1a186f6391b.html"
+    ],
+    "source_sha256": [
+      "3fd62bc6be1535e85738a62eb826a706fa74c6af347e9dd71e2df0d4bb9fbe97",
+      "d6a46e1a568d9864e949ff9c5e19c13011964c0dbb80afab0a40a9f8c6e78680"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-21",
+    "name": "指数提供者/被动调仓决策",
+    "capital_controller": "指数委员会；资金由追踪基金控制",
+    "capital_source": "方法版权/授权，provider自身通常不投资",
+    "mandate": "定义指数规则；非投资alpha承诺",
+    "time_horizon": "公告到定期reconstitution",
+    "benchmark": "指数方法及透明度",
+    "liability_structure": "provider无基金赎回负债",
+    "liquidity_needs": "基金复制才有交易需求",
+    "leverage": "provider不是levered资产持有人",
+    "regulatory_constraints": "SEC2022信息征询不是证明统一监管",
+    "risk_limits": "methodology/数据与治理风险",
+    "rebalancing_rules": "预定重构/纳入删除规则",
+    "forced_buy_trigger": "跟踪基金执行真实纳入",
+    "forced_sell_trigger": "删除/权重缩减，AP执行路径另查",
+    "action_speed": "公告提前，执行日集中",
+    "potential_flow_size": "未知；跟踪AUM≠成交净需求",
+    "observable_footprints": "正式index公告/追踪份额与篮子",
+    "price_sensitive_when": "优化复制可降impact",
+    "price_insensitive_when": "完全复制必须对齐时",
+    "forced_condition": "授权必须维持tracking",
+    "opportunity_or_danger": "指数纳入已为公众所知；规则变化会消灭旧关系",
+    "source_ids": [
+      "US_SOURCE_ee0978f67ade568e9dc6",
+      "US_SOURCE_f0cdfa3fadaf0f770964"
+    ],
+    "source_urls": [
+      "https://www.sec.gov/newsroom/press-releases/2022-88",
+      "https://www.sec.gov/newsroom/press-releases/2019-190"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/ee0978f67ade568e9dc6.html",
+      "research/phase4/sources/us/f0cdfa3fadaf0f770964.html"
+    ],
+    "source_sha256": [
+      "dff0d67ab4c04aecf4bb28f28a4999f6d13c9f5957d46aad1fde7454539dd77f",
+      "dcf51f40fc92be680afb1bf60f8eb6fee919486700aaf256092123005175a301"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  },
+  {
+    "participant_id": "US-ACTOR-22",
+    "name": "国家战略救助资本（美国TARP式历史结构）",
+    "capital_controller": "授权政府部门/项目经理",
+    "capital_source": "国会授权/财政资源",
+    "mandate": "金融稳定/政策目标可高于收益",
+    "time_horizon": "项目期限到数年",
+    "benchmark": "政策稳定与财政回收",
+    "liability_structure": "公共财政/项目退出义务",
+    "liquidity_needs": "计划付款/退出回收",
+    "leverage": "项目结构差异，不填统一杠杆",
+    "regulatory_constraints": "法定授权/资格/财政审计",
+    "risk_limits": "预算上限/政治授权/信用损失",
+    "rebalancing_rules": "项目规则和退出计划",
+    "forced_buy_trigger": "法定援助执行而非方向预测",
+    "forced_sell_trigger": "项目到期/返还/退出",
+    "action_speed": "审批周月，紧急安排可快",
+    "potential_flow_size": "未知；不将历史额度当今日股票流",
+    "observable_footprints": "授权/实际拨款/回收，未纳入本轮事件",
+    "price_sensitive_when": "设计、定价和退出可谈判",
+    "price_insensitive_when": "政策救助非收益最大化",
+    "forced_condition": "履行政策/退出法规",
+    "opportunity_or_danger": "不是持续国家队；救助主体未必救助旧股东",
+    "source_ids": [
+      "US_SOURCE_62c3d5637662bd496bb3"
+    ],
+    "source_urls": [
+      "https://home.treasury.gov/data/troubled-asset-relief-program"
+    ],
+    "source_paths": [
+      "research/phase4/sources/us/62c3d5637662bd496bb3.html"
+    ],
+    "source_sha256": [
+      "41e82c6fedba2121c98fe1cad96e54f13c023118d70b5fbd90c54be1ce0cae1d"
+    ],
+    "evidence_level": "LEVEL 0/1 mechanism map, not flow/return validation",
+    "interpretation_boundary": "Source supports institutional structure; conditional forcing/price sensitivity are hypotheses, not observed actions for every actor."
+  }
+]

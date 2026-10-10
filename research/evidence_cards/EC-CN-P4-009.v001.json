@@ -1,0 +1,40 @@
+{
+  "event_id": "CN-P4-009",
+  "market": "China",
+  "published_date": "2014-02-19",
+  "available_at": "2014-02-19T23:59:59+08:00",
+  "participant_type": "保险机构/保险资产管理人",
+  "observed_action": "规则按资产大类分类、设比例监管和年度审议；未披露新增配置",
+  "constraint": "偿付能力、负债久期、集中度、流动性、内部授权",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "制度可能多年；实际配置速度UNKNOWN_AT_T",
+  "voluntary_or_forced": "制度强制上限；具体投资自主决策",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-INS-2014-MIRROR.html"
+  ],
+  "source_urls": [
+    "https://jrj.sh.gov.cn/ZXYW178/20140219/0031-98478.html"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-INS-2014-MIRROR.html": "cdc41cbe3c7f92a6a4ed27a7a5f5c9bfd6fa2f5e0c07f5cc5e9ec2898e9b04b8"
+  },
+  "source_excerpt": "制定不同大类资产的投资总量及集中度监管比例上限，同时调整优化监管比例计算基数。通过法定监管比例的约束，防范系统性风险。三是建立风险监测机制。针对流动性、融资杠杆等制定监测比例，划出风险预警线。既保留一定的比例弹性，又通过强化公司信息披露义务等措施，增强社会公众对公司投资行为的约束。四是强化公司自身风险责任。要求公司制定内部风险控制比例，由董事会或董事会授权机",
+  "publication_date_evidence": {
+    "source_id": "CN-S-INS-2014-MIRROR",
+    "excerpt": "息来源：中国保监会 发布时间：2014-02-19 [打印本页] [纠错] 中国保监会于2月19日发布实施《关",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "扩大合格保险人的可配置集合；需求仍取决于偿付能力、资产负债匹配和投资意愿",
+  "alternative_explanation": "此前未接近上限，因此上限提升不约束边际买入；专项产品还可能投资债权",
+  "falsifier": "约束原本不绑定或放开后实际权益仓位不升，则“释放确定股市增量”失败",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-009",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

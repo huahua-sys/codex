@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": 1295,
+  "problems": [],
+  "n_raw_us": 42,
+  "n_effective": "UNKNOWN; program/issuer/quarter/global clustering",
+  "actors": 22,
+  "fields_per_actor": 20,
+  "old_source_and_outcome_immutable": true,
+  "v002_is_post_global_reveal_documentary_overlay": true,
+  "tested_return_edge": false
+}

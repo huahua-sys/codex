@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_73d708fd4e8ca811b3b1",
+  "url": "https://www.sec.gov/newsroom/press-releases/2021-258",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:32.142041+00:00",
+  "source_path": "research/phase4/sources/us/73d708fd4e8ca811b3b1.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.sec.gov/newsroom/press-releases/2021-258",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "13e4cfc28cdf02b66e469c80d2bf006956fe895c9eab38938e54ac07aabddf00",
+  "bytes": 65010,
+  "text_path": "research/phase4/sources/us/73d708fd4e8ca811b3b1.txt",
+  "text_sha256": "0d3bb1d499e2e1227156b8cbb57877562b72ef3535d1c89eecf542a149a8219e"
+}

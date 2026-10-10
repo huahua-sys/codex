@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_eb8fcdbdb8926223e20a",
+  "url": "https://www.newyorkfed.org/markets/pridealers_policies",
+  "role": "institutional_reference_not_event",
+  "accessed_at": "2026-10-10T08:01:33.325102+00:00",
+  "source_path": "research/phase4/sources/us/eb8fcdbdb8926223e20a.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.newyorkfed.org/markets/pridealers_policies",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "2e491ec41302864deb33188679f6fc91461b42ee77c74ab9329f77f191eab825",
+  "bytes": 127204,
+  "text_path": "research/phase4/sources/us/eb8fcdbdb8926223e20a.txt",
+  "text_sha256": "8c16065a58b75a31164c47d91d1f2ee811a09fd60bf31b61501b9117b7d5e1e1"
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_2a683919620878001c30",
+  "url": "https://www.sec.gov/newsroom/press-releases?year=2011&combine=money+market",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:24.899427+00:00",
+  "source_path": "research/phase4/sources/us/2a683919620878001c30.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.sec.gov/newsroom/press-releases?year=2011&combine=money+market",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "6c0043aa2a3d6ffd54cf6fa3935264ea7609434599853485506f493fcb0a5583",
+  "bytes": 69717,
+  "text_path": "research/phase4/sources/us/2a683919620878001c30.txt",
+  "text_sha256": "c092c22dce868cd9589d5a5c92ca90362f9603097b7b69af520245b0063774ea"
+}

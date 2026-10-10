@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_65762925ec8286339d01",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140408a.htm",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:34.440806+00:00",
+  "source_path": "research/phase4/sources/us/65762925ec8286339d01.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140408a.htm",
+  "content_type": "text/html",
+  "source_sha256": "3c2be038ba7b7d8675d8c53111514cb4e7ee317d948d4e1659e8fafe78a04805",
+  "bytes": 85176,
+  "text_path": "research/phase4/sources/us/65762925ec8286339d01.txt",
+  "text_sha256": "aeac4d7fdde68dbdb24f2570639e533226855bbff494c68be489dcffa8d1d50c"
+}

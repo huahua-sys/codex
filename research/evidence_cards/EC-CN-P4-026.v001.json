@@ -1,0 +1,47 @@
+{
+  "event_id": "CN-P4-026",
+  "market": "China",
+  "published_date": "2023-08-26",
+  "available_at": "2023-08-26T23:59:59+08:00",
+  "participant_type": "中央汇金/债务融资工具持有人",
+  "observed_action": "汇金报告完成债券发行；募集用途是优化负债结构/流动资金或偿还到期债券，不能分配为股票净买入",
+  "constraint": "债务到期与负债管理",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 150,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_ISSUANCE_NOT_EQUITY_PURCHASE",
+    "scope": "汇金债务融资毛发行",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "2–7年债券期限；新增股市投入持续期未知",
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-HUIJIN-1002182.html"
+  ],
+  "source_urls": [
+    "https://www.huijin-inv.cn/huijin-inv/c100074/2023-08/1002182.shtml"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-HUIJIN-1002182.html": "80432c71bebd4ae7d328b9b1e83c5a988502946b217159b3eadea31358767fa2"
+  },
+  "source_excerpt": "汇金公司于2023年8月18日在银行间债券市场发行150亿元非金融企业债务融资工具。本期发行品种为5年期中期票据150亿元，发行利率2.73%。所募资金用于优化负债结构、补充流动资金和主管部门及相关法律法规允许的其他用途。本期债券于2023年8月22日上市流通。联合资信评估有限公司评定汇金公司主体长期信用等级为AAA，评级展望为稳定。 最新要闻 汇金公司发行",
+  "publication_date_evidence": {
+    "source_id": "CN-S-HUIJIN-1002182",
+    "excerpt": "第五期非金融企业债务融资工具 2023-08-26 汇金公司于2023年8月18日在银行间债券市场发行150亿",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "资金可得性/到期再融资约束；发行提供容量，不自动提供股票买盘",
+  "alternative_explanation": "新债主要偿还旧债，净可投资资本没有增加",
+  "falsifier": "资金明细表显示新增净资金且具有已执行股票购买用途，才推翻“用途未识别”",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-026",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

@@ -1,0 +1,44 @@
+{
+  "event_id": "US-P4-013",
+  "market": "US",
+  "published_date": "2010-06-29",
+  "available_at": "2010-06-29T12:00:00-04:00",
+  "participant_type": "Federal Reserve and eligible depository institutions",
+  "observed_action": "TDF存款授标已完成；未来settlement将把可用准备金转成定期存款，方向与TAF相反",
+  "constraint": "银行选择将储备转为不能即期支付的定期存款；Fed技术性测试",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 2121880000.0,
+    "currency": "USD",
+    "unit": "USD",
+    "scope": "this auction gross awarded principal",
+    "basis": "AWARD_RESULT_NOT_SETTLED_CASH_FLOW; offered ceiling excluded; renewal/net balance not known"
+  },
+  "flow_duration": "28-day loan/deposit term, not an equity buying forecast",
+  "voluntary_or_forced": "VOLUNTARY_BID; funding need may constrain choice but no proven forced equity sale",
+  "source_paths": [
+    "research/phase4/sources/us/b04cdb35233e2f1dfff4.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100629a.htm"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/us/b04cdb35233e2f1dfff4.html": "dc09c1e9afcf204fcc03c04ce32e8dff8b153fbcc061405e4e1824b44cdb5463"
+  },
+  "source_excerpt": "For release at 12:00 p.m. EDT\nShare\nOn June 28, 2010, the Federal Reserve conducted an auction of $2 billion in 28-day term deposits through its Term Deposit Facility. Following are the results of the auction:\nTDF Auction ID:\nA12\nCompetitive Amount Offered:\n$ 2,000,000,000\nCompetitive Amount Tendered:\n$ 11,135,780,000\nCompetitive Amount Awarded:\n$ 2,000,000,000\nNon-Competitive Amount Awarded:\n$ 121,880,000\nTotal Amount Awarded:\n$ 2,121,880,000\nStop-Out Rate:\n0.27000 percent\nBid-to-Cover Ratio (Competitive Auction):\n5.57\nNumber of Bids Submitted:\n181\nNumber of Participants Submitting Bids:\n107\nBids at the stop-out rate were pro-rated at 94.79 percent. Resulting awards were rounded to the nearest $10,000 except that all awards below $10,000 were rounded up to $10,000.\nThe awarded deposits will settle on July 1, 2010, and will mature on July 29, 2010. The stop-out rate shown above will apply to all awarded deposits.\n",
+  "publication_date_evidence": {
+    "excerpt": "June 29, 2010; For release at 12:00 p.m. EDT",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/b04cdb35233e2f1dfff4.html"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "TAF缓解合格抵押融资约束；TDF是相反方向的准备金期限转换，不能共同归为QE",
+  "alternative_explanation": "流动性操作可能是危机严重程度的内生响应；授标可能替代其他融资/展期，非净增股市资金",
+  "falsifier": "融资约束未缓解、使用者/资产偿付恶化，或授标未交割/只为技术测试",
+  "confidence_level": "LEVEL 1",
+  "evidence_id": "EC-US-P4-013",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

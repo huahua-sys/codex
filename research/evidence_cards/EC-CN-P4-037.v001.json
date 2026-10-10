@@ -1,0 +1,47 @@
+{
+  "event_id": "CN-P4-037",
+  "market": "China",
+  "published_date": "2024-11-20",
+  "available_at": "2024-11-20T23:59:59+08:00",
+  "participant_type": "中国人民银行/一级交易商",
+  "observed_action": "香港CMU发行300亿元91天+150亿元一年央票；境外人民币流动性毛回笼",
+  "constraint": "货币市场流动性、央票/回购到期结构",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 450,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "GROSS_OPERATION",
+    "scope": "香港CMU发行300亿元91天+150亿元一年央票；境外人民币流动性毛回笼",
+    "direction": "OFFSHORE_GROSS_ABSORPTION"
+  },
+  "flow_duration": "91天/1年",
+  "voluntary_or_forced": "央行政策执行；交易商依规则投标",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-PBOC-OMO-10.html"
+  ],
+  "source_urls": [
+    "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/5511848/index.html"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-PBOC-OMO-10.html": "f8b33cee0cc5484a04ad5248a8f4968b53ee701ae4061be88c1899f7fa7b7d31"
+  },
+  "source_excerpt": "发行了2024年第十期和第十一期央行票据。具体情况如下： 期次 发行量 （人民币） 期限 中标利率 2024年第十期央行票据（香港） 300亿元 3个月 （91天） 3.20% 2024年第十一期央行票据（香港） 150亿元 1年 2.60% 中国人民银行公开市场业务操作室 二〇二四年十一月二十日 打印本页 关闭窗口 ﻿ 法律声明 | 联系我们 | 设为首页",
+  "publication_date_evidence": {
+    "source_id": "CN-S-PBOC-OMO-10",
+    "excerpt": "字号 大 中 小 文章来源： 2024-11-20 14:00:00 打印本页 关闭窗口 人民银行于本周三（1",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "央行与银行体系之间的准备金/抵押融资传导；不识别股票资金归属或股票回报",
+  "alternative_explanation": "约束变化可能只是响应已发生的市场/宏观变化；方向可由基本面或同期政策驱动",
+  "falsifier": "后续实际执行为零、其他资金完全抵销、基本面继续损坏或效应仅持续不足一周",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-037",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

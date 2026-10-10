@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_46b3e2c272f89aca3924",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/2014all.htm",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:24.114088+00:00",
+  "source_path": "research/phase4/sources/us/46b3e2c272f89aca3924.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/2014all.htm",
+  "content_type": "text/html",
+  "source_sha256": "5ed7175b51bddbde76720d91d9fe22e63a7eca48b78b1e54803a843df6ee944d",
+  "bytes": 265643,
+  "text_path": "research/phase4/sources/us/46b3e2c272f89aca3924.txt",
+  "text_sha256": "3dd76b405fe0967288fabbdb4acb999efa8d1ab8b769c37dc728cd5103b2a5b9"
+}

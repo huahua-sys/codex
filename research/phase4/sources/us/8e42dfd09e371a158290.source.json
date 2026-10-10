@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_8e42dfd09e371a158290",
+  "url": "https://www.sec.gov/newsroom/press-releases/2014-143",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:31.542080+00:00",
+  "source_path": "research/phase4/sources/us/8e42dfd09e371a158290.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.sec.gov/newsroom/press-releases/2014-143",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "086121914b1c752baa39e2573ebd7b9cebfa2c1a5840dec89f4d2eeb3c5a102d",
+  "bytes": 87213,
+  "text_path": "research/phase4/sources/us/8e42dfd09e371a158290.txt",
+  "text_sha256": "e1982d709eadabdc2b09d836958879486823064e186e798a14336a3cf89b1255"
+}

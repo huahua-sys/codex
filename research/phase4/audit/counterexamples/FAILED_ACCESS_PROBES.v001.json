@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.gpif.go.jp/en/investment/policy-portfolio.html",
+    "status": "HTTP_404",
+    "retrieved_at": null,
+    "used_in_research": false,
+    "note": "initial availability probe; not used as evidence"
+  },
+  {
+    "url": "https://www.iea.org/reports/advancing-clean-technology-manufacturing/overview",
+    "status": "HTTP_404",
+    "retrieved_at": null,
+    "used_in_research": false,
+    "note": "initial availability probe; alternative topic-specific official source fetched without selecting by outcomes"
+  }
+]

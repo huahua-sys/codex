@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_7b9106b17e9f3bf91a78",
+  "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:38.676778+00:00",
+  "source_path": "research/phase4/sources/us/7b9106b17e9f3bf91a78.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "004be5e9e46135eb2bf50320baca61a2a3643122c06c2d6db761ec9286c14b46",
+  "bytes": 533459,
+  "text_path": "research/phase4/sources/us/7b9106b17e9f3bf91a78.txt",
+  "text_sha256": "97dfe965849029bea8a71d2bd522efc384b1275880d61cf91c40b84473899829"
+}

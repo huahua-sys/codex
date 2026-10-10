@@ -1,0 +1,99 @@
+{
+  "market": "US",
+  "family": "bank_lending_standards",
+  "parent_episode": "US_SLOOS_2011_11",
+  "published_date": "2011-11-07",
+  "available_at": "2011-11-07T19:00:00+00:00",
+  "timezone": "America/New_York",
+  "publication_date_precision": "MINUTE",
+  "publication_date_evidence": {
+    "excerpt": "For release at 2:00 p.m. ET November 7, 2011",
+    "locator": "Original full-report cover, page 1",
+    "source_path": "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.pdf"
+  },
+  "participant_type": "US domestic commercial banks",
+  "constraint": "资本、风险/损失预期、借款人需求；问卷不识别哪项约束绑定",
+  "trigger": "过去约三个月贷款条件变化；在原报告日才公开",
+  "observed_action": "受访银行报告对大/中企业C&I贷款标准净收紧 -5.882353 个百分点（非资金流）",
+  "action_status": "OBSERVED_ACTION",
+  "action_type": "RETROSPECTIVE_DISCLOSURE",
+  "flow_size": null,
+  "flow_duration": "回看约三个月；下一季度持续性未知",
+  "assets": [
+    "SPY"
+  ],
+  "voluntary_or_forced": "UNKNOWN; respondent lending choice not proven forced",
+  "price_sensitive": "NOT_IDENTIFIED",
+  "information_based": "SELF_REPORTED_LENDING_ACTION",
+  "known_at_t": [
+    "For release at 2:00 p.m. ET November 7, 2011",
+    {
+      "net_tightening_percentage_points": -5.882352941176471,
+      "respondent_counts": {
+        "Eased considerably": 0,
+        "Eased somewhat": 5,
+        "Remained basically unchanged": 44,
+        "Tightened considerably": 0,
+        "Tightened somewhat": 2,
+        "Total": 51
+      }
+    }
+  ],
+  "known_only_after_t": [],
+  "unknown_at_t": [
+    "未来价格、市场真实预期、未公开的仓位/对冲以及交易对手约束"
+  ],
+  "source_ids": [
+    "US_SOURCE_378eaf0e6f085738105f",
+    "US_SOURCE_6a9eafcf8d09aa9c2f40"
+  ],
+  "source_paths": [
+    "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.pdf",
+    "research/phase4/sources/us/US_SOURCE_6a9eafcf8d09aa9c2f40.pdf"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/boarddocs/snloansurvey/201111/fullreport.pdf",
+    "https://www.federalreserve.gov/boarddocs/snloansurvey/201111/table1.htm"
+  ],
+  "source_sha256": [
+    "dbab6d869c1428f92e9a47b6f5bd53f7639b06fcfaedd44eca537d680c46332e",
+    "d3b61f018b3c66fa832fc4ff52fc5980193240a1dfea774b5ed72318afade284"
+  ],
+  "source_excerpt": "For release at 2:00 p.m. ET November 7, 2011\nOriginal table1: All Respondents: {\"Eased considerably\": 0, \"Eased somewhat\": 5, \"Remained basically unchanged\": 44, \"Tightened considerably\": 0, \"Tightened somewhat\": 2, \"Total\": 51}",
+  "pit_status": "VERIFIED",
+  "confidence_level": "LEVEL 1",
+  "mechanism": "信贷供给约束可能经融资/现金流传到资产价格；不是即时flow或偿付安全证明",
+  "alternative_explanation": "需求下降、被调查银行构成或宏观预期同向变化",
+  "falsifier": "控制共同宏观状态后，报告无法区分资产损坏/持有人约束，或贷款标准不传到实际融资量",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": {
+    "reported_net_tightening_pp": -5.882352941176471,
+    "scope": "US domestic-bank large/middle-firm C&I lending standards, not spreads/defaults"
+  },
+  "selection_basis": {
+    "protocol": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+    "catalog_index": 15,
+    "catalog_n": 72,
+    "rule": "date order equisequence floor(i*(n-1)/9); no outcome/price filter"
+  },
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "outcomes": null,
+  "event_id": "US-P4-017",
+  "source_revision_risk": "Official historical original currently hosted; no contemporaneous independent archive snapshot; possible silent source corrections.",
+  "broad_asset_reaction_only": true,
+  "counterfactual": "NOT_IDENTIFIED: matched broad-asset date controls are descriptive and cannot isolate actor-specific counterfactual",
+  "generalizability": "Not established; same program/company and common macro constraints cluster observations.",
+  "closest_similar_events": [],
+  "important_differences": [],
+  "study_asset": "SPY",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.pdf": "dbab6d869c1428f92e9a47b6f5bd53f7639b06fcfaedd44eca537d680c46332e",
+    "research/phase4/sources/us/US_SOURCE_6a9eafcf8d09aa9c2f40.pdf": "d3b61f018b3c66fa832fc4ff52fc5980193240a1dfea774b5ed72318afade284"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

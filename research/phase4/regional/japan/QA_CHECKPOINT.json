@@ -1,0 +1,23 @@
+{
+  "events": 31,
+  "families": {
+    "BOJ": 10,
+    "GPIF": 10,
+    "GovernanceCrossShareholding": 3,
+    "CorporateCapitalAllocation": 8
+  },
+  "action_types": {
+    "ANNOUNCEMENT_ONLY": 10,
+    "RETROSPECTIVE_DISCLOSURE": 15,
+    "MANDATE_CHANGE": 6
+  },
+  "unique_parent": 15,
+  "unique_date": 30,
+  "unique_year": 13,
+  "positive_actual_flow": 5,
+  "zero_actual_flow": 3,
+  "selection_sha256": "270a2d82e27482051d3822b6aa7be905cecb77be5705002eb50ae6fbc8a4f617",
+  "events_sha256": "380ba81379d4221eb2cda6cc798fa9a732960bde564f95c65f4201ee7977df52",
+  "price_data_read": false,
+  "original_byte_checks": true
+}

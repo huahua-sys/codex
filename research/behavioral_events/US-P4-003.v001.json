@@ -1,0 +1,87 @@
+{
+  "market": "US",
+  "family": "central_bank_liquidity_execution",
+  "parent_episode": "US_TAF",
+  "published_date": "2008-05-06",
+  "available_at": "2008-05-06T10:00:00-04:00",
+  "timezone": "America/New_York",
+  "publication_date_precision": "MINUTE",
+  "publication_date_evidence": {
+    "excerpt": "May 06, 2008; For release at 10:00 a.m. EDT",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/f47ae5004f63e58ef517.html"
+  },
+  "participant_type": "Federal Reserve and eligible depository institutions",
+  "constraint": "银行抵押品/到期融资与Fed资格、期限、竞价限制",
+  "trigger": "公布上一日定期贷款拍卖授标结果",
+  "observed_action": "TAF授标已完成；现金贷款将在原声明所列未来settlement日交割",
+  "action_status": "OBSERVED_ACTION",
+  "action_type": "RETROSPECTIVE_DISCLOSURE",
+  "flow_size": {
+    "value": 75000000000.0,
+    "currency": "USD",
+    "unit": "USD",
+    "scope": "this auction gross awarded principal",
+    "basis": "AWARD_RESULT_NOT_SETTLED_CASH_FLOW; offered ceiling excluded; renewal/net balance not known"
+  },
+  "flow_duration": "28-day loan/deposit term, not an equity buying forecast",
+  "assets": [
+    "SPY"
+  ],
+  "voluntary_or_forced": "VOLUNTARY_BID; funding need may constrain choice but no proven forced equity sale",
+  "price_sensitive": "AUCTION_PRICE_SENSITIVE",
+  "information_based": "FUNDING_OPERATION_NOT_STOCK_VIEW",
+  "known_at_t": [
+    "For release at 10:00 a.m. EDT\nShare\nOn May 5, 2008, the Federal Reserve conducted an auction of $75 billion in 28-day credit through its Term Auction Facility. Following are the results of the auction:\nStop-out rate:\n2.220 percent\nTotal propositions submitted:\n$96.618 billion\nTotal propositions accepted:\n$75.000 billion\nBid/cover ratio:\n1.29\nNumber of bidders:\n71\nBids at the stop-out rate were prorated at 92.52% and resulting awards were rounded to the nearest $10,000 (except that all awards below $10,000 are rounded up to $10,000).\nThe awarded loans will settle on May 8, 2008, and will mature on June 5, 2008. The stop-out rate shown above will apply to all awarded loans.\nInstitutions that submitted winning bids will be contacted by their respective Reserve Banks by noon EDT on May 6, 2008. Participants have until 3:00 p.m. EDT on May 6, 2008, to inform their local Reserve Bank of any error.\n"
+  ],
+  "known_only_after_t": [],
+  "unknown_at_t": [
+    "未来价格、市场真实预期、未公开的仓位/对冲以及交易对手约束",
+    "实际未来交割、净新增而非rollover金额、借款人身份/资产质量、资金是否购买股票"
+  ],
+  "source_ids": [
+    "US_SOURCE_f47ae5004f63e58ef517"
+  ],
+  "source_paths": [
+    "research/phase4/sources/us/f47ae5004f63e58ef517.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080506a.htm"
+  ],
+  "source_sha256": [
+    "7cddc2ced5dfbbc60226735cd471fc92964d48fe6b28d8fbe08792eedc244aa0"
+  ],
+  "source_excerpt": "For release at 10:00 a.m. EDT\nShare\nOn May 5, 2008, the Federal Reserve conducted an auction of $75 billion in 28-day credit through its Term Auction Facility. Following are the results of the auction:\nStop-out rate:\n2.220 percent\nTotal propositions submitted:\n$96.618 billion\nTotal propositions accepted:\n$75.000 billion\nBid/cover ratio:\n1.29\nNumber of bidders:\n71\nBids at the stop-out rate were prorated at 92.52% and resulting awards were rounded to the nearest $10,000 (except that all awards below $10,000 are rounded up to $10,000).\nThe awarded loans will settle on May 8, 2008, and will mature on June 5, 2008. The stop-out rate shown above will apply to all awarded loans.\nInstitutions that submitted winning bids will be contacted by their respective Reserve Banks by noon EDT on May 6, 2008. Participants have until 3:00 p.m. EDT on May 6, 2008, to inform their local Reserve Bank of any error.\n",
+  "pit_status": "VERIFIED",
+  "confidence_level": "LEVEL 1",
+  "mechanism": "TAF缓解合格抵押融资约束；TDF是相反方向的准备金期限转换，不能共同归为QE",
+  "alternative_explanation": "流动性操作可能是危机严重程度的内生响应；授标可能替代其他融资/展期，非净增股市资金",
+  "falsifier": "融资约束未缓解、使用者/资产偿付恶化，或授标未交割/只为技术测试",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "protocol": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+    "catalog_index": 8,
+    "catalog_n": 77,
+    "rule": "date order equisequence floor(i*(n-1)/9); no outcome/price filter"
+  },
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "outcomes": null,
+  "event_id": "US-P4-003",
+  "source_revision_risk": "Official historical original currently hosted; no contemporaneous independent archive snapshot; possible silent source corrections.",
+  "broad_asset_reaction_only": true,
+  "counterfactual": "NOT_IDENTIFIED: matched broad-asset date controls are descriptive and cannot isolate actor-specific counterfactual",
+  "generalizability": "Not established; same program/company and common macro constraints cluster observations.",
+  "closest_similar_events": [],
+  "important_differences": [],
+  "study_asset": "SPY",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/us/f47ae5004f63e58ef517.html": "7cddc2ced5dfbbc60226735cd471fc92964d48fe6b28d8fbe08792eedc244aa0"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

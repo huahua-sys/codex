@@ -1,0 +1,47 @@
+{
+  "event_id": "CN-P4-032",
+  "market": "China",
+  "published_date": "2024-01-12",
+  "available_at": "2024-01-12T23:59:59+08:00",
+  "participant_type": "上市公司/控股股东/管理层/产业企业",
+  "observed_action": "12月15日至发布会窗口，514家公司实际回购增持超过277亿元；309家428亿元为计划上限，分别保存",
+  "constraint": "预算、现金流、债务、公司治理、回购用途",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 277,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_AGGREGATE_REPORTED_LOWER_BOUND",
+    "scope": "新闻发布会所述12月15日规则后至发布时窗口",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "已报告期间的累计事实；未来持续期UNKNOWN_AT_T",
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-CORP-2024.html"
+  ],
+  "source_urls": [
+    "https://www.csrc.gov.cn/csrc/c100029/c7457231/content.shtml"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-CORP-2024.html": "b4ba38dace82679c400ffa12223d1cc8c6a0826c24afbf1d26f1022cee9b2eb1"
+  },
+  "source_excerpt": "514 家公司在此期间实际回购增持金额超过 277 亿元，实施家数及金额同比增长 46% 和 71% 。具体来看，龙头公司 “ 大手笔 ” 回购增持，保利发展回购上限达 20 亿元，三安光电、晶合集成、恒逸石化、合盛硅业回购上限达 10 亿元，银泰黄金、陆家嘴等公司控股股东预计增持上限超过 20 亿元。央国企回购增持主动性进一步提升， 59 家央国企新增回购",
+  "publication_date_evidence": {
+    "source_id": "CN-S-CORP-2024",
+    "excerpt": "年1月12日新闻发布会 日期：2024-01-12 来源：证监会 分享到： QQ空间 豆瓣网 【字号： 大 中",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "付出真实资金比口头意向更可检验；回购可用于员工激励而不注销，产业费用可产生供给竞争",
+  "alternative_explanation": "公司在高价回购、员工激励/支撑价格、行业过度投资；经济变化共同决定支出与价格",
+  "falsifier": "投资未转化为订单/自由现金流、回购用途造成再稀释、或预算/剩余额度已耗尽",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-032",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

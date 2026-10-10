@@ -60,3 +60,15 @@ RAW OBSERVATIONS：2704计划格/0新锁feature/0新revealed label；EFFECTIVE S
 2026-10-09T15:38:59.168062+00:00：独立forwardQA发现v001未启用beta口径问题，另版本v002修simple/peak/505/完整会话SHA，不修改任何旧锁/真实决策。追加独立QA PASS与复现图。交付使用实际/workspace/outputs文件，当前环境/mnt不可写，不伪造sandbox附件路径。
 
 2026-10-09T15:43:48.458632+00:00：最终forward v008独立核验PASS，使用原生scratch共享下载目录，完整研究/上轮原包/报告包实际交付，复制与ZIP读回验收另存。
+
+
+## Phase4 checkpoint — 2026-10-10T08:19:18.138355+00:00
+
+新增三国生态与边际图、九机制框架、15反证诊断、115原源事件与证据卡、A/B分层人类dossier、固定描述性事件对照代码/全102槽/独立QA及小型CORE导出说明。保留所有失败、缺失、PIT隔离、QA错误和scope/路由更正版本。原135MB ZIP不变、不重新压缩；9操作字段不变，无新投资原则或新概率；只更新Phase4研究元数据。
+
+
+## Phase4 最终验包 checkpoint — 2026-10-10T08:27:11.526769+00:00
+
+独立QA v005 PASS（67,415检查）；收据 `research/phase4/audit/INDEPENDENT_PHASE4_QA.v005.json`。核心ZIP 9,007,829 bytes，SHA256 `bdef7229e0c67ad0323c640c2776d4fce49df94c4d829d030a3a8b7eb7eec942`，909个manifest文件的SHA/大小与完整ZIP CRC通过。v004的唯一FAIL是QA代码只识别EXPORT_MANIFEST.json、未识别实际CORE_EXPORT_MANIFEST.json；原失败保留，v005修正验证适配并核对全部manifest，不改ZIP或研究结果。
+
+核心包是最终QA前的冻结快照；其中metadata的PENDING_CORE_PACKAGE指该时点。最终收据在核心包之外、完整仓库内，避免验包文件引用自身的哈希循环。本次仅更新研究状态/交付metadata，原预测、收益、统计与操作规则不变。GitHub同步及用户下载是否成功另行确认；本地验包通过不代表用户收到。

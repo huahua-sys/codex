@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": "CN-S-PBOC-DIR-160",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-160.html",
+    "role": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:55:21.424145+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-160.html",
+    "content_type": "text/html",
+    "sha256": "577168ecb4d8320629f034281af2b8887bbebd230bf69e4cdb82f9bfbac8d9fc",
+    "bytes": 40165,
+    "path": "research/phase4/sources/china/CN-S-PBOC-DIR-160.html"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-165",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-165.html",
+    "role": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:55:21.424775+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-165.html",
+    "content_type": "text/html",
+    "sha256": "87dc88e1bec66594eeb57fe86af4b5a9e6869f7100119c3e79a01ec3f670bf85",
+    "bytes": 40165,
+    "path": "research/phase4/sources/china/CN-S-PBOC-DIR-165.html"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-170",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-170.html",
+    "role": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:55:21.425096+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-170.html",
+    "content_type": "text/html",
+    "sha256": "a17d8bfe12bc880558d6fa1dd5d9e6f643bf08031d2bab49d8834c15c191a161",
+    "bytes": 40165,
+    "path": "research/phase4/sources/china/CN-S-PBOC-DIR-170.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-DIR-2023",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/Information_Center.shtml",
+    "role": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:55:21.425395+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.huijin-inv.cn/huijin-inv/c100074/Information_Center.shtml",
+    "content_type": "text/html; charset=utf-8,gbk",
+    "sha256": "ec66b49b127e23c9196da265ca95e7266da35d5a3547e4fa917a18fd0028561f",
+    "bytes": 19650,
+    "path": "research/phase4/sources/china/CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-DIR-2024",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/Information_Center.shtml",
+    "role": "PARTIAL_CATALOG",
+    "retrieved_at": "2026-10-10T07:55:21.425908+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://www.huijin-inv.cn/huijin-inv/c100077/Information_Center.shtml",
+    "content_type": "text/html; charset=utf-8,gbk",
+    "sha256": "96d846460da133b5fc897f3fe968c7359069bacf2e24ba55912fa43e1398f940",
+    "bytes": 19924,
+    "path": "research/phase4/sources/china/CN-S-HUIJIN-DIR-2024.html"
+  }
+]

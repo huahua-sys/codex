@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_846819e9995d12fec1c7",
+  "url": "https://content.naic.org/insurance-topics/risk-based-capital",
+  "role": "institutional_reference_not_event",
+  "accessed_at": "2026-10-10T08:01:36.568822+00:00",
+  "source_path": "research/phase4/sources/us/846819e9995d12fec1c7.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://content.naic.org/insurance-topics/risk-based-capital",
+  "content_type": "text/html; charset=utf-8",
+  "source_sha256": "98e7fb3dfa2e9d070abf4882d834717c9b4d7f6ad7991dc64d9e30c0ff8f4af5",
+  "bytes": 265209,
+  "text_path": "research/phase4/sources/us/846819e9995d12fec1c7.txt",
+  "text_sha256": "fed4f27523166d4300aed758ae76444f5e47a3a71a44e89c22ee071948856892"
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "family": "corporate_capital_allocation",
+    "slot": {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2008-Q4/press-release-webcast",
+      "date": "2008-07-01",
+      "year": 2008,
+      "title": "Microsoft FY2008 Q4 official earnings release",
+      "catalog_index": 0,
+      "catalog_n": 18
+    },
+    "status": "SOURCE_UNAVAILABLE",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

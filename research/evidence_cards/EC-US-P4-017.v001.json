@@ -1,0 +1,41 @@
+{
+  "event_id": "US-P4-017",
+  "market": "US",
+  "published_date": "2011-11-07",
+  "available_at": "2011-11-07T19:00:00+00:00",
+  "participant_type": "US domestic commercial banks",
+  "observed_action": "受访银行报告对大/中企业C&I贷款标准净收紧 -5.882353 个百分点（非资金流）",
+  "constraint": "资本、风险/损失预期、借款人需求；问卷不识别哪项约束绑定",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": null,
+  "flow_duration": "回看约三个月；下一季度持续性未知",
+  "voluntary_or_forced": "UNKNOWN; respondent lending choice not proven forced",
+  "source_paths": [
+    "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.pdf",
+    "research/phase4/sources/us/US_SOURCE_6a9eafcf8d09aa9c2f40.pdf"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/boarddocs/snloansurvey/201111/fullreport.pdf",
+    "https://www.federalreserve.gov/boarddocs/snloansurvey/201111/table1.htm"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.pdf": "dbab6d869c1428f92e9a47b6f5bd53f7639b06fcfaedd44eca537d680c46332e",
+    "research/phase4/sources/us/US_SOURCE_6a9eafcf8d09aa9c2f40.pdf": "d3b61f018b3c66fa832fc4ff52fc5980193240a1dfea774b5ed72318afade284"
+  },
+  "source_excerpt": "For release at 2:00 p.m. ET November 7, 2011\nOriginal table1: All Respondents: {\"Eased considerably\": 0, \"Eased somewhat\": 5, \"Remained basically unchanged\": 44, \"Tightened considerably\": 0, \"Tightened somewhat\": 2, \"Total\": 51}",
+  "publication_date_evidence": {
+    "excerpt": "For release at 2:00 p.m. ET November 7, 2011",
+    "locator": "Original full-report cover, page 1",
+    "source_path": "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.pdf"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "信贷供给约束可能经融资/现金流传到资产价格；不是即时flow或偿付安全证明",
+  "alternative_explanation": "需求下降、被调查银行构成或宏观预期同向变化",
+  "falsifier": "控制共同宏观状态后，报告无法区分资产损坏/持有人约束，或贷款标准不传到实际融资量",
+  "confidence_level": "LEVEL 1",
+  "evidence_id": "EC-US-P4-017",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

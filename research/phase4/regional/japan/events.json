@@ -1,0 +1,2555 @@
+[
+  {
+    "event_id": "JP-P4-001",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2008_NORMAL",
+    "published_date": "2008-01-22",
+    "available_at": "2008-01-22T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jan. 22, 2008",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2008.html",
+      "source_sha256": "cd2c2996f23d70570ec89be0df9c82512d0e4b2ba86b3a9154c0ed1436b99d5f",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2008/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Announcement of the Monetary Policy Meeting Decisions (unchanged, Announced at 12:19 pm) [PDF 68KB]",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "call rate to remain at around 0"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_001",
+      "boj_catalog_2008"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_001.pdf",
+      "research/phase4/sources/japan/boj_catalog_2008.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2008/k080122.pdf",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2008/index.htm"
+    ],
+    "source_sha256": [
+      "4b0170afbfe6de0254b64407342de2e73cb03a0c52e4afb17b651ea26be43fc2",
+      "cd2c2996f23d70570ec89be0df9c82512d0e4b2ba86b3a9154c0ed1436b99d5f"
+    ],
+    "source_excerpt": "Bank of Japan At the Monetary Policy Meeting held today, the Bank of Japan decided, by a unanimous vote,[Note] to set the following guideline for money market operations for the intermeeting period: The Bank of Japan will encourag",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 0,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-002",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2009_2012_LOW_RATE",
+    "published_date": "2009-06-16",
+    "available_at": "2009-06-16T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "June 16, 2009",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2009.html",
+      "source_sha256": "eea4ddac39804e91b699a5ac7177ba1d58079fa74ce94e3deafa340a3440bd20",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2009/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy (Policy unchanged, Announced at 12:34 p.m.) [PDF 83KB]",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "call rate to remain at around 0"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_002",
+      "boj_catalog_2009"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_002.pdf",
+      "research/phase4/sources/japan/boj_catalog_2009.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2009/k090616.pdf",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2009/index.htm"
+    ],
+    "source_sha256": [
+      "96a7ad62401ca09a77c702a81c8df7cba6860f5dbc4432163535dd8661a5159d",
+      "eea4ddac39804e91b699a5ac7177ba1d58079fa74ce94e3deafa340a3440bd20"
+    ],
+    "source_excerpt": "Bank of Japan Statement on Monetary Policy 1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a unanimous vote,[Note] to set the following guideline for money market operations for the ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 24,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-003",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2009_2012_LOW_RATE",
+    "published_date": "2010-09-07",
+    "available_at": "2010-09-07T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Sept. 7, 2010",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2010.html",
+      "source_sha256": "be6fb2d5010b1b683a3b9d224b3c452d70a1c5df4381f32e4cf498a1b90a373c",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2010/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy (Policy unchanged, Announced at 12:39 p.m.) [PDF 21KB]",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "call rate to remain at around 0"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_003",
+      "boj_catalog_2010"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_003.pdf",
+      "research/phase4/sources/japan/boj_catalog_2010.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2010/k100907.pdf",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2010/index.htm"
+    ],
+    "source_sha256": [
+      "9736ca5db7126e2963e7c0ac202eea4eb4ec7093ecd4bf4fb9587db4317387c9",
+      "be6fb2d5010b1b683a3b9d224b3c452d70a1c5df4381f32e4cf498a1b90a373c"
+    ],
+    "source_excerpt": "Bank of Japan Statement on Monetary Policy 1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a unanimous vote,1 to set the following guideline for money market operations for the inter",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 48,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-004",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2009_2012_LOW_RATE",
+    "published_date": "2012-04-10",
+    "available_at": "2012-04-10T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Apr. 10, 2012",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2012.html",
+      "source_sha256": "eb056edcb0d37f583d800594663c5542ff48438977dc2fd02dc876ef8d97ad92",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2012/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy (A New U.S. Dollar Lending Arrangement Established as part of the \"Fund-Provisioning Measure to Support Strengthening the Foundations for Economic Growth,\" Announced at 12:09 p.m.) [PDF 37KB]",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "call rate to remain at around 0 to 0"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_004",
+      "boj_catalog_2012"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_004.pdf",
+      "research/phase4/sources/japan/boj_catalog_2012.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2012/k120410a.pdf",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2012/index.htm"
+    ],
+    "source_sha256": [
+      "e16304b6f60fc5d93524b573ea9be90dce7d0f919c3ab7fc8073fd33640a0bd5",
+      "eb056edcb0d37f583d800594663c5542ff48438977dc2fd02dc876ef8d97ad92"
+    ],
+    "source_excerpt": "Bank of Japan Statement on Monetary Policy 1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a unanimous vote,1 to set the following guideline for money market operations for the inter",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 72,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-005",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2013_2015_QQE",
+    "published_date": "2013-10-04",
+    "available_at": "2013-10-04T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Oct. 4, 2013",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2013.html",
+      "source_sha256": "12c661b5fdcbb59b0ec24aa904726d7a25dc608c7bd99b7ae5a0970671fdced7",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2013/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy (Announced at 11:49 a.m.) [PDF 17KB]",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "annual pace of about 60-70 trillion yen"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_005",
+      "boj_catalog_2013"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_005.pdf",
+      "research/phase4/sources/japan/boj_catalog_2013.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2013/k131004a.pdf",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2013/index.htm"
+    ],
+    "source_sha256": [
+      "19accfe9cf4f4f11858d596115ab9fa516af48781c8a57ccf7211faf6d9986ce",
+      "12c661b5fdcbb59b0ec24aa904726d7a25dc608c7bd99b7ae5a0970671fdced7"
+    ],
+    "source_excerpt": "Bank of Japan Statement on Monetary Policy 1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a unanimous vote, to set the following guideline for money market operations for the interm",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 96,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-006",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2013_2015_QQE",
+    "published_date": "2015-07-15",
+    "available_at": "2015-07-15T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "July 15, 2015",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2015.html",
+      "source_sha256": "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2015/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy (Announced at 12:18 p.m.) [PDF 57KB]",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "annual pace of about 80 trillion yen"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_006",
+      "boj_catalog_2015"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_006.pdf",
+      "research/phase4/sources/japan/boj_catalog_2015.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2015/k150715a.pdf",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2015/index.htm"
+    ],
+    "source_sha256": [
+      "f992a6d57c559747233c1f4b8f593cc69215cde677f71968e43fbf9a4710eb3f",
+      "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83"
+    ],
+    "source_excerpt": "Bank of Japan Statement on Monetary Policy 1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by an 8-1 majority vote, to set the following guideline for money market operations for the in",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 121,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-007",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2017_2023_YCC",
+    "published_date": "2017-12-21",
+    "available_at": "2017-12-21T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Dec. 21, 2017",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2017.html",
+      "source_sha256": "ebeb187c762f0a322d87722fddcbce5dfd04c93877be382786449ccf0e80a4ae",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2017/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy [PDF 24KB]",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "annual pace of increase in the amount outstanding of its JGB holdings of about 80 trillion yen -- aiming to achieve the target level of the long-term interest ra"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_007",
+      "boj_catalog_2017"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_007.pdf",
+      "research/phase4/sources/japan/boj_catalog_2017.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2017/k171221a.pdf",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2017/index.htm"
+    ],
+    "source_sha256": [
+      "d116781f513017576b29d9fd82e58670bc077af53ca79b0950fe2fe049cb8d0c",
+      "ebeb187c762f0a322d87722fddcbce5dfd04c93877be382786449ccf0e80a4ae"
+    ],
+    "source_excerpt": "Bank of Japan Statement on Monetary Policy 1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided upon the following. (1) Yield curve control The Bank decided, by an 8-1 majority vote, to set t",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 145,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-008",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2017_2023_YCC",
+    "published_date": "2020-09-17",
+    "available_at": "2020-09-17T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Sept. 17, 2020",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2020.html",
+      "source_sha256": "4e05b9209769d947a120b2d3e362378a0b76bce511ffd1906974bccfbb5e0ce2",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "annual paces with the upper limit of about 12 trillion yen and about 180 billion yen, respectively"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_008",
+      "boj_catalog_2020"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_008.html",
+      "research/phase4/sources/japan/boj_catalog_2020.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/k200917a.htm",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/index.htm"
+    ],
+    "source_sha256": [
+      "87ff8c991e8ce6d8f9157f585a312ed240bf37ff4afd790f63f6ecf202a50663",
+      "4e05b9209769d947a120b2d3e362378a0b76bce511ffd1906974bccfbb5e0ce2"
+    ],
+    "source_excerpt": "Bank of Japan PDF Version [PDF 218KB] At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided upon the following. (1) Yield curve control The Bank decided, by an 8-1 majority vote, to set the follo",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 169,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-009",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2017_2023_YCC",
+    "published_date": "2023-09-22",
+    "available_at": "2023-09-22T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Sept. 22, 2023",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2023.html",
+      "source_sha256": "82b670bc0586ea72df80ac172e975a1274c5d7c1adde21cf68a3343d3e152686",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2023/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Statement on Monetary Policy",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "annual paces of increase in their amounts outstanding"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_009",
+      "boj_catalog_2023"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_009.html",
+      "research/phase4/sources/japan/boj_catalog_2023.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2023/k230922a.htm",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2023/index.htm"
+    ],
+    "source_sha256": [
+      "c2404059f54159a7cdbf17f1c1ee315bac6959e1facdce62efd99ea0dcd68bc7",
+      "82b670bc0586ea72df80ac172e975a1274c5d7c1adde21cf68a3343d3e152686"
+    ],
+    "source_excerpt": "Bank of Japan PDF Version [PDF 374KB] At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided upon the following. (1) Yield curve control a) The Bank decided, by a unanimous vote, to set the follow",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 193,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-010",
+    "market": "Japan",
+    "family": "BOJ",
+    "parent_episode": "JP-BOJ-2025_NORMALIZATION",
+    "published_date": "2025-12-19",
+    "available_at": "2025-12-19T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Dec. 19, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/boj_catalog_2025.html",
+      "source_sha256": "0fcd98b2f17f96fc5754c0fcde00c204910ecba266a37eef1c29abf1b5238ecc",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/index.htm",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Central Bank (BOJ)",
+    "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+    "trigger": "Change in the Guideline for Money Market Operations",
+    "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+    "action_status": "ANNOUNCEMENT_ONLY",
+    "action_type": "ANNOUNCEMENT_ONLY",
+    "flow_size": null,
+    "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+    "price_sensitive": "目标实施受市场条件限制；并非无条件托底",
+    "information_based": "包含经济判断与非收益政策目标，不能解释为买入方向预测",
+    "known_at_t": [
+      "当日官方政策指导原文已公开",
+      "政策额度/年度速度是指导，不等于已完成现金流",
+      "call rate to remain at around 0"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来真实ETF/JGB执行日与净额",
+      "日元变化是否导致对冲/去杠杆"
+    ],
+    "source_ids": [
+      "jp_event_source_010",
+      "boj_catalog_2025"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_010.html",
+      "research/phase4/sources/japan/boj_catalog_2025.html"
+    ],
+    "source_urls": [
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k251219a.htm",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/index.htm"
+    ],
+    "source_sha256": [
+      "c2919ea70749595db70751db0051556b2f2d67e81c49395f3cb78d37079888de",
+      "0fcd98b2f17f96fc5754c0fcde00c204910ecba266a37eef1c29abf1b5238ecc"
+    ],
+    "source_excerpt": "Bank of Japan PDF Version [PDF 223KB] At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a unanimous vote, to set the following guideline for money market operations for the intermeeting p",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+    "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+    "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 218,
+      "catalog_n": 219,
+      "catalog_coverage": "ANNUAL_STATEMENT_CATALOGS_2008_2025",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-011",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-DISCLOSURES-FY2023",
+    "published_date": "2024-07-05",
+    "available_at": "2024-07-05T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jul 5, 2024",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+      "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+      "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "Portfolio holdings by asset category as of Mar 31, 2024",
+    "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_011",
+      "gpif_catalog_2024"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_011.xlsx",
+      "research/phase4/sources/japan/gpif_catalog_2024.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/performance/65829801gpif/unyoujoukyou_2022_17_en.xlsx",
+      "https://www.gpif.go.jp/en/topics/2024/"
+    ],
+    "source_sha256": [
+      "6f52d8592b40d5e53ea3ed130d694766138da7d91068b225da8afc0080b2e5cc",
+      "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    ],
+    "source_excerpt": "No. | JP3633400001 | TOYOTA MOTOR CORPORATION | JP3435000009 | SONY GROUP CORPORATION | JP3236200006 | KEYENCE CORPORATION | JP3902900004 | MITSUBISHI UFJ FINANCIAL GROUP,INC. | JP3571400005 | TOKYO ELECTRON LI",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 0,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": true
+  },
+  {
+    "event_id": "JP-P4-012",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-DISCLOSURES-FY2024",
+    "published_date": "2024-08-02",
+    "available_at": "2024-08-02T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Aug 2, 2024",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+      "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+      "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "Investment results for 1Q of fiscal 2024(update report)",
+    "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_012",
+      "gpif_catalog_2024"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_012.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2024.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/operation/29880651gpif/2024_1Q_0802_en.pdf",
+      "https://www.gpif.go.jp/en/topics/2024/"
+    ],
+    "source_sha256": [
+      "48b11498411f4e1886cf081cabb14e49dda1f098fc207035b53899a5e99a2d33",
+      "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    ],
+    "source_excerpt": "Investment results for 1Q of fiscal 2024(update report) Government Pension Investment Fund (GPIF) manages the public pension fund in the long term and its investment results should be assessed in the same manne",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 1,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": true
+  },
+  {
+    "event_id": "JP-P4-013",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-DISCLOSURES-FY2024",
+    "published_date": "2024-11-01",
+    "available_at": "2024-11-01T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Nov 1, 2024",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+      "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+      "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "Investment results for 2Q of fiscal 2024(update report)",
+    "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_013",
+      "gpif_catalog_2024"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_013.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2024.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/performance/62590877gpif/2024_2Q_1101_en.pdf",
+      "https://www.gpif.go.jp/en/topics/2024/"
+    ],
+    "source_sha256": [
+      "fe1198f375d16c394539acf54eb85e84a3a74798ccfa2a10fedfa8c5f1059384",
+      "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    ],
+    "source_excerpt": "Investment results for 2Q of fiscal 2024(update report) Government Pension Investment Fund (GPIF) manages the public pension fund in the long term and its investment results should be assessed in the same manne",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 2,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": true
+  },
+  {
+    "event_id": "JP-P4-014",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-DISCLOSURES-FY2024",
+    "published_date": "2025-02-07",
+    "available_at": "2025-02-07T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Feb 7, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+      "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+      "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "Investment results for 3Q of fiscal 2024(update report)",
+    "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_014",
+      "gpif_catalog_2024"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_014.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2024.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/performance/23713581gpif/2024_3Q_0207_en.pdf",
+      "https://www.gpif.go.jp/en/topics/2024/"
+    ],
+    "source_sha256": [
+      "f1d3f853df9ce96cb77202c45825446159369d14083798faadefd31e336119be",
+      "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    ],
+    "source_excerpt": "Investment results for 3Q of fiscal 2024(update report) Government Pension Investment Fund (GPIF) manages the public pension fund in the long term and its investment results should be assessed in the same manne",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 3,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": true
+  },
+  {
+    "event_id": "JP-P4-015",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-STEWARDSHIP",
+    "published_date": "2025-03-31",
+    "available_at": "2025-03-31T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Mar 31, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+      "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+      "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "GPIF revised Policy to Fulfill Stewardship Responsibilities",
+    "observed_action": "发布配置/委托人治理规则；未观察真实净买入",
+    "action_status": "MANDATE_CHANGE",
+    "action_type": "MANDATE_CHANGE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_015",
+      "gpif_catalog_2024"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_015.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2024.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/investment/26487392gpif/20250331_Policy%20to%20Fulfill%20Stewardship%20Responsibilities_en.pdf",
+      "https://www.gpif.go.jp/en/topics/2024/"
+    ],
+    "source_sha256": [
+      "d8384437a4acb93205fa054f2ba163f73b0b87ae15e8c99b5ed5053786d3d4aa",
+      "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    ],
+    "source_excerpt": "Established on May 30, 2014 Revised on September 10, 2015 Revised on August 1, 2017 Revised on November 18, 2019 Revised on June 29 , 202 0 Revised on March 31, 2025 Policy to Fulfill Stewardship Responsibiliti",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 4,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": false
+  },
+  {
+    "event_id": "JP-P4-016",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-ALLOCATION-2025",
+    "published_date": "2025-03-31",
+    "available_at": "2025-03-31T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Mar 31, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+      "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+      "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "GPIF Published the Policy Asset Mix for the Fifth Medium-Term Objectives Period (Details)",
+    "observed_action": "发布配置/委托人治理规则；未观察真实净买入",
+    "action_status": "MANDATE_CHANGE",
+    "action_type": "MANDATE_CHANGE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期",
+      "第五中期目标配置2025-04-01生效；四资产各25%维持目标，不代表新增25%资金需求"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_016",
+      "gpif_catalog_2024"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_016.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2024.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/topics/Adoption_of_New_Policy_Portfolio_details_2_en.pdf",
+      "https://www.gpif.go.jp/en/topics/2024/"
+    ],
+    "source_sha256": [
+      "981eb1dd20bfa76a811cf41b524d862dbc1f606f78a742b8f8fc698556fe398d",
+      "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    ],
+    "source_excerpt": "Policy Asset Mix for the Fifth Medium-Term Objectives Period - Details - Policy Asset Mix for the Fifth Medium-Term Objectives Period ○ Government Pension Investment Fund (“GPIF”) establishes the target weights",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 5,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": false
+  },
+  {
+    "event_id": "JP-P4-017",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-DISCLOSURES-FY2024",
+    "published_date": "2025-07-04",
+    "available_at": "2025-07-04T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jul 4, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2025.html",
+      "source_sha256": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050",
+      "source_url": "https://www.gpif.go.jp/en/topics/2025/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "Portfolio holdings by asset category as of Mar 31, 2025",
+    "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_017",
+      "gpif_catalog_2025"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_017.xlsx",
+      "research/phase4/sources/japan/gpif_catalog_2025.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/performance/32821257gpif/unyoujoukyou_2024_15_en.xlsx",
+      "https://www.gpif.go.jp/en/topics/2025/"
+    ],
+    "source_sha256": [
+      "22db0e574f84ab01c02606793b66d9b56abf8f6373a25d9988f67e356cbf53d2",
+      "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050"
+    ],
+    "source_excerpt": "No. | JP3633400001 | TOYOTA MOTOR CORPORATION | JP3435000009 | SONY GROUP CORPORATION | JP3236200006 | KEYENCE CORPORATION | JP3902900004 | MITSUBISHI UFJ FINANCIAL GROUP,INC. | JP3571400005 | TOKYO ELECTRON LI",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 6,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": true
+  },
+  {
+    "event_id": "JP-P4-018",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-DISCLOSURES-FY2025",
+    "published_date": "2025-08-01",
+    "available_at": "2025-08-01T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Aug 1, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2025.html",
+      "source_sha256": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050",
+      "source_url": "https://www.gpif.go.jp/en/topics/2025/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "Investment results for 1Q of fiscal 2025(update report)",
+    "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_018",
+      "gpif_catalog_2025"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_018.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2025.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/performance/2025_1Q_0801-en.pdf",
+      "https://www.gpif.go.jp/en/topics/2025/"
+    ],
+    "source_sha256": [
+      "21e41302402914af7fa3bce6f927013ae1b3c77b805f3c0a86dd65916bd5e5c7",
+      "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050"
+    ],
+    "source_excerpt": "Investment results for 1Q of fiscal 2025(update report) Government Pension Investment Fund (GPIF) manages the public pension fund in the long term and its investment results should be assessed in the same manne",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 7,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": true
+  },
+  {
+    "event_id": "JP-P4-019",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-DISCLOSURES-FY2025",
+    "published_date": "2025-11-07",
+    "available_at": "2025-11-07T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Nov 7, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2025.html",
+      "source_sha256": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050",
+      "source_url": "https://www.gpif.go.jp/en/topics/2025/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "Investment results for 2Q of fiscal 2025(update report)",
+    "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_019",
+      "gpif_catalog_2025"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_019.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2025.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/performance/92011372gpif/2025_2Q_1107_en.pdf",
+      "https://www.gpif.go.jp/en/topics/2025/"
+    ],
+    "source_sha256": [
+      "a23d1170f8626dda29249080c27b2444d6d2afa1a1517418716f37af4e36198f",
+      "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050"
+    ],
+    "source_excerpt": "Investment results for 2Q of fiscal 2025(update report) Government Pension Investment Fund (GPIF) manages the public pension fund in the long term and its investment results should be assessed in the same manne",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 8,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": true
+  },
+  {
+    "event_id": "JP-P4-020",
+    "market": "Japan",
+    "family": "GPIF",
+    "parent_episode": "JP-GPIF-STEWARDSHIP",
+    "published_date": "2025-12-22",
+    "available_at": "2025-12-22T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Dec 22, 2025",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/gpif_catalog_2025.html",
+      "source_sha256": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050",
+      "source_url": "https://www.gpif.go.jp/en/topics/2025/",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Public Pension (GPIF)",
+    "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+    "trigger": "GPIF revised Stewardship Principles & Proxy Voting Principles",
+    "observed_action": "发布配置/委托人治理规则；未观察真实净买入",
+    "action_status": "MANDATE_CHANGE",
+    "action_type": "MANDATE_CHANGE",
+    "flow_size": null,
+    "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+    "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+    "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+    "known_at_t": [
+      "当前发布日期之前完成会计期的已公布信息",
+      "市值/权重包含价格与FX重估；未识别独立净流量",
+      "不可将会计期末视为公开日期",
+      "文件规则修订日为2025-12-08，英文公开目录日期2025-12-22；从后者保守计时"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "净买卖与价格重估分解",
+      "管理人对冲、衍生品与未公开执行安排",
+      "会计期结束日至公开日之间持仓变动"
+    ],
+    "source_ids": [
+      "jp_event_source_020",
+      "gpif_catalog_2025"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_020.pdf",
+      "research/phase4/sources/japan/gpif_catalog_2025.html"
+    ],
+    "source_urls": [
+      "https://www.gpif.go.jp/en/investment/20251208_Stewardship%20Principles%20and%20Proxy%20Voting%20Principles.pdf",
+      "https://www.gpif.go.jp/en/topics/2025/"
+    ],
+    "source_sha256": [
+      "549212f7eb3f9380c8ff78764ec5e974d8c1cc64c59bfce16b775cd963f23a9e",
+      "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050"
+    ],
+    "source_excerpt": "Stewardship Principles Established on June 1, 2017 Revised on February 6, 2020 R ev ised o n Marc h 31 , 2 0 25 Revised on December 8, 2025 Government Pension Investment Fund Government Pension Investment Fund ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+    "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+    "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 10,
+      "catalog_n": 11,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "holding_snapshot_only": false
+  },
+  {
+    "event_id": "JP-P4-021",
+    "market": "Japan",
+    "family": "GovernanceCrossShareholding",
+    "parent_episode": "JP-JPX-CORPORATE-GOVERNANCE-CODE",
+    "published_date": "2015-05-13",
+    "available_at": "2015-05-13T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "May 13, 2015",
+      "locator": "original Market News date heading",
+      "source_path": "research/phase4/sources/japan/jp_event_source_021.html",
+      "source_sha256": "0d5b6b57645983aafb47abed33c3529a1d8016b3093d7df8628a07df15f68f99",
+      "source_url": "https://www.jpx.co.jp/english/news/1020/20150511-02.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Exchange / Listing Rule Authority",
+    "constraint": "上市公司治理、compliance-or-explain与董事会披露约束；不等于强制卖出所有交叉持股",
+    "trigger": "Formulation of Japan Corporate Governance Code",
+    "observed_action": "制定/修订治理准则与上市规则；无独立持股出售金额证据",
+    "action_status": "MANDATE_CHANGE",
+    "action_type": "MANDATE_CHANGE",
+    "flow_size": null,
+    "flow_duration": "多年治理/董事会实施；个体出售、回购与资本投入进度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "RULE_CONSTRAINED_DISCLOSURE_WITH_COMPANY_DISCRETION",
+    "price_sensitive": "企业资产出售与回购可以等待/调整；非刚性立即成交",
+    "information_based": "规则信息；不是现金流改善或低估值证明",
+    "known_at_t": [
+      "原发布日期规则文本已公开",
+      "2015规则2015-06-01生效；2018/2021修订按原公告生效",
+      "治理规则本身没有给出交叉持股实售或回购规模"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "各公司实际出售、买回与CapEx分配",
+      "少数股东能否捕获回报"
+    ],
+    "source_ids": [
+      "jp_event_source_021",
+      "jpx_governance_catalog"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_021.html",
+      "research/phase4/sources/japan/jpx_governance_catalog.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/news/1020/20150511-02.html",
+      "https://www.jpx.co.jp/english/equities/listing/cg/index.html"
+    ],
+    "source_sha256": [
+      "0d5b6b57645983aafb47abed33c3529a1d8016b3093d7df8628a07df15f68f99",
+      "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94"
+    ],
+    "source_excerpt": "May 13, 2015 TSE Formulation of the \"Japan's Corporate Governance Code\" Tweet The Tokyo Stock Exchange (hereinafter, “TSE”) has formulated the “Japan’s Corporate Governance Code” (hereinafter, the “Code”), which has the same conte",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "董事会解释政策持股合理性/资本效率后可能出售、改变股东治理与利润留存用途；必须识别实际行动及价值捕获",
+    "alternative_explanation": "企业已计划出售或改资本政策；全球利润与日元环境可解释指数上涨",
+    "falsifier": "只有披露措辞改变，持股未减且资本回报/盈利未改善，则治理改革=新增买盘逻辑失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 0,
+      "catalog_n": 3,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-022",
+    "market": "Japan",
+    "family": "GovernanceCrossShareholding",
+    "parent_episode": "JP-JPX-CORPORATE-GOVERNANCE-CODE",
+    "published_date": "2018-06-01",
+    "available_at": "2018-06-01T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jun. 01, 2018",
+      "locator": "original Market News date heading",
+      "source_path": "research/phase4/sources/japan/jp_event_source_022.html",
+      "source_sha256": "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d",
+      "source_url": "https://www.jpx.co.jp/english/news/1020/20180601.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Exchange / Listing Rule Authority",
+    "constraint": "上市公司治理、compliance-or-explain与董事会披露约束；不等于强制卖出所有交叉持股",
+    "trigger": "Publication of Revised Japan Corporate Governance Code",
+    "observed_action": "制定/修订治理准则与上市规则；无独立持股出售金额证据",
+    "action_status": "MANDATE_CHANGE",
+    "action_type": "MANDATE_CHANGE",
+    "flow_size": null,
+    "flow_duration": "多年治理/董事会实施；个体出售、回购与资本投入进度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "RULE_CONSTRAINED_DISCLOSURE_WITH_COMPANY_DISCRETION",
+    "price_sensitive": "企业资产出售与回购可以等待/调整；非刚性立即成交",
+    "information_based": "规则信息；不是现金流改善或低估值证明",
+    "known_at_t": [
+      "原发布日期规则文本已公开",
+      "2015规则2015-06-01生效；2018/2021修订按原公告生效",
+      "治理规则本身没有给出交叉持股实售或回购规模"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "各公司实际出售、买回与CapEx分配",
+      "少数股东能否捕获回报"
+    ],
+    "source_ids": [
+      "jp_event_source_022",
+      "jpx_governance_catalog"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_022.html",
+      "research/phase4/sources/japan/jpx_governance_catalog.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/news/1020/20180601.html",
+      "https://www.jpx.co.jp/english/equities/listing/cg/index.html"
+    ],
+    "source_sha256": [
+      "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d",
+      "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94"
+    ],
+    "source_excerpt": "Jun. 01, 2018 TSE Publication of Revised Japan's Corporate Governance Code Tweet Tokyo Stock Exchange, Inc. (TSE) has partially revised the Securities Listing Regulations pertaining to the revision of Japan's Corporate Governance ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "董事会解释政策持股合理性/资本效率后可能出售、改变股东治理与利润留存用途；必须识别实际行动及价值捕获",
+    "alternative_explanation": "企业已计划出售或改资本政策；全球利润与日元环境可解释指数上涨",
+    "falsifier": "只有披露措辞改变，持股未减且资本回报/盈利未改善，则治理改革=新增买盘逻辑失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 1,
+      "catalog_n": 3,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-023",
+    "market": "Japan",
+    "family": "GovernanceCrossShareholding",
+    "parent_episode": "JP-JPX-CORPORATE-GOVERNANCE-CODE",
+    "published_date": "2021-06-11",
+    "available_at": "2021-06-11T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jun. 11, 2021",
+      "locator": "original Market News date heading",
+      "source_path": "research/phase4/sources/japan/jp_event_source_023.html",
+      "source_sha256": "6be72b0f42585760fd11ac9f99cb4bd75d01eacb2f8ecf10c8ae5011d7c61d65",
+      "source_url": "https://www.jpx.co.jp/english/news/1020/20210611-01.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Exchange / Listing Rule Authority",
+    "constraint": "上市公司治理、compliance-or-explain与董事会披露约束；不等于强制卖出所有交叉持股",
+    "trigger": "Publication of Revised Japan Corporate Governance Code",
+    "observed_action": "制定/修订治理准则与上市规则；无独立持股出售金额证据",
+    "action_status": "MANDATE_CHANGE",
+    "action_type": "MANDATE_CHANGE",
+    "flow_size": null,
+    "flow_duration": "多年治理/董事会实施；个体出售、回购与资本投入进度未知",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "RULE_CONSTRAINED_DISCLOSURE_WITH_COMPANY_DISCRETION",
+    "price_sensitive": "企业资产出售与回购可以等待/调整；非刚性立即成交",
+    "information_based": "规则信息；不是现金流改善或低估值证明",
+    "known_at_t": [
+      "原发布日期规则文本已公开",
+      "2015规则2015-06-01生效；2018/2021修订按原公告生效",
+      "治理规则本身没有给出交叉持股实售或回购规模"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "各公司实际出售、买回与CapEx分配",
+      "少数股东能否捕获回报"
+    ],
+    "source_ids": [
+      "jp_event_source_023",
+      "jpx_governance_catalog"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_023.html",
+      "research/phase4/sources/japan/jpx_governance_catalog.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/news/1020/20210611-01.html",
+      "https://www.jpx.co.jp/english/equities/listing/cg/index.html"
+    ],
+    "source_sha256": [
+      "6be72b0f42585760fd11ac9f99cb4bd75d01eacb2f8ecf10c8ae5011d7c61d65",
+      "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94"
+    ],
+    "source_excerpt": "Jun. 11, 2021 TSE Publication of Revised Japan's Corporate Governance Code Tweet Tokyo Stock Exchange, Inc. (TSE) has partially revised the Securities Listing Regulations pertaining to the revision of Japan's Corporate Governance ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "董事会解释政策持股合理性/资本效率后可能出售、改变股东治理与利润留存用途；必须识别实际行动及价值捕获",
+    "alternative_explanation": "企业已计划出售或改资本政策；全球利润与日元环境可解释指数上涨",
+    "falsifier": "只有披露措辞改变，持股未减且资本回报/盈利未改善，则治理改革=新增买盘逻辑失败",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 2,
+      "catalog_n": 3,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。"
+  },
+  {
+    "event_id": "JP-P4-024",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20160728",
+    "published_date": "2017-01-04",
+    "available_at": "2017-01-04T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jan. 04, 2017",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_201701.html",
+      "source_sha256": "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "Jan. 04, 2017 Disclosure Status of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 0,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "December 1, 2016 – December 31, 2016",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 0",
+      "实际股数 0，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha",
+      "2016董事会上限JPY10bn；已披露累积JPY3,994,268,900"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_024",
+      "jpx_corp_catalog_201701"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_024.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_201701.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001gfvx-att/20170104_AOSE.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html"
+    ],
+    "source_sha256": [
+      "52e41e4a3ace5f82950a56846fb1c4cfc78b5820df59032ad32df04af46a5eaa",
+      "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21"
+    ],
+    "source_excerpt": "1. Classification of shares acquired Common shares 2． Total no. of shares acquired 0 shares 3． Total value of shares acquired JPY 0 4． Acquisition period December 1, 2016 – December 31, 2016 5． Acquisition method Purchase on the market of Tokyo Stock Exchange ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 0,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 0
+  },
+  {
+    "event_id": "JP-P4-025",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20160728",
+    "published_date": "2017-01-30",
+    "available_at": "2017-01-30T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jan. 30, 2017",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_201701.html",
+      "source_sha256": "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "Jan. 30, 2017 Disclosure Status and Conclusion of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 0,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "January 1, 2017 – January 27, 2017",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 0",
+      "实际股数 0，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha",
+      "2016董事会上限JPY10bn；已披露累积JPY3,994,268,900",
+      "旧计划已结束；同日另有新计划，不能把两计划剩余量连起来"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_025",
+      "jpx_corp_catalog_201701"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_025.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_201701.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001he5b-att/20170130-3e.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html"
+    ],
+    "source_sha256": [
+      "c3b6af155567c4e5adb7bafb52e68189428ab6d7f6f1d6f3ee6e391aaf0029cd",
+      "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21"
+    ],
+    "source_excerpt": "1. Classification of shares acquired Common shares 2． Total no. of shares acquired 0 shares 3． Total value of shares acquired JPY 0 4． Acquisition period January 1, 2017 – January 27, 2017 5． Acquisition method Purchase on the market of Tokyo Stock Exchange * ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 1,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 0
+  },
+  {
+    "event_id": "JP-P4-026",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20170130",
+    "published_date": "2017-02-01",
+    "available_at": "2017-02-01T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Feb. 01, 2017",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_201702.html",
+      "source_sha256": "504b0e248d517aa20588b14d865b0228d86bbed1b0398cebeb020089adbe64b2",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201702.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "Feb. 01, 2017 Disclosure Status of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 731598100,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "January 31, 2017",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 731,598,100",
+      "实际股数 430000，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_026",
+      "jpx_corp_catalog_201702"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_026.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_201702.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001hj9o-att/20170201_AOSE.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201702.html"
+    ],
+    "source_sha256": [
+      "8a9733d802b0181ab01fed29ed21fbb3933c3faeb5c81dcc6137d7d696f59137",
+      "504b0e248d517aa20588b14d865b0228d86bbed1b0398cebeb020089adbe64b2"
+    ],
+    "source_excerpt": "2． Total no. of shares acquired 430,000 shares 3． Total value of shares acquired JPY 731,598,100 4． Acquisition period January 31, 2017 5． Acquisition method Purchase on the market of Tokyo Stock Exchange * The acquisition period is based on the trade date.",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 2,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 430000
+  },
+  {
+    "event_id": "JP-P4-027",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20170130",
+    "published_date": "2017-05-01",
+    "available_at": "2017-05-01T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "May 01, 2017",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_201705.html",
+      "source_sha256": "e02037b25f2c59655e64c55a5b074b6d32054c4029510cecf8059d36f28148e6",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201705.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "May 01, 2017 Disclosure Status of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 4805426700,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "April 1, 2017 – April 30, 2017",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 4,805,426,700",
+      "实际股数 3046500，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_027",
+      "jpx_corp_catalog_201705"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_027.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_201705.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001m9gr-att/20170501_AOSE.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201705.html"
+    ],
+    "source_sha256": [
+      "b030b65ee7232963cc1a6fe08fb7a4ee7bc35adcb980e03dc51513f951a6e5d8",
+      "e02037b25f2c59655e64c55a5b074b6d32054c4029510cecf8059d36f28148e6"
+    ],
+    "source_excerpt": "2． Total no. of shares acquired 3,046,500 shares 3． Total value of shares acquired JPY 4,805,426,700 4． Acquisition period April 1, 2017 – April 30, 2017 5． Acquisition method Purchase on the market of Tokyo Stock Exchange * The acquisition period is based on ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 3,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 3046500
+  },
+  {
+    "event_id": "JP-P4-028",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20170130",
+    "published_date": "2017-05-18",
+    "available_at": "2017-05-18T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "May 18, 2017",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_201705.html",
+      "source_sha256": "e02037b25f2c59655e64c55a5b074b6d32054c4029510cecf8059d36f28148e6",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201705.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "May 18, 2017 Disclosure Status and Conclusion of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 2646587000,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "May 1, 2017 – May 18, 2017",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 2,646,587,000",
+      "实际股数 1621900，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_028",
+      "jpx_corp_catalog_201705"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_028.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_201705.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001nm1r-att/20170518_01e.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201705.html"
+    ],
+    "source_sha256": [
+      "7d3ade9cf98ee3087a1491aadad340c7759095e2232a6699d39ae54e53f8676d",
+      "e02037b25f2c59655e64c55a5b074b6d32054c4029510cecf8059d36f28148e6"
+    ],
+    "source_excerpt": "2． Total no. of shares acquired 1,621,900 shares 3． Total value of shares acquired JPY 2,646,587,000 4． Acquisition period May 1, 2017 – May 18, 2017 5． Acquisition method Purchase on the market of Tokyo Stock Exchange * The acquisition period is based on the ",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 4,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 1621900
+  },
+  {
+    "event_id": "JP-P4-029",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20210428",
+    "published_date": "2021-09-01",
+    "available_at": "2021-09-01T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Sep. 01, 2021",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_202109.html",
+      "source_sha256": "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202109.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "Sep. 01, 2021 Disclosure Status of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 2593968550,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "August 1, 2021– August 31, 2021",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 2,593,968,550",
+      "实际股数 996700，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_029",
+      "jpx_corp_catalog_202109"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_029.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_202109.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/b5b4pj000004ajui-att/20210901_e_1.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202109.html"
+    ],
+    "source_sha256": [
+      "be024400931ba014eb8736d2d449e0261f103abb470a690598768b27e2a615b0",
+      "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e"
+    ],
+    "source_excerpt": "2． Total no. of shares acquired 996,700 shares 3． Total value of shares acquired JPY 2,593,968,550 4． Acquisition period August 1, 2021– August 31, 2021 5． Acquisition method Purchase on the market of Tokyo Stock Exchange * The acquisition period is based on t",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 5,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 996700
+  },
+  {
+    "event_id": "JP-P4-030",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20210428",
+    "published_date": "2021-09-07",
+    "available_at": "2021-09-07T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Sep. 07, 2021",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_202109.html",
+      "source_sha256": "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202109.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "Sep. 07, 2021 Disclosure Status and Conclusion of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 1639293000,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "September 1, 2021 – September 7, 2021",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 1,639,293,000",
+      "实际股数 599400，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_030",
+      "jpx_corp_catalog_202109"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_030.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_202109.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/b5b4pj000004ay7m-att/20210907_e_1.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202109.html"
+    ],
+    "source_sha256": [
+      "9a1e268edb5a461198297b043bda62cebe5f995c3acd08c22c1694f84e7a2c41",
+      "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e"
+    ],
+    "source_excerpt": "2． Total no. of shares acquired 599,400 shares 3． Total value of shares acquired JPY 1,639,293,000 4． Acquisition period* September 1, 2021 – September 7, 2021 5． Acquisition method Purchase on the market of Tokyo Stock Exchange *Based on the trade date",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 6,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 599400
+  },
+  {
+    "event_id": "JP-P4-031",
+    "market": "Japan",
+    "family": "CorporateCapitalAllocation",
+    "parent_episode": "JP-JPX-BUYBACK-20230130",
+    "published_date": "2023-07-03",
+    "available_at": "2023-07-03T23:59:59+09:00",
+    "timezone": "Asia/Tokyo",
+    "published_date_evidence": {
+      "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+      "excerpt": "Jul. 03, 2023",
+      "locator": "official catalog date adjacent to selected URL",
+      "source_path": "research/phase4/sources/japan/jpx_corp_catalog_202307.html",
+      "source_sha256": "1f0d8121e25925fb8a2b082923bcbc4a6f8d36f805836eff51d0093ec018a6d2",
+      "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202307.html",
+      "historical_vintage_independently_archived": false
+    },
+    "participant_type": "Corporation (Japan Exchange Group; single company only)",
+    "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+    "trigger": "Jul. 03, 2023 Disclosure Status of Acquisition of Own Shares",
+    "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+    "action_status": "OBSERVED_ACTION",
+    "action_type": "RETROSPECTIVE_DISCLOSURE",
+    "flow_size": {
+      "value": 0,
+      "unit": "JPY",
+      "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+    },
+    "flow_duration": "June 1, 2023– June 30, 2023",
+    "assets": [
+      "NIKKEI"
+    ],
+    "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+    "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+    "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+    "known_at_t": [
+      "截至公开日已披露该取得期间真实购回JPY 0",
+      "实际股数 0，按交易日口径",
+      "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+      "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha"
+    ],
+    "known_only_after_t": [
+      "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+    ],
+    "unknown_at_t": [
+      "市场预期中已计入的行动规模/时间",
+      "同日其他政策与全球风险变化",
+      "可靠原始信用/盈利修正",
+      "实际可交易alpha",
+      "未来买入是否还有余额、是否愿意执行",
+      "8697原点时预期/估值/盈利修正"
+    ],
+    "source_ids": [
+      "jp_event_source_031",
+      "jpx_corp_catalog_202307"
+    ],
+    "source_paths": [
+      "research/phase4/sources/japan/jp_event_source_031.pdf",
+      "research/phase4/sources/japan/jpx_corp_catalog_202307.html"
+    ],
+    "source_urls": [
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0063/p6b22i0000001clt-att/20230703_E_1.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-202307.html"
+    ],
+    "source_sha256": [
+      "aba45501f8fba76ce0b9919cedb20e50ad5d9a74a6e30d7910065bc239a543dc",
+      "1f0d8121e25925fb8a2b082923bcbc4a6f8d36f805836eff51d0093ec018a6d2"
+    ],
+    "source_excerpt": "1. Classification of shares acquired Common shares 2． Total no. of shares acquired 0 shares 3． Total value of shares acquired JPY 0 4． Acquisition period* June 1, 2023– June 30, 2023 5． Acquisition method Purchase on the market of Tokyo Stock Exchange *The acq",
+    "pit_status": "VERIFIED_DATE_ONLY",
+    "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+    "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+    "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+    "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+    "fundamental_change_at_t": null,
+    "credit_change_at_t": null,
+    "selection_basis": {
+      "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+      "catalog_index": 7,
+      "catalog_n": 8,
+      "catalog_coverage": "PARTIAL_CATALOG",
+      "outcome_used": false
+    },
+    "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+    "reported_actual_period_shares": 0
+  }
+]

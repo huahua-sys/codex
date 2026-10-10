@@ -50,3 +50,12 @@ FH-P3-003：正趋势提高收益均值/独立赔率未成立；同季度US股�
 FH-P3-004：相对高波动若作“必涨/普适”故事被负控限制：95个US高波动负12m，52个不高波动仍>30%12m；Treasury方向负、HK/DE/UK市场反例、早2000–09区间跨0。有限US横截面平均关联仍存活，不能写完全被推翻，也不能救活原任何策略。全部negative case index保存。
 
 FH-P3-005：尚无法判断Underreaction/价值长期尺度/盈利revision增量/CapEx收益因果；属于DATA_REQUIRED或NOT_IDENTIFIED，不是实验失败收益，也不是被证实经济钥匙。
+
+
+## Phase4 — 反证、未识别与工程失败（原记录保留）
+
+F-P4-NARRATIVE-001：授权/上限必等未来买盘被实际零执行及未用满后终止限制；JPX三条零披露，不能倒推出个股收益失败。F-P4-NARRATIVE-002：真实投入必等正确性不成立为推断；GE/BRK等官方自报错误/现金流压力可共存，非已建立逆聪明钱策略。F-P4-NARRATIVE-003：执行永远比公告有效的绝对说法受到FSB公告效应反证；后见官方审查只作机制参考，不是更早T信号。
+
+H-P4五个可交易边际均NOT_IDENTIFIED，不记成已证伪。15目的性机制审计不膨胀115样本N；宽基305非正配对差不是305个强卖失败。Insider净买关系UNTESTED。
+
+ENGINEERING_P4_QA_SCOPE：独立QA v002因8原回购卡未用独立scope键报8FAIL，已有basis/period/participant能验证范围；v003兼容并PASS，不改事件/金额。ENGINEERING_P4_US_SCOPE：9公司跨年模板旁注可误解，post-global-reveal追加v002/ERRATA，v001输入/全部数字保存不覆盖。ENGINEERING_P4_CATALOG_ROUTE：SEC3旧slug未归一，保留缺槽，新协议才补，不补进当前结果。

@@ -1,0 +1,82 @@
+{
+  "event_id": "CN-P4-002",
+  "market": "China",
+  "family": "央行执行",
+  "parent_episode": "CN-PBOC-OMO-2008",
+  "published_date": "2008-08-07",
+  "available_at": "2008-08-07T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "中国人民银行/一级交易商",
+  "constraint": "货币市场流动性、央票/回购到期结构",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "180亿元三月央票+60亿元六月央票+180亿元28天正回购；毛回笼",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 420,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "GROSS_OPERATION",
+    "scope": "180亿元三月央票+60亿元六月央票+180亿元28天正回购；毛回笼",
+    "direction": "GROSS_ABSORPTION"
+  },
+  "flow_duration": "91天/182天/28天",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "央行政策执行；交易商依规则投标",
+  "price_sensitive": "招标利率/价格；股票价格敏感性未识别",
+  "information_based": "资金供需管理，不是资产盈利预测",
+  "known_at_t": [
+    "180亿元三月央票+60亿元六月央票+180亿元28天正回购；毛回笼",
+    "未获知到期规模，因此不能将毛操作当净投放"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "市场事前预期和已计价程度",
+    "新增流量的未来净额、持续性和对手方",
+    "受益资产长期盈利、偿付能力是否受损"
+  ],
+  "source_ids": [
+    "CN-S-PBOC-OMO-02"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-PBOC-OMO-02.html"
+  ],
+  "source_urls": [
+    "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2837357/index.html"
+  ],
+  "source_sha256": [
+    "190f91476e82a62fa7e617b6a669677ce31684b0123e418ee37d248307ad8696"
+  ],
+  "source_excerpt": "发行了2008年第九十期、第九十一期央行票据，并开展了正回购操作。具体情况如下： 第九十期、第九十一期央行票据发行情况 名称 发行量 期限 价格 参考收益率 2008年第九十期央行票据 180亿元 3个月 （91天） 99.16元 3.3978% 2008年第九十一期央行票据 60亿元 6个月 （182天） 98.19元 3.6969% 正回购操作情况 期限",
+  "publication_date_evidence": {
+    "source_id": "CN-S-PBOC-OMO-02",
+    "excerpt": "字号 大 中 小 文章来源： 2008-08-07 11:14:00 打印本页 关闭窗口 2008年第59号 ",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "央行与银行体系之间的准备金/抵押融资传导；不识别股票资金归属或股票回报",
+  "alternative_explanation": "约束变化可能只是响应已发生的市场/宏观变化；方向可由基本面或同期政策驱动",
+  "falsifier": "后续实际执行为零、其他资金完全抵销、基本面继续损坏或效应仅持续不足一周",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-PBOC-OMO-02.html": "190f91476e82a62fa7e617b6a669677ce31684b0123e418ee37d248307ad8696"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

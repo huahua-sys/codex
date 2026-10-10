@@ -1,0 +1,10 @@
+{
+  "url": "https://www.federalreserve.gov/data/sloos/201710/table1.htm",
+  "source_path": "research/phase4/sources/us/US_SOURCE_c595bf31e2b492850b18.pdf",
+  "source_sha256": "93ff66456192772202c1536b14a5c6d42e9a2107fcedc9751de466524606d156",
+  "content_type": "application/pdf",
+  "role": "original_respondent_table",
+  "source_id": "US_SOURCE_c595bf31e2b492850b18",
+  "bytes": 668477,
+  "reused_from": "research/phase3/data/credit/raw/c595bf31e2b49285.bin"
+}

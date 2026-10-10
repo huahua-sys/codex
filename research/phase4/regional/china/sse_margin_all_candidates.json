@@ -1,0 +1,152 @@
+[
+  {
+    "source_id": "CN-S-MARGIN-DIR-2026-07-10",
+    "family": "融资融券",
+    "published_date": "2026-07-10",
+    "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20260710_10825136.shtml",
+    "title": "关于融资融券标的证券2026年第二季度定期调整有关事项的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": false
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2026-01-14",
+    "family": "融资融券",
+    "published_date": "2026-01-14",
+    "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20260114_10805174.shtml",
+    "title": "关于调整融资保证金比例的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": false
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2024-07-10",
+    "family": "融资融券",
+    "published_date": "2024-07-10",
+    "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20250616_10782021.shtml",
+    "title": "关于调整融券交易保证金比例的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2023-10-14",
+    "family": "融资融券",
+    "published_date": "2023-10-14",
+    "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20250616_10782023.shtml",
+    "title": "关于优化融券交易和转融通证券出借交易相关安排的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2023-04-28",
+    "family": "融资融券",
+    "published_date": "2023-04-28",
+    "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20250616_10782020.shtml",
+    "title": "上海证券交易所融资融券交易业务指引第1号——担保物集中度管理",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2023-04-04",
+    "family": "融资融券",
+    "published_date": "2023-04-04",
+    "url": "https://www.sse.com.cn/lawandrules/guide/stock/jyglywznylc/zn/c/c_20230404_5719106.shtml",
+    "title": "关于发布《上海证券交易所证券交易业务指南第9号——融资融券交易业务》的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2023-02-17",
+    "family": "融资融券",
+    "published_date": "2023-02-17",
+    "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20250616_10782015.shtml",
+    "title": "上海证券交易所融资融券交易实施细则（2023年修订）",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2015-04-17",
+    "family": "融资融券",
+    "published_date": "2015-04-17",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987318.shtml",
+    "title": "关于促进融券业务发展有关事项的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2014-11-26",
+    "family": "融资融券",
+    "published_date": "2014-11-26",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987313.shtml",
+    "title": "关于接受转融通证券出借交易约定申报的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2014-09-12",
+    "family": "融资融券",
+    "published_date": "2014-09-12",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987316.shtml",
+    "title": "关于扩大融资融券标的股票范围相关事项的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2013-08-28",
+    "family": "融资融券",
+    "published_date": "2013-08-28",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987315.shtml",
+    "title": "上市公司日常信息披露工作备忘录--第十一号 融资融券、转融通相关信息披露规范要求",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2013-06-25",
+    "family": "融资融券",
+    "published_date": "2013-06-25",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987312.shtml",
+    "title": "关于《融资融券交易会员业务指南》的修订说明",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2013-05-29",
+    "family": "融资融券",
+    "published_date": "2013-05-29",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987314.shtml",
+    "title": "关于进一步明确交易型开放式指数基金融资融券相关比例限制的通知 ",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2013-01-25",
+    "family": "融资融券",
+    "published_date": "2013-01-25",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987311.shtml",
+    "title": "关于调整融资融券标的证券范围的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  },
+  {
+    "source_id": "CN-S-MARGIN-DIR-2012-08-27",
+    "family": "融资融券",
+    "published_date": "2012-08-27",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987310.shtml",
+    "title": "关于发布实施《上海证券交易所转融通证券出借交易实施办法（试行）》的通知",
+    "catalog_source": "CN-S-SSE-MARGIN-DIR.html",
+    "role": "EVENT_SOURCE",
+    "eligible": true
+  }
+]

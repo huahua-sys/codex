@@ -1,0 +1,38 @@
+{
+  "event_id": "US-P4-018",
+  "market": "US",
+  "published_date": "2012-10-09",
+  "available_at": "2012-10-09T23:59:59-04:00",
+  "participant_type": "Federal banking agencies and regulated banks/dealers",
+  "observed_action": "Federal Reserve Board publishes two final rules with stress testing requirements for certain bank holding companies, state member banks, and savings and loan holding companies",
+  "constraint": "资本/杠杆/压力测试或持仓活动限制；规则生效前过渡期须单列",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "监管适用期；各行落实时间和真实仓位改变未知",
+  "voluntary_or_forced": "MANDATORY_RULE_FOR_APPLICABLE_ENTITIES; actual trades not observed",
+  "source_paths": [
+    "research/phase4/sources/us/278fee75693cdbb7dfee.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20121009a.htm"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/us/278fee75693cdbb7dfee.html": "bf574f48e3305e38657be908f63f40f1d42ddbb6c415b46b543c9aa022e25bf7"
+  },
+  "source_excerpt": "For immediate release\nShare\nThe Federal Reserve Board on Tuesday published two final rules with stress testing requirements for certain bank holding companies, state member banks, and savings and loan holding companies. The final rules implement sections 165(i)(1) and (i)(2) of the Dodd-Frank Wall Street Reform and Consumer Protection Act that require supervisory and company-run stress tests. Nonbank financial companies designated by the Financial Stability Oversight Council will also be subject to certain stress testing requirements contained in the rules.\n\"Implementation of the Dodd-Frank stress test requirement is an important step in the Federal Reserve's efforts to promote the health of the financial sector,\" Governor Daniel K. Tarullo said. \"Stress testing is a key tool to ensure that financial companies have enough capital to weather a severe economic downturn without posing a risk to their communities, other financial institutions, or to the general economy.\"\nThe Federal Reserve will begin conducting supervisory stress tests under the final rules this fall for the 19 bank holding companies that participated in the 2009 Supervisory Capital Assessment Program and subsequent Comprehensive Capital Analysis and Reviews. The final rules also require these companies and their state-member bank subsidiaries to conduct their own Dodd-Frank company-run stress tests this fall, with the results to be publicly disclosed in March 2013.\nIn general, other companies subject to the Board's final rules for Dodd-Frank stress testing will be required to comply with the final rule beginning in October 2013. Companies with between $10 billion and $50 billion in total assets that begin conducting their first company-run stress test in in the fall of 2013 will not have to publicly disclose the results of that first stress test.\nThe Board's two final rules revise portions of the Federal Reserve's notice of proposed rulemaking to implement the enhanced prudential standards and early remediation requirements established under the Dodd-Frank Act. The Board coordinated closely with the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation to ensure t",
+  "publication_date_evidence": {
+    "excerpt": "October 09, 2012; For immediate release",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/278fee75693cdbb7dfee.html"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "规则改变可影响中介资产负债表空间，但需要银行资本余量/风险预算和实际仓位佐证",
+  "alternative_explanation": "规则已在提案/立法时预期；不约束边际银行，或受盈利/风险需求抵消",
+  "falsifier": "未适用于边际中介、其他约束仍绑定，或额度释放不伴随真实风险承担",
+  "confidence_level": "LEVEL 1",
+  "evidence_id": "EC-US-P4-018",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

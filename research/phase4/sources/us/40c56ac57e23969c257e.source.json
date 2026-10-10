@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_40c56ac57e23969c257e",
+  "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf",
+  "role": "institutional_reference_not_event",
+  "accessed_at": "2026-10-10T08:02:51.385033+00:00",
+  "source_path": "research/phase4/sources/us/40c56ac57e23969c257e.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf",
+  "content_type": "application/pdf",
+  "source_sha256": "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e",
+  "bytes": 5119017,
+  "text_path": "research/phase4/sources/us/40c56ac57e23969c257e.txt",
+  "text_sha256": "4f15cc8817e37bdecb734e9ec204d0624a24673b8d8b102bdebb5d2336f4e3bd"
+}

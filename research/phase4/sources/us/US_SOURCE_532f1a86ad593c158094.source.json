@@ -1,0 +1,10 @@
+{
+  "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200801/table1.htm",
+  "source_path": "research/phase4/sources/us/US_SOURCE_532f1a86ad593c158094.pdf",
+  "source_sha256": "224cb9a327125f7e0cebcd0cfb502218833d381c9d9e4b0d70d551d65c1c8ae9",
+  "content_type": "application/pdf",
+  "role": "original_respondent_table",
+  "source_id": "US_SOURCE_532f1a86ad593c158094",
+  "bytes": 313364,
+  "reused_from": "research/phase3/data/credit/raw/532f1a86ad593c15.bin"
+}

@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "catalog_url": "https://www.sec.gov/newsroom/press-releases?year=2009&combine=money+market",
+      "href": "/newsroom/press-releases/2009-142-sec-proposes-rule-amendments-strengthen-regulatory-framework-money-market-funds",
+      "title": "SEC Proposes Rule Amendments to Strengthen Regulatory Framework for Money Market Funds",
+      "status": "LEGACY_ROUTE_NOT_NORMALIZED_BY_V001_PARSER; retained gap only, no post-lock addition"
+    },
+    {
+      "catalog_url": "https://www.sec.gov/newsroom/press-releases?year=2010&combine=money+market",
+      "href": "/newsroom/press-releases/2010-14-sec-approves-money-market-fund-reforms-better-protect-investors",
+      "title": "SEC Approves Money Market Fund Reforms to Better Protect Investors",
+      "status": "LEGACY_ROUTE_NOT_NORMALIZED_BY_V001_PARSER; retained gap only, no post-lock addition"
+    },
+    {
+      "catalog_url": "https://www.sec.gov/newsroom/press-releases?year=2013&combine=money+market",
+      "href": "/newsroom/press-releases/2013-2013-101htm",
+      "title": "SEC Proposes Money Market Fund Reforms",
+      "status": "LEGACY_ROUTE_NOT_NORMALIZED_BY_V001_PARSER; retained gap only, no post-lock addition"
+    }
+  ],
+  "n": 3,
+  "existing_selection_and_results_unchanged": true
+}

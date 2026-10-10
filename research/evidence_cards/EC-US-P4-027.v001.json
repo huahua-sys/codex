@@ -1,0 +1,38 @@
+{
+  "event_id": "US-P4-027",
+  "market": "US",
+  "published_date": "2015-11-25",
+  "available_at": "2015-11-25T23:59:59-05:00",
+  "participant_type": "Federal banking agencies and regulated banks/dealers",
+  "observed_action": "Federal Reserve Board approves final rule to modify its capital plan and stress testing rules",
+  "constraint": "资本/杠杆/压力测试或持仓活动限制；规则生效前过渡期须单列",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "监管适用期；各行落实时间和真实仓位改变未知",
+  "voluntary_or_forced": "MANDATORY_RULE_FOR_APPLICABLE_ENTITIES; actual trades not observed",
+  "source_paths": [
+    "research/phase4/sources/us/6b04adddf20cf4832e10.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20151125a.htm"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/us/6b04adddf20cf4832e10.html": "84292deac783dabbf95e7b9b207165fffef46b3d74f54972e1f4b7c82a34369f"
+  },
+  "source_excerpt": "For release at 11:30 a.m. EST\nShare\nThe Federal Reserve Board on Wednesday approved a final rule to modify its capital plan and stress testing rules. The changes would take effect for the 2016 capital plan and stress testing cycle.\nThe final rule is largely similar to the proposed rule and would modify the timing for several regulatory requirements that have yet to be integrated into the capital plan and stress- testing framework. Firms subject to the supplementary leverage ratio would begin to incorporate it into their capital plan and stress testing for the 2017 cycle. For stress-testing exercises, all firms would continue to use the generally applicable risk-based capital framework, but use of the advanced approaches risk-based capital framework--which is generally applicable to firms with at least $250 billion in total consolidated assets or $10 billion in on-balance sheet foreign exposures--would be delayed indefinitely. However, those firms would continue to be subject to the advanced approaches framework for their regulatory capital ratios.\nThe common equity tier 1 capital requirement in the Board's revised regulatory capital rules--which significantly strengthened the quality and quantity of capital held by banking organizations--will be fully phased in over the nine-quarter planning horizon of the 2016 capital plan and stress testing cycles. Generally, this ratio will require firms to hold more regulatory capital than the tier 1 common ratio, which was used before the introduction of the Board's revised regulatory capital rules. The final rule would remove the requirement for firms to calculate a tier 1 common ratio.\nAdditionally, the Board continues to review a broad range of issues related to its capital planning and stress testing rules. Any modifications from that review will be undertaken through a separate rulemaking and would take effect no earlier than the 2017 cycle.\nFor media inquiries, call 202-452-2955.\nFederal Register notice: HTML | PDF\nBoard Votes\n",
+  "publication_date_evidence": {
+    "excerpt": "November 25, 2015; For release at 11:30 a.m. EST",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/6b04adddf20cf4832e10.html"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "规则改变可影响中介资产负债表空间，但需要银行资本余量/风险预算和实际仓位佐证",
+  "alternative_explanation": "规则已在提案/立法时预期；不约束边际银行，或受盈利/风险需求抵消",
+  "falsifier": "未适用于边际中介、其他约束仍绑定，或额度释放不伴随真实风险承担",
+  "confidence_level": "LEVEL 1",
+  "evidence_id": "EC-US-P4-027",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

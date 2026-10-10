@@ -1,0 +1,307 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-10T08:08:22.337398+00:00",
+  "raw_review_questions": 15,
+  "raw_sources": 17,
+  "verified_quotes": 31,
+  "checks": [
+    {
+      "id": "source_sha_FSB_2020_11_17_HOLISTIC_REVIEW",
+      "pass": true
+    },
+    {
+      "id": "not_signal_FSB_2020_11_17_HOLISTIC_REVIEW",
+      "pass": true
+    },
+    {
+      "id": "source_sha_FCIC_2011_FINANCIAL_CRISIS",
+      "pass": true
+    },
+    {
+      "id": "not_signal_FCIC_2011_FINANCIAL_CRISIS",
+      "pass": true
+    },
+    {
+      "id": "source_sha_FED_2020_06_25_BANK_DISTRIBUTIONS",
+      "pass": true
+    },
+    {
+      "id": "not_signal_FED_2020_06_25_BANK_DISTRIBUTIONS",
+      "pass": true
+    },
+    {
+      "id": "source_sha_FED_2020_03_23_LIQUIDITY",
+      "pass": true
+    },
+    {
+      "id": "not_signal_FED_2020_03_23_LIQUIDITY",
+      "pass": true
+    },
+    {
+      "id": "source_sha_BOJ_2024_03_19_END_ETF_PURCHASES",
+      "pass": true
+    },
+    {
+      "id": "not_signal_BOJ_2024_03_19_END_ETF_PURCHASES",
+      "pass": true
+    },
+    {
+      "id": "source_sha_SEC_2022_12_14_INSIDER_PLANS",
+      "pass": true
+    },
+    {
+      "id": "not_signal_SEC_2022_12_14_INSIDER_PLANS",
+      "pass": true
+    },
+    {
+      "id": "source_sha_FED_2020_11_09_STABILITY",
+      "pass": true
+    },
+    {
+      "id": "not_signal_FED_2020_11_09_STABILITY",
+      "pass": true
+    },
+    {
+      "id": "source_sha_BERKSHIRE_2008_SHAREHOLDER_LETTER",
+      "pass": true
+    },
+    {
+      "id": "not_signal_BERKSHIRE_2008_SHAREHOLDER_LETTER",
+      "pass": true
+    },
+    {
+      "id": "source_sha_IEA_2022_PV_SUPPLY_CHAINS",
+      "pass": true
+    },
+    {
+      "id": "not_signal_IEA_2022_PV_SUPPLY_CHAINS",
+      "pass": true
+    },
+    {
+      "id": "source_sha_GE_2017_ANNUAL_REPORT",
+      "pass": true
+    },
+    {
+      "id": "not_signal_GE_2017_ANNUAL_REPORT",
+      "pass": true
+    },
+    {
+      "id": "source_sha_CSRC_2023_08_27_MARGIN_CHANGE",
+      "pass": true
+    },
+    {
+      "id": "not_signal_CSRC_2023_08_27_MARGIN_CHANGE",
+      "pass": true
+    },
+    {
+      "id": "source_sha_SSE_2015_11_13_MARGIN_CHANGE",
+      "pass": true
+    },
+    {
+      "id": "not_signal_SSE_2015_11_13_MARGIN_CHANGE",
+      "pass": true
+    },
+    {
+      "id": "source_sha_CSRC_2024_02_05_MARGIN_LIQUIDATION",
+      "pass": true
+    },
+    {
+      "id": "not_signal_CSRC_2024_02_05_MARGIN_LIQUIDATION",
+      "pass": true
+    },
+    {
+      "id": "source_sha_GPIF_2014_10_31_POLICY_MIX",
+      "pass": true
+    },
+    {
+      "id": "not_signal_GPIF_2014_10_31_POLICY_MIX",
+      "pass": true
+    },
+    {
+      "id": "source_sha_IEA_2022_REPORT_LANDING",
+      "pass": true
+    },
+    {
+      "id": "not_signal_IEA_2022_REPORT_LANDING",
+      "pass": true
+    },
+    {
+      "id": "source_sha_JPX_2017_01_30_BUYBACK",
+      "pass": true
+    },
+    {
+      "id": "not_signal_JPX_2017_01_30_BUYBACK",
+      "pass": true
+    },
+    {
+      "id": "source_sha_JPX_2023_07_03_BUYBACK",
+      "pass": true
+    },
+    {
+      "id": "not_signal_JPX_2023_07_03_BUYBACK",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FCIC-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FCIC-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FCIC-03",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FSB-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FSB-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FSB-03",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FSB-04",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FSB-05",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FED-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-FED-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-GE-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-GE-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-GE-03",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-GE-04",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-BRK-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-BRK-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-SEC-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-SEC-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-BOJ-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-BOJ-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-GPIF-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-GPIF-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-IEA-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-SSE-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-CSRC-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-CSRC-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-CSRC-03",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-JPX-01",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-JPX-02",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-JPX-03",
+      "pass": true
+    },
+    {
+      "id": "quote_Q-JPX-04",
+      "pass": true
+    },
+    {
+      "id": "exact_15_unique_audit_questions",
+      "pass": true
+    },
+    {
+      "id": "all_5_prespecified_mechanisms_attacked",
+      "pass": true
+    },
+    {
+      "id": "not_blind_historical_replay",
+      "pass": true
+    },
+    {
+      "id": "no_new_outcomes_or_predictions",
+      "pass": true
+    },
+    {
+      "id": "all_edges_not_identified",
+      "pass": true
+    },
+    {
+      "id": "observations_not_independent_n",
+      "pass": true
+    }
+  ],
+  "total_source_bytes": 19093938,
+  "future_prices_read_by_this_module": false,
+  "old_research_results_changed_by_this_module": false,
+  "identified_return_edges": 0,
+  "causal_counterfactuals_identified": 0,
+  "independent_sample_n": null,
+  "effective_sample_assessment": "purposefully selected diagnostic records; three 2020 stress cards share parent; within-issuer JPX replication; no inference sample or effective N claim",
+  "publication_issues_preserved": [
+    "FCIC corrected printing",
+    "GPIF effective date is not public timestamp",
+    "GE fiscal period is not filing date",
+    "Berkshire signed date is not publication time",
+    "IEA current HTML is not original archived version"
+  ]
+}

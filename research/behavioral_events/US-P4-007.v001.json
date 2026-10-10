@@ -1,0 +1,81 @@
+{
+  "market": "US",
+  "family": "regulatory_capital_constraints",
+  "parent_episode": "US_AMLF_RULES",
+  "published_date": "2009-01-30",
+  "available_at": "2009-01-30T23:59:59-05:00",
+  "timezone": "America/New_York",
+  "publication_date_precision": "DATE",
+  "publication_date_evidence": {
+    "excerpt": "January 30, 2009; For immediate release",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/763bc4965ec3566b1902.html"
+  },
+  "participant_type": "Federal banking agencies and regulated banks/dealers",
+  "constraint": "资本/杠杆/压力测试或持仓活动限制；规则生效前过渡期须单列",
+  "trigger": "Board announces final rules pertaining to the Asset-Backed Commercial Paper Money Market Fund Liquidity Facility (AMLF)",
+  "observed_action": "Board announces final rules pertaining to the Asset-Backed Commercial Paper Money Market Fund Liquidity Facility (AMLF)",
+  "action_status": "MANDATE_CHANGE",
+  "action_type": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "监管适用期；各行落实时间和真实仓位改变未知",
+  "assets": [
+    "SPY"
+  ],
+  "voluntary_or_forced": "MANDATORY_RULE_FOR_APPLICABLE_ENTITIES; actual trades not observed",
+  "price_sensitive": "UNKNOWN; regulation is not a trade",
+  "information_based": "PUBLIC_REGULATORY_RULE_NOT_DIRECTIONAL_SIGNAL",
+  "known_at_t": [
+    "For immediate release\nShare\nThe Federal Reserve Board on Friday announced two final rules pertaining to the Asset-Backed Commercial Paper Money Market Fund Liquidity Facility (AMLF), which extends loans to banking organizations to finance their purchases of high-quality asset-backed commercial paper from money market mutual funds.\nThe first rule provides a temporary limited exception from the Board's leverage and risk-based capital rules for bank holding companies and state member banks. The second rule provides a temporary limited exception from sections 23A and 23B of the Federal Reserve Act, which establish certain restrictions on and requirements for transactions between a bank and its affiliates.\nThe two final rules, originally approved as interim final rules on September 19, 2008, will facilitate participation by depository institutions and bank holding companies as intermediaries between the AMLF and money market mutual funds. These exceptions are subject to various conditions to promote safety and soundness.\nThe Board has also adopted a third final rule, originally approved as an interim final rule on September 14, 2008. It provides a temporary exception to the limitations in section 23A of the Federal Reserve Act, allowing all insured depository institutions to provide liquidity to their affiliates for assets typically funded in the tri-party repo market. This exception expires on October 30, 2009, unless extended by the Board, and is subject to various conditions to promote safety and soundness.\nThe three final rules are attached.\nFederal Register notices:\nRegulations H and Y: 48 KB PDF | HTML\nRegulation W: 52 KB PDF | HTML\nRegulation W: 44 KB PDF | HTML\n"
+  ],
+  "known_only_after_t": [],
+  "unknown_at_t": [
+    "未来价格、市场真实预期、未公开的仓位/对冲以及交易对手约束",
+    "实际资金流和受影响银行边际约束、最终生效后的执行规模"
+  ],
+  "source_ids": [
+    "US_SOURCE_763bc4965ec3566b1902"
+  ],
+  "source_paths": [
+    "research/phase4/sources/us/763bc4965ec3566b1902.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090130a.htm"
+  ],
+  "source_sha256": [
+    "8298eaa362dc1f112d3ece9f9199c2182d534af1d835fe3f50cb4a42144deef6"
+  ],
+  "source_excerpt": "For immediate release\nShare\nThe Federal Reserve Board on Friday announced two final rules pertaining to the Asset-Backed Commercial Paper Money Market Fund Liquidity Facility (AMLF), which extends loans to banking organizations to finance their purchases of high-quality asset-backed commercial paper from money market mutual funds.\nThe first rule provides a temporary limited exception from the Board's leverage and risk-based capital rules for bank holding companies and state member banks. The second rule provides a temporary limited exception from sections 23A and 23B of the Federal Reserve Act, which establish certain restrictions on and requirements for transactions between a bank and its affiliates.\nThe two final rules, originally approved as interim final rules on September 19, 2008, will facilitate participation by depository institutions and bank holding companies as intermediaries between the AMLF and money market mutual funds. These exceptions are subject to various conditions to promote safety and soundness.\nThe Board has also adopted a third final rule, originally approved as an interim final rule on September 14, 2008. It provides a temporary exception to the limitations in section 23A of the Federal Reserve Act, allowing all insured depository institutions to provide liquidity to their affiliates for assets typically funded in the tri-party repo market. This exception expires on October 30, 2009, unless extended by the Board, and is subject to various conditions to promote safety and soundness.\nThe three final rules are attached.\nFederal Register notices:\nRegulations H and Y: 48 KB PDF | HTML\nRegulation W: 52 KB PDF | HTML\nRegulation W: 44 KB PDF | HTML\n",
+  "pit_status": "VERIFIED_DATE_CONSERVATIVE",
+  "confidence_level": "LEVEL 1",
+  "mechanism": "规则改变可影响中介资产负债表空间，但需要银行资本余量/风险预算和实际仓位佐证",
+  "alternative_explanation": "规则已在提案/立法时预期；不约束边际银行，或受盈利/风险需求抵消",
+  "falsifier": "未适用于边际中介、其他约束仍绑定，或额度释放不伴随真实风险承担",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "protocol": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+    "catalog_index": 3,
+    "catalog_n": 35,
+    "rule": "date order equisequence floor(i*(n-1)/9); no outcome/price filter"
+  },
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "outcomes": null,
+  "event_id": "US-P4-007",
+  "source_revision_risk": "Official historical original currently hosted; no contemporaneous independent archive snapshot; possible silent source corrections.",
+  "broad_asset_reaction_only": true,
+  "counterfactual": "NOT_IDENTIFIED: matched broad-asset date controls are descriptive and cannot isolate actor-specific counterfactual",
+  "generalizability": "Not established; same program/company and common macro constraints cluster observations.",
+  "closest_similar_events": [],
+  "important_differences": [],
+  "study_asset": "SPY",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/us/763bc4965ec3566b1902.html": "8298eaa362dc1f112d3ece9f9199c2182d534af1d835fe3f50cb4a42144deef6"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

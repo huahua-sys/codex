@@ -1,0 +1,47 @@
+{
+  "event_id": "CN-P4-018",
+  "market": "China",
+  "published_date": "2020-06-11",
+  "available_at": "2020-06-11T23:59:59+08:00",
+  "participant_type": "上市公司/控股股东/管理层/产业企业",
+  "observed_action": "2020年1–5月199家上市公司实施股份回购，金额147.31亿元",
+  "constraint": "预算、现金流、债务、公司治理、回购用途",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 147.31,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_AGGREGATE_BUYBACK_REPORTED",
+    "scope": "2020年1–5月两市回购",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "已报告期间的累计事实；未来持续期UNKNOWN_AT_T",
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-CORP-2020.html"
+  ],
+  "source_urls": [
+    "https://www.csrc.gov.cn/csrc/c100028/c1000767/content.shtml"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-CORP-2020.html": "5cc65e90b25a352180660df647ff2ee473a3a67b12a45ff9f366b0a44ff32394"
+  },
+  "source_excerpt": "今年 1-5月，实施股份回购的上市公司达199家，金额147.31亿元 。 分红和回购的双轮驱动，使 投资者 特别是中小投资者 的获得感 进一步增强 ，也为维护疫情期间的市场稳定发挥了重要作用。 从当前经济形势来看，尽管一季度极不寻常，突如其来的新冠肺炎疫情对我国经济社会发展带来前所未有的冲击，客观上要求我们必须充分估计困难、风险和不确定性，增强紧迫感。但另",
+  "publication_date_evidence": {
+    "source_id": "CN-S-CORP-2020",
+    "excerpt": "2020年年会上的讲话 日期：2020-06-11 来源： 分享到： QQ空间 豆瓣网 【字号： 大 中 小 ",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "付出真实资金比口头意向更可检验；回购可用于员工激励而不注销，产业费用可产生供给竞争",
+  "alternative_explanation": "公司在高价回购、员工激励/支撑价格、行业过度投资；经济变化共同决定支出与价格",
+  "falsifier": "投资未转化为订单/自由现金流、回购用途造成再稀释、或预算/剩余额度已耗尽",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-018",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

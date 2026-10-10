@@ -1,0 +1,44 @@
+{
+  "event_id": "US-P4-038",
+  "market": "US",
+  "published_date": "2023-07-25",
+  "available_at": "2023-07-25T23:59:59-07:00",
+  "participant_type": "Microsoft board/treasury and existing shareholders",
+  "observed_action": "披露此前季度的common-stock-repurchase现金支出，非当日新回购指令；2009原文另明确该季度无常规回购",
+  "constraint": "现金创造、债务、回购授权、资本配置和股票薪酬；投资者方向意图不能由现金流推知",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 5704000000.0,
+    "currency": "USD",
+    "unit": "USD",
+    "scope": "Microsoft FY2023 Q4 three months ended June 30, cash-flow row, first current-year column",
+    "basis": "ACTUAL_REPORTED_COMMON_STOCK_REPURCHASE_CASH_OUTFLOW; not authorization; may include share tax withholding, does not identify open-market timing"
+  },
+  "flow_duration": "已发生季度流；未来回购速度/窗口与授权使用量未知",
+  "voluntary_or_forced": "MIXED_UNKNOWN; discretionary capital return and tax-withholding obligations may differ",
+  "source_paths": [
+    "research/phase4/sources/us/e482c6b523d48deb076a.html"
+  ],
+  "source_urls": [
+    "https://www.microsoft.com/en-us/Investor/earnings/FY-2023-Q4/press-release-webcast"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/us/e482c6b523d48deb076a.html": "499cd4883563b1ba5bd98fcd446765fbd5f58784b9b204ccd341a6a354353266"
+  },
+  "source_excerpt": "REDMOND, Wash. — July 25, 2023 — Microsoft Corp. today announced the following results for the quart\nCommon stock repurchased (5,704) (8,757) (22,245) (32,696) Common stock cash dividends paid (5,054) (4,632) (19,800) (18,135) Other, net (167) (341) (1,00\nMicrosoft returned $9.7 billion to shareholders in the form of share repurchases and dividends in the fourth quarter of fiscal year 2023. Fiscal Year 2023 Results Microsoft Corp. today announced the following results for the fiscal year e",
+  "publication_date_evidence": {
+    "excerpt": "REDMOND, Wash. — July 25, 2023 — Microsoft Corp. today announced the following results for the quart",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/e482c6b523d48deb076a.html"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "真实减少流通股可能传导到每股现金流；借债/对冲/薪酬稀释及支付价格可抵消，报告本身滞后",
+  "alternative_explanation": "补偿股权稀释、员工代扣或常规分配；未来盈利和估值更主导结果",
+  "falsifier": "净股数未下降、资金用于昂贵回购而核心投资/盈利恶化，或披露时已完全预期",
+  "confidence_level": "LEVEL 1",
+  "evidence_id": "EC-US-P4-038",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

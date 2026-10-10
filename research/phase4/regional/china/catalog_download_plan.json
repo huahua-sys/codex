@@ -1,0 +1,67 @@
+[
+  {
+    "source_id": "CN-S-PBOC-DIR-001",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-1.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-025",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-25.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-050",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-50.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-075",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-75.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-100",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-100.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-125",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-125.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-150",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-150.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-175",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-175.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-191",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-191.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-DIR",
+    "url": "https://www.huijin-inv.cn/huijin-inv/SC20252/Information_Center.shtml",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CSRC-DIR",
+    "url": "https://www.csrc.gov.cn/csrc/c100028/common_list.shtml",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-SSE-MARGIN-DIR",
+    "url": "https://www.sse.com.cn/services/tradingservice/margin/rules/",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-NFRA-DIR",
+    "url": "https://www.nfra.gov.cn/cn/view/pages/ItemList.html?itemPId=923&itemId=928",
+    "role": "PARTIAL_CATALOG"
+  }
+]

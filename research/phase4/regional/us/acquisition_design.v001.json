@@ -1,0 +1,162 @@
+{
+  "mode": "EXPLORATORY_SOURCE_FIRST",
+  "period": [
+    2008,
+    2025
+  ],
+  "fed_catalogs": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/2008all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2009all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2010all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2011all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2012all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2013all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2014all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2015all.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2016-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2017-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2018-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2019-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2020-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2021-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2022-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2023-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2024-press.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/2025-press.htm"
+  ],
+  "sec_catalogs": [
+    "https://www.sec.gov/newsroom/press-releases?year=2008&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2009&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2010&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2011&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2012&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2013&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2014&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2015&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2016&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2017&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2018&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2019&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2020&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2021&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2022&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2023&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2024&combine=money+market",
+    "https://www.sec.gov/newsroom/press-releases?year=2025&combine=money+market"
+  ],
+  "corporate_universe": [
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2008-Q4/press-release-webcast",
+      "date": "2008-07-01",
+      "year": 2008,
+      "title": "Microsoft FY2008 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2009-Q4/press-release-webcast",
+      "date": "2009-07-01",
+      "year": 2009,
+      "title": "Microsoft FY2009 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2010-Q4/press-release-webcast",
+      "date": "2010-07-01",
+      "year": 2010,
+      "title": "Microsoft FY2010 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2011-Q4/press-release-webcast",
+      "date": "2011-07-01",
+      "year": 2011,
+      "title": "Microsoft FY2011 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2012-Q4/press-release-webcast",
+      "date": "2012-07-01",
+      "year": 2012,
+      "title": "Microsoft FY2012 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2013-Q4/press-release-webcast",
+      "date": "2013-07-01",
+      "year": 2013,
+      "title": "Microsoft FY2013 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2014-Q4/press-release-webcast",
+      "date": "2014-07-01",
+      "year": 2014,
+      "title": "Microsoft FY2014 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2015-Q4/press-release-webcast",
+      "date": "2015-07-01",
+      "year": 2015,
+      "title": "Microsoft FY2015 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2016-Q4/press-release-webcast",
+      "date": "2016-07-01",
+      "year": 2016,
+      "title": "Microsoft FY2016 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2017-Q4/press-release-webcast",
+      "date": "2017-07-01",
+      "year": 2017,
+      "title": "Microsoft FY2017 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2018-Q4/press-release-webcast",
+      "date": "2018-07-01",
+      "year": 2018,
+      "title": "Microsoft FY2018 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2019-Q4/press-release-webcast",
+      "date": "2019-07-01",
+      "year": 2019,
+      "title": "Microsoft FY2019 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2020-Q4/press-release-webcast",
+      "date": "2020-07-01",
+      "year": 2020,
+      "title": "Microsoft FY2020 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2021-Q4/press-release-webcast",
+      "date": "2021-07-01",
+      "year": 2021,
+      "title": "Microsoft FY2021 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q4/press-release-webcast",
+      "date": "2022-07-01",
+      "year": 2022,
+      "title": "Microsoft FY2022 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2023-Q4/press-release-webcast",
+      "date": "2023-07-01",
+      "year": 2023,
+      "title": "Microsoft FY2023 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q4/press-release-webcast",
+      "date": "2024-07-01",
+      "year": 2024,
+      "title": "Microsoft FY2024 Q4 official earnings release"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+      "date": "2025-07-01",
+      "year": 2025,
+      "title": "Microsoft FY2025 Q4 official earnings release"
+    }
+  ],
+  "corporate_scope": "Single current issuer MSFT; yearly FY Q4 enumerated 2008–2025; missing endpoints retained. This is not a broad corporate census.",
+  "liquidity_title_regex": "announces results of auction",
+  "regulatory_title_regex": "(final rule|final rules|adopts|approves).*?(capital|liquidity|leverage|stress|resolution|Volcker)|(capital|liquidity|leverage).*?(final rule|final rules)",
+  "fund_title_regex": "(adopts|approves|amends|amendments|extends|withdraws|reforms).*?(money market)|(money market).*?(adopts|approves|amends|amendments|extends|withdraws|reforms)",
+  "equisequence": "floor(i*(n-1)/9), i=0..9; fewer than 10 all; retain missing selected endpoints; no replacement"
+}

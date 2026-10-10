@@ -1,0 +1,40 @@
+{
+  "event_id": "CN-P4-011",
+  "market": "China",
+  "published_date": "2015-04-17",
+  "available_at": "2015-04-17T23:59:59+08:00",
+  "participant_type": "证券交易所/券商/信用账户投资者",
+  "observed_action": "关于促进融券业务发展有关事项的通知：公布融资融券约束/规则变化；尚无账户级执行量",
+  "constraint": "标的资格、保证金、担保物集中度、券源、短售/信息披露规则",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "制度期间；可能持续月/年，实际去杠杆速度未知",
+  "voluntary_or_forced": "规则必须遵守；尚未观察forced liquidation",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-MARGIN-DIR-2015-04-17.html"
+  ],
+  "source_urls": [
+    "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987318.shtml"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-MARGIN-DIR-2015-04-17.html": "322598aa7fc0ebcc3ff20232f6626b22266157901075cac3d3de4f075ebfae1b"
+  },
+  "source_excerpt": "为了促进融券业务发展，现就有关事项通知如下： 一、支持专业机构投资者参与融券交易，扩大融券券源。公募基金、证券公司资产管理计划等专业机构投资者设立的产品自产品成立之日起可从事融券交易。支持上述专业机构投资者在风险可控、保护持有人权益的基础上，参与融券交易和转融券证券出借，增加市场券源的供给和需求。 二、推出市场化的转融券约定申报方式，便利证券公司根据客户需求",
+  "publication_date_evidence": {
+    "source_id": "CN-S-MARGIN-DIR-2015-04-17",
+    "excerpt": "进融券业务发展有关事项的通知 2015-04-17 中证协发[2015]80号 各证券公司、基金公司： 融资融",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "担保物/风险限额改变可改变可维持仓位，但余额变化不等于forced cash flow",
+  "alternative_explanation": "借款人可能主动还贷/增加抵押品；规则有过渡期/存量合约例外",
+  "falsifier": "没有账户触发约束或原约束不绑定，则强迫清算机制未成立",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-011",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

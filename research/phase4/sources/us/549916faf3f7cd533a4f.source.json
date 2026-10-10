@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_549916faf3f7cd533a4f",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130312a.htm",
+  "role": "original_release",
+  "accessed_at": "2026-10-10T07:56:34.220567+00:00",
+  "source_path": "research/phase4/sources/us/549916faf3f7cd533a4f.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130312a.htm",
+  "content_type": "text/html",
+  "source_sha256": "b3bf7ce37e2382d64586bdbc239dcbfbb927caefbecea81f663f737c911deea5",
+  "bytes": 82374,
+  "text_path": "research/phase4/sources/us/549916faf3f7cd533a4f.txt",
+  "text_sha256": "d188dec106a6da8c25cc82ceaccd229999685d2d91e70e85c965b565a7c345ca"
+}

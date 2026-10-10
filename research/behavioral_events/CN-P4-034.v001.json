@@ -1,0 +1,83 @@
+{
+  "event_id": "CN-P4-034",
+  "market": "China",
+  "family": "政策性/国家资本",
+  "parent_episode": "CN-HUIJIN-FUNDING-2024",
+  "published_date": "2024-05-27",
+  "available_at": "2024-05-27T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "中央汇金/债务融资工具持有人",
+  "constraint": "债务到期与负债管理",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "汇金报告完成债券发行；募集用途是优化负债结构/流动资金或偿还到期债券，不能分配为股票净买入",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 240,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_ISSUANCE_NOT_EQUITY_PURCHASE",
+    "scope": "汇金债务融资毛发行",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "2–7年债券期限；新增股市投入持续期未知",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "price_sensitive": "UNKNOWN_AT_T",
+  "information_based": "UNKNOWN_AT_T",
+  "known_at_t": [
+    "债务融资已经发行",
+    "一般募集用途没有证券购买金额归属"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "市场事前预期和已计价程度",
+    "新增流量的未来净额、持续性和对手方",
+    "受益资产长期盈利、偿付能力是否受损"
+  ],
+  "source_ids": [
+    "CN-S-HUIJIN-1002677"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-HUIJIN-1002677.html"
+  ],
+  "source_urls": [
+    "https://www.huijin-inv.cn/huijin-inv/c100077/2024-05/1002677.shtml"
+  ],
+  "source_sha256": [
+    "8d09972c61b22d0e8f97b2baede193c468a0f69b406c40ffa1a23a795fba244d"
+  ],
+  "source_excerpt": "汇金公司于2024年5月17日在银行间债券市场发行240亿元非金融企业债务融资工具,其中:新发5年期中期票据150亿元,债券简称24汇金MTN003,发行利率2.31%;增发3年期中期票据90亿元,债券简称24汇金MTN002(增发1),发行价格99.8583元/百元面值(按发行价格折算的参考收益率为2.24%)。本期债券于2024年5月21日上市流通。所募",
+  "publication_date_evidence": {
+    "source_id": "CN-S-HUIJIN-1002677",
+    "excerpt": "第三期非金融企业债务融资工具 2024-05-27 汇金公司于2024年5月17日在银行间债券市场发行240亿",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "资金可得性/到期再融资约束；发行提供容量，不自动提供股票买盘",
+  "alternative_explanation": "新债主要偿还旧债，净可投资资本没有增加",
+  "falsifier": "资金明细表显示新增净资金且具有已执行股票购买用途，才推翻“用途未识别”",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "cash_use_stage": "FUNDING_EXECUTED; EQUITY_DEPLOYMENT_NOT_IDENTIFIED",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-HUIJIN-1002677.html": "8d09972c61b22d0e8f97b2baede193c468a0f69b406c40ffa1a23a795fba244d"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

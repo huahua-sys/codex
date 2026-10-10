@@ -1,0 +1,934 @@
+{
+  "catalogs": {
+    "central_bank_liquidity_execution": [
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081230a.htm",
+        "date": "2008-12-30",
+        "title": "Federal Reserve announces results of auction of $150 billion in 83-day credit held on December 29, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081216a.htm",
+        "date": "2008-12-16",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on December 15, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081202a.htm",
+        "date": "2008-12-02",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on December 1, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081125c.htm",
+        "date": "2008-11-25",
+        "title": "Federal Reserve announces results of auction of $150 billion in 13-day credit held on November 24, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081118a.htm",
+        "date": "2008-11-18",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on November 17, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081112a.htm",
+        "date": "2008-11-12",
+        "title": "Federal Reserve announces results of auction of $150 billion in 17-day credit held on November 10, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081104a.htm",
+        "date": "2008-11-04",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on November 3, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081021b.htm",
+        "date": "2008-10-21",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on October 20, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081007d.htm",
+        "date": "2008-10-07",
+        "title": "Federal Reserve announces results of auction of $150 billion in 85-day credit held on October 6, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080923a.htm",
+        "date": "2008-09-23",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on September 22, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080910a.htm",
+        "date": "2008-09-10",
+        "title": "Federal Reserve announces results of auction of $25 billion in 28-day credit held on September 9, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080909a.htm",
+        "date": "2008-09-09",
+        "title": "Federal Reserve announces results of auction of $25 billion in 84-day credit held on September 8, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080826a.htm",
+        "date": "2008-08-26",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on August 25, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080813a.htm",
+        "date": "2008-08-13",
+        "title": "Federal Reserve announces results of auction of $50 billion in 28-day credit held on August 12, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080812a.htm",
+        "date": "2008-08-12",
+        "title": "Federal Reserve announces results of auction of $25 billion in 84-day credit held on August 11, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080729a.htm",
+        "date": "2008-07-29",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on July 28, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080715a.htm",
+        "date": "2008-07-15",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on July 14, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080701a.htm",
+        "date": "2008-07-01",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on June 30, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080617a.htm",
+        "date": "2008-06-17",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on June 16, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080603a.htm",
+        "date": "2008-06-03",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on June 2, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080520a.htm",
+        "date": "2008-05-20",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on May 19, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080506a.htm",
+        "date": "2008-05-06",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on May 5, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080422a.htm",
+        "date": "2008-04-22",
+        "title": "Federal Reserve announces results of auction of $50 billion in 28-day credit held on April 21, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080408a.htm",
+        "date": "2008-04-08",
+        "title": "Federal Reserve announces results of auction of $50 billion in 28-day credit held on April 7, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080325a.htm",
+        "date": "2008-03-25",
+        "title": "Federal Reserve announces results of auction of $50 billion in 28-day credit held on March 24, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080311b.htm",
+        "date": "2008-03-11",
+        "title": "Federal Reserve announces results of auction of $50 billion in 28-day credit held on March 10, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080226a.htm",
+        "date": "2008-02-26",
+        "title": "Federal Reserve announces results of auction of $30 billion in 28-day credit held on February 25, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080212a.htm",
+        "date": "2008-02-12",
+        "title": "Federal Reserve announces results of auction of $30 billion in 28-day credit held on February 11, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080129a.htm",
+        "date": "2008-01-29",
+        "title": "Federal Reserve announces results of auction of $30 billion in 28-day credit held on January 28, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080115a.htm",
+        "date": "2008-01-15",
+        "title": "Federal Reserve announces results of auction of $30 billion in 28-day credit held on January 14, 2008",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20091215a.htm",
+        "date": "2009-12-15",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on December 14, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20091201a.htm",
+        "date": "2009-12-01",
+        "title": "Federal Reserve announces results of auction of $25 billion in 42-day credit held on November 30, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20091117a.htm",
+        "date": "2009-11-17",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on November 16, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20091103a.htm",
+        "date": "2009-11-03",
+        "title": "Federal Reserve announces results of auction of $25 billion in 70-day credit held on November 2, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20091020a.htm",
+        "date": "2009-10-20",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on October 19, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20091006a.htm",
+        "date": "2009-10-06",
+        "title": "Federal Reserve announces results of auction of $50 billion in 70-day credit held on October 5, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090922a.htm",
+        "date": "2009-09-22",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on September 21, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090909a.htm",
+        "date": "2009-09-09",
+        "title": "Federal Reserve announces results of auction of $75 billion in 84-day credit held on September 8, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090825a.htm",
+        "date": "2009-08-25",
+        "title": "Federal Reserve announces results of auction of $100 billion in 28-day credit held on August 24, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090811a.htm",
+        "date": "2009-08-11",
+        "title": "Federal Reserve announces results of auction of $100 billion in 84-day credit held on August 10, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090728b.htm",
+        "date": "2009-07-28",
+        "title": "Federal Reserve announces results of auction of $125 billion in 28-day credit held on July 27, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090714a.htm",
+        "date": "2009-07-14",
+        "title": "Federal Reserve announces results of auction of $125 billion in 84-day credit held on July 13, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090630a.htm",
+        "date": "2009-06-30",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on June 29, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090616a.htm",
+        "date": "2009-06-16",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on June 15, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090602a.htm",
+        "date": "2009-06-02",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on June 1, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090519a.htm",
+        "date": "2009-05-19",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on May 18, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090505a.htm",
+        "date": "2009-05-05",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on May 4, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090421a.htm",
+        "date": "2009-04-21",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on April 20, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090407a.htm",
+        "date": "2009-04-07",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on April 6, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090324a.htm",
+        "date": "2009-03-24",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on March 23, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090310a.htm",
+        "date": "2009-03-10",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on March 9, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090224b.htm",
+        "date": "2009-02-24",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on February 23, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090210a.htm",
+        "date": "2009-02-10",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on February 9, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090127a.htm",
+        "date": "2009-01-27",
+        "title": "Federal Reserve announces results of auction of $150 billion in 84-day credit held on January 26, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090113a.htm",
+        "date": "2009-01-13",
+        "title": "Federal Reserve announces results of auction of $150 billion in 28-day credit held on January 12, 2009",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20101130b.htm",
+        "date": "2010-11-30",
+        "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on November 29, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20101005a.htm",
+        "date": "2010-10-05",
+        "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on October 4, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100713a.htm",
+        "date": "2010-07-13",
+        "title": "Federal Reserve announces results of auction of $2 billion in  84-day term deposits held on July 12, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100629a.htm",
+        "date": "2010-06-29",
+        "title": "Federal Reserve announces results of auction of $2 billion in 28-day term deposits held on June 28, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100615a.htm",
+        "date": "2010-06-15",
+        "title": "Federal Reserve announces results of auction of $1 billion in 14-day term deposits held on June 14, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100309a.htm",
+        "date": "2010-03-09",
+        "title": "Federal Reserve announces results of auction of $25 billion in 28-day credit held on March 8, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100209a.htm",
+        "date": "2010-02-09",
+        "title": "Federal Reserve announces results of auction of $50 billion in 28-day credit held on February 8, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100112a.htm",
+        "date": "2010-01-12",
+        "title": "Federal Reserve announces results of auction of $75 billion in 28-day credit held on January 11, 2010",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20111115a.htm",
+        "date": "2011-11-15",
+        "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on November 14, 2011",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110920a.htm",
+        "date": "2011-09-20",
+        "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on September 19, 2011",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110726a.htm",
+        "date": "2011-07-26",
+        "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on July 25, 2011",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110601a.htm",
+        "date": "2011-06-01",
+        "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on May 31, 2011",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110405b.htm",
+        "date": "2011-04-05",
+        "title": "Federal Reserve announces results of auction of $5 billion in 28-day term deposits held on April 4, 2011",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110208a.htm",
+        "date": "2011-02-08",
+        "title": "Federal Reserve announces results of auction of $5 billion in  28-day term deposits held on February 7, 2010",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20121106a.htm",
+        "date": "2012-11-06",
+        "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits held on November 5, 2012",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120911a.htm",
+        "date": "2012-09-11",
+        "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits held on September 10, 2012",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120717b.htm",
+        "date": "2012-07-17",
+        "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits held on July 16, 2012",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120515a.htm",
+        "date": "2012-05-15",
+        "title": "Federal Reserve announces results of auction of $3 billion in  28-day term deposits held on May 14, 2012",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120320a.htm",
+        "date": "2012-03-20",
+        "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits held on March 19, 2012",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120110b.htm",
+        "date": "2012-01-10",
+        "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits held on January 9, 2012",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130312a.htm",
+        "date": "2013-03-12",
+        "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits from its Term Deposit Facility",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130115a.htm",
+        "date": "2013-01-15",
+        "title": "Federal Reserve announces results of auction of $3 billion in 28-day term deposits held on January 14, 2013",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      }
+    ],
+    "regulatory_capital_constraints": [
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20081216a.htm",
+        "date": "2008-12-16",
+        "title": "Agencies Approve Final Rule on Deduction of Goodwill from Tier 1 Capital",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20081016b.htm",
+        "date": "2008-10-16",
+        "title": "Federal Reserve announces interim final rule to allow bank holding companies to include senior perpetual preferred stock issued to the Treasury Department in Tier 1 capital",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20080919c.htm",
+        "date": "2008-09-19",
+        "title": "Board approves two interim final rules in connection with its initiative to provide liquidity to markets",
+        "catalog_source_id": "US_SOURCE_06a5db7d8553bc62d0d9",
+        "catalog_source_path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20090317a.htm",
+        "date": "2009-03-17",
+        "title": "Board adopts final rule that delays until March 31, 2011, the effective date of new limits on the inclusion of trust preferred securities and other restricted core capital elements in tier 1 capital",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090130a.htm",
+        "date": "2009-01-30",
+        "title": "Board announces final rules pertaining to the Asset-Backed Commercial Paper Money Market Fund Liquidity Facility (AMLF)",
+        "catalog_source_id": "US_SOURCE_2e90cb6f565aa87817b0",
+        "catalog_source_path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20100121a.htm",
+        "date": "2010-01-21",
+        "title": "Agencies Issue Final Rule for Regulatory Capital Standards Related to Statements of Financial Accounting Standards Nos. 166 and 167",
+        "catalog_source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+        "catalog_source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20111122a.htm",
+        "date": "2011-11-22",
+        "title": "Federal Reserve Board issues final rule on annual capital plans, launches 2012 review",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20111017a.htm",
+        "date": "2011-10-17",
+        "title": "Federal Reserve Board approves final rule implementing the resolution plan requirement of the Dodd-Frank Act",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20110614a.htm",
+        "date": "2011-06-14",
+        "title": "Agencies adopt final rule to establish a risk-based capital floor",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20110209a.htm",
+        "date": "2011-02-09",
+        "title": "Federal Reserve issues final rule to implement Volcker Rule conformance period",
+        "catalog_source_id": "US_SOURCE_974a467bb400871d0cdb",
+        "catalog_source_path": "research/phase4/sources/us/974a467bb400871d0cdb.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20121009a.htm",
+        "date": "2012-10-09",
+        "title": "Federal Reserve Board publishes two final rules with stress testing requirements for certain bank holding companies, state member banks, and savings and loan holding companies",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20120607b.htm",
+        "date": "2012-06-07",
+        "title": "Federal Reserve Board approves final rule to implement changes to market risk capital rule",
+        "catalog_source_id": "US_SOURCE_b5b36ee5cf2e262403d4",
+        "catalog_source_path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20131227a.htm",
+        "date": "2013-12-27",
+        "title": "Agencies reviewing treatment of collateralized debt obligations backed by trust preferred securities under final rules implementing the \"Volcker rule\"",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20131219d.htm",
+        "date": "2013-12-19",
+        "title": "Agencies issue FAQ document regarding collateralized debt obligations backed by trust preferred securities under final rules implementing the \"Volcker rule\"",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20131210a.htm",
+        "date": "2013-12-10",
+        "title": "Agencies issue final rules implementing the Volcker rule",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20131206a.htm",
+        "date": "2013-12-06",
+        "title": "Federal Reserve Board issues final rule aligning market risk capital rule with Basel III",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20130924b.htm",
+        "date": "2013-09-24",
+        "title": "Federal Reserve Board issues interim final rules clarifying how companies should incorporate Basel III reforms into capital and business projections",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20130702a.htm",
+        "date": "2013-07-02",
+        "title": "Federal Reserve Board approves final rule to help ensure banks maintain strong capital positions",
+        "catalog_source_id": "US_SOURCE_b53df4cc27444e382fdc",
+        "catalog_source_path": "research/phase4/sources/us/b53df4cc27444e382fdc.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20141017a.htm",
+        "date": "2014-10-17",
+        "title": "Federal Reserve Board issues final rule to modify regulations for capital planning and stress testing and released instructions for 2015 capital planning cycle",
+        "catalog_source_id": "US_SOURCE_46b3e2c272f89aca3924",
+        "catalog_source_path": "research/phase4/sources/us/46b3e2c272f89aca3924.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140903b.htm",
+        "date": "2014-09-03",
+        "title": "Agencies adopt supplementary leverage ratio final rule",
+        "catalog_source_id": "US_SOURCE_46b3e2c272f89aca3924",
+        "catalog_source_path": "research/phase4/sources/us/46b3e2c272f89aca3924.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140408a.htm",
+        "date": "2014-04-08",
+        "title": "Agencies adopt enhanced supplementary leverage ratio final rule and issue supplementary leverage ratio notice of proposed rulemaking",
+        "catalog_source_id": "US_SOURCE_46b3e2c272f89aca3924",
+        "catalog_source_path": "research/phase4/sources/us/46b3e2c272f89aca3924.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20151204a.htm",
+        "date": "2015-12-04",
+        "title": "Federal Reserve Board issues final rule providing information on Board's revised capital rules for non-traditional stock corporations",
+        "catalog_source_id": "US_SOURCE_7403691da98a48d474ab",
+        "catalog_source_path": "research/phase4/sources/us/7403691da98a48d474ab.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20151125a.htm",
+        "date": "2015-11-25",
+        "title": "Federal Reserve Board approves final rule to modify its capital plan and stress testing rules",
+        "catalog_source_id": "US_SOURCE_7403691da98a48d474ab",
+        "catalog_source_path": "research/phase4/sources/us/7403691da98a48d474ab.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20150720a.htm",
+        "date": "2015-07-20",
+        "title": "Federal Reserve Board approves final rule requiring the largest, most systemically important U.S. bank holding companies to further strengthen their capital positions",
+        "catalog_source_id": "US_SOURCE_7403691da98a48d474ab",
+        "catalog_source_path": "research/phase4/sources/us/7403691da98a48d474ab.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20161219a.htm",
+        "date": "2016-12-19",
+        "title": "Federal Reserve Board approves rule requiring for the first time that large banking organizations publicly disclose certain quantitative liquidity risk metrics",
+        "catalog_source_id": "US_SOURCE_c82c99f4c312944b050c",
+        "catalog_source_path": "research/phase4/sources/us/c82c99f4c312944b050c.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20161123a.htm",
+        "date": "2016-11-23",
+        "title": "Federal Reserve Board issues final rule regarding dividend payments on Reserve Bank capital stock",
+        "catalog_source_id": "US_SOURCE_c82c99f4c312944b050c",
+        "catalog_source_path": "research/phase4/sources/us/c82c99f4c312944b050c.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20160908b.htm",
+        "date": "2016-09-08",
+        "title": "Federal Reserve Board approves final policy statement detailing framework for setting Countercyclical Capital Buffer",
+        "catalog_source_id": "US_SOURCE_c82c99f4c312944b050c",
+        "catalog_source_path": "research/phase4/sources/us/c82c99f4c312944b050c.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20160218a.htm",
+        "date": "2016-02-18",
+        "title": "Federal Reserve Board issues interim final rule regarding dividend payments on Reserve Bank capital stock",
+        "catalog_source_id": "US_SOURCE_c82c99f4c312944b050c",
+        "catalog_source_path": "research/phase4/sources/us/c82c99f4c312944b050c.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20170607a.htm",
+        "date": "2017-06-07",
+        "title": "Federal Reserve Board approves extended transition period for Deutsche Bank AG, SVB Financial Group, and UBS Group AG to conform investments in certain \"illiquid funds\" to requirements of Volcker rule",
+        "catalog_source_id": "US_SOURCE_23f1e69b9b69b7d4ba79",
+        "catalog_source_path": "research/phase4/sources/us/23f1e69b9b69b7d4ba79.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20180413a.htm",
+        "date": "2018-04-13",
+        "title": "Federal Reserve Board approves proposal to revise regulatory capital rules to address and provide an option to phase in the effects of the new accounting standard for credit losses",
+        "catalog_source_id": "US_SOURCE_82bc2654c4415643f29c",
+        "catalog_source_path": "research/phase4/sources/us/82bc2654c4415643f29c.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20191029a.htm",
+        "date": "2019-10-29",
+        "title": "Federal bank regulatory agencies issue final rule to simplify capital calculation for community banks",
+        "catalog_source_id": "US_SOURCE_9fe0d364b05234a7d4b3",
+        "catalog_source_path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20190709b.htm",
+        "date": "2019-07-09",
+        "title": "Agencies adopt final rule to exclude community banks from the Volcker Rule",
+        "catalog_source_id": "US_SOURCE_9fe0d364b05234a7d4b3",
+        "catalog_source_path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200319a.htm",
+        "date": "2020-03-19",
+        "title": "Federal bank regulatory agencies issue interim final rule for Money Market Liquidity Facility",
+        "catalog_source_id": "US_SOURCE_2642b920cdfa9a189e2a",
+        "catalog_source_path": "research/phase4/sources/us/2642b920cdfa9a189e2a.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20200304a.htm",
+        "date": "2020-03-04",
+        "title": "Federal Reserve Board approves rule to simplify its capital rules for large banks, preserving the strong capital requirements already in place",
+        "catalog_source_id": "US_SOURCE_2642b920cdfa9a189e2a",
+        "catalog_source_path": "research/phase4/sources/us/2642b920cdfa9a189e2a.html"
+      },
+      {
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125b.htm",
+        "date": "2025-11-25",
+        "title": "Agencies issue final rule to modify certain regulatory capital standards ",
+        "catalog_source_id": "US_SOURCE_8879805e4bcc5c86b36b",
+        "catalog_source_path": "research/phase4/sources/us/8879805e4bcc5c86b36b.html"
+      }
+    ],
+    "passive_and_fund_constraints": [
+      {
+        "url": "https://www.sec.gov/newsroom/press-releases/2014-143",
+        "date": "2014-07-23",
+        "title": "SEC Adopts Money Market Fund Reform Rules",
+        "catalog_source_id": "US_SOURCE_d0f57e93ede4728329f4",
+        "catalog_source_path": "research/phase4/sources/us/d0f57e93ede4728329f4.html",
+        "original_source_id": "US_SOURCE_8e42dfd09e371a158290"
+      },
+      {
+        "url": "https://www.sec.gov/newsroom/press-releases/2021-258",
+        "date": "2021-12-15",
+        "title": "SEC Proposes Amendments to Money Market Fund Rules",
+        "catalog_source_id": "US_SOURCE_d44c01a937142042ee71",
+        "catalog_source_path": "research/phase4/sources/us/d44c01a937142042ee71.html",
+        "original_source_id": "US_SOURCE_73d708fd4e8ca811b3b1"
+      },
+      {
+        "url": "https://www.sec.gov/newsroom/press-releases/2023-129",
+        "date": "2023-07-12",
+        "title": "SEC Adopts Money Market Fund Reforms and Amendments to Form PF Reporting Requirements for Large Liquidity Fund Advisers",
+        "catalog_source_id": "US_SOURCE_fcabd7d9e7267f173eab",
+        "catalog_source_path": "research/phase4/sources/us/fcabd7d9e7267f173eab.html",
+        "original_source_id": "US_SOURCE_a74c40e4c51eaeaada89"
+      }
+    ],
+    "corporate_capital_allocation": [
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2008-Q4/press-release-webcast",
+        "date": "2008-07-01",
+        "year": 2008,
+        "title": "Microsoft FY2008 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2009-Q4/press-release-webcast",
+        "date": "2009-07-01",
+        "year": 2009,
+        "title": "Microsoft FY2009 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2010-Q4/press-release-webcast",
+        "date": "2010-07-01",
+        "year": 2010,
+        "title": "Microsoft FY2010 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2011-Q4/press-release-webcast",
+        "date": "2011-07-01",
+        "year": 2011,
+        "title": "Microsoft FY2011 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2012-Q4/press-release-webcast",
+        "date": "2012-07-01",
+        "year": 2012,
+        "title": "Microsoft FY2012 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2013-Q4/press-release-webcast",
+        "date": "2013-07-01",
+        "year": 2013,
+        "title": "Microsoft FY2013 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2014-Q4/press-release-webcast",
+        "date": "2014-07-01",
+        "year": 2014,
+        "title": "Microsoft FY2014 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2015-Q4/press-release-webcast",
+        "date": "2015-07-01",
+        "year": 2015,
+        "title": "Microsoft FY2015 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2016-Q4/press-release-webcast",
+        "date": "2016-07-01",
+        "year": 2016,
+        "title": "Microsoft FY2016 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2017-Q4/press-release-webcast",
+        "date": "2017-07-01",
+        "year": 2017,
+        "title": "Microsoft FY2017 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2018-Q4/press-release-webcast",
+        "date": "2018-07-01",
+        "year": 2018,
+        "title": "Microsoft FY2018 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2019-Q4/press-release-webcast",
+        "date": "2019-07-01",
+        "year": 2019,
+        "title": "Microsoft FY2019 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2020-Q4/press-release-webcast",
+        "date": "2020-07-01",
+        "year": 2020,
+        "title": "Microsoft FY2020 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2021-Q4/press-release-webcast",
+        "date": "2021-07-01",
+        "year": 2021,
+        "title": "Microsoft FY2021 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q4/press-release-webcast",
+        "date": "2022-07-01",
+        "year": 2022,
+        "title": "Microsoft FY2022 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2023-Q4/press-release-webcast",
+        "date": "2023-07-01",
+        "year": 2023,
+        "title": "Microsoft FY2023 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q4/press-release-webcast",
+        "date": "2024-07-01",
+        "year": 2024,
+        "title": "Microsoft FY2024 Q4 official earnings release"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/press-release-webcast",
+        "date": "2025-07-01",
+        "year": 2025,
+        "title": "Microsoft FY2025 Q4 official earnings release"
+      }
+    ]
+  },
+  "catalog_status": {
+    "fed": "OFFICIAL_YEAR_ARCHIVE_TITLE_CLASSIFICATION; failed years retained",
+    "sec": "PARTIAL_CATALOG: first filtered page per year; pagination not fully crawled; narrower money-market rule universe, not ETF flows",
+    "corporate": "PARTIAL_CATALOG: fixed MSFT FY Q4 endpoints; no survivor-adjusted corporate census"
+  },
+  "failed_catalogs": []
+}

@@ -1,0 +1,50 @@
+{
+  "event_id": "CN-P4-042",
+  "market": "China",
+  "published_date": "2025-05-12",
+  "available_at": "2025-05-12T23:59:59+08:00",
+  "participant_type": "商业银行/上市公司/主要股东",
+  "observed_action": "官方上海门户在5月12日发布并附2025Q1报告：3月末相关贷款已发放约420亿元；拟申请近900亿元/合同超700亿元并非实际支出",
+  "constraint": "银行风险自担、回购专用账户、现金用途限制",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 420,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_LOAN_DISBURSEMENT_NOT_VERIFIED_EQUITY_TRADE",
+    "scope": "截至2025年3月末股票回购增持银行贷款",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "存量贷款；后续回购/增持期未知",
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1-PUBLICATION.html",
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1.pdf"
+  ],
+  "source_urls": [
+    "https://jrj.sh.gov.cn/SCGK194/20250512/f0ae149093614c04ab6b911c5df2c80b.html",
+    "https://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/f5c4690f2cbd40918bf24c2d39ac58af/2025091218344076234/2025081517321679368.pdf"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1-PUBLICATION.html": "4428fffe5d94d3062dce1948d8681a2cd9c68ebe4ce0bd1b1bd7e4af187413d9",
+    "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1.pdf": "ca0d0af85241dbde98f21bc9442120fe2c4bd944999555ac27668c4277d26408"
+  },
+  "source_excerpt": "3 月末，上市公司披露拟申请股票回购增持贷款金额上限近\n\n900 亿元，金融机构签订股票回购增持贷款合同金额超 700 亿元，已\n\n发放约 420 亿元。坚定支持中央汇金公司加大力度增持股票市场指数\n\n基金，并在必要时向中央汇金公司提供充足的再贷款支持，坚决维护\n\n\n                  13\n\f资本市场平稳运行。\n\n  四、发挥货币政策结构优化作用\n\n  加大普惠金融支持力度。积极运用支农支小再贷款、再贴现，引\n\n导地方法人金融机构扩大对涉农、小微和民营企业的信贷投放。1 月\n\n",
+  "publication_date_evidence": {
+    "source_id": "CN-S-CORP-LOAN-2025-Q1-PUBLICATION",
+    "excerpt": "来源：中国人民银行 发布时间：2025-05-12 [打印本页] [纠错] --> 1 1 1 1 Micro",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "资金便宜/专用贷款增强购买能力；融资到账仍需成交明细核实，不能认定净新增市场买盘",
+  "alternative_explanation": "约束变化可能只是响应已发生的市场/宏观变化；方向可由基本面或同期政策驱动",
+  "falsifier": "后续实际执行为零、其他资金完全抵销、基本面继续损坏或效应仅持续不足一周",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-042",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

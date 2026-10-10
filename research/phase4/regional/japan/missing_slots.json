@@ -1,0 +1,138 @@
+{
+  "foreign_investors": [
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/dh3otn000000pp8l-att/stock_val_1_250101.pdf",
+      "observation_code": "250101",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 0,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000000swlj-att/stock_val_1_250202.pdf",
+      "observation_code": "250202",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 5,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq0000013m66-att/stock_val_1_250304.pdf",
+      "observation_code": "250304",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 11,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000001ial1-att/stock_val_1_250502.pdf",
+      "observation_code": "250502",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 17,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000001oc6o-att/stock_val_1_250602.pdf",
+      "observation_code": "250602",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 22,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq000001ulvg-att/stock_val_1_250704.pdf",
+      "observation_code": "250704",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 28,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq00000256cp-att/stock_val_1_250901.pdf",
+      "observation_code": "250901",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 34,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/sjcobq00000293by-att/stock_val_1_251002.pdf",
+      "observation_code": "251002",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 39,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/vk0khi0000008lwh-att/stock_val_1_251103.pdf",
+      "observation_code": "251103",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 45,
+      "catalog_n": 52
+    },
+    {
+      "family": "ForeignInvestors",
+      "url": "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/vk0khi000000l4py-att/stock_val_1_251205.pdf",
+      "observation_code": "251205",
+      "published_date": null,
+      "pit_status": "POINT_IN_TIME_UNCERTAIN",
+      "reason": "Weekly observation end/filename is not actual release date; no historical dated release proof identified",
+      "catalog_source_id": "jpx_foreign_catalog_2025",
+      "catalog_source_path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "catalog_index": 51,
+      "catalog_n": 52
+    }
+  ],
+  "selected_failed": [],
+  "additional_failed_candidates": [
+    {
+      "url": "https://www.sony.com/en/SonyInfo/IR/news/2019.html",
+      "status": "HTTP_403",
+      "outcome_used": false,
+      "excluded_reason": "official directory access failed; no inferred event or date"
+    },
+    {
+      "url": "https://www.boj.or.jp/en/mopo/etf/index.htm",
+      "status": "HTTP_404",
+      "excluded_reason": "candidate directory does not exist; no retry substitutes guessed flows"
+    }
+  ]
+}

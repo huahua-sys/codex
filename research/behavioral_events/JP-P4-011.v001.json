@@ -1,0 +1,103 @@
+{
+  "event_id": "JP-P4-011",
+  "market": "Japan",
+  "family": "GPIF",
+  "parent_episode": "JP-GPIF-DISCLOSURES-FY2023",
+  "published_date": "2024-07-05",
+  "available_at": "2024-07-05T23:59:59+09:00",
+  "timezone": "Asia/Tokyo",
+  "published_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Jul 5, 2024",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+    "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+    "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+    "historical_vintage_independently_archived": false
+  },
+  "participant_type": "Public Pension (GPIF)",
+  "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+  "trigger": "Portfolio holdings by asset category as of Mar 31, 2024",
+  "observed_action": "滞后公布季度/年度持仓与资产配置状态；权重/市值变化不等于净买卖",
+  "action_status": "OBSERVED_ACTION",
+  "action_type": "RETROSPECTIVE_DISCLOSURE",
+  "flow_size": null,
+  "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+  "assets": [
+    "NIKKEI"
+  ],
+  "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+  "price_sensitive": "配置偏离范围可能约束，但具体成交价格敏感性未知",
+  "information_based": "非方向赌注；资产配置与养老负债匹配可以独立于短期市场观点",
+  "known_at_t": [
+    "当前发布日期之前完成会计期的已公布信息",
+    "市值/权重包含价格与FX重估；未识别独立净流量",
+    "不可将会计期末视为公开日期"
+  ],
+  "known_only_after_t": [
+    "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+  ],
+  "unknown_at_t": [
+    "市场预期中已计入的行动规模/时间",
+    "同日其他政策与全球风险变化",
+    "可靠原始信用/盈利修正",
+    "实际可交易alpha",
+    "净买卖与价格重估分解",
+    "管理人对冲、衍生品与未公开执行安排",
+    "会计期结束日至公开日之间持仓变动"
+  ],
+  "source_ids": [
+    "jp_event_source_011",
+    "gpif_catalog_2024"
+  ],
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_011.xlsx",
+    "research/phase4/sources/japan/gpif_catalog_2024.html"
+  ],
+  "source_urls": [
+    "https://www.gpif.go.jp/en/performance/65829801gpif/unyoujoukyou_2022_17_en.xlsx",
+    "https://www.gpif.go.jp/en/topics/2024/"
+  ],
+  "source_sha256": [
+    "6f52d8592b40d5e53ea3ed130d694766138da7d91068b225da8afc0080b2e5cc",
+    "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+  ],
+  "source_excerpt": "No. | JP3633400001 | TOYOTA MOTOR CORPORATION | JP3435000009 | SONY GROUP CORPORATION | JP3236200006 | KEYENCE CORPORATION | JP3902900004 | MITSUBISHI UFJ FINANCIAL GROUP,INC. | JP3571400005 | TOKYO ELECTRON LI",
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+  "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+  "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+    "catalog_index": 0,
+    "catalog_n": 11,
+    "catalog_coverage": "PARTIAL_CATALOG",
+    "outcome_used": false
+  },
+  "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+  "holding_snapshot_only": true,
+  "study_asset": "N225",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_011.xlsx": "6f52d8592b40d5e53ea3ed130d694766138da7d91068b225da8afc0080b2e5cc",
+    "research/phase4/sources/japan/gpif_catalog_2024.html": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+  },
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Jul 5, 2024",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+    "source_sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382",
+    "source_url": "https://www.gpif.go.jp/en/topics/2024/",
+    "historical_vintage_independently_archived": false
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

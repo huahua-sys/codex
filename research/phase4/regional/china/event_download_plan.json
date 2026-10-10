@@ -1,0 +1,448 @@
+[
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2837299/index.html",
+    "title": "公开市场业务交易公告 [2008]第40号",
+    "published_date": "2008-06-03",
+    "catalog_source": "CN-S-PBOC-DIR-170.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-01",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2837357/index.html",
+    "title": "公开市场业务交易公告 [2008]第59号",
+    "published_date": "2008-08-07",
+    "catalog_source": "CN-S-PBOC-DIR-170.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-02",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2882865/index.html",
+    "title": "公开市场业务交易公告 [2009]第61号",
+    "published_date": "2009-08-18",
+    "catalog_source": "CN-S-PBOC-DIR-165.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-03",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2848020/index.html",
+    "title": "公开市场业务交易公告 [2010]第64号",
+    "published_date": "2010-08-24",
+    "catalog_source": "CN-S-PBOC-DIR-160.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-04",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2864286/index.html",
+    "title": "公开市场业务交易公告 [2012]第75号",
+    "published_date": "2012-11-08",
+    "catalog_source": "CN-S-PBOC-DIR-150.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-05",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/3244199/index.html",
+    "title": "公开市场业务交易公告 [2017]第18号",
+    "published_date": "2017-01-25",
+    "catalog_source": "CN-S-PBOC-DIR-125.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-06",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/3751877/index.html",
+    "title": "公开市场业务交易公告 [2019]第17号",
+    "published_date": "2019-01-24",
+    "catalog_source": "CN-S-PBOC-DIR-100.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-07",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/4158940/index.html",
+    "title": "公开市场业务交易公告 [2021]第3号",
+    "published_date": "2021-01-06",
+    "catalog_source": "CN-S-PBOC-DIR-075.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-08",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/4736254/index.html",
+    "title": "公开市场业务交易公告 [2022]第245号",
+    "published_date": "2022-12-14",
+    "catalog_source": "CN-S-PBOC-DIR-050.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-09",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "family": "央行执行",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/5511848/index.html",
+    "title": "公开市场业务交易公告 [2024]第230号",
+    "published_date": "2024-11-20",
+    "catalog_source": "CN-S-PBOC-DIR-025.html",
+    "eligible": true,
+    "selected": true,
+    "source_id": "CN-S-PBOC-OMO-10",
+    "role": "EVENT_SOURCE"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002248",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-12/1002248.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002239",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-11/1002239.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002229",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-11/1002229.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002226",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-10/1002226.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002221",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-10/1002221.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002218",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-10/1002218.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002182",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-08/1002182.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002141",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-07/1002141.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002136",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-05/1002136.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002132",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-04/1002132.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002107",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-03/1002107.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002104",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/2023-02/1002104.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2023.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002804",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-12/1002804.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002788",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-09/1002788.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002787",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-09/1002787.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002718",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-09/1002718.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002717",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-09/1002717.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002709",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-06/1002709.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002698",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-06/1002698.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002677",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-05/1002677.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002653",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-05/1002653.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002605",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-05/1002605.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002600",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-04/1002600.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002262",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/2024-02/1002262.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR-2024.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002861",
+    "url": "https://www.huijin-inv.cn/huijin-inv/SC20252/2025-05/1002861.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002859",
+    "url": "https://www.huijin-inv.cn/huijin-inv/SC20252/2025-05/1002859.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002847",
+    "url": "https://www.huijin-inv.cn/huijin-inv/SC20252/2025-04/1002847.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR.html"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-1002841",
+    "url": "https://www.huijin-inv.cn/huijin-inv/SC20252/2025-04/1002841.shtml",
+    "family": "政策性/国家资本",
+    "role": "CANDIDATE_CONTENT",
+    "catalog_source": "CN-S-HUIJIN-DIR.html"
+  },
+  {
+    "source_id": "CN-S-INS-2014",
+    "url": "https://www.iamac.org.cn/flfg/gfxwj/201503/t20150319_298.html",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-INS-2015",
+    "url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail_gdsj.html?docId=17512&docType=2",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-INS-2020",
+    "url": "https://www.beijing.gov.cn/ywdt/zybwdt/202007/t20200719_1951762.html",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-INS-2020-LAW",
+    "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=70890",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-INS-2025",
+    "url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1203998&itemId=928",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-INS-2025-MIRROR",
+    "url": "https://www.shanghai.gov.cn/gwk/search/content/2d9f79775c814b41b06d0f6c4bd8656e",
+    "family": "保险配置",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-MARGIN-2015",
+    "url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20151113_4012108.shtml",
+    "family": "融资融券",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-MARGIN-2015-LAW",
+    "url": "https://www.csrc.gov.cn/csrc/c106256/c1654005/content.shtml",
+    "family": "融资融券",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-MARGIN-2023",
+    "url": "https://www.csrc.gov.cn/csrc/c100028/c7428485/content.shtml",
+    "family": "融资融券",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-MARGIN-2024",
+    "url": "https://www.csrc.gov.cn/csrc/c100028/c7461992/content.shtml",
+    "family": "融资融券",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-MARGIN-2024-MIRROR",
+    "url": "https://jrj.sh.gov.cn/RDHY238/20240206/11ff6c2c3a594a8797cb6a6cab3cbf49.html",
+    "family": "融资融券",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-2019",
+    "url": "https://www.szse.cn/aboutus/trends/news/t20190111_564058.html",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-2020",
+    "url": "https://www.csrc.gov.cn/csrc/c100028/c1000767/content.shtml",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-2023",
+    "url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20231031_5728276.shtml",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-2024",
+    "url": "https://www.csrc.gov.cn/csrc/c100029/c7457231/content.shtml",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-2025",
+    "url": "https://www.csrc.gov.cn/zhejiang/c100657/c7556574/content.shtml",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-RELOAN-2024",
+    "url": "https://www.csrc.gov.cn/csrc/c100028/c7513043/content.shtml",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-RELOAN-2024-PBOC",
+    "url": "https://www.pbc.gov.cn/redianzhuanti/118742/5444129/5444142/481faf4556cb42a5b444677b9673ea5c/index.html",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-LOAN-2025-Q1",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/f5c4690f2cbd40918bf24c2d39ac58af/2025091218344076234/2025081517321679368.pdf",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-CORP-LOAN-2024-Q4",
+    "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5587716/2025022618190099812.pdf",
+    "family": "公司/产业资金",
+    "role": "SEARCH_CANDIDATE",
+    "catalog_status": "PARTIAL_CATALOG"
+  }
+]

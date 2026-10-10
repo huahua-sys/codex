@@ -1,0 +1,348 @@
+                                          投資部門別 株式売買状況 東証プライム [金額] 全 49 社
+                         Trading Value of Stocks in TSE Prime Market by Investor Type - All 49 trading participants
+2025年3月第4週 2025/3 week4 ( 3/24 - 3/28 )
+                                                                                                                                                    千円,% 1,000 yen, %
+東証プライム総売買代金                              総売買代金に占める合計及び自己・委託別比率
+(売り買い合計)                                 Ratio of proprietary brokerage trading
+Total trading value                                総計 Total                自己取引 Proprietary             委託取引 Brokerage
+            49,150,227,831                                       98.8%                   13.3%                       85.5%
+
+                                                            03/17～03/21                                                  03/24～03/28
+                                                 金額 Value          比率 Ratio 差引き Balance                       金額 Value          比率 Ratio 差引き Balance
+     自己計            売り       Sales                   2,434,676,876     10.8                                       2,576,856,546     10.6
+   Proprietary      買い       Purchases               2,869,428,452     12.7   434,751,576                         3,966,322,699     16.3  1,389,466,153
+                    合計       Total                   5,304,105,328     11.8                                       6,543,179,245     13.5
+     委託計            売り       Sales                 20,109,085,817      89.2  -413,076,726                       21,712,654,837      89.4 -1,389,750,635
+    Brokerage       買い       Purchases             19,696,009,091      87.3                                     20,322,904,202      83.7
+                    合計       Total                 39,805,094,908      88.2                                     42,035,559,039      86.5
+      総 計           売り       Sales                 22,543,762,693     100.0                                     24,289,511,383     100.0      -284,482
+      Total         買い       Purchases             22,565,437,543     100.0    21,674,850                       24,289,226,901     100.0
+                    合計       Total                 45,109,200,236     100.0                                     48,578,738,284     100.0
+
+委託内訳 Brokerage Trading
+     法 人         売り Sales                             1,404,530,212       7.0     -187,244,035                       1,992,919,823              9.2     -1,040,250,517
+  Institutions   買い Purchases                         1,217,286,177       6.2                                          952,669,306              4.7
+                 合計 Total                             2,621,816,389       6.6                                        2,945,589,129              7.0
+     個 人         売り Sales                             5,436,194,528      27.0     -445,189,566                       5,359,098,150             24.7
+   Individuals   買い Purchases                         4,991,004,962      25.3                                        5,816,471,456             28.6         457,373,306
+                 合計 Total                            10,427,199,490      26.2                                       11,175,569,606             26.6
+  海外投資家          売り Sales                            13,118,988,683      65.2                                       14,280,317,317             65.8       -827,138,241
+   Foreigners    買い Purchases                        13,346,264,103      67.8      227,275,420                      13,453,179,076             66.2
+                 合計 Total                            26,465,252,786      66.5                                       27,733,496,393             66.0
+    証券会社         売り Sales                               149,372,394       0.7        -7,918,545                         80,319,547              0.4
+ Securities Cos. 買い Purchases                           141,453,849       0.7                                          100,584,364              0.5          20,264,817
+                 合計 Total                               290,826,243       0.7                                          180,903,911              0.4
+
+法人内訳 Institutions
+   投資信託         売り           Sales                      401,845,887        2.0    -125,853,042                          566,697,369              2.6      -181,646,843
+  Investment    買い           Purchases                  275,992,845        1.4                                          385,050,526              1.9
+     Trusts     合計           Total                      677,838,732        1.7                                          951,747,895              2.3
+   事業法人         売り           Sales                      438,677,322        2.2                                          249,317,426              1.1        -11,628,065
+ Business Cos.  買い           Purchases                  479,536,834        2.4       40,859,512                         237,689,361              1.2
+                合計           Total                      918,214,156        2.3                                          487,006,787              1.2
+ その他法人等         売り           Sales                       57,191,921        0.3     -11,225,624                           46,482,271              0.2
+  Other Cos.    買い           Purchases                   45,966,297        0.2                                           69,877,472              0.3         23,395,201
+                合計           Total                      103,158,218        0.3                                          116,359,743              0.3
+   金融機関         売り           Sales                      506,815,082        2.5     -91,024,881                        1,130,422,757              5.2      -870,370,810
+   Financial    買い           Purchases                  415,790,201        2.1                                          260,051,947              1.3
+  Institutions  合計           Total                      922,605,283        2.3                                        1,390,474,704              3.3
+
+金融機関内訳 Financial institutions
+    生保・損保        売り Sales                                17,171,771        0.1       -9,067,172                          15,566,488              0.1
+ Life & Non-Life 買い Purchases                             8,104,599        0.0                                           16,198,489              0.1             632,001
+                 合計 Total                                25,276,370        0.1                                           31,764,977              0.1
+  都銀・地銀等         売り Sales                                76,344,016        0.4     -10,308,956                           80,177,701              0.4        -75,123,996
+City & Regional BK 買い Purchases                          66,035,060        0.3                                             5,053,705             0.0
+                    合計       Total                      142,379,076        0.4                                           85,231,406              0.2
+    信託銀行            売り       Sales                      389,801,275        1.9     -74,587,207                        1,010,808,845              4.7      -787,945,911
+    Trust BK        買い       Purchases                  315,214,068        1.6                                          222,862,934              1.1
+                    合計       Total                      705,015,343        1.8                                        1,233,671,779              2.9
+ その他金融機関            売り       Sales                       23,498,020        0.1                                           23,869,723              0.1         -7,932,904
+ Other Financials   買い       Purchases                   26,436,474        0.1        2,938,454                          15,936,819              0.1
+                    合計       Total                       49,934,494        0.1                                           39,806,542              0.1
+
+個人、自己の現金・信用取引数値 Individual & Proprietary
+                          売り Sales            買い Purchases                        (注)
+                                 比率 Ratio               比率 Ratio                 1. 集計対象は資本金の額が30億円以上の取引参加者である。
+     個人現金                                                                        2. 内国普通株式を対象とし、優先株式等を含まない。
+                   1,395,237,672     26.0 1,711,685,091     29.4                 3. ToSTNeT取引を含む。
+  Individual Cash
+                                                                                 4. -は売越しを示す。
+     個人信用
+                   3,963,860,478     74.0 4,104,786,365     70.6                 5. 自己・委託の比率は総計（売り買い合計別）に対する構成比、
+ Individual Margin                                                                  各部門別の比率は委託計（売り買い合計別）に対する構成比である。
+     自己現金
+                   2,437,588,437          3,965,588,379
+ Proprietary Cash                                                                 Notes:
+     自己信用                                                                        1) Survey results from trading participants with capital of at least 3 billion yen.
+                     139,268,109                734,320
+Proprietary Margin                                                               2) Including Domestic Common Stocks only.
+                                                                                 3) Including ToSTNeT trades.
+海外投資家売買における法人、個人の数値 Foreign                                                      4) - denotes net sales.
+                 売り Sales                                 買い Purchases           5) Ratios shown for "Sales", "Purchases" and "Total" in the "Proprietary" and
+ 法人 Institutions     14,247,971,229                           13,409,639,333     "Brokerage" rows show the ratio of each to the total of both "Proprietary" and
+ 個人 Individuals          32,346,088                               43,539,743     "Brokerage" of the relevant item.
+
+
+                                                                                                      Copyright © Japan Exchange Group, Inc. All rights reserved.
+                                     投資部門別 株式売買状況 東証スタンダード [金額] 全 49 社
+                      Trading Value of Stocks in TSE Standard Market by Investor Type - All 49 trading participants
+2025年3月第4週 2025/3 week4 ( 3/24 - 3/28 )
+                                                                                                                                                千円,% 1,000 yen, %
+東証スタンダード総売買代金                        総売買代金に占める合計及び自己・委託別比率
+(売り買い合計)                             Ratio of proprietary brokerage trading
+Total trading value                            総計 Total                自己取引 Proprietary             委託取引 Brokerage
+             1,383,820,938                                   98.1%                     4.5%                      93.6%
+
+                                                        03/17～03/21                                                  03/24～03/28
+                                             金額 Value          比率 Ratio 差引き Balance                       金額 Value          比率 Ratio 差引き Balance
+     自己計            売り   Sales                      25,184,452      4.1                                          28,217,573      4.2
+   Proprietary      買い   Purchases                  31,688,866      5.1    6,504,414                             34,263,529      5.0    6,045,956
+                    合計   Total                      56,873,318      4.6                                          62,481,102      4.6
+     委託計            売り   Sales                     584,126,234     95.9                                         648,080,102     95.8   -1,219,962
+    Brokerage       買い   Purchases                 587,113,195     94.9    2,986,961                            646,860,140     95.0
+                    合計   Total                   1,171,239,429     95.4                                       1,294,940,242     95.4
+     総 計            売り   Sales                     609,310,686    100.0                                         676,297,675    100.0
+     Total          買い   Purchases                 618,802,061    100.0    9,491,375                            681,123,669    100.0    4,825,994
+                    合計   Total                   1,228,112,747    100.0                                       1,357,421,344    100.0
+
+委託内訳 Brokerage Trading
+     法 人         売り Sales                            21,583,713        3.7         -254,051                          22,383,250             3.5          -1,272,400
+  Institutions   買い Purchases                        21,329,662        3.6                                           21,110,850             3.3
+                 合計 Total                            42,913,375        3.7                                           43,494,100             3.4
+     個 人         売り Sales                           282,665,467       48.4      -17,292,957                         322,307,732            49.7
+   Individuals   買い Purchases                       265,372,510       45.2                                          331,756,686            51.3            9,448,954
+                 合計 Total                           548,037,977       46.8                                          654,064,418            50.5
+  海外投資家          売り Sales                           275,953,565       47.2                                          299,381,858            46.2          -8,980,667
+   Foreigners    買い Purchases                       297,904,229       50.7       21,950,664                         290,401,191            44.9
+                 合計 Total                           573,857,794       49.0                                          589,783,049            45.5
+    証券会社         売り Sales                             3,923,489        0.7       -1,416,695                           4,007,262             0.6            -415,849
+ Securities Cos. 買い Purchases                         2,506,794        0.4                                            3,591,413             0.6
+                 合計 Total                             6,430,283        0.5                                            7,598,675             0.6
+
+法人内訳 Institutions
+   投資信託         売り       Sales                        4,287,143        0.7       -1,959,390                           4,738,756              0.7           -841,110
+  Investment    買い       Purchases                    2,327,753        0.4                                            3,897,646              0.6
+     Trusts     合計       Total                        6,614,896        0.6                                            8,636,402              0.7
+   事業法人         売り       Sales                        9,684,652        1.7                                            9,617,168              1.5
+ Business Cos.  買い       Purchases                   12,034,607        2.0        2,349,955                          10,235,550              1.6             618,382
+                合計       Total                       21,719,259        1.9                                           19,852,718              1.5
+ その他法人等         売り       Sales                        1,477,172        0.3                                            1,392,225              0.2
+  Other Cos.    買い       Purchases                    2,117,612        0.4          640,440                           3,951,805              0.6           2,559,580
+                合計       Total                        3,594,784        0.3                                            5,344,030              0.4
+   金融機関         売り       Sales                        6,134,746        1.1       -1,285,056                           6,635,101              1.0         -3,609,252
+   Financial    買い       Purchases                    4,849,690        0.8                                            3,025,849              0.5
+  Institutions  合計       Total                       10,984,436        0.9                                            9,660,950              0.7
+
+金融機関内訳 Financial institutions
+    生保・損保        売り Sales                               448,117        0.1          -45,999                              371,923             0.1           -300,217
+ Life & Non-Life 買い Purchases                           402,118        0.1                                                71,706             0.0
+                 合計 Total                               850,235        0.1                                               443,629             0.0
+  都銀・地銀等         売り Sales                             1,141,457        0.2         -869,150                              651,639             0.1           -650,497
+City & Regional BK 買い Purchases                         272,307        0.0                                                  1,142            0.0
+                    合計   Total                        1,413,764        0.1                                               652,781             0.1
+    信託銀行            売り   Sales                        4,468,626        0.8         -835,824                            5,569,659             0.9         -2,748,869
+    Trust BK        買い   Purchases                    3,632,802        0.6                                             2,820,790             0.4
+                    合計   Total                        8,101,428        0.7                                             8,390,449             0.6
+ その他金融機関            売り   Sales                           76,546        0.0                                                41,880             0.0
+ Other Financials   買い   Purchases                      542,463        0.1          465,917                              132,211             0.0              90,331
+                    合計   Total                          619,009        0.1                                               174,091             0.0
+
+個人、自己の現金・信用取引数値 Individual & Proprietary
+                        売り Sales          買い Purchases                        (注)
+                               比率 Ratio             比率 Ratio                 1. 集計対象は資本金の額が30億円以上の取引参加者である。
+     個人現金                                                                    2. 内国普通株式を対象とし、優先株式等を含まない。
+                   150,801,688     46.8 149,936,939     45.2                 3. ToSTNeT取引を含む。
+  Individual Cash
+                                                                             4. -は売越しを示す。
+     個人信用
+                   171,506,044     53.2 181,819,747     54.8                 5. 自己・委託の比率は総計（売り買い合計別）に対する構成比、
+ Individual Margin                                                              各部門別の比率は委託計（売り買い合計別）に対する構成比である。
+     自己現金
+                    27,755,669           34,234,833
+ Proprietary Cash                                                             Notes:
+     自己信用                                                                    1) Survey results from trading participants with capital of at least 3 billion yen.
+                       461,904               28,696
+Proprietary Margin                                                           2) Including Domestic Common Stocks only.
+                                                                             3) Including ToSTNeT trades.
+海外投資家売買における法人、個人の数値 Foreign                                                  4) - denotes net sales.
+                 売り Sales                             買い Purchases           5) Ratios shown for "Sales", "Purchases" and "Total" in the "Proprietary" and
+ 法人 Institutions        297,237,619                         287,977,713      "Brokerage" rows show the ratio of each to the total of both "Proprietary" and
+ 個人 Individuals           2,144,239                            2,423,478     "Brokerage" of the relevant item.
+
+
+                                                                                                  Copyright © Japan Exchange Group, Inc. All rights reserved.
+                                          投資部門別 株式売買状況 東証グロース [金額] 全 49 社
+                         Trading Value of Stocks in TSE Growth Market by Investor Type - All 49 trading participants
+2025年3月第4週 2025/3 week4 ( 3/24 - 3/28 )
+                                                                                                                                                    千円,% 1,000 yen, %
+東証グロース総売買代金                              総売買代金に占める合計及び自己・委託別比率
+(売り買い合計)                                 Ratio of proprietary brokerage trading
+Total trading value                                総計 Total                自己取引 Proprietary             委託取引 Brokerage
+             1,735,010,186                                       98.2%                     3.7%                      94.5%
+
+                                                            03/17～03/21                                                  03/24～03/28
+                                                 金額 Value          比率 Ratio 差引き Balance                       金額 Value          比率 Ratio 差引き Balance
+     自己計            売り       Sales                      30,716,576      4.2     -840,551                             33,114,470      3.9   -2,518,321
+   Proprietary      買い       Purchases                  29,876,025      4.0                                          30,596,149      3.6
+                    合計       Total                      60,592,601      4.1                                          63,710,619      3.7
+     委託計            売り       Sales                     708,782,648     95.8                                         819,119,014     96.1
+    Brokerage       買い       Purchases                 709,638,716     96.0      856,068                            820,701,588     96.4    1,582,574
+                    合計       Total                   1,418,421,364     95.9                                       1,639,820,602     96.3
+      総 計           売り       Sales                     739,499,224    100.0                                         852,233,484    100.0     -935,747
+      Total         買い       Purchases                 739,514,741    100.0       15,517                            851,297,737    100.0
+                    合計       Total                   1,479,013,965    100.0                                       1,703,531,221    100.0
+
+委託内訳 Brokerage Trading
+     法 人         売り Sales                                13,762,134        1.9         -386,021                          19,381,301             2.4          -4,887,531
+  Institutions   買い Purchases                            13,376,113        1.9                                           14,493,770             1.8
+                 合計 Total                                27,138,247        1.9                                           33,875,071             2.1
+     個 人         売り Sales                               391,575,643       55.2      -10,196,333                         464,860,314            56.8
+   Individuals   買い Purchases                           381,379,310       53.7                                          476,394,285            58.0          11,533,971
+                 合計 Total                               772,954,953       54.5                                          941,254,599            57.4
+  海外投資家          売り Sales                               298,816,020       42.2                                          330,093,482            40.3          -5,657,371
+   Foreigners    買い Purchases                           310,501,578       43.8       11,685,558                         324,436,111            39.5
+                 合計 Total                               609,317,598       43.0                                          654,529,593            39.9
+    証券会社         売り Sales                                 4,628,851        0.7         -247,136                           4,783,917             0.6
+ Securities Cos. 買い Purchases                             4,381,715        0.6                                            5,377,422             0.7              593,505
+                 合計 Total                                 9,010,566        0.6                                           10,161,339             0.6
+
+法人内訳 Institutions
+   投資信託         売り           Sales                        2,902,643        0.4         -727,380                           3,287,239              0.4
+  Investment    買い           Purchases                    2,175,263        0.3                                            3,534,682              0.4             247,443
+     Trusts     合計           Total                        5,077,906        0.4                                            6,821,921              0.4
+   事業法人         売り           Sales                        6,240,284        0.9                                            7,934,579              1.0           -429,936
+ Business Cos.  買い           Purchases                    8,010,243        1.1        1,769,959                           7,504,643              0.9
+                合計           Total                       14,250,527        1.0                                           15,439,222              0.9
+ その他法人等         売り           Sales                        1,997,156        0.3       -1,161,225                           3,658,521              0.4         -2,336,787
+  Other Cos.    買い           Purchases                      835,931        0.1                                            1,321,734              0.2
+                合計           Total                        2,833,087        0.2                                            4,980,255              0.3
+   金融機関         売り           Sales                        2,622,051        0.4         -267,375                           4,500,962              0.5         -2,368,251
+   Financial    買い           Purchases                    2,354,676        0.3                                            2,132,711              0.3
+  Institutions  合計           Total                        4,976,727        0.4                                            6,633,673              0.4
+
+金融機関内訳 Financial institutions
+    生保・損保        売り Sales                                    65,560        0.0                                               403,707             0.0           -299,111
+ Life & Non-Life 買い Purchases                               229,036        0.0          163,476                              104,596             0.0
+                 合計 Total                                   294,596        0.0                                               508,303             0.0
+  都銀・地銀等         売り Sales                                    76,079        0.0          -46,512                              598,838             0.1           -493,581
+City & Regional BK 買い Purchases                              29,567        0.0                                               105,257             0.0
+                    合計       Total                          105,646        0.0                                               704,095             0.0
+    信託銀行            売り       Sales                        2,227,204        0.3         -160,075                            2,885,321             0.4         -1,005,255
+    Trust BK        買い       Purchases                    2,067,129        0.3                                             1,880,066             0.2
+                    合計       Total                        4,294,333        0.3                                             4,765,387             0.3
+ その他金融機関            売り       Sales                          253,208        0.0         -224,264                              613,096             0.1           -570,304
+ Other Financials   買い       Purchases                       28,944        0.0                                                42,792             0.0
+                    合計       Total                          282,152        0.0                                               655,888             0.0
+
+個人、自己の現金・信用取引数値 Individual & Proprietary
+                        売り Sales          買い Purchases                            (注)
+                               比率 Ratio             比率 Ratio                     1. 集計対象は資本金の額が30億円以上の取引参加者である。
+     個人現金                                                                        2. 内国普通株式を対象とし、優先株式等を含まない。
+                   140,321,772     30.2 131,750,390     27.7                     3. ToSTNeT取引を含む。
+  Individual Cash
+                                                                                 4. -は売越しを示す。
+     個人信用
+                   324,538,542     69.8 344,643,895     72.3                     5. 自己・委託の比率は総計（売り買い合計別）に対する構成比、
+ Individual Margin                                                                  各部門別の比率は委託計（売り買い合計別）に対する構成比である。
+     自己現金
+                    33,017,267           30,578,006
+ Proprietary Cash                                                                 Notes:
+     自己信用                                                                        1) Survey results from trading participants with capital of at least 3 billion yen.
+                        97,203               18,143
+Proprietary Margin                                                               2) Including Domestic Common Stocks only.
+                                                                                 3) Including ToSTNeT trades.
+海外投資家売買における法人、個人の数値 Foreign                                                      4) - denotes net sales.
+                 売り Sales                                 買い Purchases           5) Ratios shown for "Sales", "Purchases" and "Total" in the "Proprietary" and
+ 法人 Institutions        326,733,254                             321,012,055      "Brokerage" rows show the ratio of each to the total of both "Proprietary" and
+ 個人 Individuals           3,360,228                                3,424,056     "Brokerage" of the relevant item.
+
+
+                                                                                                      Copyright © Japan Exchange Group, Inc. All rights reserved.
+                                              投資部門別 株式売買状況 二市場 [金額] 全 49 社
+                    Total Trading Value of Stocks in Tokyo & Nagoya Markets by Investor Type - All 49 trading participants
+2025年3月第4週 2025/3 week4 ( 3/24 - 3/28 )
+                                                                                                                                                    千円,% 1,000 yen, %
+二市場総売買代金                                 総売買代金に占める合計及び自己・委託別比率
+(売り買い合計)                                 Ratio of proprietary brokerage trading
+Total trading value                                総計 Total                自己取引 Proprietary             委託取引 Brokerage
+            52,271,849,888                                       98.8%                   12.8%                       86.0%
+
+                                                            03/17～03/21                                                  03/24～03/28
+                                                 金額 Value          比率 Ratio 差引き Balance                       金額 Value          比率 Ratio 差引き Balance
+     自己計             売り      Sales                   2,490,599,611     10.4                                       2,638,232,530     10.2
+   Proprietary       買い      Purchases               2,931,032,788     12.3   440,433,177                         4,031,216,694     15.6  1,392,984,164
+                     合計      Total                   5,421,632,399     11.3                                       6,669,449,224     12.9
+     委託計             売り      Sales                 21,403,484,871      89.6  -409,256,811                       23,181,182,345      89.8 -1,389,364,805
+    Brokerage        買い      Purchases             20,994,228,060      87.7                                     21,791,817,540      84.4
+                     合計      Total                 42,397,712,931      88.7                                     44,972,999,885      87.1
+      総 計            売り      Sales                 23,894,084,482     100.0                                     25,819,414,875     100.0
+      Total          買い      Purchases             23,925,260,848     100.0    31,176,366                       25,823,034,234     100.0      3,619,359
+                     合計      Total                 47,819,345,330     100.0                                     51,642,449,109     100.0
+
+委託内訳 Brokerage Trading
+     法 人         売り Sales                             1,440,343,345       6.7     -188,279,522                       2,034,802,932              8.8     -1,046,396,832
+  Institutions   買い Purchases                         1,252,063,823       6.0                                          988,406,100              4.5
+                 合計 Total                             2,692,407,168       6.4                                        3,023,209,032              6.7
+     個 人         売り Sales                             6,111,416,863      28.6     -472,934,778                       6,147,427,772             26.5
+   Individuals   買い Purchases                         5,638,482,085      26.9                                        6,625,697,005             30.4         478,269,233
+                 合計 Total                            11,749,898,948      27.7                                       12,773,124,777             28.4
+  海外投資家          売り Sales                            13,693,775,711      64.0                                       14,909,828,367             64.3       -841,689,022
+   Foreigners    買い Purchases                        13,954,920,218      66.5      261,144,507                      14,068,139,345             64.6
+                 合計 Total                            27,648,695,929      65.2                                       28,977,967,712             64.4
+    証券会社         売り Sales                               157,948,952       0.7        -9,187,018                         89,123,274              0.4
+ Securities Cos. 買い Purchases                           148,761,934       0.7                                          109,575,090              0.5          20,451,816
+                 合計 Total                               306,710,886       0.7                                          198,698,364              0.4
+
+法人内訳 Institutions
+   投資信託         売り           Sales                      409,042,450        1.9    -128,545,708                          574,731,396              2.5      -182,237,565
+  Investment    買い           Purchases                  280,496,742        1.3                                          392,493,831              1.8
+     Trusts     合計           Total                      689,539,192        1.6                                          967,225,227              2.2
+   事業法人         売り           Sales                      454,656,565        2.1                                          266,934,312              1.2        -11,470,888
+ Business Cos.  買い           Purchases                  499,610,423        2.4       44,953,858                         255,463,424              1.2
+                合計           Total                      954,266,988        2.3                                          522,397,736              1.2
+ その他法人等         売り           Sales                       60,678,804        0.3     -11,719,004                           51,553,471              0.2
+  Other Cos.    買い           Purchases                   48,959,800        0.2                                           75,236,093              0.3         23,682,622
+                合計           Total                      109,638,604        0.3                                          126,789,564              0.3
+   金融機関         売り           Sales                      515,965,526        2.4     -92,968,668                        1,141,583,753              4.9      -876,371,001
+   Financial    買い           Purchases                  422,996,858        2.0                                          265,212,752              1.2
+  Institutions  合計           Total                      938,962,384        2.2                                        1,406,796,505              3.1
+
+金融機関内訳 Financial institutions
+    生保・損保        売り Sales                                17,699,012        0.1       -8,963,259                          16,349,559              0.1
+ Life & Non-Life 買い Purchases                             8,735,753        0.0                                           16,374,792              0.1              25,233
+                 合計 Total                                26,434,765        0.1                                           32,724,351              0.1
+  都銀・地銀等         売り Sales                                77,564,519        0.4     -11,227,585                           81,431,141              0.4        -76,271,036
+City & Regional BK 買い Purchases                          66,336,934        0.3                                             5,160,105             0.0
+                     合計      Total                      143,901,453        0.3                                           86,591,246              0.2
+    信託銀行             売り      Sales                      396,499,137        1.9     -75,582,848                        1,019,278,353              4.4      -791,712,320
+    Trust BK         買い      Purchases                  320,916,289        1.5                                          227,566,033              1.0
+                     合計      Total                      717,415,426        1.7                                        1,246,844,386              2.8
+ その他金融機関             売り      Sales                       24,202,858        0.1                                           24,524,700              0.1         -8,412,878
+ Other Financials    買い      Purchases                   27,007,882        0.1        2,805,024                          16,111,822              0.1
+                     合計      Total                       51,210,740        0.1                                           40,636,522              0.1
+
+個人、自己の現金・信用取引数値 Individual & Proprietary
+                          売り Sales            買い Purchases                        (注)
+                                 比率 Ratio               比率 Ratio                 1. 集計対象は資本金の額が30億円以上の取引参加者である。
+     個人現金                                                                        2. 二市場とは東証、名証を表す。
+                   1,687,318,175     27.4 1,994,241,186     30.1                 3. 内国普通株式を対象とし、優先株式等を含まない。
+  Individual Cash
+                                                                                 4. 立会外取引を含む。
+     個人信用
+                   4,460,109,597     72.6 4,631,455,819     69.9                 5. -は売越しを示す。
+ Individual Margin                                                               6.自己・委託の比率は総計（売り買い合計別）に対する構成比、
+     自己現金                                                                           各部門別の比率は委託計（売り買い合計別）に対する構成比である。
+                   2,498,405,314          4,030,435,535
+ Proprietary Cash
+     自己信用                                                                         Notes:
+                     139,827,216                781,159
+Proprietary Margin                                                               1) Survey results from trading participants with capital of at least 3 billion yen.
+                                                                                 2) Including Domestic Common Stocks only.
+海外投資家売買における法人、個人の数値 Foreign                                                      3) Including off-auction trades.
+                 売り Sales                                 買い Purchases           4) - denotes net sales.
+ 法人 Institutions     14,871,973,379                           14,018,748,413     5) Ratios shown for "Sales", "Purchases" and "Total" in the "Proprietary" and
+ 個人 Individuals          37,854,988                               49,390,932     "Brokerage" rows show the ratio of each to the total of both "Proprietary" and
+                                                                                 "Brokerage" of the relevant item.
+                                                                                                      Copyright © Japan Exchange Group, Inc. All rights reserved.
+

@@ -1,0 +1,76 @@
+{
+  "event_id": "CN-P4-019",
+  "market": "China",
+  "family": "保险配置",
+  "parent_episode": "CN-INSURANCE-ALLOCATION-2020",
+  "published_date": "2020-07-19",
+  "available_at": "2020-07-19T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "保险机构/保险资产管理人",
+  "constraint": "偿付能力、负债久期、集中度、流动性、内部授权",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "按偿付能力等分八档，最高45%，能力不足不得新增权益；没有实际新增股票配置",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "制度可能多年；实际配置速度UNKNOWN_AT_T",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "制度强制上限；具体投资自主决策",
+  "price_sensitive": "配置仍受收益/风险/负债约束，非无条件买入",
+  "information_based": "制度约束变化或登记事实；无回报预测",
+  "known_at_t": [
+    "按偿付能力等分八档，最高45%，能力不足不得新增权益；没有实际新增股票配置"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "当时存量持仓距离上限的余量",
+    "实际实缴和成交",
+    "偿付能力和负债现金流限制",
+    "同次政策其他资金的抵销"
+  ],
+  "source_ids": [
+    "CN-S-INS-2020"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-INS-2020.html"
+  ],
+  "source_urls": [
+    "https://www.beijing.gov.cn/ywdt/zybwdt/202007/t20200719_1951762.html"
+  ],
+  "source_sha256": [
+    "f0940d45f0e47504634064544984a297e7e704311299871ea5edd0022d3fa316"
+  ],
+  "source_excerpt": "明确八档权益类资产监管比例，最高可到占上季末总资产的45%。主要考虑是通过设置差异化监管比例，赋予公司更多自主投资权，提高监管政策的精准性和针对性。二是强化对重点公司的监管。明确规定偿付能力充足率不足100%的保险公司，不得新增权益类资产投资，责任准备金覆盖率不足100%的人身险公司、资金运用出现重大风险事件、资产负债管理能力较弱且匹配状况较差、受到处罚的保",
+  "publication_date_evidence": {
+    "source_id": "CN-S-INS-2020",
+    "excerpt": "置监管有关事项的通知》 日期：2020-07-19 15:29 来源：中国银保监会 分享： X 字号： 大 中",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "扩大合格保险人的可配置集合；需求仍取决于偿付能力、资产负债匹配和投资意愿",
+  "alternative_explanation": "此前未接近上限，因此上限提升不约束边际买入；专项产品还可能投资债权",
+  "falsifier": "约束原本不绑定或放开后实际权益仓位不升，则“释放确定股市增量”失败",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "source_level": "政府门户转载监管原文/通稿；不是第二条独立证据",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-INS-2020.html": "f0940d45f0e47504634064544984a297e7e704311299871ea5edd0022d3fa316"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

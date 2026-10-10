@@ -1,0 +1,27 @@
+[
+  {
+    "source_id": "CN-S-PBOC-DIR-160",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-160.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-165",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-165.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-PBOC-DIR-170",
+    "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/17081-170.html",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-DIR-2023",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100074/Information_Center.shtml",
+    "role": "PARTIAL_CATALOG"
+  },
+  {
+    "source_id": "CN-S-HUIJIN-DIR-2024",
+    "url": "https://www.huijin-inv.cn/huijin-inv/c100077/Information_Center.shtml",
+    "role": "PARTIAL_CATALOG"
+  }
+]

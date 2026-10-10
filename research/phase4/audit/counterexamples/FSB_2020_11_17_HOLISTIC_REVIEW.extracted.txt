@@ -1,0 +1,2715 @@
+Holistic Review of the March Market Turmoil
+
+
+
+
+17 November 2020
+The Financial Stability Board (FSB) coordinates at the international level the work of national
+financial authorities and international standard-setting bodies in order to develop and promote
+the implementation of effective regulatory, supervisory and other financial sector policies. Its
+mandate is set out in the FSB Charter, which governs the policymaking and related activities of
+the FSB. These activities, including any decisions reached in their context, shall not be binding
+or give rise to any legal rights or obligations.
+
+
+
+                                  Contact the Financial Stability Board
+                           Sign up for e-mail alerts: www.fsb.org/emailalert
+                              Follow the FSB on Twitter: @FinStbBoard
+                                   E-mail the FSB at: fsb@fsb.org
+
+             Copyright © 2020 Financial Stability Board. Please refer to the terms and conditions
+                                                   Table of Contents
+
+Executive summary ............................................................................................................... 1
+FSB work programme on NBFI .............................................................................................. 3
+1.    Introduction ..................................................................................................................... 4
+2.    Overview of financial market developments around March ............................................. 5
+      2.1.      Prelude to the market turmoil ............................................................................... 5
+      2.2.      Flight to safety...................................................................................................... 5
+      2.3.      Dash for cash ....................................................................................................... 6
+      2.4.      Easing of market stress........................................................................................ 9
+3.    Origins and backdrop of the March market stress ......................................................... 10
+      3.1.      The COVID-19 shock ......................................................................................... 10
+      3.2.      Global economic and financial backdrop ............................................................ 10
+      3.3.      Structural changes in the global financial system ............................................... 12
+4.    The propagation of the shock ........................................................................................ 17
+      4.1.      The impact of the COVID-19 shock on financial markets ................................... 17
+      4.2.      Factors shifting demand and supply of liquidity .................................................. 17
+      4.3.      The propagation of liquidity stress ...................................................................... 24
+5.    Public sector responses ................................................................................................ 33
+      5.1.      Measures taken ................................................................................................. 33
+      5.2.      Outcomes .......................................................................................................... 37
+6.    Conclusion .................................................................................................................... 40
+      6.1.      Lessons learned and issues raised .................................................................... 40
+      6.2.      Policy implications and areas of further work ..................................................... 42
+Annex 1: Timeline of financial market developments ........................................................... 44
+Annex 2: Classification of policy measures .......................................................................... 53
+Abbreviations ....................................................................................................................... 56
+
+
+
+
+                                                                     iii
+iv
+Executive summary
+The financial market turmoil in March, brought about by the COVID-19 shock, tested the
+resilience of the global financial system. In contrast to the 2008 financial crisis, the shock
+originated outside the financial system. The pandemic and government containment measures
+led to a sudden sharp pullback in real economic activity and placed the financial system under
+strain. Some parts of the system, particularly banks and financial market infrastructures, were
+able to absorb rather than amplify the macroeconomic shock, supported by the post-crisis
+reforms. However, key funding markets experienced acute stress and public authorities needed
+to take a wide range of measures to support the supply of credit to the real economy.
+
+Global economic and financial developments prior to the pandemic had made the financial
+system more susceptible to shocks. The outlook for growth and corporate earnings had begun
+to weaken; real interest rates had been on a downward trajectory; while corporate indebtedness
+was high and rising. A search for yield led a number of investors away from high quality cash-
+like assets down the credit curve. Favourable external financing conditions – strong global risk
+appetite and a drop in US Treasury yields – supported cross-border lending and debt portfolio
+flows to emerging market economies (EMEs), and encouraged greater reliance on dollar-
+denominated borrowing by firms in those countries.
+
+Structural changes in the financial system over the past decade have also increased the reliance
+on market-based intermediation to finance growing levels of debt. The G20 regulatory reforms
+and market-driven adjustments in the aftermath of the 2008 financial crisis have resulted in credit
+risk being increasingly intermediated and held outside the banking sector. Interconnectedness
+has also increased and taken new forms in some areas. With the overall growth of non-bank
+financial intermediation (NBFI), market liquidity has become more central to financial resilience.
+At the same time, market-making capacity by banks may have become more constrained, while
+the provision of liquidity by some new entities and in electronic markets is potentially less robust.
+
+The breadth and dynamics of the economic shock and related liquidity stress in March were
+unprecedented. As in previous cases, the shock caused a fundamental repricing of risk and a
+heightened demand for safe assets. However, the stress also led to large and persistent
+imbalances in the demand for, and supply of, liquidity needed to support intermediation. On the
+demand side, non-financial corporates attempted to tap capital markets; demand for US dollar
+liquidity increased from foreign borrowers; non-government money market funds (MMFs)
+experienced significant outflows; and some open-ended funds also experienced redemptions.
+On the supply side, reductions in risk appetite, regulatory constraints and operational challenges
+may have reduced dealers’ capacity to intermediate larger flows in some core funding markets.
+
+Particular activities and mechanisms in the financial system acted as mitigants or propagators
+of the liquidity stress. Central counterparties remained resilient despite market turbulence,
+though margin calls may have been larger than expected in some cases, challenging liquidity
+risk management for some market participants and adding to the overall demand for cash. Some
+investors in open-ended investment funds may have faced incentives to redeem ahead of others.
+While stronger bank capital and liquidity positions, built over the past decade as a result of the
+post-crisis reforms, helped to prevent a sharp rise in counterparty risks, banks may have been
+unwilling or unable to deploy substantial amounts of balance sheet capacity in an uncertain and
+
+
+
+
+                                                 1
+volatile environment. Dealers also faced difficulties absorbing large sales of assets, amplifying
+turmoil in short-term funding markets. Market dysfunction was exacerbated by the substantial
+sales of US Treasuries by some leveraged non-bank investors and foreign holders. This
+combination of large asset sales, together with the limited capacity or willingness of dealers to
+intermediate in some markets, became self-reinforcing.
+
+The policy response was speedy, sizeable and sweeping. The unprecedented policy actions by
+central banks alleviated market stress through different channels: asset purchases; liquidity
+operations, including for US dollars; and backstop facilities designed to provide targeted liquidity
+to specific financial entities (e.g. MMFs and primary dealers). Regulatory and supervisory
+measures as well as fiscal policies complemented these central bank interventions. Securities
+regulators also took measures to support market functioning. The policy measures succeeded
+in alleviating market strains to date, with announcement effects appearing to be particularly
+important in restoring confidence and shaping the expectations of market participants.
+
+Absent central bank intervention, it is highly likely that the stress in the financial system would
+have worsened significantly. This would have had a major impact on the ability of financial and
+non-financial firms to raise funds. The need to intervene in such a substantial way has meant
+that central banks had to take on material financial risk. This could lead to moral hazard issues
+in the future, to the extent that markets do not fully internalise their own liquidity risk in
+anticipation of future central bank interventions in times of stress. Moreover, the exceptional
+measures taken by central banks were not aimed at addressing the underlying vulnerabilities
+that amplified the stress. The financial system remains vulnerable to another liquidity strain, as
+the underlying structures and mechanisms that gave rise to the turmoil are still in place.
+
+The March turmoil has underscored the need to strengthen resilience in the NBFI sector. The
+episode has highlighted issues associated with particular market activities and mechanisms that
+may have caused liquidity imbalances and propagated stress. These include: significant outflows
+from non-government MMFs; similar dynamics, albeit less intense and widespread, in specific
+types of open-ended funds; redistribution of liquidity from margin calls; the willingness and
+capacity of dealers to intermediate in core funding markets; and the drivers of dislocations in key
+government bond markets, including the role of leverage in amplifying the stress. The turmoil
+also highlighted the increased importance of interconnectedness – both within the NBFI sector
+and with banks – and of system-wide liquidity conditions for the resilience of the financial system.
+
+The efforts of the international regulatory community to reinforce the resilience of the financial
+system, while preserving its essential functions and benefits, should focus on three main areas.
+These are: (i) in the short-term, work to examine and, where appropriate, address specific risk
+factors and markets that contributed to amplification of the shock; (ii) enhancing understanding
+of systemic risks in NBFI and the financial system as a whole, including interactions between
+banks and non-banks and cross-border spill-overs; and (iii) assessing policies to address
+systemic risks in NBFI, including the adequacy of policy tools and the concept and desired level
+of resilience in NBFI. Efforts to strengthen NBFI resilience should not compromise the resilience
+in other parts of the system or the important role that NBFI plays in financing the real economy.
+
+The FSB will coordinate the international regulatory community’s assessment of identified
+vulnerabilities and the appropriate financial policy response, working closely with standard
+setting bodies and member authorities. As part of this review, the FSB published a
+comprehensive NBFI work programme covering the key issues at a high level (see below).
+
+
+
+                                                 2
+FSB work programme on NBFI
+The table below summarises the work programme on NBFI coordinated and overseen by the
+FSB for 2021 and beyond. The work programme builds on the lessons from the holistic review
+of the March market turmoil. The overarching objective of the work programme is to enhance
+the resilience of the NBFI sector while preserving its benefits.
+
+The NBFI work programme is organised along three main areas: analytical and policy work on
+specific issues, system-wide risk assessments, and policies to address systemic risks in NBFI.
+It comprises new work in response to lessons from the holistic review of the March market turmoil
+as well as ongoing or previously planned NBFI initiatives. This work will be carried out within the
+FSB as well as by its member standard-setting bodies and international organisations, to ensure
+that relevant experiences and perspectives are brought to bear.
+
+
+
+        Topic                                    Brief description                              Timing
+                              1. Analytical and policy work on specific issues
+ Money market fund        To make policy proposals, in light of the March experience, to     2021, incl.
+ (MMF) resilience         enhance MMF resilience including with respect to the               report to the
+                          underlying short-term funding markets                              G20
+ Liquidity risk and its   To examine the availability and effectiveness of liquidity risk    2021-22
+ management in            management tools for OEFs, including the experience of
+ open-ended funds         redemption pressures and use of tools in the March turmoil
+ (OEFs)                   and their aggregate impact on the market
+ Margining practices      To examine the frameworks and dynamics of margin calls in          2021
+                          centrally cleared and uncleared derivatives markets and the
+                          liquidity management preparedness of market participants to
+                          meet margin calls
+ Liquidity, structure     To examine the structure and liquidity provision in core           2021-22
+ and resilience of        funding markets during stress, including the role of leveraged
+ core bond markets        investors and factors that limit dealer capacity to intermediate
+                                        2. Systemic risk assessments
+
+ Strengthening the        To assess NBFI risks in light of COVID-19 developments and         Ongoing
+ ongoing monitoring       lessons from the March turmoil
+ of NBFI risks
+ Advancing the            To deepen the analysis of structural and interconnectedness        Ongoing, incl.
+ understanding of         issues in NBFI, including the interaction of USD funding           stakeholder
+ systemic risks in        pressures and fund outflows in emerging market economies,          workshop in
+ NBFI and the             as input into enhanced risk monitoring and discussions on          2021
+ financial system         policies to address systemic risks in NBFI
+                               3. Policies to address systemic risks in NBFI
+ Policies to address      To examine policies to address systemic risks in NBFI,             2022
+ systemic risks in        including the adequacy of current policy tools and the concept
+ NBFI                     and desired level of resilience in NBFI
+
+
+
+
+                                                       3
+1.          Introduction
+This report examines the drivers, effects and implications of the financial market turmoil in March.
+The COVID-19 pandemic placed the global financial system under considerable strain. Some
+parts of the system, particularly banks and financial market infrastructure, were generally able
+to absorb rather than amplify the macroeconomic shock, supported by the post-crisis reforms.
+However, key funding markets experienced acute stress and public authorities needed to take a
+wide range of measures to support the supply of credit to the real economy by underpinning
+market liquidity and functioning. 1 The March turmoil has reinforced the need to better understand
+interconnections and amplification channels in the financial system and to consider the nature
+of vulnerabilities in non-bank financial intermediation (NBFI) in relation to the liquidity stress and
+the implications of central bank liquidity support, and draw lessons about overall resilience of the
+NBFI sector.
+
+The report draws on a broad range of information sources. These include analysis by the FSB
+and standard-setting bodies; analysis and information provided by FSB members; input from
+external stakeholders (industry participants, academics, think tanks and trade associations)
+through a virtual outreach meeting in September; and a review of the wider literature. These
+sources taken together form the basis for the analysis in the report.
+
+The report draws lessons from the March turmoil and identifies areas for further work. The
+decisive policy response helped to stabilise financial markets and contain the economic and
+financial fallout of the pandemic to date. However, there is a need to address the vulnerabilities
+that became apparent during the turmoil because uncertainty about the economic outlook
+remains high and the risk of further market dislocations cannot be ruled out. In light of this, the
+report identifies lessons that form the basis for further work to increase the resilience of NBFI.
+
+The report is structured as follows:
+      ■     Section 2 sets the scene by providing an overview of key developments in global
+            financial markets around March. Annex 1 provides a detailed timeline of market events.
+      ■     Section 3 puts the March market turmoil into context, by describing the nature of the
+            COVID-19 shock, discussing the role of global economic and financial conditions
+            prevailing in the run-up to COVID-19, and setting out key structural changes in the
+            global financial system since the 2008 financial crisis and their implications for
+            resilience.
+      ■     Section 4 analyses how the shock was transmitted through the global financial system,
+            including the role played by different types of intermediaries and mechanisms that may
+            have mitigated or amplified the shock.
+      ■     Section 5 reviews policy measures taken to ease the financial market strains and
+            considers their effects, including the mechanisms through which they may have worked.
+            Annex 2 provides additional information on those measures.
+      ■     Section 6 concludes by identifying lessons from the events in March, drawing policy
+            implications, and describing areas of further vulnerabilities and policy work.
+
+
+
+
+1
+     See the FSB’s COVID-19 pandemic: Financial stability implications and policy measures taken – Report to the G20 (July 2020).
+
+
+
+
+                                                                4
+2.       Overview of financial market developments around March
+This section describes the key financial market developments that took place during the March
+market turmoil. It starts with a summary of market conditions in January and February, before
+worries about COVID-19 hit global markets (prelude to the market turmoil). It then describes the
+two phases of the most severe stress period. In the first phase (flight to safety), which took place
+from late February to early March, investors sold riskier assets and bought less risky ones, as
+often happens in periods of stress. In the second, more acute phase (dash for cash), which took
+place in mid-March, investors sold risky as well as relatively safe assets in an attempt to obtain
+cash or cash-like instruments. Following the stress, the last phase (easing of market stress) started
+in late March following speedy, sizeable and sweeping interventions by authorities, and saw
+markets progressively return to orderly conditions. A detailed timeline of events is in Annex 1.
+
+
+2.1.     Prelude to the market turmoil
+At the start of the year, financial markets were buoyed by a relative sense of optimism on the
+back of supportive monetary policies, reduced trade tensions, and tentative signs of stabilisation
+in the global economy. Then on 9 January, the World Health Organisation (WHO) reported that
+Chinese authorities had identified a new virus causing serious respiratory issues in the city of
+Wuhan. In the following days, the number of people infected with the virus continued to increase
+and the WHO confirmed evidence of human-to-human transmission on 19 January.
+
+Financial markets took little notice of these developments until late January. On 23 January,
+Chinese authorities imposed a lockdown in Wuhan ahead of a week of national holidays for the
+Chinese New Year. Travel restrictions were subsequently imposed in several Chinese
+provinces, and a growing number of cases was reported in various countries showing that the
+virus was starting to spread around the world. Global equity markets, especially in Asia, declined
+on concerns about the virus, but then recovered in response to easing concerns about the
+spread of the virus in China. In the US and continental Europe, stock markets reached record
+highs on 19 February, while other indexes were close to all-time highs.
+
+
+2.2.     Flight to safety
+Concerns resurfaced soon afterwards, as the number of coronavirus cases in China and
+elsewhere continued to increase in late February, intensifying investors’ fears. On 21 February,
+Italian authorities announced local lockdowns in the Northern Italian towns experiencing the
+highest number of cases. At this point, a general “risk-off” sentiment began to spread through
+markets as investors adjusted their expectations for the possibility of a significant slowdown in
+economic activity. Volatility rose substantially and suddenly. Global financial markets
+experienced significant corrections and even countries that had not reported cases were subject
+to considerable selling pressure (Graph 2.1, left panel). Initial government measures to contain
+the spread of the virus were introduced at around this time, including travel bans, lockdowns and
+the closure of schools.
+
+Global sovereign bond yields across the maturity spectrum declined substantially amid portfolio
+rebalancing and surging demand for safe assets. Amidst the continuous rise in the number of
+cases in Asia and Europe, perceived safe haven assets such as US Treasuries and German bunds
+
+
+
+
+                                                 5
+saw very large price increases. As in other major stress events, investor appetite shifted from
+riskier to safer and more liquid assets. As it did so, some risky assets became difficult to sell and
+liquidity conditions in these markets became impaired (Graph 2.1).
+
+Funding stress indicators and measures of illiquidity started to increase considerably. Reflecting
+the uncertainty in financial markets, corporate bond spreads increased quickly and substantially,
+as did spreads on sovereign bonds of financially weaker countries. Transaction volumes
+particularly in fast-moving electronic markets (equities, US Treasuries) increased substantially,
+while liquidity measures began to deteriorate, including in derivatives markets. Flows in funds
+investing in risky assets, first in equities and then in fixed income, started to moderate and then
+turned negative by the beginning of March.
+
+The March episode was characterised by large price movements                                                       Graph 2.1
+
+Stock price indices and total number          Investment grade and high yield              10-year government bond yields
+of confirmed COVID cases                      bond spreads1
+2 Jan 2020 =100                 Total cases                                 Basis points                              Per cent
+
+
+
+
+Shaded area correspond to the period 11-23 March.
+1   Option-adjusted spreads of ICE BofAML Global Corporate Index and ICE BofAML Global High Yield Index.
+Sources: Johns Hopkins University; Bloomberg; ICE BofAML Indices.
+
+
+Worries about oil prices added pressure to financial markets. In early March, the OPEC+
+countries failed to reach an agreement on output cuts to maintain stable oil prices in the face of
+weakening global demand resulting from the spreading of the virus. In response, crude prices
+dropped significantly and the entire oil futures curve shifted down, putting additional pressure on
+equity markets. The prospect of a price war among oil producing countries hit certain equity
+markets particularly hard, with heavy losses in the Middle East, but the effects reverberated in
+equity markets worldwide.
+
+
+2.3.          Dash for cash
+On the back of continued bad news on the health and economic fronts, the flight to safety
+behaviour morphed into broad-based selling in mid-March, when even the safest and most highly
+liquid assets such as government bonds experienced large price declines. On 11 March, the
+WHO officially declared the COVID 19 outbreak a pandemic. At approximately the same time, a
+
+
+
+
+                                                                  6
+number of countries announced strict containment measures involving lockdowns, border
+closings and quarantine requirements for people returning from high-risk areas. Continued
+downward revisions of growth expectations and heightened risk aversion, combined with high
+uncertainty about the future development of the pandemic led to extreme investor behaviour and
+sharp market movements (see section 4).
+
+First, there was an extremely high demand for cash and near-cash assets. This ‘dash for cash’
+was underpinned by precautionary demand for liquidity in the real economy. Corporates’ and
+households’ concerns about the loss of a substantial part of their revenues, investor fears about
+the outlook for the global economy, and cash needs by financial institutions, resulted in the
+broad-based selling of financial assets - even the safest and most liquid ones. In the financial
+system, redemptions from investment funds, margin calls resulting from increased volatility and
+the need of some non-banks to unwind leveraged positions may all have contributed to sudden
+spikes in the demand for cash (the mechanisms are discussed in detail in section 4).
+
+The commercial paper (CP) and certificate of deposit (CD) segments of money markets started
+to exhibit signs of severe stress, with outflows from non-government MMFs in the US and EU
+leading to selling pressures on the assets held by these funds. Equity and bond funds in
+emerging market economies (EMEs) as well as advanced ones experienced very large outflows
+as investors liquidated their positions. The selling also started to affect assets that would
+normally be seen as safe havens, such as US Treasuries and other advanced economy
+government bonds . 2 At the same time, government MMFs experienced considerable inflows.
+
+In corporate bond markets, the lack of liquidity also created challenges for fixed income
+benchmark providers, with some of them postponing their March-end index rebalancing. This
+aimed at reflecting the lack of liquidity and strained market conditions as well as concerns about
+the impact of credit rating downgrades that occurred during the period on bond indices.
+
+Second, there was a very sharp tightening of financial conditions, limiting the ability of corporates
+to obtain market funding. Liquidity conditions continued to deteriorate in many markets (Graph
+2.2). Electronic markets saw a substantial increase in volumes accompanied by wider spreads,
+while dealer-intermediated markets, such as for corporate bonds, saw a significant deterioration
+in liquidity. Despite the surge in trading activity, trading venues continued to operate in an orderly
+manner, although high volatility triggered circuit breakers on equity markets multiple times. Very
+high trading activity resulted in heightened settlement activity and settlement fails rose across
+asset classes (equities, corporate and government bonds), as market participants faced
+operational and other challenges in sourcing and delivering securities while most of their
+employees were working from home. 3 Financial and non-financial corporate issuers were also
+unable to issue more commercial paper due to a shortage of demand, including by MMFs. CP
+and CD markets shut down for a number of days. The resulting tightening of financing conditions
+pushed corporates towards selling their investments and further drawing down their existing
+bank credit lines and revolving credit facilities. This large-scale draw down, taking place partly
+on a precautionary basis, put pressure on the balance sheets of the providers of those facilities.
+
+
+
+
+2
+    According to the IMF’s Global Markets Monitor, UST 10-year market depth declined 93% from the February average to its lowest
+    level in history and 30-year market depth dropped 76% from its February average; also the lowest in history.
+3
+    For the EU, see the ESMA report on Trends, Risk and Vulnerabilities (September 2020), No.2 2020, p.40.
+
+
+
+
+                                                               7
+On 16 March, the S&P 500 lost 12%, the worst one-day drop since 1987 and the VIX reached
+its all-time peak of 83. Market depth in several asset classes (including US equities and
+Treasuries) declined to levels seen during the worst period of the 2008 financial crisis. This was
+accompanied by a large increase in transaction costs in many inter-dealer markets.
+
+Correlations broke down, liquidity deteriorated and expectations of future
+interest rates collapsed                                                                                                     Graph 2.2
+
+Correlation between stock and bond            Bid-ask spreads in US equity and               Future-based expectations of US
+yields1                                       treasury markets                               Federal fund rate 3
+                                Correlation   Basis points                    Basis points                                       Per cent
+
+
+
+
+The shaded area in the left hand panel indicates the period 31 March -15 April, which corresponds to the calculation window of moving
+correlations for the period 11-23 March. Shaded areas in the middle panel and the right hand panel correspond to the period 11-23 March.
+1 Calculated as 20 trading days moving correlations using daily returns of S&P 500 and daily changes in US 10 year government bond yields.
+2
+  Average of all bid/ask spreads taken as a percentage of the mid price. US Treasury spreads are calculated based on on the run securities
+and ETF spreads are calculated a 5-day moving average. 3 Generic 2nd 30 days federal fund futures. Mid yield to maturity.
+Sources: Bloomberg; FSB calculations.
+
+
+Third, longstanding relationships in prices across different markets began to break down,
+including in the core US Treasuries market. Usually at times of stress equity prices decline while
+government bond prices increase. But during the dash for cash both types of assets experienced
+large price declines (Graphs 2.2 and 2.3). Volatility was elevated even for assets (such as
+government bonds and gold) that are usually stable as investors took benefit of the prior
+appreciation of these assets to get the needed cash. Furthermore, either uncommon or unusually
+large differences emerged between the price of assets that usually move in close sync: on-the-
+run and off-the-run bonds, the net asset value (NAV) of a number of exchange traded funds
+(ETFs) and their intraday price, and the prices of Treasury bonds and their futures contracts.
+
+Finally, severe strains in offshore dollar funding markets emerged. The US dollar appreciated
+considerably against other currencies as non-US corporates were unable to roll over funding
+and sold their dollar-denominated assets. The strain was particularly severe in EMEs, given the
+growth in dollar denominated debt issuance in recent years (see section 3). Market conditions
+also forced some non-US central banks to liquidate part of their foreign exchange reserves in
+order to accommodate the demand for dollars in their jurisdiction. The strains manifested in large
+dislocations in the USD basis (Graph 2.3, right panel). 4
+
+
+
+
+4
+    The basis is the difference between the dollar interest rate in the money market and the implied dollar interest rate from the FX
+    swap market where someone borrows dollars by pledging another currency as collateral.
+
+
+
+
+                                                                    8
+US Treasury markets experienced very large price movements and strains
+in the USD offshore funding markets emerged.                                                                               Graph 2.3
+
+US government bond yield curve changes (from 9 Jan)                     USD currency basis1
+                                                Percentage points                                                          Basis points
+
+
+
+
+Shaded area in the right hand panel corresponds to the period 11-23 March.
+1 Calculated exploiting the covered interest parity condition as the spread between three-month US dollar Libor and three-month FX swap-
+implied US dollar rates.
+Sources: Bloomberg; FSB calculations.
+
+
+
+2.4.        Easing of market stress
+The dash for cash lasted until the significant interventions and announcements by central banks.
+These were part of a package of measures that included the provision of relief by some securities
+regulators and substantial fiscal support by many governments. Central banks’ interventions
+took the form of asset purchases, liquidity facilities, the establishment and expansion of dollar
+swap lines and the temporary relaxation of regulatory restrictions (see section 5). In addition,
+fiscal policy provided further stimulus and guarantees that helped ease the market fallout. Global
+stock markets bottomed out between 18 March (Europe) and 23 March (US, China).
+
+Since then, financial market strains have eased in response to decisive policy actions. By late
+August, most risky assets had recovered at least three quarters of the losses experienced during
+the initial stages of the pandemic. US equity indexes were at all times high, while high yield
+bonds recovered 80% of the losses. European equities recovered more than two thirds of their
+losses and oil prices had risen 50% above their lowest point, which in futures market entailed
+negative prices for the first time in April. Financial conditions eased in domestic and foreign
+currency funding markets. Credit spreads have narrowed in both investment grade and high
+yield bonds, while issuance volumes have significantly increased. Investment grade bond
+issuance by non-financial corporates reached record levels since March, with the largest amount
+of bonds being issued by industries most exposed to the lockdown measures. The availability of
+offshore USD liquidity, particularly in EMEs, has also improved following the US Federal Reserve
+actions, and overall capital outflows from EMEs have receded.
+
+However, the economic and financial outlook remains highly uncertain. Declines in economic
+activity have been very large. According to the IMF, global GDP growth for 2020 is projected at
+
+
+
+
+                                                                    9
+-4.4% in 2020, 5 which is much worse that during the 2008 financial crisis and several percentage
+points lower than pre-COVID estimates. While some indicators suggest some rebound in activity,
+the path of recovery and the outlook for sectors most impacted by the pandemic remains highly
+uncertain. Any change in market sentiment could thus trigger a sharp downward revision of risky
+asset prices. Non-financial corporates and EME sovereigns experienced a wave of credit rating
+downgrades in March and April. The pace of downgrades has noticeably decreased since then,
+on the back of decisive policy action. However, deteriorating credit quality calls for attention to
+the potential effects a deterioration in the economic outlook. This underlines the need for
+authorities to take a holistic and system-wide view, consider different players and address the
+specific structural vulnerabilities in the non-bank financial sector.
+
+
+3.          Origins and backdrop of the March market stress
+
+3.1.         The COVID-19 shock
+The COVID-19 pandemic was an unprecedented external shock to the financial system. The
+outbreak and government containment measures caused an adverse simultaneous shock to
+supply and demand. Quarantines, lockdowns and social distancing curtailed mobility and,
+combined with heightened uncertainty and job losses, led to lower aggregate demand; while
+workplace closures and travel restrictions disrupted trade and global supply chains. There was
+a sudden sharp pullback in real economic activity across a number of sectors – including tourism,
+transportation, automotive and services – which spread more broadly in tandem with the virus,
+precipitating the deepest and most broad-based global recession since the Great Depression.
+
+The financial system reacted in anticipation of the severe economic downturn brought about by
+the shock and governments’ containment measures. In contrast to what happened during the
+2008 financial crisis, the shock originated outside the financial system. Core parts of the system
+were able to withstand and absorb the shock, but there were severe disruptions in a number of
+financial markets. The shock led to an abrupt increase in demand for safe and liquid assets in
+both the financial and non-financial sectors, which propagated through the system and morphed
+into a dash for cash. The sudden materialisation of extensive disruptions to economic activity
+and extreme uncertainty with respect to the consequences and duration of the shock made the
+pricing of assets particularly difficult and led to a sharp repricing in financial markets. In
+assessing the impact of the shock, it is relevant to consider global economic and financial
+developments and structural changes to the financial system in the run-up to the pandemic.
+
+
+3.2.        Global economic and financial backdrop
+Developments in the lead-up to the pandemic may have contributed to the severity of the
+reaction in financial markets in March. Following a long global recovery from the 2008 financial
+crisis, the outlook for growth and corporate earnings had weakened by early 2020 and become
+more uncertain. Real interest rates have fallen during the past decade, with both authorities and
+
+
+
+
+5
+     See the IMF’s World Economic Outlook, October 2020: A Long and Difficult Ascent.
+
+
+
+
+                                                              10
+market participants predicting a “lower for longer” environment. 6 This decline in financing costs
+reduced the debt service burden for borrowers and encouraged further debt accumulation (see
+Graph 3.1). High levels of corporate indebtedness, declining asset quality and lower credit
+underwriting standards meant that firms became increasingly exposed to the risk of a material
+economic downturn or an unexpected rise in interest rates. Investors had therefore become more
+susceptible to sudden shifts in market sentiment and a tightening of financial conditions in
+response to shocks. 7
+
+Easy financial conditions encouraged debt accumulation in recent years                                                              Graph 3.1
+
+Financial conditions1                                                     Debt accumulation
+                                                 Z-scores, 1996–2019      % GDP                                                    USD trillions
+
+
+
+
+1
+    Global financial conditions indices. The z-score indicates an observation’s distance from the population mean in units of standard deviation.
+Sources: IMF, GSFR April 2019; Institute for International Finance, Global Debt Monitor.
+
+
+Certain pre-existing financial vulnerabilities may have amplified financial market reactions to the
+shock. Relatively easy financial conditions, stretched valuations in some asset classes,
+compressed risk premia and (more recently) a large amount of sovereign debt with negative
+yields further encouraged a search for yield. This led a number of investors away from high
+quality cash-like assets down the credit curve, including in leveraged loans directly and in
+securitised form through collateralised loan obligations (CLOs). 8 It may also have increased the
+popularity of investment strategies reliant on low market volatility, short-term funding and high
+leverage. Favourable external financing conditions – strong global risk appetite and a drop in US
+Treasury yields – supported cross-border lending and debt portfolio flows to EMEs, and
+encouraged greater reliance on dollar-denominated borrowing by firms in those countries.
+
+Some of the concerns about vulnerabilities related to liquidity mismatches and the build-up of
+leverage in certain types of investment funds. In an environment of low interest rates, growth in
+asset management was accompanied by increased holdings of higher-yielding but riskier and
+less liquid assets through open-ended funds that offer daily redemptions to investors. To the
+
+
+
+
+6
+      See the CGFS report on the Financial stability implications of a prolonged period of low interest rates (July 2018).
+7
+      See the IMF’s Global Financial Stability Report: Lower for Longer (October 2019).
+8
+      See the FSB’s Vulnerabilities associated with leveraged loans and collateralised loan obligations (December 2019).
+
+
+
+
+                                                                       11
+extent that such funds do not adequately manage their liquidity risk and experience
+unanticipated investor redemptions, they may be susceptible to investor runs during a market
+stress, which could contribute to price dislocations and fire sale spirals. Vulnerabilities may also
+result from the use of leverage by certain investment vehicles (e.g. hedge funds), either by
+borrowing or through derivatives. This makes these vehicles more sensitive to changes in asset
+prices and the availability of short-term funding during stress, which can lead to sudden and
+sharp unwinding of trades that can propagate risk through linkages with counterparties. 9
+
+
+3.3.        Structural changes in the global financial system
+The COVID-19 shock hit a global financial system that has fundamentally changed over the past
+decade. A number of factors – including regulatory reforms and market-driven adjustments in
+the aftermath of the global financial crisis, technological changes, developments in US dollar
+funding, and the growing role and evolution of non-bank financial intermediation – have affected
+financial resilience, intermediation patterns, and market functioning.
+
+Post-crisis reforms have contributed to major changes in financial institutions’ balance sheets
+and market structures. Large banks have more capital and liquidity and are less leveraged,
+thereby enhancing their ability to absorb losses. Several have reduced trading and market-
+making activities as changes in regulation and risk appetite in light of the crisis have decreased
+those activities’ attractiveness, 10 and curbed their involvement in certain complex activities. 11
+Over-the-counter (OTC) derivatives reforms replaced much of the complex and opaque web of
+ties between market participants with simpler and more transparent links between central
+counterparties (CCPs) and their clearing members, supported by robust risk management
+(including margining) requirements. 12 And while aspects of structured finance that contributed to
+the 2008 financial crisis have significantly declined, 13 implementation of reforms in other NBFI
+areas – including policies to address asset management vulnerabilities – is at an earlier stage. 14
+
+NBFI has overall grown considerably and evolved over the past decade. Non-bank financial
+entities – comprising investment funds, insurance companies, pension funds and other financial
+intermediaries – have different structures and are subject to distinct regulatory frameworks within
+and across jurisdictions. Their asset share has increased to almost half of global financial assets,
+compared to 42% in 2008, due to both inflows and valuation increases. One factor behind this
+increase has been the growth of investment funds, whose assets have expanded from roughly
+US$21 trillion in 2008 to US$53 trillion in 2018 (see Graph 3.2). Underlying drivers for this growth
+include long-term demographic trends leading to asset accumulation; macro-financial factors
+
+
+
+9
+   See the FSB’s Policy Recommendations to Address Structural Vulnerabilities from Asset Management Activities (January 2017)
+   and the Bank of England’s Financial Stability Report (December 2015, November 2018 and December 2019).
+10
+   In some markets, a reduction of liquidity in normal times from pre-crisis levels, owing to a better recognition of the costs involved
+   in providing liquidity services, was an expected outcome of the reforms. Prevailing lower yields and a shift in risk appetite
+   following the 2008 financial crisis also contributed to reduced dealer profitability from holding and providing financing for fixed
+   income securities. See the CGFS report on Fixed income market liquidity (January 2016).
+11
+   See the CGFS report on Structural changes in banking after the crisis (January 2018).
+12
+   See the FSB’s reports on Incentives to centrally clear over-the-counter (OTC) derivatives (November 2018) and Review of OTC
+   derivatives market reform: Effectiveness and broader effects of the reforms (June 2017).
+13
+   These include asset-backed commercial paper programmes, structured investment vehicles and collateralised debt obligations
+   of subprime and other lower quality credits. See the FSB report on Assessment of shadow banking activities: risks and the
+   adequacy of post-crisis policy tools to address financial stability concerns (July 2017).
+14
+   See the FSB’s Implementation and Effects of the G20 Financial Regulatory Reforms: Fifth Annual Report (October 2019).
+
+
+
+
+                                                                  12
+such as accommodative monetary policies and the search for yield; and post-crisis reforms,
+which may have increased the relative cost of bank-based finance.
+
+The structure of the NBFI sector changed considerably in recent years                                                        Graph 3.2
+
+NBFI assets’ rising share in total             Composition of Other Financial              Credit assets2 held by selected OFIs
+financial assets                               Intermediaries (OFIs) (end-2018)            sub-sectors
+Per cent                        USD trillion                                    Per cent                                     USD trillion
+
+
+
+
+ICPFs = Insurance corporations and Pension funds; OFIs = other financial intermediaries. Data used in the charts above covers 21
+jurisdictions and euro area.
+1 Investment funds other than MMFs and hedge funds, including equity funds, fixed-income funds and other investment funds.   2 Increases
+
+of aggregated data may also reflect improvements in the availability of data over time at a jurisdictional level.
+Source: FSB, Global Monitoring Report on Non-Bank Financial Intermediation 2019 (January 2020).
+
+
+As a result, the importance of NBFI for the real economy has increased. Business models in,
+and financial services provided by, that sector have become more diverse. New types of markets
+(e.g. private debt) and forms of intermediation (e.g. FinTech credit) have sprung up; while
+investments in credit products (e.g. fixed income ETFs, CLOs) and participation in certain credit
+segments (e.g. mortgage and consumer finance) by non-banks has grown. Non-bank institutions
+provide diversified financing and investment opportunities, a broad range of risk management
+and risk sharing services (e.g. through derivatives hedging and treasury management), and
+efficient delivery (e.g. through payment, clearing, settlement and electronic trading
+infrastructures). As a result, these entities – especially asset managers – play a greater role in
+financing the real economy, as well as in managing the savings of households and corporates. 15
+
+The past decade also saw an evolution in the international US dollar funding landscape. 16 The
+US dollar dominates international finance as a funding and investment currency, and its
+widespread use has given rise to a complex and geographically dispersed network of
+relationships. This has meant that global economic and financial activity is highly dependent on
+the ability of US dollar funding to flow smoothly and efficiently between users outside the US. In
+
+
+
+15
+     See the FSB’s Global Monitoring Report on Non-Bank Financial Intermediation 2019 (January 2020).
+16
+     See the CGFS report on US dollar funding: an international perspective (June 2020).
+
+
+
+
+                                                                  13
+contrast to bank intermediation, market-based financing in US dollars has outpaced the growth
+of the global economy. Cross-border links between banks and non-bank entities have also
+increased. 17 Moreover, there has been a shift of global portfolios towards US securities and
+cross-border USD-denominated lending into EMEs. A consequence of these trends is that non-
+bank institutions – such as insurers and pension funds – have become more dependent on US
+dollar funding, while having less recourse to funding sources such as central bank facilities.
+
+Changes in the functioning of financial markets have affected liquidity provision and the speed
+of transmission of price changes. The proportion of electronic trading has increased substantially
+in markets with more standardised products (such as stocks and foreign exchange) but also in
+fixed income (particularly futures and some advanced economy government bonds). This
+change has allowed more high frequency trading and new players, such as principal trading
+firms, to enter as liquidity providers in some of these markets (e.g. inter-dealer market for on-
+the-run US Treasuries). 18 At the same time, the structure of core wholesale OTC funding
+markets, such as for CP and corporate credit, continues to be characterised by low levels of
+automated trading and heavy reliance on dealer intermediation – even as the size of those
+markets has expanded significantly.
+
+These structural changes have affected the resilience of the global financial system:
+
+     ■     Credit risk is increasingly being intermediated and held outside the banking sector. A
+           greater role of NBFI implies a shift from the traditional model where banks keep credit
+           risk on their balance sheets to a model where it is borne by investors, and intermediated
+           in financial markets. As a result, financial resilience tends to depend less directly on
+           bank buffers and more on the ability of investors to effectively manage market, credit
+           and liquidity risk in times of stress. This in turn implies greater reliance on market price
+           signals and market liquidity for managing portfolios and the associated risks.
+
+     ■     Interconnectedness has increased and taken new forms in some areas. The diversity
+           and growing involvement of non-bank entities in credit provision has led to more
+           interconnections (see Graph 3.3). Intermediation chains have become longer and more
+           complex, including for cross-border funding in USD by non-banks and non-financial
+           corporates. The growth in central clearing increased the systemic importance of CCPs
+           and their interconnections with market participants, reducing the complex and opaque
+           web of bilateral ties. Increased use of collateralisation, posted as margin or borrowed
+           against in secured funding markets, has increased the reliance on the availability and
+           smooth flow of collateral. These linkages have altered the speed and breadth with which
+           shocks are transmitted through different parts of the financial system.
+
+     ■     Intermediation in the financial system has become more dependent on liquidity. As
+           noted above, the shift in credit intermediation towards markets has increased the need
+           for liquidity to finance and price assets. Greater interconnectedness may facilitate a
+           redistribution of liquidity within the financial system, for example as a result of margin
+           calls. New players have increasingly diversified liquidity provision in some markets,
+
+
+
+17
+   See Aldasoro et al, Cross-border links between banks and non-bank financial institutions, BIS Quarterly Review (September
+   2020).
+18
+   See the BIS Markets Committee report on Electronic trading in fixed income markets (January 2016).
+
+
+
+
+                                                            14
+leading to a mix of entities, activities and infrastructures providing liquidity across the
+financial system. However, banks continue to play a critical role in providing liquidity in
+core funding markets, even as they have become less involved in market-making and
+potentially less able or willing to absorb short-term liquidity imbalances as the size of
+some financial markets has grown significantly relative to dealer balance sheets.
+
+
+
+
+                                       15
+Interconnectedness of NBFI
+                                  Graph 3.3
+
+
+
+
+                             16
+4.          The propagation of the shock
+
+4.1.        The impact of the COVID-19 shock on financial markets
+The financial system had to cope with large shifts in the demand and supply for market and
+funding liquidity (see Section 2). While defensive behaviours by various parts of the financial
+system are individually rational and in keeping with good risk management in the face of
+increased risks, they resulted in large mismatches between the aggregate supply of and demand
+for market and funding liquidity that put critical nodes of the financial system under strain. The
+main factors contributing to these imbalances are discussed in Section 4.2.
+
+Stress was propagated by reductions in the ability and willingness of financial intermediaries to
+provide liquidity where it was most needed. Recent changes in the structure of the financial
+system mitigated some of the stress, while others amplified this propagation. These factors are
+discussed in Section 4.3.
+
+
+4.2.        Factors shifting demand and supply of liquidity
+
+Demand for liquidity
+
+At the onset of the pandemic, faced with uncertainty and prospects of decreased revenues, non-
+financial corporates attempted to obtain cash in capital markets to keep funding their activities.
+Corporates tried to raise funding by:
+
+      ■     Tapping short-term funding markets, including through the issuance of commercial
+            paper. However, in the first two weeks of March, issuance of CP fell off sharply and
+            yields increased significantly making funding considerably more expensive. Issuance
+            of CP with an overnight maturity increased in mid-March. This reflected an
+            unwillingness of CP investors to provide funding beyond very short maturities.
+
+      ■     Increasing corporate bond issuance. However, the corporate bond market became
+            illiquid and the cost of issuing bonds increased. Issuance became strained, especially
+            for high-yield corporates. Moreover, issuance in the leveraged loan market halted with
+            no new deals coming on to the market in March. Investment-grade corporate bond
+            issuance also declined considerably.
+
+In response, many corporates turned to borrowing from banks, including via their existing credit
+lines and revolving credit facilities (Graph 4.1). For example, draws on US commercial bank
+credit lines to firms increased at record weekly rates in March. 19
+
+
+
+
+19
+     See JP Morgan, Large cap banks (13 April 2020).
+
+
+
+
+                                                       17
+Bank lending and deposits increased in tandem                                                                                    Graph 4.1
+
+Bank deposits1                                                          Bank lending to the non-financial sector2
+                                                     Jan 2019 = 100                                                          Jan 2019 = 100
+
+
+
+
+1
+   Series used for each jurisdiction (seasonally adjusted); for the United States, Commercial Banks, Deposits; for the Euro area, Money
+Supply M3 - Deposits, Total; for Japan, Aggregate Bank Deposits and CDS; for the United Kingdom, Retail Deposits and Cash in M4. 2
+For EMEs, simple average for Brazil, Indonesia, Mexico, Russia, South Africa and Turkey. Series used for each jurisdiction (seasonally
+adjusted): For Brazil, loans from financial system to nonfinancial corporations and households (total credit outstanding); for European
+Monetary Union, money supply, loans to other Eurozone residents except government; for Indonesia, commercial and rural banks’ claims on
+private sector (loans); for Mexico, commercial banks’ credit to private sector; for Russia, bank lending, corporate and personal loans; for
+Turkey, bank lending to private sector; for the United Kingdom, monetary financial institutions' sterling net lending to private non-financial
+corporations and households; for the United States, commercial banks’ loans and leases in bank credit.
+Sources: national sources; FSB calculations.
+
+
+Demand for US dollar liquidity increased globally. Non-financial corporates with US dollar
+denominated debt, which has risen sharply since the 2008 financial crisis especially in EMEs,
+sought to increase their US dollar cash holdings amid increased economic uncertainty. Obtaining
+credit in markets was often more challenging than for advanced economies’ (AEs) corporates,
+adding to pressure on banks (through drawdowns of bank credit lines) and domestic asset
+markets (through asset sales). The appreciation of the US dollar may have resulted in margin
+calls on hedged positions, potentially further increasing the demand for US dollars.
+
+Increases in volatility triggered margin calls, which contributed to increasing the demand for
+cash. A discussion of the mechanisms associated with margin calls is in Box 4.2.
+
+
+
+
+                                                                     18
+                         Box 4.1: MMF developments during the market turmoil 20
+ The MMF industry is sizeable, with approximately US$6.9 trillion of assets under management at year-
+ end 2019. 21 The sector plays an important role in supporting the real economy, both as a liquid and
+ diversified cash management tool for investors, and as a key source of funding for governments and
+ corporates (both financial and non-financial). Post-2008, international standards on MMF regulation
+ were strengthened, notably through valuation, maturity and liquidity risk management requirements. 22
+ The MMF sector is heterogeneous, exhibiting differing characteristics depending on fund type, structure
+ and investor type across jurisdictions. Such differences are important in assessing the effect of COVID-
+ 19 related market dislocations.
+ The March turmoil predominantly affected US- and EU-domiciled MMFs, though the effects varied by
+ MMF type and currency, with significant outflows from those holding non-government debt, along with
+ historic inflows into MMFs invested in government debt during the dash for cash period. Other
+ jurisdictions did not report significant impacts on their MMF sectors.
+ In the US, there are three types of MMFs: government, prime and tax exempt. The latter two types
+ comprise institutional and retail funds. Different rules apply to different funds: government and retail
+ funds (both prime and tax-exempt) have a stable NAV, while institutional funds have a floating NAV.
+ Non-government funds must be able to introduce liquidity fees and gate redemptions, while government
+ funds have the option, but not the obligation, to introduce these features in their prospectuses.
+ Government funds must invest at least 99.5% of their assets in cash, government securities and fully
+ collateralised repo agreements. Prime funds have both daily and weekly liquidity requirements, while
+ tax-exempt funds only have a weekly liquidity requirement. All funds are required to invest in securities
+ with minimal credit risk.
+ In Europe, government MMFs are called Public Debt MMFs and are allowed to have a stable, or
+ constant, NAV (PDCNAV). In addition to PDCNAV funds, there are two other types of short-term (i.e.
+ with a maximum maturity of approximately one year) funds: low volatility (LVNAV) funds are allowed to
+ use a rounded NAV of 1.00 if their mark-to-market NAV remains within a tolerance of 20bps, otherwise
+ they need to convert to mark-to-market NAV. Short-term variable NAV funds, on the other hand, always
+ deal on the basis of their mark-to-market NAV. Finally, there are also longer-term VNAV MMFs, which
+ can have a maturity of up to two years. All types of MMFs have minimum daily and weekly liquidity
+ requirements and can introduce liquidity fees and gates.
+ Government MMFs experienced record inflows during March in the US and the EU, but the picture for
+ non-government MMFs is different. Prime MMFs in the US and USD-denominated MMFs ($LVNAV) in
+ the EU experienced the most significant redemptions. Following the central bank interventions, all non-
+ government MMFs honoured redemptions and none of them applied fees, gates or suspensions.
+ In the US, prime MMFs recorded outflows of US$125 billion in March, representing 11% of their assets,
+ and some faced challenges to maintain their weekly liquidity buffers. However, this figure masks
+ considerable variation. Redemptions from prime MMFs publicly offered to institutional investors during
+ the dash for cash period were considerably higher at approximately 30% of assets under management
+ (AUM), while redemptions from retail prime funds totalled approximately 9% of AUM. Prime institutional
+ MMFs not offered to the public, which are often used by asset management firms to manage their cash,
+ saw even lower redemptions at approximately 6% of AUM. For publicly offered funds, concerns about
+ the potential application of gates or fees – which could result if a fund dropped below the 30% liquidity
+
+
+
+
+20
+     See the IOSCO Thematic Note on Money Market Funds during the March-April Episode (November 2020).
+21
+     See https://www.iifa.ca/industry_statistics/index.html.
+22
+     Post-2008, IOSCO developed common international standards for the regulation and management of MMFs – see IOSCO Final
+     Report on Policy Recommendation for Money Market Funds (October 2012). These have assisted the development of a global
+     framework for MMF regulation, though domestic frameworks vary across jurisdictions in response to local market structures.
+
+
+
+
+                                                               19
+ threshold – may have accelerated outflows; as may have been the case as well for $LVNAV in the EU.
+ These outflows happened at the same time as the underlying funding market (notably the commercial
+ paper market) experienced a sharp drop in liquidity prior to the Federal Reserve’s Money Market Mutual
+ Fund Liquidity Facility announcement on 18 March. Following the announcement, prime MMFs
+ recovered their pre-COVID-19 level of assets under management by end-April.
+ In Europe, although MMFs experienced outflows overall in March, there is considerable variation across
+ currencies and regulatory fund types. While GBP-denominated funds mainly domiciled in Luxembourg
+ and Ireland initially experienced outflows, these outflows reversed quickly, possibly due to the potential
+ absence of safer alternatives and the investor profiles of such funds. USD-denominated LVNAV funds
+ recorded significant net outflows from mid-March – representing more than 25% of the $LVNAV assets
+ domiciled in Luxembourg and Ireland; the situation, however, varied across individual funds. 23 A limited
+ number of $LVNAV resorted to using their weekly liquid assets to meet redemptions. They also sold
+ securities in the secondary market where possible and, where market conditions did not allow for it,
+ they did not reinvest maturing money market instruments. As these funds were not eligible under the
+ Federal Reserve programme, liquidity strains were more enduring for $LVNAV compared to US Prime
+ MMFs. From the beginning of April, with volatility decreasing and the markets eventually stabilising,
+ outflows tailed-off with net inflows experienced since. As market conditions improved quickly enough
+ on the back of unprecedented public sector response, ultimately no $LVNAVs were required to convert
+ into floating NAV MMFs as mandated under relevant EU regulation under specified conditions. 24
+
+ MMFs flows in different jurisdictions                                                                  Graph Box 4.1
+
+ Cumulative MMFs flows in the US        Cumulative flows of USD-                 Cumulative flows of EUR-
+                                        denominated MMFs in Luxembourg           denominated MMFs in France
+                               USD bn                                USD bn                                   USD bn
+
+
+
+
+ Euro-denominated MMFs in the EU (mostly domiciled in France), also recorded significant outflows
+ from mid-March representing approximately 15% of their assets. To meet redemptions, €VNAV drew
+ down their weekly liquid asset buffers and sold some of their securities on the secondary markets. The
+ ECB’s communication on 12 March, which allowed banks to operate temporarily below the level defined
+ by the Liquidity Coverage Ratio, may have played a role in easing liquidity tensions and market-making
+ constraints in the underlying funding markets. The temporary pandemic emergency purchase
+ programme (PEPP) helped to ease tensions by purchases of non-financial CPs. Assets under
+ management of €VNAVs have recovered to their pre-COVID level from mid-July.
+
+
+
+
+23
+   Based on a sample of funds representing 70% of AUM of MMFs domiciled in Luxemburg. Flows in funds domiciled in Ireland
+   followed a similar pattern – see Golden, The persisting effect of the pandemic on Money Market Funds and money markets,
+   Central Bank of Ireland Economic Letter 9 (October 2020).
+24
+   Article 33 of the Money Market Fund Regulation (EU) 2017/1131.
+
+
+
+
+                                                           20
+Increased demand for less risky and more liquid assets, including those with a shorter maturity,
+manifested in the selling of certain assets and shifts in the portfolios of some MMFs. While the
+impact of the COVID-shock differed among jurisdictions (see Box 4.1) two distinct patterns were
+observed in European and US MMFs:
+
+     ■     There was a surge in redemptions from non-government (prime and tax-exempt) MMFs,
+           i.e. those that invest in short-term CP and CDs. Outflows from US prime MMFs by the
+           end of March amounted to US$125 billion (roughly 11% of AUM), with the majority of
+           these redemptions in funds that were publicly offered to institutional investors. This
+           contributed to the effective closure of the market for short-term funding and a sharp
+           increase in demand for short-term government debt.
+
+     ■     There was a surge in inflows into government MMFs that invest in short-term
+           government securities. 25 Government MMFs, which invest in cash-like short-term debt,
+           saw record inflows in excess of US$800 billion in March, roughly 30% of their assets
+           under management. These inflows were partly attributable to a reallocation from prime
+           MMFs and other short-term funding market investors, but also driven by disinvestments
+           from other less-liquid asset classes in order to meet demand for cash (see below).
+           Corporates and households also increased their deposits at banks (deposits at US
+           banks increased by around US$476 billion over the course of March). 26
+
+Some open-ended funds also experienced large redemptions, particularly those with a greater
+mismatch between the frequency with which they offer redemptions and the liquidity of their
+assets. 27 Investors in funds that hold less liquid assets may tend to act procyclically, making
+larger redemptions in response to fluctuations in the price of funds’ underlying assets. 28 Outflows
+from some EME and AEs’ equity and corporate bond funds in March reached levels not seen
+since the 2008 financial crisis, both in terms of absolute amounts and as a percentage of assets
+under management (Graph 4.2). EME and AE bond funds saw greater outflows despite
+experiencing lower negative returns on average than equity funds. For example, in mid-March,
+weekly outflows from bond funds reached record levels (US$109 billion). For EMEs, portfolio
+outflows reached a record level of around US$83 billion in March, as a result of both equity and
+debt outflows. 29
+
+
+
+
+25
+   Outflows from prime MMFs by the end of March amounted to US$125 billion, with some prime-MMFs saw their weekly liquid
+   assets (WLAs) falling below the 30% regulatory lower bound. By end-March, government and Treasury MMFs saw inflows in
+   excess of $800 billion, or about 30% of their assets under management. See Egemen et al, US dollar funding markets during
+   the Covid-19 crisis – the money market fund turmoil, BIS Bulletin 14 (May 2020).
+26
+   FDIC data.
+27
+   See Falato et al, Financial Fragility in the COVID-19 Crisis: The Case of Investment Funds in Corporate Bond Markets, NBER
+   working paper 27559 (July 2020).
+28
+   See Baranova et al, Simulating stress across the financial system: resilience of corporate bond markets and the role of
+   investment funds, Bank of England Financial Stability Paper No 42 (July 2017).
+29
+   See IIF Capital Flows Tracker – The COVID-19 Cliff (April 2020).
+
+
+
+
+                                                            21
+Shifts in investor portfolios led to large redemptions from open-ended
+investment funds                                                                                                     Graph 4.2
+
+Panel 1: Cumulative flows to                 Panel 2: Cumulative flows to                  Panel 3: Cumulative flows to equity
+corporate bond funds and                     corporate bond funds and                      funds and comparison with the 2008
+comparison with the 2008 global              comparison with the 2008 global               global financial crisis (GFC)
+financial crisis (GFC)                       financial crisis (GFC)
+                                   % AUM                                         USD bn                                 % AUM
+
+
+
+
+Panel 4: High yield (AE and EME)             Panel 5: Investment grade (AE and             Panel 6: Net flow vs Performance in
+corporate bond funds                         EME) corporate bond funds                     March 2020
+USD bn                                  %    USD bn                                   %
+
+
+
+
+Data up to 7 October 2020. AUM = assets under management.
+1 NAV % change is the change in the underlying value of the selected asset class/geographic group
+
+Sources: EPFR; FSB calculations.
+
+
+
+
+ETFs, which offer immediate liquidity because of their trading on secondary markets, became
+one of the key mechanisms for price discovery during the dash for cash. In particular, there were
+some large differences between certain fixed income ETF share prices and the estimated value
+of their assets (Graph 4.3). This suggests that ETF prices contained more up to date information
+about the underlying asset values than out-of-date cash prices, reflecting more accurately the
+liquidity and cost of selling those assets. Though ETFs sold fewer bonds than open-ended funds,
+outflows from ETFs measured as a percentage of AUM were similar or larger during the stress.
+
+
+
+                                                                 22
+ETFs also experienced outflows, as well as large discrepancies between
+their market price and NAV                                                                                           Graph 4.3
+
+Panel 1: HY (AE and EME) bond                 Panel 2: Equity (AE and EME) ETFs             Panel 3: EME ETFs
+ETFs
+USD bn                                   %    USD bn                                   %    USD bn                           %
+
+
+
+
+Panel 4: NAV gaps in IG ETFs: US and Europe                          Panel 5: NAV gaps in HY ETFs: US and Europe
+                                                          Percent                                                       Percent
+
+
+
+
+Data for panel 1, 2,and 3 are up to 7 October 2020. HY = High yield. IG = Investment grade. NAV = Net Asset Value.
+Sources: EPFR; Refinitiv; FSB calculations.
+
+
+
+Supply of liquidity
+
+Internal risk management practices and regulatory constraints reduced dealers’ ability to
+intermediate larger flows in some secured funding markets. In normal times, some secured
+funding (e.g. repo) markets, allow market participants to convert assets (e.g. government and
+corporate bonds) into cash. In the initial phase of market stress, dealers absorbed sales of
+government bonds by other market participants in a relatively orderly manner. However, as
+demand for liquidity increased, sales of such securities overwhelmed dealers’ capacity to
+intermediate in these markets, given constraints on their balance sheets. Increasing risk meant
+dealers were less willing to meet short-term imbalances in the supply of/demand for cash. Repo
+rates increased sharply, as a range of market participants struggled – or were forced to pay
+higher prices – for cash (Graph 4.4).
+
+
+
+
+                                                                    23
+Dealers also could not fully accommodate substantial increases in volumes in a number of
+securities markets. As a result, price discovery in some markets – including those for less risky
+assets that are normally highly liquid, such as government bonds – was impaired. Headline
+measures of market liquidity, such as bid-offer spreads, widened sharply, in some cases to levels
+that exceeded those seen during the 2008 financial crisis. The already mentioned large
+differences between the prices of some ETFs and the value of their assets is consistent with a
+considerable lack of liquidity in their underlying assets. Reductions in intermediation might also
+have reflected other pressures on dealers’ balance sheets – for example, an increase in their
+lending to the non-financial sector via the drawdown of committed credit lines.
+
+Reductions in dealer intermediation led to a sharp tick-up in the cost of
+secured finance, and reductions in securities market liquidity                                                    Graph 4.4
+
+Repo rates                                                           Bid-ask spread in government bond markets1
+                                                       Per cent                                                   Basis points
+
+
+
+
+1 10-year. SOFR: Secured Overnight Financing Rate; IOER Interest Rate on Excess Reserves.
+Sources: Federal Reserve Bank of St Louis, FRED; Bloomberg; Eikon.
+
+
+Operational constraints may also have adversely affected the provision of market making and
+liquidity during the March market volatility. While financial market infrastructures, functioned well
+and were able to handle record trading volumes (see below), operational challenges may have
+constrained market-making activity. Particularly during the early days of remote working, some
+market intermediaries suffered from poor connectivity and problems connecting with colleagues
+and counterparts. Some firms also reported that their staff were unfamiliar with how to implement
+processes when working from home, particularly in the early days of remote working. This
+resulted in a number of payment delays and other operational incidents. It may also have
+impaired market functioning, to the extent that human traders were unable to step in as some
+high-speed algorithmic traders substantially reduced their participation in certain markets.
+
+
+4.3. The propagation of liquidity stress
+
+Mitigants and amplifiers of liquidity strains
+
+CCPs remained resilient despite market turbulence. Increased use of central clearing in
+derivatives markets reduced aggregate collateral demands by allowing exposures and payment
+obligations to be netted multilaterally. Nonetheless, extremely high asset price volatility and large
+trading volumes led to significant increases in initial margin and flows of variation margin.
+
+
+
+
+                                                               24
+Margin calls have contributed to the increased demand for cash. Initial margin calls for cleared
+derivatives experienced large increases in Q1 2020, as a result of the sharp rise in market
+volatility in March combined with increased transaction volumes and portfolio rebalancing (see
+Box 4.2 for a discussion of the mechanics of margin calls). Variation margin calls were also
+sizable during March 2020. 30 Data provided through IOSCO’s Financial Stability Engagement
+Group show that most of the increase in initial margins took place between 6 and 13 March,
+which suggests that margin calls contributed at least in part to the initial dash for cash. While
+increases in margin are to be expected in volatile markets, some market participants may not
+have anticipated the size or timing of the increase in margin requirements, and so needed to
+utilise cash buffers or obtain further funding to meet those margin requirements. 31
+
+
+
+                                  Box 4.2: Margin call mechanics and effects
+ Margin represents the collateral that one party in a transaction (for instance a hedge fund entering an
+ interest rate swap contract) deposits with or passes to the other party (for example a broker or a clearing
+ house) as protection against past or anticipated future contract losses. There are two types of margin
+ – initial margin (IM) and variation margin (VM) – which have different aims.
+ Initial margin represents collateral protecting against the risk that the counterparty does not meet its
+ future obligations in the transaction. These margin payments are a regulatory requirement in cleared,
+ and many uncleared, derivatives transactions. To the extent that certain categories of market
+ participants are exempt from these requirements, their counterparties may cover the associated risks
+ in the bid-offer spreads. Initial margin is paid at the inception of a contact, but can vary through its
+ lifecycle, and serves as the first line of defence – if a firm is unable to afford IM, it cannot transact. IM
+ models, designed to ensure that there are sufficient pre-funded resources to cover losses due to
+ counterparty default, are risk-based, and take into consideration both market risk as well as idiosyncratic
+ risks at the instrument and portfolio level. IM therefore traditionally increases when indicators such as
+ volatility or counterparty default risk increase.
+ Variation margin is exchanged regularly (e.g. daily) throughout the life of a contract in order to cover
+ changes in the market value of the relevant portfolio.
+ Increased volatility in March resulted in increases in IM, due to changes in IM requirements at a product
+ level, as well as position changes at a portfolio/firm level. In addition, VM payments increased, with
+ larger price moves and consequent mark to market gains and losses being exchanged between
+ counterparties. These dynamics occurred by design across cleared and uncleared derivatives markets
+ as well as various securities markets. Substantial variation was present in changes in initial margins
+ between CCPs between the end of 2019 and March 2020, with some CCPs experiencing increases in
+ excess of 100% as compared to previous quarter.
+
+
+
+
+30
+     See https://www.clarusft.com/margin-calls-during-covid-19/ and https://www.bis.org/publ/bisbull13.pdf.
+31
+     CCP margin calls’ impact on overall liquidity can be considered by pairing margin call data with clearing members’ and clients’
+     available liquid resources, where initial comparisons suggest relatively small overall magnitudes. An initial comparison between
+     the increase in IM posted to CCPs in March relative to banks’ available cash (focusing on the US, UK, EU and Japan) shows
+     the former representing 2-3%. An initial comparison of VM calls (focusing on the USD market) on peak days in March against
+     volume of overnight repos – the principal short-term funding source for banks – shows the former representing 3.5%.
+
+
+
+
+                                                                 25
+Initial and variation margin changes                                                                                 Graph Box 4.2
+
+Change in initial margins by CCP q4                Initial margin 3 March to 30 April           Variation margin 3 March to 30
+2019 - q1 2020                                     (daily)                                      April (daily)
+                                       per cent                                      US$mn                                     US$mn
+
+
+
+
+Source: CCP disclosures, IOSCO Financial Stability Engagement Group.
+IM and VM charts reflect trends within region and globally, but comparative weight between regions not proportional due to sample size.
+
+For cleared derivatives globally, initial margin held at CCPs rose over the course of March 2020 while
+daily amounts of VM exchanged in March were sizable as markets experienced substantial volatility.
+VM and IM can affect market liquidity conditions differently. VM, reflecting price movements of a
+financial contract or portfolio, transfers mark to market and realised losses from one counterparty to
+another, thus moving liquidity within the system albeit on a potentially large scale. In aggregate, the
+demand for liquid assets to meet variation margin calls does not change, with some market participants
+receiving VM while others paying it. At a less aggregate level, a given market participant may be paying
+VM on some trades while receiving VM on others. In contrast, because IM reflects anticipated volatility
+in underlying markets, it is required and held by CCPs from clearing members (and, in turn, clients).
+Cash IM posted for centrally cleared transactions may be invested by the CCPs with the market.
+Therefore, liquidity may be – at least partially – recycled back to the market by the CCP.
+In March 2020, daily demands due to additional initial margin requirements were notably smaller when
+compared to the same-day VM calls. One set of IM mitigants in March was designed to reduce margin
+increases during periods of volatility, commonly known as anti-procylicality (APC) measures. All major
+CCPs are required to have, or voluntarily have in place, APC measures of some type to dampen or
+slow down the changes in IM. Most APC measures entail higher IM when market volatility is low, thereby
+reducing the extent of the upward adjustment when volatility increases. This may provide market
+participants some additional time to prepare for further margin calls, should those calls hit them
+unexpectedly. In the March market turmoil, IM increased sharply after a few days, which suggests that
+APC tools were able to dampen or slow down the IM increase only for a short time period.
+In addition to the relative size of demands, there is often extra flexibility in satisfying IM demands.
+Where VM calls are almost exclusively satisfied with cash transfers, many different high quality
+collateral types are acceptable for IM (e.g. high-quality sovereign debt). While CCPs accept certain non-
+cash assets for IM, anecdotal evidence indicates that firms chose to post cash instead, which raises
+questions as to whether IM calls added to cash demands and funding markets stress.
+
+
+
+
+                                                                  26
+Some investors in open-ended investment funds may have faced incentives to redeem ahead
+of others. Such an incentive may have arisen if investors anticipated that the price of a fund unit
+did not reflect the true value of its underlying assets, particularly where these were illiquid. 32 In
+mid-March, large differences arose between the prices of certain ETF shares and the value of
+their underlying assets, including those holding less liquid assets such as corporate bonds
+(Graph 4.3). To the extent that ETFs are considerably more liquid than their underlying assets,
+the existence of such a price differential suggests that ETF share prices may have reflected
+more current market information than the valuation of the underlying assets. By contrast,
+investors in other open-ended funds may have faced incentives to redeem ahead of others. This
+is because investors in mutual funds could have redeemed their units at the old (stale) NAV,
+while the actual value of the underlying assets was more accurately reflected in ETF prices.
+
+The use of liquidity management tools may have successfully reduced redemptions in some
+cases, but in others it may have contributed to accelerating them. Investment funds use liquidity
+management tools to manage their liquidity and protect the interests of remaining investors in
+the face of large redemptions. 33 In Europe, a number of funds used tools such as swing pricing,
+which seek to reduce incentives faced by investors to redeem ahead of others. Previous studies
+have shown that alternative or swing pricing rules help funds to retain their investor capital during
+periods of high market stress. 34 Other funds also used ex-post liquidity-management tools such
+as suspensions, deferral of redemptions and redemption fees. 35 In March, as market conditions
+deteriorated however, the prospect of some of these tools being applied may have contributed
+to increased redemptions. To meet redemption pressures and margin calls and build cash
+buffers, open-ended funds sold assets, which may have impacted market dynamics.
+
+Overall, improvements to their capital and liquidity positions over the past decade enabled banks
+to absorb the shock and prevented a sharp rise in counterparty risks. More resilient balance
+sheets in the sector (see Section 3) helped to avoid a repeat of events during the 2008 financial
+crisis, where concerns about banks caused a freeze in funding markets.
+
+Nevertheless, banks may have been unwilling or potentially unable to deploy their balance
+sheets in a highly uncertain and volatile environment. Banks’ private decisions (e.g. positions
+cutting and compression of ticket sizes) as well as changing behaviour from their clients played
+an important role. Internal risk controls might have constrained banks’ role as market makers.
+While regulatory requirements proved effective in containing excessive bank leverage, those
+requirements may have become temporarily binding for some banks given the magnitude of the
+shock. For example, some banks may have seen a temporal increase in the denominator of the
+leverage ratio as a result of intermediation in secured funding markets. These constraints might
+have reduced dealers’ incentives to expand their balance sheets by absorbing mismatches
+between supply and demand in these markets in stress.
+
+
+
+32
+   See Liang, Corporate Bond Market Dysfunction During COVID-19 and Lessons from the Fed’s Response, Hutchins Center
+   Working Paper # 69 (October 2020).
+33
+   Since the 2008 financial crisis, regulation has focussed on addressing structural vulnerabilities from asset management activities
+   that could potentially present financial stability risks, including recommendations on liquidity management tools. See the Policy
+   Recommendations to Address Structural Vulnerabilities from Asset Management Activities by the FSB (January 2017) and the
+   Recommendations for Liquidity Risk Management for Collective Investment Schemes by IOSCO (February 2018).
+34
+   See Jin et al., Swing pricing and fragility in open-end mutual funds. FCA Occasional Paper #48 (May 2019).
+35
+     76 funds in the EU suspended redemptions across several asset classes between March and mid-April; see Fitch, European
+     mutual fund ratings rise as coronavirus spooks markets (2020).
+
+
+
+
+                                                                27
+Propagation through short-term funding markets
+
+Stress was propagated through the interaction of investors in CP markets (Graph 4.5). Amid
+increased risk aversion and desire for liquidity, investors became less willing to advance funds
+in the short-term unsecured market and fund CP with a maturity greater than a few days.
+Significant redemptions from non-government MMFs, which threatened to deplete the funds’
+holdings of liquid assets, may have exacerbated strains in the short-term funding market. In the
+EU, some funds that held a significant portion of CP and other short-term debt adjusted their
+portfolios by selling less-liquid and riskier assets such as term CP and CD, and shortening the
+maturity of their unsecured debt. Some funds also attempted to raise funds by requesting issuing
+banks buy back their CP. Some banks accommodated these requests, others discouraged them
+with aggressive pricing. A few requests were, in the absence of contractual obligations, denied. 36
+
+Dealers also faced difficulties absorbing large sales of assets, amplifying turmoil in short-term
+funding markets. Dealers’ intermediation capacity was limited with the holdings of large amounts
+of other securities contributing to constrained balance sheets. 37 Banks became less willing or
+able to supply hedging services and faced increased credit drawdowns by corporates, while
+prime MMFs that traditionally supply dollar funding faced redemptions and were forced to sell
+assets. Some intermediaries’ balance sheets may have been particularly inflexible given the
+looming March quarter-end. This pullback in the supply of dollars resulted in a sharp increase in
+funding costs. As a result, activity in CP and CD markets decreased markedly, primary issuance
+decreased sharply and issuers (both corporate and financial) struggled to roll over funding.
+
+The cost of funding for financial institutions increased, contributing to tighter funding conditions.
+Short-term funding cost surged as measured by, for example, interest rates on CP, CD and
+unsecured interbank lending. Bank funding conditions tightened not only because banks
+received less funding from MMFs, but also because corporate borrowers who were no longer
+able to obtain short-term funding via MMFs drew down their credit lines with banks, thereby
+crowding out other forms of bank lending.
+
+Tighter dollar funding conditions affected entities that borrow in US dollars worldwide. Non-
+government MMFs are important holders of US dollar CP issued by non-US banks and non-
+financial corporates. Amid outflows from these funds, stresses intensified in the US dollar funding
+markets – particularly in the case of banks headquartered outside the US. 38 Portfolio outflows
+from US dollar-denominated bonds issued by EME borrowers were significant. At the same time
+demand for funding (including US dollars) increased amid lower revenues (especially for
+commodity exporters) and fiscal expansion. These factors contributed to an increase in the US
+dollar bond yields for EME borrowers – increasing the repayment cost for those without natural
+hedges. Funding conditions tightened as a result of rising domestic interest rates and
+depreciating exchange rates.
+
+
+
+
+36
+   See the special feature on Recent stress in money market funds has exposed potential risks for the wider financial system in
+   the ECB’s Financial Stability Review (May 2020).
+37
+   See Schrimpf et al, Leverage and margin spirals in fixed income markets during the Covid-19 crisis, BIS Bulletin No. 2 (April
+   2020) and Duffie, Still the World’s Safe Haven? Redesigning the U.S. Treasury Market After the COVID19 Crisis, Hutchins
+   Center Working Paper #62 (May 2020).
+38
+   See Eren et al, US dollar funding markets during the Covid-19 crisis – the international dimension, BIS Bulletin No. 15 (May
+   2020), and Saleem and Reis (2020), Central bank swap lines during the Covid-19 pandemic (April 2020).
+
+
+
+
+                                                              28
+Connections that gave rise to liquidity strains in stressed conditions   Graph 4.5
+
+
+
+
+                                                                   29
+Propagation through core government bond markets
+
+Amid increased demand for cash and shorter-maturity assets, investors sold large volumes of
+longer-dated Treasuries in favour of shorter-dated assets. There were large, though orderly,
+inflows in to Treasuries up to early March – with yields falling to record lows for all maturities.
+Government MMFs, investing in Treasury bills received significant inflows, pushing the short-
+maturity T-bill rates to zero. However, during the dash for cash there were also strong selling
+pressures in Treasury bonds with longer maturity, and those yields increased temporarily but
+sharply, especially in less liquid off-the-run Treasuries. The propagation of stress via US
+Treasury markets is summarised in Graph 4.7.
+
+Market dysfunction was exacerbated by substantial sales of US Treasuries by some leveraged
+investors. 39 Since 2018, these investors had taken increasing leveraged positions in some
+government bond markets, to seek to arbitrage differences in market price between the value of
+derivatives, and the cash instruments that they reference (commonly referred to as the “basis
+trade”) (Graph 4.6). 40 As a spike in the demand for the most liquid safe assets in mid-March led
+to a decoupling in the price of US Treasuries relative to futures, these positions became loss
+making. The increase in US Treasury price volatility also led to margin calls in spot markets for
+basis trade investors, some of whom encountered difficulties renewing funding for their trades. 41
+Large-scale unwinding of these trades, of almost US$90 billion during March, was likely one of
+the contributors to a short period of extreme illiquidity in government bond markets.
+
+Selling by foreign holders of government bonds also added to market pressures. For example,
+foreign holders sold, net of purchases, a record amount of almost US$300 billion Treasury bonds
+and bills in March (Graph 4.6). About one-fifth of these sales were by foreign official institutions,
+including central banks. This may have reflected efforts of EME authorities to raise USD cash to
+satisfy USD funding needs of non-US financial firms, or to intervene in foreign exchange
+markets. Large sales came from offshore financial centres, where some leveraged investors are
+domiciled. In this sense, the build-up of dollar credit abroad may have increased liquidity
+pressures in the US Treasury market.
+
+Dealers’ capacity to intermediate in other asset classes was also constrained – including
+corporate bonds – contributing to higher funding costs for corporates. Amid concerns over the
+economic outlook for corporates, the cost of issuing debt increased markedly and corporate
+bond funds faced record redemptions. In response to these selling pressures, dealers limited
+purchases of corporate bonds and shed some of their inventory. The cost of principal trades
+increased significantly, and the fraction of agency trades (that typically take longer to execute)
+increased – contributing to further illiquidity in the corporate bond market. 42 The sharp reduction
+in market liquidity likely exacerbated asset price declines, and it may have hindered other
+investors from acting counter-cyclically by stepping in to take advantage of lower bond prices.
+
+
+
+39
+   For a discussion of the role of leveraged investors in US Treasury markets, see Schrimpf et al (ibid) and Barth and Kahn, Basis
+   Trades and Treasury Market Illiquidity, OFR Brief Series (July 2020).
+40
+   The largest 25 US hedge funds, for example, together accounted for 50% of the hedge fund industry’s borrowing as of 2019Q2,
+   even though they accounted for less than 14 percent of its net assets; see Securities and Exchange Commission Form PF,
+   ‘Reporting Form for investment advisors to private funds and certain commodity pool operators and commodity trading advisors’.
+41
+   See Schrimpf et al (ibid).
+42
+     See Kargar et al, Corporate Bond Liquidity during the COVID-19 Crisis (May 2020).
+
+
+
+
+                                                               30
+This combination of large asset sales, together with the limited ability/willingness of dealers to
+intermediate in some markets, became self-reinforcing. Large-scale asset sales, combined with
+limited dealer intermediation (see above) contributed to increased volatility and illiquidity in
+certain markets. This prompted margin calls, both in centrally cleared and bilateral markets as
+well as in spot markets, which contributed to increased demand for liquid assets leading to
+further assets sales and further volatility. Together with increased risk aversion, this made it
+more difficult and expensive to secure funding, prompting those market participants who wanted
+to raise cash to sell securities. Such sales further overwhelmed broker dealers’ ability to
+intermediate in these markets, also contributing to further volatility.
+
+Primary dealers’ balance sheet and net US Treasury sales by foreigners                                                   Graph 4.6
+
+Primary dealer net Treasury                  The quantity of financing primary            Net purchases of US Treasury bonds
+positions                                    dealers needed to support Treasury           by foreign residents
+                                             inventories1
+USD bn                            USD bn                                        USD trn                                      USD bn
+
+
+
+
+Net speculative positions in Treasury futures markets               Cash Treasury-futures dislocations2
+and MOVE Index of US Treasury yield volatility
+Basis points                                             USD bn                                                              Per cent
+
+
+
+
+1 The quantity of Treasury securities financed includes overnight and term, nominal securities as well as Treasury Inflation-Protected
+Securities, and covers securities with repurchase agreements an securities lending agreements. 2 JPMorgan Chase cheapest-to-delivery
+implied repo rates minus the one-month General Collateral market repo rate.
+Sources: Federal Reserve Bank of New York; JPMorgan Chase; Bloomberg; CFTC; US Department of the Treasury; FSB calculations.
+
+
+
+
+                                                                 31
+Propagation of stress via US Treasury markets        Graph 4.7
+
+
+
+
+                                                32
+5.           Public sector responses
+This section focuses on the policy measures, particularly central bank interventions, taken to
+ease financial market strains during the March turmoil. Authorities have adopted a broad range
+of measures in response to COVID-19. 43 A number of other measures may have also affected
+financial market conditions – for example, fiscal packages and credit guarantees helped support
+the economy and market sentiment – though these policies go beyond the scope of this report.
+
+
+5.1.         Measures taken
+The policy response to the dash for cash episode was speedy, sizeable and sweeping to ensure
+public markets remained open. Following cuts to policy rates in a number of central banks, the
+intensifying pressures in markets, particularly government bond and short-term money markets,
+led to the rollout of a wider set of policy measures that provided liquidity support and
+backstopped specific markets or entities. Ultimately, these measures were aimed at preventing
+a sharp tightening in financial conditions, halting an intensification of the market shock, avoiding
+knock-on effects from markets to the economy and ensuring the smooth transmission of
+monetary policy.
+
+The policy actions were unprecedented and in several cases went beyond those taken during
+the 2008 financial crisis. Central banks in many countries expanded the assets they were willing
+to purchase, including by taking credit risk, and increased their balance sheets at an unparalleled
+scale. Overall, these measures led to a US$7 trillion increase in G7 central bank assets in just
+eight months (Graph 5.1). In contrast, G7 central bank assets only rose by about US$3 trillion in
+the year following the collapse of Lehman Brothers in 2008. In addition to these actions by central
+banks, a number of prudential measures were also taken to help ease market strains.
+
+There was significant heterogeneity in the policy response across jurisdictions. This reflected a
+number of factors, including the nature of the shock locally, the importance of market-based
+finance in each economy, policy frameworks and available tools. For example, in the largest
+advanced economies, with large non bank financial sectors, the policy response ranged from
+cuts to interest rates, an expansion in government bond purchases, and the provision of liquidity
+to the banking system to the buying of risk assets and targeted liquidity facilities for specific
+entities, including dealers and money market funds (Graph 5.1 RH panel). Whereas in a number
+of emerging market economies, where the shock manifested itself as a shortage for US dollars,
+the response was focussed on more traditional monetary policies, or measures to provide dollar
+liquidity.
+
+
+
+
+43
+     These include: (1) government guarantees and direct lending, loan restructuring, capital injections and other corporate relief; (2)
+     central bank policy interventions to ease credit conditions and keep markets open and functioning; (3) prudential measures to
+     facilitate the continued flow of credit to the real economy and provide operational flexibility to supervised firms; and (4) actions
+     to support market functioning. See the FSB’s COVID-19 pandemic: Financial stability implications and policy measures taken –
+     Report to the G20 (July 2020) for details.
+
+
+
+
+                                                                   33
+Central bank balance sheets expanded rapidly                                                          Graph 5.1
+
+Central bank assets during crisis1                                    Policy measures
+                                                           USD trn                                      Per cent
+
+
+
+
+1
+    Includes central bank assets in Canada, the euro area, Japan, United Kingdom and United States.
+Sources: Datastream; national data; FSB calculations
+
+
+These measures have been working to alleviate market stress through different channels (Table
+1). These channels effect the various aspects of the dash for cash episode, discussed in Section
+4, either directly—where the policy measure is aimed at targeting a specific market or entity—or
+indirectly—where the measure has a positive spillover effect on other markets and entities, for
+example by improving investor sentiment or making more liquidity available in the financial
+system as a whole.
+
+        ■     A first channel is through central bank asset purchases. Initially this occurred through
+              an expansion of government bond purchase programmes. These purchases provided
+              indirect support to markets by reducing risk free rates, supporting risk appetite, lowering
+              market volatility and improving market liquidity. Central banks did not limit themselves
+              to sovereign debt and purchases included a range of risk assets, including corporate
+              bonds, CP and asset-backed securities (sometimes with government backing). In the
+              US corporate bond purchases targeted primary and secondary markets, and also
+              included high yield bond ETFs, which had operational advantages relative to buying a
+              heterogeneous portfolio of underlying bonds. Overall, purchases of risk assets
+              supported markets indirectly by lowering risk premiums, which helped increase risk
+              appetite further, and provided indirect support to MMFs by increasing the demand for
+              the commercial paper and asset-backed securities held by those funds.
+
+        ■     The second main channel is central bank liquidity operations. These more traditional
+              operations provided broad-based liquidity support to the banking sector in local
+              currency. This helped anchor funding rates and also indirectly helped other markets as
+              banks used part of the new liquidity to purchase assets or to lend to other market actors
+              that themselves bought securities. Furthermore, some central banks widened the pool
+              of collateral that they accepted in these operations, and increased risk tolerances, and
+              this helped indirectly support the markets with eligible collateral by increasing the
+              demand for those assets.
+
+
+
+
+                                                                   34
+                    Table 5.1: Typical measures taken to help restore market functioning
+
+                           Asset purchases                    Broad-based               Targeted     Regulatory/supervisory
+                                                            liquidity support           liquidity          measures
+                                                                                        support
+                        Government           Risk          Local             US
+                          bonds             assets        currency          dollar
+
+     Funding                Asset purchases                                             Targeting    Use of bank capital and
+     liquidity             provide liquidity to                                           lending     liquidity buffers helps
+     shortage               those selling the                                              helps       support lending and
+                                                          Central bank lending
+                            assets to central                                            liquidity        reduce liquidity
+                                                         to the banking sector.
+                                 banks.                                                 shortages     shortages for others.
+                                                                                         in those
+                                                                                         sectors.
+
+     Sudden                Purchases help to                                   -            -                   -
+   increase in           lower market volatility
+   margin calls           and reduce the need
+                            for margin calls.
+
+     Dealer               Purchases             -              -               -          Central     Changes to leverage
+ intermediation             help to                                                        bank             rules.
+   constraints              reduce                                                         direct
+                             dealer                                                     lending to
+                         inventories                                                     dealers.
+                              and
+                           improved
+                          appetite to
+                        intermediate.
+
+  High demand                   -               -              -           Central          -         Use of bank buffers to
+  for US dollar                                                              bank                       support lending.
+      funds                                                                  swap
+                                                                             lines
+                                                                           and Fed
+                                                                             repo
+                                                                            facility.
+
+ Outflows from                  -               -        Increasing                       Central    MMF facility temporarily
+  prime MMFs                                                  the                           bank       excluded from the
+                                                         demand for                      backstop       leverage ratio.
+                                                          assets by                       lending
+                                                          reducing           More         against
+                                                           liquidity         dollar        assets
+                                                          constraint       liquidity    purchased
+                                                          on banks           helps          from
+                                                            and/or          reduce        MMFs.
+                                                          widening            fire
+    Investment              Asset purchases                                sales of         -                   -
+                                                         the pool of
+       fund               supported prices and                               dollar
+                                                           eligible
+   redemptions            hence improved risk                              assets.
+                                                          collateral.
+                         appetite, reduced risk-
+    Portfolio                                                                               -                   -
+                           free rates and risk
+  outflows from
+                         premiums, and helped
+      EMEs
+                         reverse fund outflows.
+1 See the annex for more information on the classification adopted here.
+
+
+
+
+                                                                   35
+      ■     Liquidity operations were also provided outside the US in dollars to directly help
+            alleviate the dollar cash shortage. On 15 March, in the first major coordinated response
+            to the crisis, five central banks – the Bank of Canada, the Bank of England, the Bank of
+            Japan, the ECB and the Swiss National Bank – that already had arrangements with the
+            Federal Reserve reduced the pricing and increased the frequency and tenor of their
+            swap lines. On 19 March, new swap line arrangements were agreed with nine other
+            countries: Australia, Brazil, Denmark, Korea, Mexico, Norway, New Zealand,
+            Singapore, and Sweden. On 31 March, the Federal Reserve announced the
+            establishment of a new temporary repo facility for foreign and international monetary
+            authorities that would allow them to enter into repurchase agreements with the Federal
+            Reserve. Dollar liquidity operations also helped to indirectly ease redemption pressures
+            in money market and other funds – by reducing the need for fire sales of assets to gain
+            cash – and helped support portfolio flows to emerging market economies.
+
+      ■     A third channel of support for markets is through backstop facilities designed to provide
+            targeted liquidity to specific financial entities. These facilities directly support market
+            entities by providing them with liquidity. Most of the examples have been in the US. For
+            example, the Federal Reserve’s Primary Dealer Credit Facility expands the range of
+            eligible counterparties by providing collateralised liquidity to primary dealers to directly
+            alleviate dealer intermediation constraints. In the Money Market Mutual Fund Liquidity
+            Facility, the Federal Reserve lends to banks where the collateral consists of assets that
+            the banks have purchased from money market funds, directly supporting those funds.
+            The Covid Corporate Financing Facility in the UK purchased eligible, highly-rated CP
+            from dealers and so in the process helped to provide them with liquidity support.
+
+      ■     In some jurisdictions a fourth channel, regulatory measures, complemented these
+            central bank interventions. Authorities in many countries, as well as the Basel
+            Committee on Banking Supervision (BCBS), have been encouraging banks to use
+            capital and liquidity buffers to support lending. This provides indirect support to counter
+            liquidity shortages and the high demand for US dollar funds. Supervisors have also
+            taken a number of measures to free-up resources and alleviate operational burdens,
+            for example by extending implementation deadlines, temporarily relaxing compliance
+            requirements and reprioritising timetables for policy initiatives. 44 A number of authorities
+            temporarily modified leverage ratio rules to exclude bank reserves at the central bank
+            from the leverage exposure calculation, directly helping to ease dealer intermediation
+            constraints. Furthermore, in Canada and the US the leverage ratio was temporarily
+            amended to exempt holdings of government securities, while the US authorities
+            exempted bank purchases of assets in connection with central banks’ support programs
+            from capital and liquidity requirements. In addition, the Federal Reserve and the
+            Securities and Exchange Commission allowed a few sponsors of MMFs to buy assets
+            from their affiliates to directly ease outflow pressures. US authorities also allowed banks
+            to accelerate the adoption of the Basel III standardised approach for calculating the
+            exposure of derivative contracts.
+
+
+
+44
+     International standard setters’ implementation timetables have also been extended. For example, the BCBS extended the
+     implementation date of the final Basel III framework by one year, and the International Association of Insurance Supervisors
+     extended the timetable for putting the Holistic Framework for systemic risk into operation. The BCBS and IOSCO also deferred
+     by one year the final implementation phases of the framework for margin requirements for non-centrally cleared derivatives.
+
+
+
+
+                                                               36
+       ■       Securities regulators also took a number of measures to support market functioning,
+               including: close monitoring of the resilience of market infrastructures and of investment
+               fund liquidity; the issuance of additional guidance to market participants; and the
+               continued flow of information to markets, while ensuring targeted relief on certain
+               reporting requirements.
+
+
+5.2.           Outcomes
+The policy measures succeeded in alleviating market strains to date. In the absence of the
+central bank interventions, the stresses in markets would have likely continued and may well
+have been amplified. Conditions eased across a range of different markets, also supported by
+massive subsequent fiscal stimulus. Graph 5.2 (LH panel) shows that market spreads are now
+back to around their pre-stress levels, from substantially wider positions in March, across
+corporate bond, commercial paper and cross-currency markets. At the same time, volatility
+subsided, measures of market liquidity such as bid-ask spreads reverted to pre-crisis levels, and
+investor risk appetite returned. Many emerging market central banks launched a broad set of
+measures and facilities to provide liquidity and relief to markets. In some cases, asset purchase
+schemes were implemented for the first time. The announcement of these schemes helped to
+restore investor confidence, leading to a fall in local currency bond yields. 45
+
+Policy measures have eased pressures in markets                                                                    Graph 5.2
+
+Corporate spreads                                                   Investment grade corporate spreads1
+Basis points                                         Basis points                                                  Basis points
+
+
+
+
+1   The shaded area shows the period 17-23 March when many policy measures were introduced by central banks.
+Sources: ICE BofAML indices; FSB calculations.
+
+
+Investment grade corporate bond yields tightened following a series of announced asset
+purchase schemes from major central banks during 17-23 March (Graph 5.2 RH panel). On the
+third day, the Bank of England announced it would increase its stock of asset purchases by £200
+billion, including an increase in purchases of corporate bonds. On the following day the ECB’s
+Pandemic Emergency Purchase Program was announced. This seemed to slow the widening in
+
+
+
+45
+     See Arslan et al, Central bank bond purchases in emerging market economies, BIS Bulletin No 20 (June 2020).
+
+
+
+
+                                                                 37
+bond spreads in these two economies. Finally, on 23 March the Federal Reserve announced its
+Primary and Secondary Market Corporate Credit Facilities, and gave a commitment to purchase
+treasuries and asset-backed securities in “amounts needed”. This seemed to stem the market
+strains, corporate bond spreads began to tighten in earnest, and bond issuance recovered. 46
+
+Funding conditions eased, both in local and cross-currency markets. The activation of dollar
+swap lines were effective in providing a lender of last resort function in foreign currency and led
+to an easing in dollar funding costs and substantial declines in cross currency basis swap
+spreads. 47 In these markets there was a direct link between the degree to which the facilities
+were used and the impact on market prices. 48 The Federal Reserve’s repo facility has also
+helped to ease dollar funding markets in countries without access to the swap lines. The launch
+of new or modified liquidity facilities in non-dollar jurisdictions also helped support local current
+liquidity. For example, the Bank of England launched a Contingent Term Repo Facility to support
+funding conditions for banks and a Covid Corporate Financing Facility to support the short-term
+financing needs of higher-rated corporates. The ECB expanded the assets it accepted as
+collateral for its liquidity operations, enabling banks to draw from its facilities using a broader
+range of assets.
+
+Financial market outflows were also stabilised. The suite of central bank measures, which helped
+to restore market confidence and supported bond and commercial paper markets through asset
+purchases, helped to calm the outflows from prime and municipal money market funds,
+redemptions from some open-ended investment funds with more illiquid assets (as discussed in
+Section 4), and capital outflows from emerging market economies. Money market funds were
+targeted by the Federal Reserve and these interventions helped to not only stabilise flows, but
+to also helped short-term funding markets recover. 49 Indeed, it is likely that without these
+measures the MMF industry would have been more severely affected.
+
+
+
+
+46
+   See Haddad et al, When selling becomes viral: disruptions in debt markets in the covid-19 crisis and the fed’s response, NBER
+   Working Paper, No. 27168 (May 2020).
+47
+   See Avdjiev et al, Dollar funding costs during the Covid-19 crisis through the lens of the FX swap market, BIS Bulletin, No. 1
+   (April 2020); and Eren et al, US dollar funding markets during the Covid-19 crisis – the international dimension, BIS Bulletin, No.
+   15 (May 2020).
+48
+   See Bahaj and Reis, Central bank swap lines during the Covid-19 pandemic, CEPR Covid Economics, Issue 2 (April 2020).
+49
+     See Li et al, Runs and interventions in the time of Covid-19: Evidence from money funds, CEPR Covid Economics, Issue 29
+     (June 2020).
+
+
+
+
+                                                                 38
+Most of the increase in central bank assets has been through asset purchases                                            Graph 5.3
+
+Central bank assets breakdown1                                        Usage of Fed credit facilities2
+                                                            USD trn                                                         USD bn
+
+
+
+
+1   Includes central bank assets in Canada, the euro area, Japan, United Kingdom and United States.
+2
+ In 2008-09 there was not a Money Market Mutual Fund Liquidity Facility but a similar one called the AMLF (Asset-Backed Commercial
+Paper Money Market Mutual Fund Liquidity Facility).
+Sources: Datastream; national data; Remarks by Daleep Singh, New York Fed Executive Vice President and Head of the Markets Group, at
+the Hudson Valley Pattern for Progress (8 July 2020); FSB calculations
+
+
+Announcement effects seem to have been important for alleviating market pressures, working
+through the expectations of market participants. Investors seemed to be calmed by the
+announcement of asset purchases, in anticipation of buying by central banks, as discussed
+above. The announcements coincided with substantial improvements in trading conditions,
+including declines in bid-ask spreads as two-way flow conditions improved across markets. For
+example, corporate bond spreads started to decline on 23 March but the Federal Reserve did
+not actually start purchasing corporate bonds on the secondary market until 12 May. Similarly,
+in the UK, the announcement of the Contingent Term Repo Facility helped to mollify market
+conditions before any funds were ultimately drawn.
+
+The easing effect on markets cannot, however, be explained by announcement effects alone.
+As mentioned earlier, central bank assets expanded significantly in a few weeks. Most of the
+expansion was due to asset purchases, which accounted for about 65 percent of the increase in
+G7 central bank assets, rather than direct liquidity support or backstop measures (Chart 5.3 LH
+panel). Furthermore, in the US, the peak use of the backstop facilities during the dash for cash
+episode was significantly below the level during the 2008 financial crisis (Chart 5.3 RH panel).
+This all suggests that the impact of asset purchases in providing liquidity to the financial system
+was notable in influencing the outcome in markets.
+
+Some markets not directly affected by central bank measures have not recovered to date. For
+example, open-ended funds in some jurisdictions – such as commercial property funds –
+continue to be suspended. This, in turn, can be seen as evidence of the impact that policy
+measures have had on those markets that were within the reach of measures.
+
+
+
+
+                                                                   39
+6.       Conclusion
+
+6.1.     Lessons learned and issues raised
+The external COVID-19 shock in March tested the resilience of a global financial system that
+has become increasingly reliant on market-based intermediation to finance growing levels of
+debt. With the overall growth of NBFI, market liquidity and the provision of market making
+capacity have become more central to financial resilience. At the same time, market-making
+capacity by banks may have become more constrained, while the provision of liquidity by some
+new entities and in electronic markets is potentially less robust.
+
+The breadth and dynamics of the economic shock and related liquidity stress experienced in
+March were unprecedented. Given the size and scope of the economic shock, some degree of
+financial stress would be expected. Indeed, as in previous cases, the shock led to a fundamental
+repricing of risk and a heightened demand for safe assets. However, the stress also led to large
+and persistent imbalances in the demand for, and supply of, liquidity needed to support
+intermediation. These imbalances also emerged in core government bond markets.
+
+Large-scale and swift policy intervention – including fiscal, monetary, and prudential policy
+measures – succeeded in stabilising markets. While fiscal policy helped to shield the real
+economy from the effects of the pandemic and maintain credit supply, central bank actions eased
+liquidity strains. The importance of central bank announcement effects may suggest risk
+aversion of market participants (and related unwillingness to supply or redistribute liquidity) was
+an important driver of the turmoil. Concerns about side-effects include distortions to price
+discovery in financial markets and a further build-up of financial risks.
+
+Absent central bank intervention, it is highly likely that the stress in the financial system would
+have worsened. This would have had a major impact on the financial conditions for financial
+sector and real economy firms and their ability to raise funds. However, by the necessity to
+intervene in such a substantial way central banks had to take on material financial risk. Moreover,
+aggressive policy actions may have changed private sector expectations of central bank actions
+in the future. This could lead to moral hazard issues in the future, to the extent that markets do
+not fully internalise their own liquidity risk in anticipation of future central bank interventions in
+times of stress.
+
+The measures taken by central banks were aimed at restoring market functioning, and not at
+addressing the underlying vulnerabilities that caused markets to amplify the stress. The financial
+system remains vulnerable to another liquidity strain, as the underlying structures and
+mechanisms that gave rise to the turmoil are still in place.
+
+The March turmoil has underscored the need to strengthen resilience in the NBFI sector for the
+global financial system to be able to absorb shocks and ensure the smooth provision of financing
+to the real economy. There is a need for the FSB, working together with the SSBs, to promptly
+initiate work to enhance that resilience. The episode has further highlighted issues associated
+with individual types of market activities and particular mechanisms that may have caused
+liquidity imbalances and propagated stress.
+
+
+
+
+                                                 40
+■   Significant outflows from non-government MMFs reflecting liquidity mismatches and
+    perceptions by end-investors as cash-equivalent or redeemable on demand.
+    Redemption dynamics may have been exacerbated by certain fund structures and
+    regulations that may have created perceptions of first-mover advantage.
+
+■   Similar dynamics, albeit less intense and widespread, may have been present in other
+    types of open-ended funds. In particular, funds invested in less liquid assets (such as
+    property, high yield corporate bonds and bonds issued in EMEs), may have faced
+    redemption pressures because of their liquidity mismatch as well as because of the
+    uncertainty associated with the value of their investments.
+
+■   The challenge faced by some market participants to cope with liquidity demands arising
+    from variation and initial margin calls raises questions about whether they were fully
+    expecting those calls and whether they were adequately prepared for funding them. It
+    also raises questions as to whether their actions to raise liquidity may have adversely
+    affected other parts of the financial system, and whether the assets they hold to meet
+    their liquidity needs can be easily monetised in stress.
+
+■   While initially dealers absorbed bond sales in an orderly manner, intense selling
+    pressure temporarily overwhelmed their willingness or capacity to intermediate in core
+    funding markets, including less liquid segments of the corporate debt markets. This may
+    have contributed to illiquidity and severe price moves, raising questions about the
+    financial system’s ability to handle liquidity imbalances during stress, as markets
+    continue to grow.
+
+■   The dislocations in key government bond markets raise questions about the role of
+    leveraged investors in those markets.
+
+■   The rise in settlement fails during the period of acute stress raises questions about
+    market participants’ operational capacity to source and deliver securities on time.
+
+■   The turmoil also highlighted the increased importance of interconnectedness and
+    system-wide liquidity conditions for the resilience of the financial system.
+
+    •   Interconnectedness within the NBFI sector and with banks, as well as greater
+        reliance on market and funding liquidity to support market-based intermediation
+        reinforce the need to analyse the system as a whole.
+
+    •   Related are questions about market structure in core government bond markets,
+        which form de facto global safe assets and pricing benchmark, and the role of these
+        markets in supporting resilient NBFI.
+
+    •   The lack of liquidity in CP and CD markets also raises questions whether the
+        structure of these markets limits their capacity to absorb demand or supply shocks.
+
+    •   In a global context, the turmoil has brought to the fore questions about fragilities in
+        USD cross-border funding, including the interaction of dollar funding markets,
+        foreign exchange markets, and domestic currency bond markets in EMEs.
+
+
+
+
+                                           41
+Adopting a system-wide perspective on these issues presents significant challenges for
+authorities given the difficulties in collecting the relevant data; mapping the transmission of risks
+through the financial system; and having the policy tools to respond as needed.
+
+
+6.2.          Policy implications and areas of further work
+The analysis conducted and the issues identified in this report suggest that the efforts of the
+international regulatory community to reinforce the resilience of NBFI, while preserving its
+essential functions and benefits, should focus on three main areas:
+
+   i.         In the short-term, work to examine and, where appropriate, address individual risk
+              factors and specific markets that contributed to amplification of the shock. This includes
+              analysing whether mitigants put in place after the 2008 financial crisis have worked as
+              intended, and assessing implementation progress on related G20 reforms;
+
+  ii.         Enhancing the understanding of systemic risks in NBFI and the financial system as a
+              whole, including the interactions between banks and non-banks, the resilience of the
+              NBFI sector and cross-border spill-overs; and
+
+  iii.        Assessing policies to address systemic risks in NBFI, including the adequacy of policy
+              tools and the concept and desired level of resilience in NBFI. These efforts to strengthen
+              resilience in the NBFI sector should not compromise the resilience in other parts of the
+              system or the important role that NBFI plays in financing the real economy.
+
+First, the review of specific risk factors and markets would encompass the areas identified in this
+report as contributing to the amplification of the shock in March. These include examining:
+
+         1)   liquidity risks, core functions and aspects of the structure or regulations in non-
+              government MMFs which experienced large outflows and contributed to the stress in
+              short-term funding markets;
+
+         2)   whether and how other types of open-ended funds invested in illiquid assets could
+              amplify liquidity stress, recognising the variety of fund structures (including interactions
+              between mutual funds and ETFs), underlying assets (including their role in facilitating
+              investment for the real economy) and the availability and use of liquidity management
+              tools across different jurisdictions;
+
+         3)   whether market participants were fully prepared for the margin calls they experienced,
+              their ability to liquidate assets to meet margin calls under stressed conditions, and the
+              role of margining practices both in centrally cleared and bilateral markets in amplifying
+              funding strains;
+
+         4)   the role of leveraged investors in core government bond markets, to assess whether
+              excessive leverage could be a cause for concern in future episodes; and
+
+         5)   the structure of core funding markets for both governments and corporates, including
+              the sources and drivers of market-making capacity and the role of banks and non-banks
+              in the provision of liquidity, including in times of stress.
+
+
+
+
+                                                      42
+Whether reforms in these areas have been implemented and if so, the extent to which they may
+have mitigated the turmoil or have had unintended consequences, also needs to be examined
+in this context.
+
+Second, enhancing the understanding of the resilience properties of the system as a whole
+would encompass analysing:
+
+    1)   the interconnections between banks and the NBFI sector and their implications for
+         financial resilience. This includes questions as to whether changes to the structure of
+         core financial markets can increase the ability of the system to absorb shocks without
+         ceasing to perform its functions.
+
+    2)   the concept and desired level of resilience of the system, with a particular focus on the
+         resilience of financial markets that are core to the global financial system and the
+         provision of financial services to the real economy, such as markets for government
+         and corporate bonds, foreign exchange and derivatives.
+
+    3)   the role of public policy in ensuring system resilience and the provision of financial
+         service to the real economy.
+
+This work, which would be exploratory by design, should take into account whether shocks are
+generated by the financial system itself or are external to it, the likelihood of large shocks
+materialising, and the mechanisms within the system that would dampen or amplify the shock.
+
+Third, as a more complete understanding of the properties of the system is being developed, the
+role of policies to address systemic risks in NBFI should be assessed. A range of policy tools
+already exists, or are being implemented, in NBFI. While adjustments/refinements to some of
+these tools may be considered to support NBFI resilience, there is the question of whether and
+how those tools should be embedded in a framework that take account of their impact on the
+system as a whole. Clarifying the role of mechanisms to strengthen resilience ex ante (including
+effective structural risk mitigants such as central clearing and avoidance of procyclicality), in
+order to minimise the need for exceptional ex-post interventions (e.g. through system-wide
+liquidity backstops provided by central banks), would be important elements of such work. This
+will also help address concerns about the risk of any unintended consequences, including moral
+hazard, due to expectations of central bank interventions.
+
+Work on the first area should proceed at pace to minimise the chances that similar vulnerabilities
+expose the real economy to unnecessary risks going forward. The second area of work will
+require more time to develop a set of specific questions to answer as well as determining the
+preferred approach to doing so. Finally, the analysis on policies to address systemic risks in the
+non-bank sector should be flexible enough so that any insights gained in the other two areas
+can be reflected in any future policy outcome.
+
+The FSB will coordinate the international regulatory community’s assessment of identified
+vulnerabilities and the appropriate financial policy response, working closely with standard
+setting bodies and its members. As part of this review, the FSB published a comprehensive NBFI
+work programme covering the key issues at a high level (see the Executive Summary).
+
+
+
+
+                                               43
+Annex 1: Timeline of financial market developments
+This Annex describes the events that took place during the market turmoil. The main period of
+analysis is divided into three separate sub-periods. An initial period, labelled ”flight to safety”
+(approximately 21 February - 11 March), when investors reduced their exposures to risky assets
+and increased their exposure to safe ones. Then the “dash for cash” period (approximately 11
+March - 23 March), when investors sold almost every asset to increase their cash balances.
+Finally the “easing of market stress” period (approximately 23 March onwards) which was the
+result of the interventions of many authorities and resulted in the end of the most acute phase
+of the crisis. For completeness, and to aid the reader in understanding the developments of the
+turmoil some of the events that took place beforehand - mainly in China, where the pandemic
+started - are also part of the analysis. This period is labelled “prelude to the market turmoil”.
+
+The timeline heavily relies on the daily IMF Global Markets Monitor reports published at the time.
+These reports summarise developments in global financial markets across the globe. Other
+sources include international organisations, mainly the World Health Organisation (WHO),
+specialised newspaper articles, and reports from think tanks and commentators.
+
+Graph A.1 presents the timeline visually.
+
+
+Prelude to the market turmoil
+Early in the year, financial markets were buoyed by a relative sense of optimism on the back of
+supportive monetary policies, reduced trade tensions, and tentative signs of stabilisation in the
+global economy.
+
+Following some local reports in the press in the previous week, on 9 January 2020 the WHO
+reported 50 that Chinese authorities identified a novel coronavirus in a hospitalised person with
+pneumonia in the city of Wuhan. Five days later, on 14 January it stated 51 that, based on
+previous experience with respiratory pathogens there was potential for human-to-human
+transmission. On the same date, the total number of confirmed cases in China stood at 41.
+
+In the following week the number of confirmed cases continued to increase, the WHO confirmed
+evidence of human-to-human transmission on 19 January 52. Financial markets in China and
+elsewhere initially took little notice of these developments and fluctuated until 23 January. On
+this date, following confirmation of the 17th death in the country, Chinese authorities imposed a
+lockdown in the city of Wuhan. This was a day before a week of national holidays for the Chinese
+New Year, which would have resulted in hundreds of millions of people travelling across the
+country. Financial markets in China then started to show signs of strain with the Shanghai
+Composite Index losing 2.8% on 23 January reflecting the potential effects on growth of the
+spread of the virus.
+
+
+
+
+50
+     See https://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china.
+51
+     See https://twitter.com/UNGeneva/status/1217146107957932032.
+52
+     See https://twitter.com/WHOWPRO/status/1218741294291308545?s=20.
+
+
+
+
+                                                             44
+The following week Chinese markets were closed because of the national holiday mentioned
+above. Travel restrictions were imposed in a number of Chinese provinces and a growing
+number of cases was reported in various countries (including Brazil, Germany, Italy, Japan and
+Thailand) showing that the virus was starting to spread globally. A number of international travel
+restrictions were imposed during the week, including Russia closing its border with China. A
+number of Chinese provinces extended their national holiday to reduce the spread of the virus.
+Global financial markets, especially in Asia, declined somewhat reflecting concerns about the
+virus but where still calm.
+
+On 1 February, the Chinese government announced 53 a multi-agency package to support the
+financial system. The People’s Bank of China (PBC) conducted large open market operations
+and cut interest rates. The PBC injected RMB1.2 trillion into the financial system, which was its
+largest one-day operation since 2004 and pledged to maintain abundant market liquidity.
+
+The announcement notwithstanding, on 3 February, Chinese markets re-opened and lost
+approximately 8% in a single day, reflecting concerns about the effects of the virus. In the
+following two weeks, the Chinese government announced additional stimulus measures. 54
+Global financial markets started to respond to news related to developments in the spread of the
+virus and recovered substantially in response to easing concerns in China. In the US and
+continental Europe stock markets reached all-time highs on 19 February. In China markets rose
+by more than 10% from 3 to 21 February and other indexes (such as the UK FTSE 100 and the
+Japanese Nikkei 225) were close to the all-time highs at around the same time.
+
+
+Flight to safety
+The number of coronavirus cases continued to increase outside of China with Italy, Iran and
+South Korea experiencing large increases.
+
+On 21 February, Italian authorities announced local lockdowns in the Northern towns
+experiencing the highest number of cases (the measures were extended on 9 March). Investors’
+fears intensified and a general “risk-off” sentiment spread through markets. Volatility rose
+substantially, with the VIX index reaching 25 on 24 February and 39 on 27 February. Global
+financial markets experienced their fastest correction ever and even countries that had not
+reported cases were subject to considerable selling pressure.
+
+Global bond yields declined substantially amid surging demand for safe assets. At the beginning
+of February, 10 year US treasury bond yields were around 1.5%, by the end of the month they
+declined to 1.16% and at the trough on 9 March they will be as low as 0.57%. Similarly German
+bunds were yielding -0.4% in early February, -0.64% in late February and at the trough of 9
+March they will reach a record low of -0.83%.
+
+
+
+
+53
+     See http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3965907/index.html.
+54
+     See the following links for additional information. First announcement on 7 February, second announcement on 7 February,
+     announcement on 17 February and announcement on 20 February.
+
+
+
+
+                                                             45
+In the third week of February bond funds in emerging markets reported inflows, while equity
+funds reported moderate outflows, consistently with investors rebalancing their portfolio from
+risky to safer assets.
+
+In late February and early March a number of Central Banks started signalling that they would
+be supporting markets. On 28 February US Fed Chair Jerome Powell issued a statement 55
+pledging to use the Fed tools and “act as appropriate” in response to the virus. On 2 March,
+Bank of Japan (BoJ) Governor Haruhiko Kuroda issued an emergency statement 56 indicating
+that the BoJ “will closely monitor future developments, and will strive to provide ample liquidity
+and ensure stability in financial markets through appropriate market operations and asset
+purchases”. On the same day, ECB President Christine Lagarde issued a statement 57 confirming
+that the ECB would “stand ready to take appropriate and targeted measures, as necessary and
+commensurate with the underlying risks”. One day later, on 3 March, Bank of England Governor
+Mark Carney stated 58 that “the Bank will take all necessary steps to support the UK economy
+and financial system, consistent with its statutory responsibilities.” On the same day, following
+an unscheduled meeting, the Fed cut rates 59 by 50 basis points.
+
+These statements however were unsuccessful in calming markets with investors still believing
+that the virus could result in substantial damage to growth. At around the same time the IMF also
+reported 60 that divergence in credit markets was becoming apparent. The spread between
+investment grade and high yield corporate bonds widened to the largest level since 2016. In
+addition, even among investment grade issuers those more exposed to the virus saw their yields
+widen relative to the broader index.
+
+With respect to investment flows, high yield ETFs had seen outflows of 8.4% up to this point in
+the year while investment grade funds were up 2.2%. In emerging markets, fund outflows started
+picking up in early March with outflows in equity and essentially zero inflows in bond funds in the
+last week of February.
+
+Between 6 and 9 March the mood in financial markets deteriorated further. Amid the continuous
+rise in the number of cases in Asia and Europe safe haven assets such as US treasury bonds
+and German bunds saw very large price increases (implying large reduction in yields). Funding
+stress indicators increased substantially and credit markets were showing additional stress.
+Fund outflows from both US and European credit funds increased substantially. Equity markets
+continued to experience large losses.
+
+On 9 March, Italy - one of the countries most affected by the pandemic up to this point -
+introduced a restrictive lockdown throughout the country. Financial markets declined further as
+negotiations among OPEC countries broke down triggering a large fall in the price of oil. As
+
+
+
+
+55
+     See https://www.federalreserve.gov/newsevents/pressreleases/other20200228a.htm.
+56
+     See https://www.japantimes.co.jp/news/2020/03/02/business/bank-of-japan-stability-coronavirus/.
+57
+     See https://www.ecb.europa.eu/press/pr/date/2020/html/ecb.pr200302~f2f6113f52.en.html.
+58
+     See https://www.bankofengland.co.uk/news/2020/march/governor-statement-to-tsc-on-behalf-of-the-fp-mp-and-pr-committees.
+59
+     See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200303a.htm.
+60
+     See
+     https://www.imfconnect.org/content/dam/imf/News%20and%20Generic%20Content/GMM/archive/GMM%20Mar%203%20202
+     0.pdf.
+
+
+
+
+                                                               46
+Saudi Arabia was ready to substantially increase production, Brent crude prices dropped by
+around 30%.
+
+To this date the virus had infected more than 100,000 people worldwide and killed in excess of
+3,500.
+
+Notwithstanding the above, conditions in the corporate bond markets were orderly despite the
+selling pressure; initial signs of investor outflows from MMFs started to materialise but weren’t
+particularly worrying and the fixed-income ETF market was also functioning orderly. However,
+in Europe, primary markets were at a standstill with essentially no issuance.
+
+
+Dash for cash
+It is difficult to point to a precise moment where the standard flight to safety behaviour of selling
+risky assets to buy safe ones morphed into broad based selling. As stated above, US treasury
+and German bund yields reached their lowest point on 9 March and markets were still functioning
+orderly on that day. On 11 March however the WHO officially declared 61 the COVID 19 outbreak
+a pandemic and a number of cracks in markets appeared at around the same time. These dates
+are therefore used to represent the beginning of the most severe stress period.
+
+A number of countries announced strict containment measures. Iran, France and Germany
+imposed lockdowns. Others such as Australia, New Zealand and Switzerland closed their
+borders to non-residents and introduced quarantine requirements for people returning from high-
+risk areas.
+
+Also on 11 March, and ahead of the government discussing its yearly budget, the Bank of
+England announced 62 a number of policy interventions. It reduced interest rates by 50bp,
+launched a new Term Funding Scheme; reduced the counter-cyclical capital buffer and
+communicated supervisory expectations that banks should not increase dividends or other
+distributions. A day before EU leaders agreed 63 additional stimulus measures to combat the
+virus.
+
+US and European money markets started to exhibit significant signs of stress. Outflows from
+prime MMFs in the US and from European Low Volatility variable NAV (LVNAV) funds
+denominated in US dollars started gathering pace while at the same time government MMFs
+started to experience considerable inflows evidencing the fact that investors were looking to hold
+only cash or cash-like products.
+
+Volatility remained elevated and not just for risky assets. The MOVE index, a measure of interest
+rate volatility, was close to its highest level in ten years. The 10-year US treasury yield moved
+
+
+
+
+61
+   See
+   https://twitter.com/WHO/status/1237777021742338049?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E12
+   37777021742338049&ref_url=https%3A%2F%2Fwww.who.int%2Femergencies%2Fdiseases%2Fnovel-coronavirus-
+   2019%2Fevents-as-they-happen.
+62
+   See https://www.bankofengland.co.uk/news/2020/march/boe-measures-to-respond-to-the-economic-shock-from-covid-19.
+63
+     See https://ec.europa.eu/commission/presscorner/detail/en/IP_20_440.
+
+
+
+
+                                                              47
+by more than 10 bps for five sessions in a row highlighting the fact that investors were
+experiencing an incredibly high level of uncertainty. The Fed increased 64 its repo offering further.
+
+On 12 March the ECB announced 65 a comprehensive package of monetary policy and other
+measures. These included additional long term refinancing operations, a reduction in the interest
+charged for such operations, an increase in asset purchases and temporary capital and
+operational relief to banks. Later in the day, the Fed announced 66 additional measures to
+facilitate the flow of credit.
+
+Liquidity in the US Treasury futures and cash markets continued to deteriorate. While a number
+of reports highlighted that many companies were starting to tap their credit lines as liquidity in
+bond markets dried up. According to the FT 67, by 25 March, European and American companies
+had drawn at least US$124 billion from their credit lines in the previous two weeks.
+
+Global equity funds saw net outflows of US$1.8 billion, compounding outflows in the prior two
+weeks. Fixed income funds experienced very large outflows (US$26 billion). In addition, EME
+bond and equity funds also experienced significant outflows. Of the EM bond funds, both hard
+currency ETFs (-US$1.4bn) and local currency ETFs (-US$1.5 billion) saw the largest outflows
+in over three years. From a regional perspective, Asia ex-Japan equity funds saw redemptions
+for the seventh consecutive week.
+
+On 13 March both the BoJ 68 and the PBC 69 announced additional measures. The BoJ doubled
+its annual ETF purchases and substantially increased its purchases of corporate bonds and
+commercial paper. The PBC reduced banks’ reserve requirements.
+
+Over the weekend of 14 and 15 March, the Fed announced 70 a comprehensive package of
+support measures. It reduced the federal funds rate by 100bp; announced purchases of US$500
+billion in longer-term Treasury securities and US$200 billion in agency mortgage-backed
+securities. It also reduced the discount window rate by 150bp to 0.25 percent. In addition, it also
+announced steps to support the flow of credit through changes to bank capital and liquidity
+buffers as well as reserve requirements.
+
+Finally, a separate release 71 announced coordinated action with other central banks (Bank of
+Canada, Bank of England, ECB and Swiss National Bank) to enhance the provision of liquidity
+via the standing US dollar liquidity swap.
+
+Notwithstanding the significant measures announced by the Fed and other central banks in the
+previous days, financial markets collapsed on Monday 16 March. The S&P 500 lost 12% in a
+single day, the worst one day drop since Black Monday in 1987 and the VIX reached its peak at
+83. Liquidity conditions were particularly bad across asset classes. The IMF GMM reported
+
+
+
+64
+     See https://www.newyorkfed.org/markets/opolicy/operating_policy_200311.
+65
+     See https://www.ecb.europa.eu/press/pr/date/2020/html/ecb.mp200312~8d3aec3ff2.en.html.
+66
+     See https://www.newyorkfed.org/markets/opolicy/operating_policy_200312a.
+67
+     See https://www.ft.com/content/c405fe29-9e78-4ade-9ee5-1f890911bdb3.
+68
+     See https://www.boj.or.jp/en/announcements/release_2020/rel200313c.pdf.
+69
+     See http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3989112/index.html.
+70
+     See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm.
+71
+     See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315c.htm.
+
+
+
+
+                                                             48
+analysis by JP Morgan which showed that that market depth in several asset classes (including
+US Equities and Treasuries) was comparable to the worst period of the 2008 financial crisis.
+This was accompanied by a large increase in the transaction costs in the inter-dealer markets.
+
+In addition, data on cross-currency basis swaps indicated that USD funding was still expensive
+despite the coordinated central bank action and that trading in fixed income markets (especially
+corporate bonds) was particularly impaired with banks unwilling to support risk taking. Measures
+of liquidity in corporate bond markets confirmed that liquidity had deteriorated sharply with bid
+ask spreads and the Amihud 72 measure reaching levels last seen during the global financial
+crisis of 2008.
+
+Between 17 March and 23 March a wealth of additional measures were announced by
+authorities. These measures will have the outcome of ending the extreme stress, but markets
+would still experience a week of very high uncertainty and very poor liquidity.
+
+On 17 March the Bank of England launched 73 the Covid Corporate Financing Facility (CCFF) to
+provide funding to businesses by purchasing commercial paper of up to one-year maturity. The
+facility helped businesses who could demonstrate they were in sound financial health prior to
+the crisis, to pay wages and suppliers, even while experiencing severe disruption to cashflows.
+
+On the same day, the Fed announced the creation of a Commercial Paper Funding Facility
+(CPFF) and of a Primary Dealer Credit Facility 74. The former provided a liquidity backstop to
+issuers of commercial paper: a special purpose vehicle (SPV) would purchase unsecured and
+asset-backed commercial paper rated directly from eligible companies. The latter allowed
+primary dealers to support smooth market functioning and facilitate the availability of credit to
+businesses and households by providing dealers with funding.
+
+On 18 March, the US enacted an economic relief plan including a number of fiscal measures.
+The Fed also announced 75 the launch of a Money Market Mutual Fund Liquidity Facility (MMLF).
+Through this facility, the Fed made loans available to financial institutions to purchase assets
+directly from money market funds. The facility will be expanded 76 on 20 March to include funds
+investing in municipal bonds.
+
+In Europe, the ECB announced 77 the Pandemic Emergency Purchase Program (PEPP), a €750
+billion asset purchase programme including both public and private sector securities. The ECB
+clarified that the PEPP was subject to considerably fewer constraints compared to previous
+programmes and hence granted itself considerable flexibility with respect to which assets to
+include in its purchases.
+
+
+
+
+72
+     The Amihud measure is often used to assess liquidity in bond markets.
+73
+     See https://www.bankofengland.co.uk/news/2020/march/hmt-and-boe-launch-a-covid-corporate-financing-facility.
+74
+   See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200317a.htm and
+   https://www.federalreserve.gov/newsevents/pressreleases/monetary20200317b.htm.
+75
+   See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200318a.htm.
+76
+     See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200320b.htm.
+77
+     See https://www.ecb.europa.eu/press/pr/date/2020/html/ecb.pr200318_1~3949d6f266.en.html.
+
+
+
+
+                                                               49
+On 19 March, the Bank of England added 78 to the measures it had adopted in the previous days.
+It reduced interest rates to 0.1%, increased asset purchases (including of investment-grade
+corporate bonds) and enlarged the term funding scheme. While the Fed announced 79 the
+creation of temporary US dollar liquidity arrangements (swap lines) with nine additional central
+banks, some of which were in emerging markets, providing additional avenues for agents in
+these jurisdictions to access dollar funding.
+
+In the week ending 20 March global financial markets were still under severe stress. In Europe,
+sovereign bond yields of euro area countries with lower credit ratings were under considerable
+pressure before the ECB PEPP announcement, bond funds were still experiencing substantial
+outflows and volatility still very elevated (the VIX stood at 66 on 20 March).
+
+On Monday 23 March the Fed announced 80 extensive additional measures to support the
+economy. These included two new facilities which did not previously exist and were designed to
+support credit to large employers: the Primary Market Corporate Credit Facility and the
+Secondary Market Corporate Credit Facility, which supported the corporate bond market both in
+terms of new issuance and for existing bonds. The package included also additional Treasury
+purchases and agency MBS “in the amounts needed to support smooth market functioning and
+effective transmission of monetary policy to broader financial conditions and the economy”. It
+also expanded the MMLF and CPFF to include a wider range of securities.
+
+Taken together, the measures introduced essentially removed risk from investors and
+transferred it to the balance sheet of central banks and hence of the public sector as a whole.
+
+
+Easing of market stress
+Global stock markets bottomed out between 18 March (Europe) and 23 March (US, China). From
+23 March onwards, conditions in financial markets started to improve. Stock markets started to
+recover, with US, European and Asian indexes posting substantial gains on 24 March.
+Furthermore, the USD dollar depreciated against a number of currencies highlighting the fact
+that the demand for dollars was abating reflecting ameliorating funding conditions. Treasury
+yields declined, reflecting better liquidity conditions in the market and the large purchases by the
+Fed.
+
+By the beginning of April, markets were past the extreme stress they experienced earlier. While
+the primary corporate bond markets was essentially closed until this point, issuance in the last
+week of March increased substantially, liquidity conditions in treasury markets, although still poor
+by normal standards, considerably improved. Outflows from prime MMF started to reverse and
+turned positive on 1 April.
+
+By 7 April most global stock indexes were in bull markets, liquidity continued to improve and the
+extreme stress abated.
+
+
+
+
+78
+   See https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2020/monetary-policy-summary-for-the-special-
+   monetary-policy-committee-meeting-on-19-march-2020.
+79
+   See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200319b.htm.
+80
+     See https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323b.htm.
+
+
+
+
+                                                           50
+In the following months the recovery in financial markets continued. By late August most risky
+assets had recovered at least three quarters of the losses experienced during the initial stages
+of the pandemic. US equity indexes were at all times high, while high yield bonds recovered 80%
+of the losses. European equities recovered more than two thirds of their losses and even oil
+prices were 50% above their lowest point.
+
+Improving market sentiment has lifted risky asset prices but global output losses have been very
+large. According to the latest IMF forecast, global GDP could be 6-10 percentage points lower
+than earlier 2020 estimates. While some indicators suggest a rebound in activity, the path of
+recovery remains highly uncertain, suggesting a potential disconnect with the prices of risky
+assets.
+
+
+
+
+                                              51
+Timeline of financial market developments        Graph A.1
+
+
+
+
+                                            52
+Annex 2: Classification of policy measures
+Central banks took unprecedented, fast and wide-ranging actions to mollify the market turmoil.
+Major central banks introduced a total of 14 different measures over a period of just three weeks
+(Graph A.2). Most of these actions were taken in the week beginning 16 March when market
+tensions were at their height and when there were sometimes a number of different central bank
+announcements on the same day. The combined impact of all these measures by many central
+banks across different economies calmed investors and helped to resolve the market turmoil.
+
+Reflecting the crucial role of US dollar funding, the Federal Reserve carried out a number of
+interventions. It not only provided enhanced liquidity support to the banking system, but engaged
+in asset purchases, spearheaded efforts to provide dollar liquidity, and even revived backstop
+measures to provide liquidity to non-bank financial sector entities that had not been used since
+the global financial crisis. Many other central banks also expanded asset purchase schemes and
+started to buy more risky securities, in some cases for the first time. This was also true in EMEs,
+where some central banks initiated their inaugural asset purchases.
+
+
+Equity market volatility and central bank policy measures across jurisdictions1                                            Graph A.2
+
+                                    (d) (i)
+                              (a)   (e)(g)(j) (l)
+                              (b) (c)(f)(h)(k) (m)                   (n)
+   90
+   80
+   70
+   60
+   50
+   40
+   30
+   20
+   10
+     0
+          02            09             16            23            30            06            13            20            27
+ 1 The dotted lines show the dates of major policy measures, as follows: (a) Bank of Canada Bond Buyback Program, (b) expansion of
+
+ ECB Asset Purchase Program, (c) expansion of Bank of Japan asset purchases, (d) Bank of England Covid Corporate Financing
+ Facility, (e) Federal Reserve Commercial Paper Funding Facility, (f) Federal Reserve Primary Dealer Credit Facility, (g) ECB Pandemic
+ Emergency Purchase Program, (h) Federal Reserve Money Market Mutual Fund Facility, (i) Reserve Bank of Australia government
+ bond purchases; (j) expansion of Bank of England Asset Purchase Facility; (k) central bank US dollar swap lines, (l) Federal Reserve
+ Primary Market Corporate Credit Facility, (m) Federal Reserve Secondary Market Corporate Credit Facility, (n) Federal Reserve
+ Facility for Foreign and International Monetary Authorities.
+
+While asset purchases were a common approach to ameliorating market strains, there were
+differences in the way that the programs were designed (Table A.1). The scope of the assets
+purchased in the schemes varied, extending in some cases to asset-backed securities and ETFs
+in addition to corporate bonds and commercial paper. While many schemes purchased assets
+in the secondary market, some others also bought in the primary market. Some of the schemes
+were operated in conjunction with the finance ministry, which in the United States explicitly
+covered part of the credit risk inherent in the schemes. Some of the programs had an explicit
+
+
+
+
+                                                                  53
+size envelope, while this was not specified in some of the other schemes. Finally, the termination
+dates varied with some closing at the end of the year and others lasting for one calendar year.
+
+                Table A.1: Features of selected central bank asset purchase schemes
+
+       Measure                     Assets purchased                                Other features
+ Federal Reserve        3-month US dollar denominated                 Purchases conducted by a special purpose
+ Commercial Paper       commercial paper that is rated at least       vehicle (SPV) which has a loan from the
+ Funding Facility       A1/P1/F1.                                     Federal Reserve Bank of New York.
+ (17 Mar. 2020 to
+ 17 Mar. 2021)                                                        The US Treasury has a US$10 billion
+                                                                      equity stake in the SPV.
+
+ Federal Reserve        Corporate bonds issued by a non-bank US       Purchases conducted by a special purpose
+ Primary and            investment grade company with a maturity      vehicle (SPV) which has a loan from the
+ Secondary Market       of 4 years or less in the primary market or   Federal Reserve Bank of New York.
+ Corporate Credit       5 years or less in the secondary market.
+ Facility                                                             The US Treasury has a US$75 billion
+ (23 Mar. 2020 to       Syndicated loans with a maturity of four      equity stake in the special purpose vehicle.
+ 31 Dec. 2020)          years or less.
+
+
+                        US listed ETFs with an investment
+                        objective to provide broad exposure to the
+                        US corporate bond market.
+
+ Bank of England        Commercial paper issued by investment         The Bank of England operates the scheme
+ Covid Corporate        grade UK firms with a maturity of up to one   on behalf of HM Treasury.
+ Financing Facility     year
+ (17 Mar. 2020 to
+ 16 Mar 2021)
+
+ ECB                    Euro denominated public sector securities,    The facility has an overall envelope of
+ Pandemic               investment grade commercial paper, asset-     €1,350 billion.
+ Emergency              backed securities and covered bonds.
+ Purchase Program
+ (18 Mar. 2020 to (at
+ least) 30 Jun. 2021)
+
+
+The different policy measures used to restore market functioning can be classified into four main
+groups.
+
+     1.   Central bank purchases of assets – both government bonds and risk assets;
+
+     2.   Central bank broad-based liquidity support – in local currency and US dollars – to the
+          banking sector;
+
+     3.   Targeted liquidity support for financial entities; and
+
+     4.   Regulatory measures that helped market functioning, such as an encouragement for
+          banks to use capital and liquidity buffers to support lending or temporary changes to
+          capital requirements for banks.
+
+A number of examples of each of these types of measures are included in Table A.2.
+
+
+
+
+                                                       54
+There were also other types of measures may have also affected financial market conditions –
+for example, by helping to support the economy and market sentiment. Such measures include:
+(1) government guarantees and direct lending, loan restructuring, capital injections and other
+corporate relief; (2) central bank policy interventions to ease credit conditions and keep markets
+open and functioning; (3) prudential measures to facilitate the continued flow of credit to the real
+economy and provide operational flexibility to supervised firms; and (4) other actions to support
+market functioning, such as circuit breakers and short-sales bans. 81 While these policies were
+an important part of the overall effort to combat the economic impact of COVID-19 lockdown
+measures, they go beyond the scope of this report.
+
+               Table A.2: Examples of measures taken to help restore market functioning1
+
+      Policy measure                                                   Selected examples
+                 Government        12 Mar. Bond Buyback Program (CA)
+                 bonds             12 Mar. Expansion of Asset Purchase Program (EA)
+                                   16 Mar. Expansion of government bond and treasury bill purchases (JP)
+                                   19 Mar. Purchases to target a 3-year government bond yield of 0.25 per cent (AU)
+                                   19 Mar. Expansion of Asset Purchase Facility (UK)
+ Asset                             23 Mar. Purchases of treasury securities in “amounts needed” (US)
+ purchases
+                 Risk assets       16 Mar. Expansion of corporate bond, commercial paper and ETF purchases (JP)
+                                   17 Mar. Covid Corporate Financing Facility (UK)
+                                   17 Mar. Commercial Paper Funding Facility (US)
+                                   18 Mar. Pandemic Emergency Purchase Program (EA)
+                                   23 Mar. Primary and Secondary Market Corporate Credit Facilities (US)
+
+                 Local             Larger or more frequent Open Market Operations (many)
+                 currency          Expansion of eligible collateral (many)
+ Broad-                            24 Mar. Contingent Term Repo Facility (UK)
+ based                             26 Mar. Expansion of liquidity operation counterparties (KR)
+ liquidity
+                                   30 Apr. Pandemic Emergency Longer-Term Refinancing Operations (EA)
+ support to
+ banks           US dollars        Foreign currency swap auctions (many)
+                                   15/19 Mar. Central Bank US dollar swap lines (US with 14 jurisdictions)
+                                   31 Mar. Facility for Foreign and International Monetary Authorities (US with many)
+
+ Targeted                          17 Mar. Primary Dealer Credit Facility (US)
+ liquidity                         18 Mar. Money Market Mutual Fund Liquidity Facility (US)
+ support
+                                   31 Mar. Central bank purchases of government bonds from primary dealers (TR)
+                                   27 Apr. Special Liquidity Facility for non-bank financial companies (IN)
+
+ Regulatory measures               Encourage banks to use buffers to support lending (many)
+                                   Exclusion of central banks reserves from the leverage ratio (many)
+                                   17 Mar. Temporary exemption of program assets from capital requirements (US)
+                                   19 Mar. Money market fund sponsors able to buy assets from affiliates (US)
+                                   9 Apr. Temporary exemption of government bonds from leverage ratio (CA)
+1 The jurisdiction where the measure was taken is shown in parentheses - here, EA is for euro area. The entries in the table are ordered
+
+chronologically then alphabetically by jurisdiction.
+
+
+
+
+81
+     See the FSB’s COVID-19 pandemic: Financial stability implications and policy measures taken – Report to the G20 (July 2020).
+
+
+
+
+                                                                  55
+                                  Abbreviations
+APC      Anti-procylicality
+AE       Advanced Economy
+AUM      Assets under Management
+BCBS     Basel Committee on Banking Supervision
+BIS      Bank for International Settlements
+BOJ      Bank of Japan
+CCP      Central Counterparty
+CD       Certificate of Deposit
+CLO      Collateralised Loan Obligation
+CP       Commercial Paper
+CPFF     Commercial paper Funding Facility (US)
+ECB      European Central Bank
+EME      Emerging Market Economy
+ETF      Exchange Traded Fund
+FSB      Financial Stability Board
+IM       Initial Margin
+IMF      International Monetary Fund
+IOSCO    International Organization of Securities Commissions
+LVNAV    Low Volatility NAV (EU)
+MMF      Money Market Fund
+MMLF     Money Market Mutual Fund Liquidity Facility (US)
+NAV      Net Asset Value
+NBFI     Non-Bank Financial Intermediation
+OPEC     Organization of the Petroleum Exporting Countries
+OTC      Over the Counter
+PBC      People’s Bank of China
+PDCNAV   Public Debt Constant NAV (EU)
+PEPP     Pandemic Emergency Purchase Programme (EU)
+SPV      Special Purpose Vehicle
+VM       Variation Margin
+WHO      World Health Organisation
+
+
+
+
+                                          56
+

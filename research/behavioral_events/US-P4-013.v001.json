@@ -1,0 +1,87 @@
+{
+  "market": "US",
+  "family": "central_bank_liquidity_execution",
+  "parent_episode": "US_TDF",
+  "published_date": "2010-06-29",
+  "available_at": "2010-06-29T12:00:00-04:00",
+  "timezone": "America/New_York",
+  "publication_date_precision": "MINUTE",
+  "publication_date_evidence": {
+    "excerpt": "June 29, 2010; For release at 12:00 p.m. EDT",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/b04cdb35233e2f1dfff4.html"
+  },
+  "participant_type": "Federal Reserve and eligible depository institutions",
+  "constraint": "银行选择将储备转为不能即期支付的定期存款；Fed技术性测试",
+  "trigger": "公布定期存款拍卖授标结果",
+  "observed_action": "TDF存款授标已完成；未来settlement将把可用准备金转成定期存款，方向与TAF相反",
+  "action_status": "OBSERVED_ACTION",
+  "action_type": "RETROSPECTIVE_DISCLOSURE",
+  "flow_size": {
+    "value": 2121880000.0,
+    "currency": "USD",
+    "unit": "USD",
+    "scope": "this auction gross awarded principal",
+    "basis": "AWARD_RESULT_NOT_SETTLED_CASH_FLOW; offered ceiling excluded; renewal/net balance not known"
+  },
+  "flow_duration": "28-day loan/deposit term, not an equity buying forecast",
+  "assets": [
+    "SPY"
+  ],
+  "voluntary_or_forced": "VOLUNTARY_BID; funding need may constrain choice but no proven forced equity sale",
+  "price_sensitive": "AUCTION_PRICE_SENSITIVE",
+  "information_based": "FUNDING_OPERATION_NOT_STOCK_VIEW",
+  "known_at_t": [
+    "For release at 12:00 p.m. EDT\nShare\nOn June 28, 2010, the Federal Reserve conducted an auction of $2 billion in 28-day term deposits through its Term Deposit Facility. Following are the results of the auction:\nTDF Auction ID:\nA12\nCompetitive Amount Offered:\n$ 2,000,000,000\nCompetitive Amount Tendered:\n$ 11,135,780,000\nCompetitive Amount Awarded:\n$ 2,000,000,000\nNon-Competitive Amount Awarded:\n$ 121,880,000\nTotal Amount Awarded:\n$ 2,121,880,000\nStop-Out Rate:\n0.27000 percent\nBid-to-Cover Ratio (Competitive Auction):\n5.57\nNumber of Bids Submitted:\n181\nNumber of Participants Submitting Bids:\n107\nBids at the stop-out rate were pro-rated at 94.79 percent. Resulting awards were rounded to the nearest $10,000 except that all awards below $10,000 were rounded up to $10,000.\nThe awarded deposits will settle on July 1, 2010, and will mature on July 29, 2010. The stop-out rate shown above will apply to all awarded deposits.\n"
+  ],
+  "known_only_after_t": [],
+  "unknown_at_t": [
+    "未来价格、市场真实预期、未公开的仓位/对冲以及交易对手约束",
+    "实际未来交割、净新增而非rollover金额、借款人身份/资产质量、资金是否购买股票"
+  ],
+  "source_ids": [
+    "US_SOURCE_b04cdb35233e2f1dfff4"
+  ],
+  "source_paths": [
+    "research/phase4/sources/us/b04cdb35233e2f1dfff4.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20100629a.htm"
+  ],
+  "source_sha256": [
+    "dc09c1e9afcf204fcc03c04ce32e8dff8b153fbcc061405e4e1824b44cdb5463"
+  ],
+  "source_excerpt": "For release at 12:00 p.m. EDT\nShare\nOn June 28, 2010, the Federal Reserve conducted an auction of $2 billion in 28-day term deposits through its Term Deposit Facility. Following are the results of the auction:\nTDF Auction ID:\nA12\nCompetitive Amount Offered:\n$ 2,000,000,000\nCompetitive Amount Tendered:\n$ 11,135,780,000\nCompetitive Amount Awarded:\n$ 2,000,000,000\nNon-Competitive Amount Awarded:\n$ 121,880,000\nTotal Amount Awarded:\n$ 2,121,880,000\nStop-Out Rate:\n0.27000 percent\nBid-to-Cover Ratio (Competitive Auction):\n5.57\nNumber of Bids Submitted:\n181\nNumber of Participants Submitting Bids:\n107\nBids at the stop-out rate were pro-rated at 94.79 percent. Resulting awards were rounded to the nearest $10,000 except that all awards below $10,000 were rounded up to $10,000.\nThe awarded deposits will settle on July 1, 2010, and will mature on July 29, 2010. The stop-out rate shown above will apply to all awarded deposits.\n",
+  "pit_status": "VERIFIED",
+  "confidence_level": "LEVEL 1",
+  "mechanism": "TAF缓解合格抵押融资约束；TDF是相反方向的准备金期限转换，不能共同归为QE",
+  "alternative_explanation": "流动性操作可能是危机严重程度的内生响应；授标可能替代其他融资/展期，非净增股市资金",
+  "falsifier": "融资约束未缓解、使用者/资产偿付恶化，或授标未交割/只为技术测试",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "protocol": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+    "catalog_index": 59,
+    "catalog_n": 77,
+    "rule": "date order equisequence floor(i*(n-1)/9); no outcome/price filter"
+  },
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "outcomes": null,
+  "event_id": "US-P4-013",
+  "source_revision_risk": "Official historical original currently hosted; no contemporaneous independent archive snapshot; possible silent source corrections.",
+  "broad_asset_reaction_only": true,
+  "counterfactual": "NOT_IDENTIFIED: matched broad-asset date controls are descriptive and cannot isolate actor-specific counterfactual",
+  "generalizability": "Not established; same program/company and common macro constraints cluster observations.",
+  "closest_similar_events": [],
+  "important_differences": [],
+  "study_asset": "SPY",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/us/b04cdb35233e2f1dfff4.html": "dc09c1e9afcf204fcc03c04ce32e8dff8b153fbcc061405e4e1824b44cdb5463"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.federalreserve.gov/boarddocs/snloansurvey/201311/table1.htm",
+  "source_path": "research/phase4/sources/us/US_SOURCE_212803af985db52b9829.pdf",
+  "source_sha256": "02ffb1cea05320e75bb456ccfcb911f434af266dd1b598641439dbb4fee19818",
+  "content_type": "application/pdf",
+  "role": "original_respondent_table",
+  "source_id": "US_SOURCE_212803af985db52b9829",
+  "bytes": 367749,
+  "reused_from": "research/phase3/data/credit/raw/212803af985db52b.bin"
+}

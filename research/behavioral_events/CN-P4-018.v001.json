@@ -1,0 +1,82 @@
+{
+  "event_id": "CN-P4-018",
+  "market": "China",
+  "family": "公司/产业资金",
+  "parent_episode": "CN-CORPORATE-BUYBACK-2020",
+  "published_date": "2020-06-11",
+  "available_at": "2020-06-11T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "上市公司/控股股东/管理层/产业企业",
+  "constraint": "预算、现金流、债务、公司治理、回购用途",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "2020年1–5月199家上市公司实施股份回购，金额147.31亿元",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 147.31,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_AGGREGATE_BUYBACK_REPORTED",
+    "scope": "2020年1–5月两市回购",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "已报告期间的累计事实；未来持续期UNKNOWN_AT_T",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "price_sensitive": "UNKNOWN_AT_T",
+  "information_based": "UNKNOWN_AT_T",
+  "known_at_t": [
+    "2020年1–5月199家上市公司实施股份回购，金额147.31亿元",
+    "累计流量是发布前的既成事实，不能证明发布后仍有剩余买盘"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "市场事前预期和已计价程度",
+    "新增流量的未来净额、持续性和对手方",
+    "受益资产长期盈利、偿付能力是否受损"
+  ],
+  "source_ids": [
+    "CN-S-CORP-2020"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-CORP-2020.html"
+  ],
+  "source_urls": [
+    "https://www.csrc.gov.cn/csrc/c100028/c1000767/content.shtml"
+  ],
+  "source_sha256": [
+    "5cc65e90b25a352180660df647ff2ee473a3a67b12a45ff9f366b0a44ff32394"
+  ],
+  "source_excerpt": "今年 1-5月，实施股份回购的上市公司达199家，金额147.31亿元 。 分红和回购的双轮驱动，使 投资者 特别是中小投资者 的获得感 进一步增强 ，也为维护疫情期间的市场稳定发挥了重要作用。 从当前经济形势来看，尽管一季度极不寻常，突如其来的新冠肺炎疫情对我国经济社会发展带来前所未有的冲击，客观上要求我们必须充分估计困难、风险和不确定性，增强紧迫感。但另",
+  "publication_date_evidence": {
+    "source_id": "CN-S-CORP-2020",
+    "excerpt": "2020年年会上的讲话 日期：2020-06-11 来源： 分享到： QQ空间 豆瓣网 【字号： 大 中 小 ",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "付出真实资金比口头意向更可检验；回购可用于员工激励而不注销，产业费用可产生供给竞争",
+  "alternative_explanation": "公司在高价回购、员工激励/支撑价格、行业过度投资；经济变化共同决定支出与价格",
+  "falsifier": "投资未转化为订单/自由现金流、回购用途造成再稀释、或预算/剩余额度已耗尽",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-CORP-2020.html": "5cc65e90b25a352180660df647ff2ee473a3a67b12a45ff9f366b0a44ff32394"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

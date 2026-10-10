@@ -1,0 +1,304 @@
+{
+  "created_at": "2026-10-10T08:10:15.240824+00:00",
+  "scope": "Own nine new theory documents and reference source bytes; not old-result QA or investment validation",
+  "source_n": 27,
+  "historical_events_admitted": 0,
+  "probability_forecasts": 0,
+  "new_operative_rules": 0,
+  "sources": [
+    {
+      "source_id": "FW01",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW02",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW03",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW04",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW05",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW06",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW07",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 0,
+      "static_content_scope": "PARTIAL_DYNAMIC_PAGE"
+    },
+    {
+      "source_id": "FW08",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW09",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW10",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW11",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW12",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW13",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 4,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW14",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW15",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW16",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW17",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW18",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 1,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW19",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW20",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW21",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW22",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW23",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW24",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW25",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 3,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW26",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 2,
+      "static_content_scope": "FETCHED_REFERENCE"
+    },
+    {
+      "source_id": "FW27",
+      "bytes_match": true,
+      "sha_match": true,
+      "event_admissible": false,
+      "matched_terms_n": 4,
+      "static_content_scope": "FETCHED_REFERENCE"
+    }
+  ],
+  "documents": [
+    {
+      "path": "CONSTRAINED_CAPITAL_FRAMEWORK.md",
+      "bytes": 6212,
+      "sha256": "21e52472468dec3f77097d8a28fee5a6dcde79815cfb7c57d2fa51b3825c6f54",
+      "level1_statement": true,
+      "local_links": []
+    },
+    {
+      "path": "MARKET_FOOTPRINTS.md",
+      "bytes": 27613,
+      "sha256": "a931ad4a916b1fbd100fb3a9cdf94429a7ebbce8fbb7ea6f7d0b71c8158dbacf",
+      "level1_statement": true,
+      "local_links": []
+    },
+    {
+      "path": "PANIC_AND_FORCED_LIQUIDATION_FRAMEWORK.md",
+      "bytes": 4586,
+      "sha256": "975a5554d043073b88ecf168a7a03a73fb0f16f431cf35ea98c4325cfb0e4f2c",
+      "level1_statement": true,
+      "local_links": []
+    },
+    {
+      "path": "SLOW_MONEY_TREND_FRAMEWORK.md",
+      "bytes": 3755,
+      "sha256": "9906bc8a7f13c023317b341e39111cc8e7864ab8d024d94d35e86ea63595414a",
+      "level1_statement": true,
+      "local_links": []
+    },
+    {
+      "path": "EXPECTATION_GAP_FRAMEWORK.md",
+      "bytes": 3400,
+      "sha256": "301e84205abe8338fa4eb3e744cba8271f600043ca4109b1ba67770917079655",
+      "level1_statement": true,
+      "local_links": []
+    },
+    {
+      "path": "CAPITAL_CYCLE_FRAMEWORK.md",
+      "bytes": 4880,
+      "sha256": "5187a4407dacbca619a7141a74e9081b2a8fe58b615fd52441fdc7fc21d826b1",
+      "level1_statement": true,
+      "local_links": []
+    },
+    {
+      "path": "REVEALED_PREFERENCE_FRAMEWORK.md",
+      "bytes": 3925,
+      "sha256": "3df9db193a6fb445bf0097e507e4daf0d2b3929a63aa67e4219d16c4229589ca",
+      "level1_statement": true,
+      "local_links": []
+    },
+    {
+      "path": "RULE_CHANGE_MONITOR.md",
+      "bytes": 7246,
+      "sha256": "ee249be31af9f3f9e7e79cd5fffe742d6b7fb690d656710c20779e5cdabed2a3",
+      "level1_statement": false,
+      "local_links": []
+    },
+    {
+      "path": "HUMAN_DECISION_ARCHITECTURE.md",
+      "bytes": 5817,
+      "sha256": "5afc8de22fb106625efcce3a7f28096658b2c7564ce8a68f122b7775623e1ef5",
+      "level1_statement": false,
+      "local_links": []
+    }
+  ],
+  "footprints_n": 27,
+  "dimension_counts": {
+    "Timeliness / 及时性": 27,
+    "Reliability / 可靠性": 27,
+    "Coverage / 覆盖": 27,
+    "Lag / 发布滞后": 27,
+    "Revision Risk / 修订": 27,
+    "Manipulation Risk / 操纵与策略影响": 27,
+    "Interpretability / 可解释性": 27,
+    "Market Relevance / 市场相关性": 27
+  },
+  "all_source_sha_size_pass": true,
+  "all_eight_dimensions_per_footprint": true
+}

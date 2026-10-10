@@ -1,0 +1,108 @@
+{
+  "event_id": "JP-P4-024",
+  "market": "Japan",
+  "family": "CorporateCapitalAllocation",
+  "parent_episode": "JP-JPX-BUYBACK-20160728",
+  "published_date": "2017-01-04",
+  "available_at": "2017-01-04T23:59:59+09:00",
+  "timezone": "Asia/Tokyo",
+  "published_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Jan. 04, 2017",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/jpx_corp_catalog_201701.html",
+    "source_sha256": "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21",
+    "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html",
+    "historical_vintage_independently_archived": false
+  },
+  "participant_type": "Corporation (Japan Exchange Group; single company only)",
+  "constraint": "董事会授权上限、取得期限、blackout与市场购回规则；额度并非必须完成的义务",
+  "trigger": "Jan. 04, 2017 Disclosure Status of Acquisition of Own Shares",
+  "observed_action": "公布已执行回购状态，包含真实零执行月与结束记录",
+  "action_status": "OBSERVED_ACTION",
+  "action_type": "RETROSPECTIVE_DISCLOSURE",
+  "flow_size": {
+    "value": 0,
+    "unit": "JPY",
+    "basis": "PERIOD_ACTUAL_REPURCHASE_VALUE; positive is issuer gross purchase, not broad-market net flow"
+  },
+  "flow_duration": "December 1, 2016 – December 31, 2016",
+  "assets": [
+    "NIKKEI"
+  ],
+  "voluntary_or_forced": "VOLUNTARY_WITH_AUTHORIZATION_CAP",
+  "price_sensitive": "自主选择取得速度与是否完成上限；确切limit order未知",
+  "information_based": "资本分配/库存股取得行为；管理层看好不等于投资正确",
+  "known_at_t": [
+    "截至公开日已披露该取得期间真实购回JPY 0",
+    "实际股数 0，按交易日口径",
+    "回购上限与累积完成额是不同字段；当期0不能删除为失败样本",
+    "这是单个JPX公司，不代表全日本企业净流，也不测试个股alpha",
+    "2016董事会上限JPY10bn；已披露累积JPY3,994,268,900"
+  ],
+  "known_only_after_t": [
+    "此发布日期以后的市场回报、追加政策/执行与实际现金流变化；本文件未读取"
+  ],
+  "unknown_at_t": [
+    "市场预期中已计入的行动规模/时间",
+    "同日其他政策与全球风险变化",
+    "可靠原始信用/盈利修正",
+    "实际可交易alpha",
+    "未来买入是否还有余额、是否愿意执行",
+    "8697原点时预期/估值/盈利修正"
+  ],
+  "source_ids": [
+    "jp_event_source_024",
+    "jpx_corp_catalog_201701"
+  ],
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_024.pdf",
+    "research/phase4/sources/japan/jpx_corp_catalog_201701.html"
+  ],
+  "source_urls": [
+    "https://www.jpx.co.jp/english/corporate/news-releases/0063/b5b4pj000001gfvx-att/20170104_AOSE.pdf",
+    "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html"
+  ],
+  "source_sha256": [
+    "52e41e4a3ace5f82950a56846fb1c4cfc78b5820df59032ad32df04af46a5eaa",
+    "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21"
+  ],
+  "source_excerpt": "1. Classification of shares acquired Common shares 2． Total no. of shares acquired 0 shares 3． Total value of shares acquired JPY 0 4． Acquisition period December 1, 2016 – December 31, 2016 5． Acquisition method Purchase on the market of Tokyo Stock Exchange ",
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "mechanism": "已实施回购减少可流通供给但授权残余额不代表未来刚性买盘；公告后的新增买入须另证",
+  "alternative_explanation": "EPS机械变化、资本结构/员工激励库存、经营现金流及市场变化；NIKKEI仅宽基背景而非8697个股收益",
+  "falsifier": "计划结束/执行归零，或经营回报不改善；此时剩余额度≠持续买盘",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "method": "official catalog ascending equal-rank capped 10 per family; n<=10 all retained",
+    "catalog_index": 0,
+    "catalog_n": 8,
+    "catalog_coverage": "PARTIAL_CATALOG",
+    "outcome_used": false
+  },
+  "source_vintage_limitation": "原publisher日期可确认；现有网站字节不是独立历史网页快照，未证明每个字节在T已原样存在。",
+  "reported_actual_period_shares": 0,
+  "study_asset": "N225",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_024.pdf": "52e41e4a3ace5f82950a56846fb1c4cfc78b5820df59032ad32df04af46a5eaa",
+    "research/phase4/sources/japan/jpx_corp_catalog_201701.html": "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21"
+  },
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Jan. 04, 2017",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/jpx_corp_catalog_201701.html",
+    "source_sha256": "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21",
+    "source_url": "https://www.jpx.co.jp/english/corporate/news/news-releases/static-archives-201701.html",
+    "historical_vintage_independently_archived": false
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

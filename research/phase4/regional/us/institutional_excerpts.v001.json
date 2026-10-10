@@ -1,0 +1,373 @@
+{
+  "records": [
+    {
+      "reference_key": "TREASURY",
+      "source_id": "US_SOURCE_d2b9e828479ae581146f",
+      "source_path": "research/phase4/sources/us/d2b9e828479ae581146f.html",
+      "source_sha256": "2c946340bb4ef0c9113298ddfb884d80012d2beba5501123b0080cb8447e8f8e",
+      "source_url": "https://home.treasury.gov/policy-issues/financing-the-government",
+      "derived_text_path": "research/phase4/sources/us/d2b9e828479ae581146f.txt",
+      "derived_text_sha256": "3789a9173c2d03344b9c8644f08493936748409bcf5a34ab08d8abd3fa46ec1e",
+      "excerpts": [
+        {
+          "search_term": "debt",
+          "excerpt": "tecting Charitable Organizations FINANCING THE GOVERNMENTTreasury Quarterly RefundingInterest Rate StatisticsTreasury SecuritiesTreasury Investor DataDebt Management Research FINANCIAL MARKETS, FINANCIAL INSTITUTIONS, AND FISCAL SERVICECash and Debt ForecastingDebt LimitFinancial Stability Oversight CouncilFederal Insurance OfficeRESTORE Act1603 ProgramThe Community Development Financial Institution (CDFI) FundOffice of Capital Access FINANCIAL SANCTIONSSpecially Designated Nationals List (SDN List)Consolidated Sanctions ListSearch OFAC's Sanctions ListsAdditional Sanctions ListsOFAC Recent ActionsSanctions Programs and Country InformationFrequently Asked QuestionsOFAC Civil Penalties and EnforcementContact OFAC CONSUMER POLICYFinancial Lit"
+        },
+        {
+          "search_term": "Treasury",
+          "excerpt": "Financing the Government | U.S. Department of the Treasury Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock (LockLocked padlock icon) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. MENU MENU U.S. Department of the Treasury Enter Search Term(s): Advanced SearchAbout Treasury About Treasury GENERAL INFORMATIONRole of the TreasuryOfficialsOrganizational Chart"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "TREASURY_TARP",
+      "source_id": "US_SOURCE_62c3d5637662bd496bb3",
+      "source_path": "research/phase4/sources/us/62c3d5637662bd496bb3.html",
+      "source_sha256": "41e82c6fedba2121c98fe1cad96e54f13c023118d70b5fbd90c54be1ce0cae1d",
+      "source_url": "https://home.treasury.gov/data/troubled-asset-relief-program",
+      "derived_text_path": "research/phase4/sources/us/62c3d5637662bd496bb3.txt",
+      "derived_text_sha256": "16ca159f32b1869c6636e817f389d5631948557cc4cbe901e08de4a47964a285",
+      "excerpts": [
+        {
+          "search_term": "TARP",
+          "excerpt": "ield CurvesReceipts & OutlaysInvestor Class Auction AllotmentsU.S. International Reserve PositionTreasury Open DataTroubled Asset Relief ProgramAbout TARPAuto IndustryBank Investment ProgramsCredit Market ProgramsExecutive CompensationInvestment in American International Group (AIG)TARP ReportsDigital Government Strategy MilestonesOther Programs Troubled Asset Relief Program Treasury established several programs under TARP to help stabilize the U.S. financial system, restart economic growth, and prevent avoidable foreclosures. Although Congress initially authorized $700 billion for TARP in October 2008, that authority was reduced to $475 billion by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). Of that, the "
+        },
+        {
+          "search_term": "stability",
+          "excerpt": "asury Investor DataDebt Management Research FINANCIAL MARKETS, FINANCIAL INSTITUTIONS, AND FISCAL SERVICECash and Debt ForecastingDebt LimitFinancial Stability Oversight CouncilFederal Insurance OfficeRESTORE Act1603 ProgramThe Community Development Financial Institution (CDFI) FundOffice of Capital Access FINANCIAL SANCTIONSSpecially Designated Nationals List (SDN List)Consolidated Sanctions ListSearch OFAC's Sanctions ListsAdditional Sanctions ListsOFAC Recent ActionsSanctions Programs and Country InformationFrequently Asked QuestionsOFAC Civil Penalties and EnforcementContact OFAC CONSUMER POLICYFinancial Literacy and Education CommissionMymoney.govInnovations in Financial ServicesFeatured ResearchStudent Loans INTERNATIONALThe Committee"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "FED_SRF",
+      "source_id": "US_SOURCE_3bf4638ed156bd7e623e",
+      "source_path": "research/phase4/sources/us/3bf4638ed156bd7e623e.html",
+      "source_sha256": "f702cfba39dec05f60f6e22c89e64483a0c5a4f7697432f26f167c5c12c1da2b",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/standing-overnight-repurchase-agreement-facility.htm",
+      "derived_text_path": "research/phase4/sources/us/3bf4638ed156bd7e623e.txt",
+      "derived_text_sha256": "efc7792c807c4419813999ebcabf43740c3a1c66f7fb3c3ea9ad727014e00477",
+      "excerpts": [
+        {
+          "search_term": "counterparties",
+          "excerpt": " Operations Since 2021, the Federal Reserve has conducted standing repurchase agreement (SRP) operations. SRP operations supply liquidity to eligible counterparties and thereby limit upward pressure and help provide a ceiling on overnight money market rates to support monetary policy implementation and smooth market functioning. SRP operations serve as a source of financing for eligible counterparties when it is economically sensible. SRP operations limit upward pressures in overnight funding markets that could spill over to the federal funds markets and impair the implementation and transmission of monetary policy. When the Federal Reserve conducts an overnight repo, it buys a security from an eligible counterparty and simultaneously agree"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "NYFED_DEALERS",
+      "source_id": "US_SOURCE_eb8fcdbdb8926223e20a",
+      "source_path": "research/phase4/sources/us/eb8fcdbdb8926223e20a.html",
+      "source_sha256": "2e491ec41302864deb33188679f6fc91461b42ee77c74ab9329f77f191eab825",
+      "source_url": "https://www.newyorkfed.org/markets/pridealers_policies",
+      "derived_text_path": "research/phase4/sources/us/eb8fcdbdb8926223e20a.txt",
+      "derived_text_sha256": "8c16065a58b75a31164c47d91d1f2ee811a09fd60bf31b61501b9117b7d5e1e1",
+      "excerpts": [
+        {
+          "search_term": "participate",
+          "excerpt": "rties of the Federal Reserve Bank of New York (The New York Fed) in its implementation of monetary policy. This role includes the obligations to: (i) participate consistently as counterparty to the New York Fed in its execution of open market operations to carry out U.S. monetary policy pursuant to the direction of the Federal Open Market Committee (FOMC); and (ii) provide the New York Fed’s trading desk with market information and analysis helpful in the formulation and implementation of monetary policy. Primary dealers are also required to participate in all auctions of U.S. government debt and to make reasonable markets for the New York Fed when it transacts on behalf of its foreign official account-holders. This policy sets the standard"
+        },
+        {
+          "search_term": "risk",
+          "excerpt": "cent College Graduates Labor Market Tightness Index Financial Stability Corporate Bond Market Distress Index Losses from Natural Disasters Outlook-at-Risk Treasury Term Premia Yield Curve as a Leading Indicator Banking Banking Research Data Sets Reserve Demand Elasticity REGIONAL ECONOMY Empire State Manufacturing Survey Business Leaders Survey Regional Business Surveys: Special Topics Regional Employment Trends Early Benchmarked Employment Data INTERNATIONAL ECONOMY Global Supply Chain Pressure Index RESEARCHERS Staff Economists Visiting Scholars Resident Scholars PUBLICATIONS Liberty Street Economics Staff Reports Economic Policy Review Outside Journals RESEARCH CENTERS Applied Macroeconomics & Econometrics Center (AMEC) Center for Microe"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "SEC_OPENEND",
+      "source_id": "US_SOURCE_4cd9a57cab787176fa9b",
+      "source_path": "research/phase4/sources/us/4cd9a57cab787176fa9b.html",
+      "source_sha256": "f379a3ce97a7e9a0aebd4798a536c1aef46b642fddb658186e3511c8df9686c1",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2016-215",
+      "derived_text_path": "research/phase4/sources/us/4cd9a57cab787176fa9b.txt",
+      "derived_text_sha256": "c180fcf4df0c70f9595974a7d01dc01780931b46903bafb5b87ce1fe0204f5e1",
+      "excerpts": [
+        {
+          "search_term": "liquidity",
+          "excerpt": "SEC.gov | SEC Adopts Rules to Modernize Information Reported by Funds, Require Liquidity Risk Management Programs, and Permit Swing Pricing Skip to search field Skip to main content An official website of the United States government Here’s how you know Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. SEC homepage Menu Close Search SEC.gov & EDGAR Search Search Filings Search Filings Full Text Search Latest"
+        },
+        {
+          "search_term": "redemptions",
+          "excerpt": " designed to promote effective liquidity risk management for mutual funds and ETFs, reducing the risk that funds will not be able to meet shareholder redemptions and mitigating potential dilution of the interests of fund shareholders. The new rules will require mutual funds and ETFs to establish liquidity risk management programs that address multiple elements, including classification of the liquidity of fund portfolio investments and a highly liquid investment minimum. The rules also strengthen the 15 percent limit on illiquid investments and will require enhanced disclosure regarding fund liquidity and redemption practices. The swing pricing rule will permit mutual funds to use swing pricing – the process of adjusting a fund’s net asset "
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "SEC_ETF",
+      "source_id": "US_SOURCE_f0cdfa3fadaf0f770964",
+      "source_path": "research/phase4/sources/us/f0cdfa3fadaf0f770964.html",
+      "source_sha256": "dcf51f40fc92be680afb1bf60f8eb6fee919486700aaf256092123005175a301",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2019-190",
+      "derived_text_path": "research/phase4/sources/us/f0cdfa3fadaf0f770964.txt",
+      "derived_text_sha256": "c5b046bc7da67c296e10f2004cdb13b7888f02d33dbb77ed2927ee7a3e921fdb",
+      "excerpts": [],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "SEC_T1",
+      "source_id": "US_SOURCE_24fa8491e8be361707df",
+      "source_path": "research/phase4/sources/us/24fa8491e8be361707df.html",
+      "source_sha256": "3fd62bc6be1535e85738a62eb826a706fa74c6af347e9dd71e2df0d4bb9fbe97",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2023-29",
+      "derived_text_path": "research/phase4/sources/us/24fa8491e8be361707df.txt",
+      "derived_text_sha256": "3e1ee7435717e3925cb010da77ee3ba2916334b47cace06c8d596e9bade9df09",
+      "excerpts": [
+        {
+          "search_term": "T+1",
+          "excerpt": " to shorten the standard settlement cycle for most broker-dealer transactions in securities from two business days after the trade date (T+2) to one (T+1). The final rule is designed to benefit investors and reduce the credit, market, and liquidity risks in securities transactions faced by market participants. “I support this rulemaking because it will reduce latency, lower risk, and promote efficiency as well as greater liquidity in the markets,” said SEC Chair Gary Gensler. “Today’s adoption addresses one of the four areas the staff recommended the Commission address in response to the meme stock events of 2021. Taken together, these amendments will make our market plumbing more resilient, timely, orderly, and efficient.” In addition to s"
+        },
+        {
+          "search_term": "settlement",
+          "excerpt": "SEC.gov | SEC Finalizes Rules to Reduce Risks in Clearance and Settlement Skip to search field Skip to main content An official website of the United States government Here’s how you know Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. SEC homepage Menu Close Search SEC.gov & EDGAR Search Search Filings Search Filings Full Text Search Latest Filings Mutual Fund Search Variable Insurance Pro"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "SEC_10B18",
+      "source_id": "US_SOURCE_39ff2296b1dcaeaeac70",
+      "source_path": "research/phase4/sources/us/39ff2296b1dcaeaeac70.html",
+      "source_sha256": "18c1c7af505b7973bca16e2dd29ccb3972c89bedb2833ae4f436ce81a77b2bb1",
+      "source_url": "https://www.sec.gov/rules-regulations/2003/11/purchases-certain-equity-securities-issuer-others",
+      "derived_text_path": "research/phase4/sources/us/39ff2296b1dcaeaeac70.txt",
+      "derived_text_sha256": "83ccc007f7a4808da18f96bd74060acf992d297987004a38ac1f0de55d1fc37a",
+      "excerpts": [
+        {
+          "search_term": "conditions",
+          "excerpt": "from liability for manipulation when they repurchase their common stock in the market in accordance with the Rule's manner, timing, price, and volume conditions. The amendments are intended to simplify and update the safe harbor provisions in light of market developments since the Rule's adoption. To enhance the transparency of issuer repurchases, we also are adopting amendments to a number of regulations and forms to require disclosure of all issuer repurchases (open market and private transactions), regardless of whether the repurchases are effected in accordance with the safe harbor rule. Dates: Effective Date: December 17, 2003, except §§ 270.23c-1(a)(11) and 274.201 are effective July 15, 2004. Compliance Dates: The following complianc"
+        },
+        {
+          "search_term": "safe harbor",
+          "excerpt": "nal rule. Summary: We are adopting amendments to Rule 10b-18 under the Securities Exchange Act of 1934 (Exchange Act), which provides issuers with a \"safe harbor\" from liability for manipulation when they repurchase their common stock in the market in accordance with the Rule's manner, timing, price, and volume conditions. The amendments are intended to simplify and update the safe harbor provisions in light of market developments since the Rule's adoption. To enhance the transparency of issuer repurchases, we also are adopting amendments to a number of regulations and forms to require disclosure of all issuer repurchases (open market and private transactions), regardless of whether the repurchases are effected in accordance with the safe h"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "SEC_13F",
+      "source_id": "US_SOURCE_2dc9bffc49f061afa9cc",
+      "source_path": "research/phase4/sources/us/2dc9bffc49f061afa9cc.html",
+      "source_sha256": "8987bb0b302f39037483f9ec9fae9b1ab72d499caa698f00a4db52c81c9fae6d",
+      "source_url": "https://www.sec.gov/divisions/investment/13ffaq",
+      "derived_text_path": "research/phase4/sources/us/2dc9bffc49f061afa9cc.txt",
+      "derived_text_sha256": "bcb07aa4fb219614482eb0c5e614d9d4fdd1f9e6d271d40ad81b8659497d04b0",
+      "excerpts": [
+        {
+          "search_term": "45 days",
+          "excerpt": "r meeting the $100 million filing threshold -- you subsequently fall below such threshold. See, e.g., FAQs 28-29. The first such filing is due within 45 days after the end of the fourth quarter of the calendar year, i.e., the quarter ending December 31 of the same calendar year that you meet the $100 million filing threshold. The filing is due within 45 days after December 31, or, stated differently, by February 14 of the subsequent calendar year. Rule 13f-1(a)(1) also requires that you submit three additional Form 13F filings during the subsequent calendar year. Each filing is due within 45 days after the end of the calendar quarter, i.e., the calendar quarters that end on March 31, June 30, and September 30. See Rule 13f-1(a)(1) under the"
+        },
+        {
+          "search_term": "quarter",
+          "excerpt": " on Form 13F. A list of these securities - called the Official List of Section 13(f) Securities - is available shortly after the end of each calendar quarter on the SEC's website, at http://www.sec.gov/divisions/investment/13flists.htm. Section 13(f) securities are equity securities of a class described in Section 13(d)(1) of the Securities Exchange Act. See Section 13(d)(1) of the Securities Exchange Act. The Official List of Section 13(f) Securities primarily includes U.S. exchange-traded stocks (e.g., NYSE, AMEX, NASDAQ), shares of closed-end investment companies, and shares of exchange-traded funds (ETFs). Certain convertible debt securities, equity options, and warrants are on the Official List and may be reported. But see Section 13(f"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "NAIC_RBC",
+      "source_id": "US_SOURCE_846819e9995d12fec1c7",
+      "source_path": "research/phase4/sources/us/846819e9995d12fec1c7.html",
+      "source_sha256": "98e7fb3dfa2e9d070abf4882d834717c9b4d7f6ad7991dc64d9e30c0ff8f4af5",
+      "source_url": "https://content.naic.org/insurance-topics/risk-based-capital",
+      "derived_text_path": "research/phase4/sources/us/846819e9995d12fec1c7.txt",
+      "derived_text_sha256": "fed4f27523166d4300aed758ae76444f5e47a3a71a44e89c22ee071948856892",
+      "excerpts": [
+        {
+          "search_term": "capital",
+          "excerpt": "Insurance Topics | Risk-Based Capital | NAIC Skip to main content Close Mega Menu Regulator Regulator We provide tools and resources to help regulators set standards and best practices, provide regulatory support functions, and educate on U.S. state-based insurance regulation. Learn More Events and Meetings Explore future meetings and access past event documents. Expense Reporting Access forms and tools to file expense reports, review grant and zone scholarship balances, and travel guidelines. myNAIC Access technology tools and resources for U.S. insurance regulators. Education and Training Overview Training for Regulators"
+        },
+        {
+          "search_term": "risk",
+          "excerpt": "Insurance Topics | Risk-Based Capital | NAIC Skip to main content Close Mega Menu Regulator Regulator We provide tools and resources to help regulators set standards and best practices, provide regulatory support functions, and educate on U.S. state-based insurance regulation. Learn More Events and Meetings Explore future meetings and access past event documents. Expense Reporting Access forms and tools to file expense reports, review grant and zone scholarship balances, and travel guidelines. myNAIC Access technology tools and resources for U.S. insurance regulators. Education and Training Overview Training for"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "CFTC_COT",
+      "source_id": "US_SOURCE_0850d09f28777d142e2f",
+      "source_path": "research/phase4/sources/us/0850d09f28777d142e2f.html",
+      "source_sha256": "d3d6de0b187a09185eee2fa4bc3e82d889fed5a0f0ad2c47cd937aca64c93ac1",
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm",
+      "derived_text_path": "research/phase4/sources/us/0850d09f28777d142e2f.txt",
+      "derived_text_sha256": "80b94d56b6d58f34e2febf08136ec99399db659ed6387409392383c23718038e",
+      "excerpts": [
+        {
+          "search_term": "Tuesday",
+          "excerpt": "hes the Commitments of Traders (COT) reports to help the public understand market dynamics. Specifically, the COT reports provide a breakdown of each Tuesday’s open interest for futures and options on futures markets in which 20 or more traders hold positions equal to or above the reporting levels established by the CFTC. The CFTC releases the weekly COT reports in static format to support the historical usage patterns of industry professionals viewing and accessing each week’s data. Each historical report is viewable with the data for the respective reporting week, along with all historical data compressed within an annual file. In October 2022, CFTC began publishing weekly and historical report data within a public reporting environment t"
+        },
+        {
+          "search_term": "Friday",
+          "excerpt": " publish information on how individual traders are classified in the COT reports. Generally, the data in the COT reports is from Tuesday and released Friday. The CFTC receives the data from the reporting firms on Wednesday morning and then corrects and verifies the data for release by Friday afternoon.Frequently Asked Questions (FAQs) The Division of Market Oversight has prepared the following responses to questions regarding Commitments of Traders reports (COT Reports) published by the Commission. The responses to these FAQs reflect only the views of DMO staff, and not necessarily those of the Commission or any other branch or division. The Commission has neither approved nor disapproved of these FAQs, and they have no legal force or effec"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "FINRA_MARGIN",
+      "source_id": "US_SOURCE_21066f6ff34682a2d033",
+      "source_path": "research/phase4/sources/us/21066f6ff34682a2d033.html",
+      "source_sha256": "550ea1f0a43d58549ef931343c731ece485f450f883606e3017d95fd15865706",
+      "source_url": "https://www.finra.org/rules-guidance/key-topics/margin-accounts/margin-statistics",
+      "derived_text_path": "research/phase4/sources/us/21066f6ff34682a2d033.txt",
+      "derived_text_sha256": "8b2beb88dd1bdb4b49faae7bfa22cb987f9ba84ab459fb093c7f104604186a26",
+      "excerpts": [
+        {
+          "search_term": "debit",
+          "excerpt": "ers are required to submit, on a settlement date basis, as of the last business day of the month, the following customer information:the total of all debit balances in securities margin accounts; andthe total of all free credit balances in all cash accounts and all securities margin accounts. FINRA collects the required data via FINRA's Customer Margin Balance Form. The data is compiled in aggregate form, made available below and in Excel format via the download link on this page. See Margin Balance Reporting: Frequently Asked Questions under FINRA Rule 4521(d) (published April 13, 2021) for additional guidance on the calculation of these balances. Monthly variations in the reported balances may be partially due to member firms modifying th"
+        },
+        {
+          "search_term": "margin",
+          "excerpt": "Margin Statistics | FINRA.org Skip to main content FINRA Utility Menu About Us Careers BrokerCheck Data Media Center For Firms For the Public FINRA DATA FINRA Data provides non-commercial use of data, specifically the ability to save data views and create and manage a Bond Watchlist. Login For Industry Professionals FINPRO GATEWAY Registered representatives can fulfill Continuing Education requirements, view their industry CRD record and perform other compliance tasks. Login For Member Firms FINRA GATEWAY Firm compliance professionals can access filings and requests, run reports and submit sup"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "FINRA_4210",
+      "source_id": "US_SOURCE_e596da9ef1a186f6391b",
+      "source_path": "research/phase4/sources/us/e596da9ef1a186f6391b.html",
+      "source_sha256": "d6a46e1a568d9864e949ff9c5e19c13011964c0dbb80afab0a40a9f8c6e78680",
+      "source_url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210",
+      "derived_text_path": "research/phase4/sources/us/e596da9ef1a186f6391b.txt",
+      "derived_text_sha256": "7471a3cab527aeeec372dcb041815acb6d2b53f254b7a9d019d5e5ab0daf05e8",
+      "excerpts": [
+        {
+          "search_term": "maintenance",
+          "excerpt": " IML-reducing transaction in such margin account during a day, either: (A) the amount of cash that the customer could withdraw while still having the maintenance margin required by provisions of Rule 4210 other than Rule 4210(d)(2); or (B) the amount of additional cash (expressed as a negative number) that the customer would need to deposit into such margin account for it to have the maintenance margin required by provisions of Rule 4210 other than Rule 4210(d)(2), in each case determined as of such time or immediately after such IML-reducing transaction in accordance with Rule 4210(d)(2)(B). (18) The term “IML-reducing transaction” means, with respect to a margin account, any purchase or sale effected in such account (including as the resu"
+        },
+        {
+          "search_term": "margin",
+          "excerpt": "4210. Margin Requirements | FINRA.org Skip to main content FINRA Utility Menu About Us Careers BrokerCheck Data Media Center For Firms For the Public FINRA DATA FINRA Data provides non-commercial use of data, specifically the ability to save data views and create and manage a Bond Watchlist. Login For Industry Professionals FINPRO GATEWAY Registered representatives can fulfill Continuing Education requirements, view their industry CRD record and perform other compliance tasks. Login For Member Firms FINRA GATEWAY Firm compliance professionals can access filings and requests, run reports and submit s"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "SEC_INSIDER",
+      "source_id": "US_SOURCE_8ca6daef267ce0cbc20b",
+      "source_path": "research/phase4/sources/us/8ca6daef267ce0cbc20b.html",
+      "source_sha256": "c969ceba33551e1f92e7171d28a36e22aefe36fd379b6a957d083625de2b4ac3",
+      "source_url": "https://www.sec.gov/files/forms-3-4-5.pdf",
+      "derived_text_path": "research/phase4/regional/us/SEC_INSIDER.original-pdf-extracted.v001.txt",
+      "derived_text_sha256": "5fa45774d8e6a3b9213170da388c23313936f53ef01d4ade4dfdd6012f5f3d03",
+      "excerpts": [
+        {
+          "search_term": "Form 4",
+          "excerpt": "uals a more detailed explanation for the various codes, (such as officers, directors, and those that hold more please see the General Instructions to Form 4 at than 10% of any class of a company’s securities, together www.sec.gov/about/forms/form4data.pdf. we’ll call, “insiders”) to report purchases, sales, and holdings of their company’s securities by filing Forms Transaction Code Transaction 3, 4, and 5. A Grant, award, or other acquisition of securities from the company What’s a Form 3? (such as an option) When a person becomes an insider (for example, when K Equity swaps and similar hedging transactions they are hired as an officer or director), they must file a P Purchase of securities on an Form 3 to initially disclose his or her owne"
+        },
+        {
+          "search_term": "two business days",
+          "excerpt": "g the amount purchased the company (such as an option) or sold and the price per share. Form 4 must be filed G Gift of securities by or to the within two business days following the transaction date. insider V A transaction voluntarily reported Transactions in a company’s common stock as well as on Form 4 derivative securities, such as options, warrants, and J Other (accompanied by a foot- convertible securities, are reported on the form. Each note describing the transaction) transaction is coded to indicate the nature of the transaction. Investor Assistance (800) 732-0330 www.investor.gov What’s a Form 5? A Form 5 is generally due to the SEC no later than 45 Related Information days after the company’s fiscal year ends and is only In addit"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "PBGC",
+      "source_id": "US_SOURCE_49d89231a02c918ef688",
+      "source_path": "research/phase4/sources/us/49d89231a02c918ef688.html",
+      "source_sha256": "8064185d10e91e47772a5726d055da1b42b976383474a3b1be17c58cfd8414ad",
+      "source_url": "https://www.pbgc.gov/about/how-pbgc-operates",
+      "derived_text_path": "research/phase4/sources/us/49d89231a02c918ef688.txt",
+      "derived_text_sha256": "22acfd1f13d13d352f68d93586dc2427e587aa80f2da6059c79741a95624a514",
+      "excerpts": [
+        {
+          "search_term": "defined benefit",
+          "excerpt": " meeting. Two pension insurance programs The Single-Employer Program protects about 18.4 million workers and retirees in about 22,200 private-sector, defined benefit pension plans. In FY 2025, PBGC paid monthly retirement benefits, up to legal limits, to nearly 926,000 retirees in over 5,000 single-employer plans that ended. If a single-employer plan fails and PBGC becomes responsible for it, the agency directly pays benefits due to current and future retirees up to legal limits. The Multiemployer Program protects about 11.1 million workers and retirees in about 1,300 private-sector, defined benefit pension plans. In FY 2025, PBGC provided traditional financial assistance through loans to failed multiemployer plans so that the plan can pay "
+        },
+        {
+          "search_term": "private-sector",
+          "excerpt": " 27, 2026, Board meeting. Two pension insurance programs The Single-Employer Program protects about 18.4 million workers and retirees in about 22,200 private-sector, defined benefit pension plans. In FY 2025, PBGC paid monthly retirement benefits, up to legal limits, to nearly 926,000 retirees in over 5,000 single-employer plans that ended. If a single-employer plan fails and PBGC becomes responsible for it, the agency directly pays benefits due to current and future retirees up to legal limits. The Multiemployer Program protects about 11.1 million workers and retirees in about 1,300 private-sector, defined benefit pension plans. In FY 2025, PBGC provided traditional financial assistance through loans to failed multiemployer plans so that t"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "OFR_MM",
+      "source_id": "US_SOURCE_1acd0eab7698cd8b5df2",
+      "source_path": "research/phase4/sources/us/1acd0eab7698cd8b5df2.html",
+      "source_sha256": "2542de09bc39ad31a2effcc457c5d9c7fcd39f04e8357e6d1152071531fe5c30",
+      "source_url": "https://www.financialresearch.gov/money-market-funds/",
+      "derived_text_path": "research/phase4/sources/us/1acd0eab7698cd8b5df2.txt",
+      "derived_text_sha256": "246e820a8607e7b7345a02c39a4ddd2dfd6669cf0b4ce6a623214f1c81167fcd",
+      "excerpts": [
+        {
+          "search_term": "Form N-MFP",
+          "excerpt": "Repo Market Reference Guide To drill down to this level click 'details' next to an item above. How are MMFs categorized MMFs report their category in Form N-MFP by choosing from several options: Treasury Government/Agency Exempt Government Prime Single State Other Tax Exempt The OFR's MMF Monitor combines Treasury, Government/Agency and Exempt Government categories into the \"Government\" category. These funds invest most of their assets in cash, government securities, and repurchase agreements (repos) backed by these securities. Single State and Other Tax Exempt Funds are combined into the \"Tax Exempt\" category. The funds in this category invest mainly in securities exempt from local income taxes. Usually, these are securities issued by loca"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "SEC_INDEX",
+      "source_id": "US_SOURCE_ee0978f67ade568e9dc6",
+      "source_path": "research/phase4/sources/us/ee0978f67ade568e9dc6.html",
+      "source_sha256": "dff0d67ab4c04aecf4bb28f28a4999f6d13c9f5957d46aad1fde7454539dd77f",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2022-88",
+      "derived_text_path": "research/phase4/sources/us/ee0978f67ade568e9dc6.txt",
+      "derived_text_sha256": "4d920572ed6ec54e03abd15352f602359f44a5261dae5bfe8bc9a66f46f2ce33",
+      "excerpts": [
+        {
+          "search_term": "information",
+          "excerpt": "d States. Secure .gov websites use HTTPS A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. SEC homepage Menu Close Search SEC.gov & EDGAR Search Search Filings Search Filings Full Text Search Latest Filings Mutual Fund Search Variable Insurance Products Search SIC Codes CIK Lookup Public Dissemination Service (PDS) Search Assistance Submit Filings Submit Filings EDGAR Filer Management Portal EDGAR Filing Portal Online Forms Management Portal EDGAR Next Forms Index Filer Support & Resources Data & Research Data & Research Data Library Statistics & Data Visualizations Structured Data Investment Management Data Open Data at the SEC Rules, "
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "FED_FSR_2025_PDF",
+      "source_id": "US_SOURCE_40c56ac57e23969c257e",
+      "source_path": "research/phase4/sources/us/40c56ac57e23969c257e.html",
+      "source_sha256": "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf",
+      "derived_text_path": "research/phase4/regional/us/FED_FSR_2025_PDF.original-pdf-extracted.v001.txt",
+      "derived_text_sha256": "af99e035d944d5e215b47786623ea54afaeca5920a1fc9b103a42a240cc95365",
+      "excerpts": [
+        {
+          "search_term": "hedge funds",
+          "excerpt": "s and Households). 3. Leverage in the financial sector. Vulnerabilities associated with financial leverage remained notable. Over the past few years, hedge funds’ leverage has steadily increased across a broad range of strategies, including those involving Treasury securities, interest rate derivatives, and equities. Leverage at life insurers was in the top quartile of its historical distribution. The banking sector remained sound and resilient overall, and most banks continued to report capital levels well above regulatory requirements. Fair value losses on fixed-rate assets declined but were still sizable and continued to be sensitive to changes in long-term interest rates. Bank credit to other financial entities continued to increase, an"
+        },
+        {
+          "search_term": "private credit",
+          "excerpt": "nt of the total outstanding debt of U.S. nonfinancial firms. These firms tend to have less access to capital markets and primarily borrow from banks, private credit funds, and other institu- tional investors. Figure 2.4. Net issuance of risky debt fell in the middle of 2025 Billions of dollars 120 Quarterly Institutional leveraged loans 100 High-yield and unrated bonds 80 60 40 Q3 20 0 −20 −40 −60 2004 2007 2010 2013 2016 2019 2022 2025 Source: Mergent, Inc., Fixed Income Securities Database; PitchBook Data, Leveraged Commentary & Data. Gross leverage—the ratio of debt to assets—of all publicly traded nonfinancial firms was flat through the second quarter of 2025 (figure 2.5). Net leverage—the ratio of debt less cash to total assets—increas"
+        },
+        {
+          "search_term": "banks",
+          "excerpt": "ng full employment and stable prices, a safe and sound banking system, and an efficient payments system. A financial system is considered stable when banks, other lenders, and financial markets More on the Federal are able to provide households, communities, Reserve’s Monitoring Efforts and businesses with the financing they need See the Financial Stability section of the to invest, grow, and participate in a well-­ ­Federal Reserve Board’s website for more functioning economy—and can do so even information on how the Federal Reserve when hit by adverse events, or “shocks.” monitors the stability of the U.S. and world financial systems. Consistent with this view of financial stabil- The website includes: ity, the Federal Reserve Board’s mon"
+        },
+        {
+          "search_term": "leverage",
+          "excerpt": " . . . . . . . . . . . . . . . . . . . 15 2 Borrowing by Businesses and Households . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 3 Leverage in the Financial Sector. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 4 Funding Risks. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 Box 4.1. A More Targeted Assessment of Short-Term Funding Risk . . . . . . . . . . . . . . . . . . . 40 5 Near-Term Risks to the Financial System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49 Box 5.1. Survey of Salient Risks to Financial Stability. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51 Appendix: Figure Notes . ."
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    },
+    {
+      "reference_key": "IRS_RETIREMENT",
+      "source_id": "US_SOURCE_5058f00c35c1eaab1ed1",
+      "source_path": "research/phase4/sources/us/5058f00c35c1eaab1ed1.html",
+      "source_sha256": "959b178a345659847c13f12bf7506afee8b74311243df8cf690801baa357f12c",
+      "source_url": "https://www.irs.gov/retirement-plans/retirement-plan-investments-faqs",
+      "derived_text_path": "research/phase4/sources/us/5058f00c35c1eaab1ed1.txt",
+      "derived_text_sha256": "c9134b53bdff18930386aef4894d0a8e6f75c0582091e6d1c9589c1f538819c6",
+      "excerpts": [
+        {
+          "search_term": "invest",
+          "excerpt": "Retirement plan investments FAQs | Internal Revenue Service Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. English Español中文 (简体)中文 (繁體)한국어РусскийTiếng ViệtKreyòl ayisyen Information Menu Help News Tax Pros Sign in Individual Business Tax Pro Access your tax information w"
+        },
+        {
+          "search_term": "retirement",
+          "excerpt": "Retirement plan investments FAQs | Internal Revenue Service Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. English Español中文 (简体)中文 (繁體)한국어РусскийTiếng ViệtKreyòl ayisyen Information Menu Help News Tax Pros Sign in Individual Business Tax Pro Access your t"
+        }
+      ],
+      "usage": "Institutional reference only; not historical event KNOWN_AT_T unless independently dated original episode source."
+    }
+  ],
+  "n": 19,
+  "future_prices_accessed": false
+}

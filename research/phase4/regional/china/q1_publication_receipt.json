@@ -1,0 +1,15 @@
+[
+  {
+    "source_id": "CN-S-CORP-LOAN-2025-Q1-PUBLICATION",
+    "family": "公司/产业资金",
+    "url": "https://jrj.sh.gov.cn/SCGK194/20250512/f0ae149093614c04ab6b911c5df2c80b.html",
+    "role": "PUBLICATION_EVIDENCE",
+    "retrieved_at": "2026-10-10T08:00:00.650467+00:00",
+    "status": "DOWNLOADED",
+    "final_url": "https://jrj.sh.gov.cn/SCGK194/20250512/f0ae149093614c04ab6b911c5df2c80b.html",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "4428fffe5d94d3062dce1948d8681a2cd9c68ebe4ce0bd1b1bd7e4af187413d9",
+    "bytes": 49338,
+    "path": "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1-PUBLICATION.html"
+  }
+]

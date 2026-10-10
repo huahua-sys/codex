@@ -1,0 +1,420 @@
+{
+  "event_id": "US-P4-042",
+  "market": "US",
+  "family": "regulatory_capital_constraints",
+  "parent_episode": "US_BANK_REG_2025-11-25",
+  "action_status": "MANDATE_CHANGE",
+  "asset": "SPY",
+  "available_at": "2025-11-25T23:59:59-05:00",
+  "pit_status": "VERIFIED_DATE_CONSERVATIVE",
+  "probability_forecast": null,
+  "mechanism_identified": false,
+  "fundamental_solvency_identified": false,
+  "status": "DESCRIPTIVE_EVENT_STUDY",
+  "year": 2025,
+  "source": {
+    "path": "research/phase3/data/market/SPY.canonical.json",
+    "sha256": "bb20ccc9046375b171b1c6da2cb6e8a3046dba19ac4eda650ffbdca322853c3c",
+    "definition": "CURRENT_VENDOR_RECONSTRUCTED_OPEN_CLOSE_PRICE_ONLY",
+    "original_quote_vintage_verified": false
+  },
+  "features": {
+    "r63": 0.03653358594045719,
+    "vol63": 0.12197396345527624,
+    "last_known_date": "2025-11-24"
+  },
+  "horizons": {
+    "1w": {
+      "event": {
+        "status": "REVEALED_PRICE_ONLY",
+        "entry_date": "2025-11-26",
+        "entry_open_at": "2025-11-26T14:30:00+00:00",
+        "entry_open": 677.6300048828125,
+        "target_date": "2025-12-03",
+        "exit_date": "2025-12-03",
+        "exit_close": 683.8900146484375,
+        "gross_price_return": 0.0092380941229242,
+        "illustrative_20bp_roundtrip_return": 0.007238094122924201,
+        "maximum_close_to_close_drawdown": -0.004565467815318525,
+        "maximum_adverse_close_excursion": 0.0030252317314716226,
+        "maximum_favorable_close_excursion": 0.0092380941229242,
+        "sessions": 5,
+        "dividends_included": false,
+        "session_dates_sha256": "36dad1b228d1051a662a16bd0d020f0d78378a1c3c092cc9ab2d4e83acbfa431"
+      },
+      "controls": [
+        {
+          "control_date": "2025-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2025-01-02",
+          "entry_open_at": "2025-01-02T14:30:00+00:00",
+          "entry_open": 589.3900146484375,
+          "target_date": "2025-01-09",
+          "exit_date": "2025-01-10",
+          "exit_close": 580.489990234375,
+          "gross_price_return": -0.01510039904454652,
+          "illustrative_20bp_roundtrip_return": -0.01710039904454652,
+          "maximum_close_to_close_drawdown": -0.024976477228993987,
+          "maximum_adverse_close_excursion": -0.01510039904454652,
+          "maximum_favorable_close_excursion": 0.01012906658536794,
+          "sessions": 6,
+          "dividends_included": false,
+          "session_dates_sha256": "084dd3ca5428efaafc24105290b25e3edcb6fbbab8be15a63edf5632711285ab"
+        },
+        {
+          "control_date": "2026-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2026-01-02",
+          "entry_open_at": "2026-01-02T14:30:00+00:00",
+          "entry_open": 685.7100219726562,
+          "target_date": "2026-01-09",
+          "exit_date": "2026-01-09",
+          "exit_close": 694.0700073242188,
+          "gross_price_return": 0.01219172111195399,
+          "illustrative_20bp_roundtrip_return": 0.01019172111195399,
+          "maximum_close_to_close_drawdown": -0.0037042466656572737,
+          "maximum_adverse_close_excursion": -0.0037042466656572737,
+          "maximum_favorable_close_excursion": 0.01219172111195399,
+          "sessions": 6,
+          "dividends_included": false,
+          "session_dates_sha256": "b16bcc2b572f2145049be0f2a9db6a306176a143a6e24f13fbb21173c5495caf"
+        },
+        {
+          "control_date": "2026-10-01",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2026-10-01",
+          "entry_open_at": "2026-10-01T13:30:00+00:00",
+          "entry_open": 764.3599853515625,
+          "target_date": "2026-10-08",
+          "exit_date": "2026-10-08",
+          "exit_close": 773.9299926757812,
+          "gross_price_return": 0.012520288224948217,
+          "illustrative_20bp_roundtrip_return": 0.010520288224948217,
+          "maximum_close_to_close_drawdown": -0.006623155221886501,
+          "maximum_adverse_close_excursion": -0.0004840587213854608,
+          "maximum_favorable_close_excursion": 0.01927107879297374,
+          "sessions": 6,
+          "dividends_included": false,
+          "session_dates_sha256": "b7cbbb3ad58c9601aa56f14eb991adebba29c38e4cbe3d4fe051cc24a0c012f6"
+        }
+      ],
+      "control_mean_price_return": 0.003203870097451896,
+      "matched_time_difference": 0.006034224025472304,
+      "same_asset_benchmark_difference": 0.0,
+      "benchmark_interpretation": "Broad-market exposure relative to itself is zero; matched-time difference is a state comparison, not alpha.",
+      "result_class": "NEUTRAL"
+    },
+    "1m": {
+      "event": {
+        "status": "REVEALED_PRICE_ONLY",
+        "entry_date": "2025-11-26",
+        "entry_open_at": "2025-11-26T14:30:00+00:00",
+        "entry_open": 677.6300048828125,
+        "target_date": "2025-12-26",
+        "exit_date": "2025-12-26",
+        "exit_close": 690.3099975585938,
+        "gross_price_return": 0.018712265667713668,
+        "illustrative_20bp_roundtrip_return": 0.016712265667713666,
+        "maximum_close_to_close_drawdown": -0.025784579910251737,
+        "maximum_adverse_close_excursion": -0.009193778941101294,
+        "maximum_favorable_close_excursion": 0.018815577687125717,
+        "sessions": 21,
+        "dividends_included": false,
+        "session_dates_sha256": "277857e6bd3cb9bd1139f26d4643891e6343ffab022f2c2a25e2069f1bae8d7c"
+      },
+      "controls": [
+        {
+          "control_date": "2025-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2025-01-02",
+          "entry_open_at": "2025-01-02T14:30:00+00:00",
+          "entry_open": 589.3900146484375,
+          "target_date": "2025-02-02",
+          "exit_date": "2025-02-03",
+          "exit_close": 597.77001953125,
+          "gross_price_return": 0.014218097820695164,
+          "illustrative_20bp_roundtrip_return": 0.012218097820695164,
+          "maximum_close_to_close_drawdown": -0.024976477228993987,
+          "maximum_adverse_close_excursion": -0.01510039904454652,
+          "maximum_favorable_close_excursion": 0.03454416404340832,
+          "sessions": 21,
+          "dividends_included": false,
+          "session_dates_sha256": "e99f89104153d486c15a494e049b8cf9237a5dba8f4dce175391a2263a039895"
+        },
+        {
+          "control_date": "2026-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2026-01-02",
+          "entry_open_at": "2026-01-02T14:30:00+00:00",
+          "entry_open": 685.7100219726562,
+          "target_date": "2026-02-02",
+          "exit_date": "2026-02-02",
+          "exit_close": 695.4099731445312,
+          "gross_price_return": 0.01414585008393221,
+          "illustrative_20bp_roundtrip_return": 0.01214585008393221,
+          "maximum_close_to_close_drawdown": -0.02528907982887052,
+          "maximum_adverse_close_excursion": -0.01185633084291815,
+          "maximum_favorable_close_excursion": 0.014262542398875366,
+          "sessions": 21,
+          "dividends_included": false,
+          "session_dates_sha256": "f1029291fc809db296206f2e6596ddba7601157d59942c12a430caee897c9353"
+        },
+        {
+          "control_date": "2026-10-01",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2026-10-01",
+          "target_date": "2026-11-01"
+        }
+      ],
+      "control_mean_price_return": null,
+      "matched_time_difference": null,
+      "same_asset_benchmark_difference": 0.0,
+      "benchmark_interpretation": "Broad-market exposure relative to itself is zero; matched-time difference is a state comparison, not alpha.",
+      "result_class": "UNIDENTIFIED"
+    },
+    "3m": {
+      "event": {
+        "status": "REVEALED_PRICE_ONLY",
+        "entry_date": "2025-11-26",
+        "entry_open_at": "2025-11-26T14:30:00+00:00",
+        "entry_open": 677.6300048828125,
+        "target_date": "2026-02-26",
+        "exit_date": "2026-02-26",
+        "exit_close": 689.2999877929688,
+        "gross_price_return": 0.01722176235713535,
+        "illustrative_20bp_roundtrip_return": 0.01522176235713535,
+        "maximum_close_to_close_drawdown": -0.025784579910251737,
+        "maximum_adverse_close_excursion": -0.009193778941101294,
+        "maximum_favorable_close_excursion": 0.02635654446064728,
+        "sessions": 62,
+        "dividends_included": false,
+        "session_dates_sha256": "9085942c99e90ec42fdb93596b6740166fc31eef29e5796211ded6fcfb16b4f2"
+      },
+      "controls": [
+        {
+          "control_date": "2025-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2025-01-02",
+          "entry_open_at": "2025-01-02T14:30:00+00:00",
+          "entry_open": 589.3900146484375,
+          "target_date": "2025-04-02",
+          "exit_date": "2025-04-02",
+          "exit_close": 564.52001953125,
+          "gross_price_return": -0.04219615958716583,
+          "illustrative_20bp_roundtrip_return": -0.04419615958716583,
+          "maximum_close_to_close_drawdown": -0.10035405429761968,
+          "maximum_adverse_close_excursion": -0.0644225908050543,
+          "maximum_favorable_close_excursion": 0.039939560295036536,
+          "sessions": 62,
+          "dividends_included": false,
+          "session_dates_sha256": "a0f1dc6ef9626b470ccca9311c16e13ebb9bf88561df640a0d60150ae5aa1c5e"
+        },
+        {
+          "control_date": "2026-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2026-01-02",
+          "entry_open_at": "2026-01-02T14:30:00+00:00",
+          "entry_open": 685.7100219726562,
+          "target_date": "2026-04-02",
+          "exit_date": "2026-04-02",
+          "exit_close": 655.8300170898438,
+          "gross_price_return": -0.04357527806995365,
+          "illustrative_20bp_roundtrip_return": -0.04557527806995365,
+          "maximum_close_to_close_drawdown": -0.09133132097249053,
+          "maximum_adverse_close_excursion": -0.07837139541133065,
+          "maximum_favorable_close_excursion": 0.014262542398875366,
+          "sessions": 63,
+          "dividends_included": false,
+          "session_dates_sha256": "a6d7e4deba0b70b43831051e703edde39cc146911f5b6af53d1f7e0b44acce5a"
+        },
+        {
+          "control_date": "2026-10-01",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2026-10-01",
+          "target_date": "2027-01-01"
+        }
+      ],
+      "control_mean_price_return": null,
+      "matched_time_difference": null,
+      "same_asset_benchmark_difference": 0.0,
+      "benchmark_interpretation": "Broad-market exposure relative to itself is zero; matched-time difference is a state comparison, not alpha.",
+      "result_class": "UNIDENTIFIED"
+    },
+    "6m": {
+      "event": {
+        "status": "REVEALED_PRICE_ONLY",
+        "entry_date": "2025-11-26",
+        "entry_open_at": "2025-11-26T14:30:00+00:00",
+        "entry_open": 677.6300048828125,
+        "target_date": "2026-05-26",
+        "exit_date": "2026-05-26",
+        "exit_close": 750.5900268554688,
+        "gross_price_return": 0.10766940874360165,
+        "illustrative_20bp_roundtrip_return": 0.10566940874360164,
+        "maximum_close_to_close_drawdown": -0.09133132097249053,
+        "maximum_adverse_close_excursion": -0.06738195453370432,
+        "maximum_favorable_close_excursion": 0.10766940874360165,
+        "sessions": 123,
+        "dividends_included": false,
+        "session_dates_sha256": "cabe8d556516763605a36ff9920abb77200fb412ebbd103f01845881ac8ece58"
+      },
+      "controls": [
+        {
+          "control_date": "2025-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2025-01-02",
+          "entry_open_at": "2025-01-02T14:30:00+00:00",
+          "entry_open": 589.3900146484375,
+          "target_date": "2025-07-02",
+          "exit_date": "2025-07-02",
+          "exit_close": 620.4500122070312,
+          "gross_price_return": 0.05269854728896384,
+          "illustrative_20bp_roundtrip_return": 0.050698547288963836,
+          "maximum_close_to_close_drawdown": -0.189989041295049,
+          "maximum_adverse_close_excursion": -0.15763755977021232,
+          "maximum_favorable_close_excursion": 0.05269854728896384,
+          "sessions": 124,
+          "dividends_included": false,
+          "session_dates_sha256": "ce6490ac2b27cf374486044548db4f057c4861b3543fe81cd07383a69b50743f"
+        },
+        {
+          "control_date": "2026-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2026-01-02",
+          "entry_open_at": "2026-01-02T14:30:00+00:00",
+          "entry_open": 685.7100219726562,
+          "target_date": "2026-07-02",
+          "exit_date": "2026-07-02",
+          "exit_close": 744.780029296875,
+          "gross_price_return": 0.08614429632264331,
+          "illustrative_20bp_roundtrip_return": 0.08414429632264331,
+          "maximum_close_to_close_drawdown": -0.09133132097249053,
+          "maximum_adverse_close_excursion": -0.07837139541133065,
+          "maximum_favorable_close_excursion": 0.1077131483933711,
+          "sessions": 125,
+          "dividends_included": false,
+          "session_dates_sha256": "0a935416ba8b1a818af649a34ae0c64a91898abac3acc59ab23e19b7a5180b3b"
+        },
+        {
+          "control_date": "2026-10-01",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2026-10-01",
+          "target_date": "2027-04-01"
+        }
+      ],
+      "control_mean_price_return": null,
+      "matched_time_difference": null,
+      "same_asset_benchmark_difference": 0.0,
+      "benchmark_interpretation": "Broad-market exposure relative to itself is zero; matched-time difference is a state comparison, not alpha.",
+      "result_class": "UNIDENTIFIED"
+    },
+    "12m": {
+      "event": {
+        "status": "PENDING_HORIZON",
+        "entry_date": "2025-11-26",
+        "target_date": "2026-11-26"
+      },
+      "controls": [
+        {
+          "control_date": "2025-01-02",
+          "status": "REVEALED_PRICE_ONLY",
+          "entry_date": "2025-01-02",
+          "entry_open_at": "2025-01-02T14:30:00+00:00",
+          "entry_open": 589.3900146484375,
+          "target_date": "2026-01-02",
+          "exit_date": "2026-01-02",
+          "exit_close": 683.1699829101562,
+          "gross_price_return": 0.15911360208173386,
+          "illustrative_20bp_roundtrip_return": 0.15711360208173386,
+          "maximum_close_to_close_drawdown": -0.189989041295049,
+          "maximum_adverse_close_excursion": -0.15763755977021232,
+          "maximum_favorable_close_excursion": 0.17134662570524561,
+          "sessions": 251,
+          "dividends_included": false,
+          "session_dates_sha256": "00b98b1a2dee0aa1b6a783163f105affe521c873c42073fff8b2619bfc04a258"
+        },
+        {
+          "control_date": "2026-01-02",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2026-01-02",
+          "target_date": "2027-01-02"
+        },
+        {
+          "control_date": "2026-10-01",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2026-10-01",
+          "target_date": "2027-10-01"
+        }
+      ],
+      "control_mean_price_return": null,
+      "matched_time_difference": null,
+      "same_asset_benchmark_difference": null,
+      "benchmark_interpretation": "Broad-market exposure relative to itself is zero; matched-time difference is a state comparison, not alpha.",
+      "result_class": "UNIDENTIFIED"
+    },
+    "24m": {
+      "event": {
+        "status": "PENDING_HORIZON",
+        "entry_date": "2025-11-26",
+        "target_date": "2027-11-26"
+      },
+      "controls": [
+        {
+          "control_date": "2025-01-02",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2025-01-02",
+          "target_date": "2027-01-02"
+        },
+        {
+          "control_date": "2026-01-02",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2026-01-02",
+          "target_date": "2028-01-02"
+        },
+        {
+          "control_date": "2026-10-01",
+          "status": "PENDING_HORIZON",
+          "entry_date": "2026-10-01",
+          "target_date": "2028-10-01"
+        }
+      ],
+      "control_mean_price_return": null,
+      "matched_time_difference": null,
+      "same_asset_benchmark_difference": null,
+      "benchmark_interpretation": "Broad-market exposure relative to itself is zero; matched-time difference is a state comparison, not alpha.",
+      "result_class": "UNIDENTIFIED"
+    }
+  },
+  "matched_controls": [
+    {
+      "date": "2025-01-02",
+      "cutoff": "2025-01-02T14:29:59.999999+00:00",
+      "features": {
+        "r63": 0.030705958500558683,
+        "vol63": 0.12435723093566045,
+        "last_known_date": "2024-12-31"
+      },
+      "distance": 0.006872834357387114
+    },
+    {
+      "date": "2026-01-02",
+      "cutoff": "2026-01-02T14:29:59.999999+00:00",
+      "features": {
+        "r63": 0.02015105162262021,
+        "vol63": 0.12605729281949285,
+        "last_known_date": "2025-12-31"
+      },
+      "distance": 0.048005483122185985
+    },
+    {
+      "date": "2026-10-01",
+      "cutoff": "2026-10-01T13:29:59.999999+00:00",
+      "features": {
+        "r63": 0.022621211778959927,
+        "vol63": 0.11064921950587585,
+        "last_known_date": "2026-09-30"
+      },
+      "distance": 0.06060932904547379
+    }
+  ]
+}

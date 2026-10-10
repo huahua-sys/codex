@@ -1,0 +1,58 @@
+{
+  "reviewed_at": "2026-10-10T08:09:45.915203+00:00",
+  "scope": "READ_ONLY_REGIONAL_EVENTS_EVIDENCE_IDENTIFICATION",
+  "regions": {
+    "us": {
+      "raw_events": 42,
+      "file": "research/phase4/regional/us/events.json",
+      "events_source_sha256_snapshot": "9c42d767bec0fc4b0b0b5888d814535351515a6b289e1ba94977077915201777",
+      "distinct_parent_episode": 23,
+      "future_outcomes_examined": false,
+      "mechanisms_not_inferred_from_returns": true
+    },
+    "china": {
+      "raw_events": 42,
+      "file": "research/phase4/regional/china/events.json",
+      "events_source_sha256_snapshot": "f73cdb9fc7107af5d2959d2391466d57dc48dd5bc250aa146e8c3c600b8d589f",
+      "distinct_parent_episode": 29,
+      "future_outcomes_examined": false,
+      "mechanisms_not_inferred_from_returns": true
+    },
+    "japan": {
+      "raw_events": 31,
+      "file": "research/phase4/regional/japan/events.json",
+      "events_source_sha256_snapshot": "380ba81379d4221eb2cda6cc798fa9a732960bde564f95c65f4201ee7977df52",
+      "distinct_parent_episode": 15,
+      "future_outcomes_examined": false,
+      "mechanisms_not_inferred_from_returns": true
+    }
+  },
+  "modifications_to_other_agents_files": false,
+  "warnings": [
+    {
+      "id": "CE-US-001",
+      "severity": "INTERPRETATION",
+      "event_id": "US-P4-010",
+      "finding": "2009Q4 source says no routine repurchases, while cash-flow row reports22m; do not classify as identified open-market stock demand. Regional basis already marks potential tax-withholding.",
+      "status": "SENT_TO_US_AGENT"
+    },
+    {
+      "id": "CE-US-002",
+      "severity": "LOW_TEMPLATE",
+      "event_ids": "US_P4_all_9_corporate_cashflow_records",
+      "finding": "observed_action repeats2009-specific no-routine-repurchase clause for later source years; interpretation note or appended correction advised without overwriting lock.",
+      "status": "SENT_TO_US_AGENT"
+    }
+  ],
+  "positive_checks": [
+    "US TAF awarded principal separated from settlement and net additions; TDF separated fromQE",
+    "China OMO gross absorption separated from liquidity injections; issuance and swap/loans separated from stock purchase",
+    "Japan BOJ mandates separated fromactual ETFtransactions; GPIF holdings fromnetflows; JPX zero-execution periods retained"
+  ],
+  "unresolved_identification": [
+    "presently hosted historical documents not independently archivedvintages",
+    "stock-index reactions do not identify actor-specific cashflow causal effects",
+    "past-quarter company repurchases mix earnings disclosure and historical capitalallocation; notfutureexecution",
+    "partial official catalogs and sameprogram clustering limitindependence"
+  ]
+}

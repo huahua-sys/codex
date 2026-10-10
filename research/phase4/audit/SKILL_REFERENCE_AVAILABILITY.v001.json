@@ -1,0 +1,10 @@
+{
+  "public_equity_router_read": true,
+  "economic_impact_owner_read": true,
+  "impact_framework_read": true,
+  "data_quality_skill_read": true,
+  "referenced_shared_policy_resources_available": false,
+  "fallback": "User Phase4 prompt and existing constitution/protocol govern; user-specified Markdown outputs override generic HTML default; no setup questions or missing-plugin gate introduced.",
+  "shared_paths_attempted": ["shared/invocation-policy.md", "shared/plugin-routing-playbook.md", "shared/shared-skill-instructions.md"],
+  "research_evidence_effect": "NONE"
+}

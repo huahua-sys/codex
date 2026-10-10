@@ -1,0 +1,901 @@
+Insurance Topics | Risk-Based Capital | NAIC
+Skip to main content
+Close
+Mega Menu
+Regulator
+Regulator
+We provide tools and resources to help regulators set standards and best practices, provide regulatory support functions, and educate on U.S. state-based insurance regulation.
+Learn More
+Events and Meetings
+Explore future meetings and access past event documents.
+Expense Reporting
+Access forms and tools to file expense reports, review grant and zone scholarship balances, and travel guidelines.
+myNAIC
+Access technology tools and resources for U.S. insurance regulators.
+Education and Training
+Overview
+Training for Regulators
+Insurance Regulator Professional Designation Program
+20th Anniversary: Designation Program
+International Fellows Program
+Regulatory Leadership Development
+Webinars and Training Events
+Awards
+Robert Dineen Award
+Raymond G. Farmer Award for Exceptional Leadership
+Industry
+Education and Events
+Education and Training
+Events and Meetings
+Industry
+Access forms, tools, and resources for individuals and organizations to file forms, improve efficiency, and remain compliant.
+Learn More
+Financial Statement Filing
+Filing Information
+Filing Instructions
+InsData
+Uniform Certificate of Authority
+Overview
+State Specific Requirements
+Electronic Application
+Principle Based Reserving
+Overview
+Securities Valuation Office
+Overview
+Resources
+Security Investment Filing
+Market Conduct
+Market Conduct Annual Statement
+Contacts and Scorecards
+Insurance Compact
+Homepage
+Record Adopted Standards
+Insurer Resources
+Structured Securities Group
+Overview
+Collateralized Loan Obligations
+RMBS/CMBS Listing
+Data Calls
+2026 Homeowners Market Data Call
+State Disaster Reporting
+Health AI/ML Survey
+Producer Registry
+Homepage
+Renew a License
+Producer Database
+Products
+Overview
+Account Manager
+Automated Valuation Service
+Data Products
+Online Premium Tax Filing
+State Based Systems
+System for Electronic Rates and Forms Filings
+Technology Applications (myNAIC)
+Vision
+Consumer
+Consumer
+Discover tools and resources to help you understand different types of insurance, claims processes, and practical tips to help support you through every stage of your life.
+Learn More
+File a Complaint
+Having a problem with an insurance company or agent?
+Glossary of Insurance Terms
+Browse terms and definitions that are commonly used in the insurance industry
+Consumer Participation Program
+Discover how you can participate in insurance consumer protection efforts.
+Insurance Advice
+Auto Insurance
+Cybersecurity
+Flood Insurance
+Health Insurance
+Homeowners Insurance
+Life Insurance & Annuities
+Long-Term Care Insurance
+Military
+Sharing Economy
+Small Business
+Mobile Apps
+Home Inventory
+Interactive Learning
+Go-Bag Disaster Prep
+Understand Your Insurance Card
+What The Flood?! Quiz
+Tools
+Consumer Insurance Search
+Life Insurance Policy Locator
+Global Receivership Information System
+Online Fraud Reporting System
+Committees
+Events
+Events and Meetings
+Committees
+View actions considered by committees, task forces, and subgroups, as well as charges, schedules, and staff links.
+Learn More
+Conference Calls
+Access public conference call documents and information.
+Exposure Drafts
+Documents exposed by various committee workgroups.
+Liaison and Advisory Groups
+Representatives from diverse groups who provide varied perspectives on insurance regulatory issues.
+Committee Index
+Executive (EX)
+Life Insurance and Annuities (A)
+Health Insurance and Managed Care (B)
+Property and Casualty Insurance (C)
+Market Regulation and Consumer Affairs (D)
+Financial Condition (E)
+Financial Regulation Standards and Accreditation (F)
+International Insurance Relations (G)
+Innovation, Cybersecurity, and Technology (H)
+Consumer Liaison
+View All
+Trending
+Annuity Buyer's Guide (A) Working Group
+Invested Assets (E) Task Force
+Blanks (E) Working Group
+Investment Analysis (E) Working Group
+Credit Rating Provider (E) Working Group
+Reciprocal Exchanges (E) Working Group
+Statutory Accounting Principles (E) Working Group
+Life Actuarial (A) Task Force
+Big Data Artificial Intelligence (H) Working Group
+Resource Center
+Resource Center
+Explore recent publications, the latest news articles, new federal and legislative news, and model laws to help inform your approach.
+Learn More
+Capital Markets Bureau
+Developments and trends in financial markets and insurer investments.
+Center for Insurance Policy and Research
+Research and analysis on important insurance issues.
+Glossary
+A glossary of insurance terms and definitions.
+Government Affairs
+Domestic and international policy and outreach initiatives.
+Health Coverage Policy and Regulation
+Answers regarding health care law and insurance.
+Insurance Topics
+Information on a range of insurance regulatory issues.
+Legal
+Legal support and advice on regulatory issues and internal operations.
+Library
+Archives and regulatory resources.
+Model Laws
+Access to every published model law, regulation, and guideline
+Newsroom
+The latest news and consumer articles.
+Publications
+Exclusive, industry-focused manuals, data, and more.
+State Insurance Charts
+Issue-specific charts, combining states' statutes and regulations.
+Featured Topics
+Private Credit
+Travel Insurance
+Risk-Based Capital
+Artificial Intelligence
+Terrorism Risk Insurance Act
+Statutory Accounting Principles
+Life Insurance
+Captive Insurance Companies
+Surplus Lines
+Insurance Fraud
+Insurance Departments
+Insurance Departments
+Find contact information for insurance departments and local insurance agents, or file a complaint.
+Learn more
+Insurance Departments
+Select a state or jurisdiction for insurance department contact information.
+Select State
+Alabama
+Alaska
+American Samoa
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District Of Columbia
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Northern Mariana Islands
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virgin Islands
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Go
+About
+About
+The NAIC provides expertise, data, and analysis for insurance commissioners to effectively regulate the insurance industry and protect consumers.
+Learn More
+State Connected
+Our three-year blueprint for the future shows the way toward building on existing strengths.
+150 Years of Collaboration
+Browse our timeline to learn how we support insurance regulators in their mission to protect consumers and ensure fair and healthy insurance markets.
+Contact
+Have a question? We're here to help.
+Budget
+Learn more about our transparent budgeting process and overall operations.
+Careers
+Overview
+Benefits
+Open Positions
+New Avenues to Insurance Careers Foundation
+Overview
+Internship Opportunities
+About
+Requests
+Request a Speaker
+Request to Use Content
+Request to Reprint Content
+Request Consumer Guide Printing
+Search
+Search NAIC
+Search
+Recommended
+Insurance Summit
+International Forum
+N.A.I.C. Foundation
+Insurance Departments Contacts
+Consumer Insurance Search
+Insurance Terms
+×
+Industry
+Home
+/
+Resource Center
+/
+Insurance Topics
+Risk-Based Capital
+Background
+Last Updated: 06/30/2026
+Issue: Regulators are charged with ensuring that insurance companies can fulfill their financial obligations to policyholders. One way they do this is by imposing a risk-based capital (RBC) requirement. The RBC requirement is a statutory minimum level of capital that is based on two factors: 1) an insurance company’s size; and 2) the inherent riskiness of its financial assets and operations. That is, the company must hold capital in proportion to its risk. RBC is intended to be a regulatory standard and not necessarily the full amount of capital that an insurer would need to hold to meet its objectives. In addition, RBC is not intended or appropriate as a means to rank insurers generally.
+The purpose of RBC requirements is to identify potentially weakly capitalized companies, which facilitates regulatory actions to ensure policyholders will receive the benefits promised without relying on a guaranty association or taxpayer funds. In essence, the RBC formula calculations are critical thresholds that enable timely regulatory interventions, as stipulated by Model Law discussed below. RBC requirements are not designed to be used as a stand-alone tool in determining financial solvency. Rather, RBC is one of the tools that gives regulators legal authority to take control of an insurance company.
+Background: Regulators use RBC requirements to determine the minimum amount of capital required for an insurer to support its operations and write coverage. The RBC standard for life and property/casualty (P/C) companies is based on the Risk-Based Capital (RBC) For Insurers Model Act (#312), which the NAIC initially adopted in 1993 (latest revision, 2012). Likewise, the RBC standard for health insurers is the Risk-Based Capital (RBC) for Health Organizations Model Act (#315), which the NAIC initially adopted in 1998 (latest revision, 2011). The model laws outline methods for measuring this minimum amount of capital and the extent/nature of regulatory interventions, if necessary.
+Before the RBC standard was established, regulators generally used fixed capital standards as a primary tool for monitoring the financial solvency of insurance companies. Under fixed capital standards, every insurance company was required to hold the same minimum amount of capital, regardless of its financial condition, size, and risk profile. Fixed minimum capital requirements were largely based on value judgements of the drafters of the statutes, and they varied widely among the states.
+A large number of insurer insolvencies in the 1980s was the driving force for the NAIC’s RBC standard. A 1992 report by the U.S. General Accounting Office (GAO) details 176 life and health insurer insolvencies from 1975–1990; 80% of these insolvencies occurred after 1982. The multitude of insolvencies made clear the inherent problems with fixed capital standards. One problem was that fixed capital standards did not address the variation in fundamental risks across sectors and companies. Another problem was that they did not address the differences in the size of insurers in determining the appropriate minimum amount of capital.
+In the early 1990s, the NAIC established a working group to look at the feasibility of developing a statutory RBC requirement for insurers. In 1992, the NAIC adopted a life RBC formula, which was implemented in 1993. There are now separate RBC formulas for each of the primary insurance lines of business: 1) life and fraternal; 2) P/C; and 3) health. Differences in RBC across lines of business reflect differences in operations as well as the economic environments facing these companies. Although the components in the RBC calculation differ across lines of business, the formulation is roughly the same. The generic RBC formula works by:
+Adding up the main risks insurance companies commonly face.
+Considering potential dependencies among these risks.
+Allowing for the benefits of diversification.
+The RBC formulae along with a comparison to their European equivalent Solvency II can be found here. RBC requirements in life insurance are based on five categories of risk:
+Insurance affiliates and Misc. Other—this is the risk from declining value of insurance subsidiaries as well as risk from off-balance sheet and other misc. accounts (e.g., DTAs).
+Asset risk—Asset risk refers to risks associated with investments held by the insurer. These risks include the possibility of default of bonds or loss of market value for equities.
+Insurance (underwriting) risk—Insurance (or underwriting) risk reflects the risk of underestimating liabilities from business already written or inadequately pricing business to be written in the coming year.
+Interest rate risk—Interest rate risk involves potential losses due to changing interest rates. These risks include disintermediation and spread compression. Disintermediation typically is associated with rising interest rates and involves the surrender of insurance products with fixed payouts (such as fixed annuities) in favor of higher-yielding assets. Spread compression is associated with lower interest rates. For products with fixed payouts, the insurer could find itself earning lower returns on its assets with no commensurate fall in interest rates on liabilities with fixed payouts.
+Business risk—Business risk reflects the general health of the insurer. This involves largely operational risks, such as the potential for losses or insolvency due to poor management.
+Health and P/C RBC formulas consider similar types of risk. However, the risk components may vary slightly between formulas. For example, interest rate risk is included only in the life formula, while catastrophe risk is included only in the P/C formula.
+Under the RBC system, regulators have the legal authority to take preventive and corrective measures. These measures vary depending on the capital deficiency indicated by the RBC result. Capital sufficiency is the ratio of total adjusted capital to Authorized Control Level RBC including Basic Operational Risk. There are four levels of regulatory intervention described in detail here. If the ratio is at or above 300%, no regulatory intervention is needed. If the ratio is between 200%-300%, the insurance company is subject to trend test and potential regulatory intervention if Trend Test is triggered. Below 200%, interventions range from submission of action plans to a regulatory takeover of the management of the company. If the ratio is below 70%, a regulator is obligated to take over management of the company. These preventive and corrective measures are designed to provide for early regulatory intervention to correct problems before insolvencies become inevitable, thereby minimizing the number and adverse impact of insolvencies.
+Actions
+Status: The RBC system is consistently updated to meet the changing regulatory environment. The Capital Adequacy (E) Task Force and its working groups and subgroups manage the RBC calculations. These groups include the:
+Health Risk-Based Capital (E) Working Group
+Life Risk-Based Capital (E) Working Group
+Longevity Risk (E/A) Subgroup
+Generator of Economic Scenarios (GOES) (E/A) Subgroup
+Property and Casualty Risk-Based Capital (E) Working Group
+Catastrophe Risk (E) Subgroup
+Risk-Based Capital Investment Risk and Evaluation (E) Working Group
+RBC formulas are reviewed annually. Adopted Modifications to Risk-Based Capital Formulas and are publicly available on the NAIC website. More details on current-year revisions for RBC reporting can be found on the working group pages in the links above. Newsletters are published annually in August (under the Documents tab).
+The Capital Adequacy (E) Task Force’s and its Working Groups’ working agenda includes numerous efforts to monitor, evaluate, and consider potential improvements in RBC requirements across all lines of business, including refinements to the updated RBC formulas and ensuring consistency in RBC treatment across asset types and the various components of RBC calculations. RBC-related efforts prioritized during 2026 include, among others,
+recommendations for an appropriate treatment of longevity reinsurance products,
+effectuation of the economic scenario generator (ESG),
+potential alignment of C3 Phase 1 and C3 Phase 2 interest rate risk methodologies.
+evaluation of appropriate RBC treatment for collateral loans, especially those backed by equity-like assets.
+evaluations of risk charges based on catastrophe model output and other catastrophe risks,
+evaluation of current H-2 underwriting risk framework.
+evaluation of the appropriate RBC treatment of Asset-Backed Securities (ABS), including Collateralized Loan Obligations (CLO) and similar “complex assets.”
+formulation of RBC principles to help govern the purpose and use of, as well as maintaining and prioritizing updates to, RBC requirements.
+The working groups are also charged with reviewing the effectiveness of RBC policies and procedures, as well as comparability between RBC formulas.
+Related Content
+Use the select options below to view recently added content related to the topic selected.
+Keyword
+Committee
+This filter is disabled while the research only filter is enabled.
+Research
+Meetings
+View upcoming meetings or use the completed tab to view the last 150 days.
+Scroll Left
+Scroll Right
+Committee
+- Any -
+Catastrophe Risk (E) Subgroup
+Capital Adequacy (E) Task Force
+Health Risk-Based Capital (E) Working Group
+Risk-Based Capital Model Governance (EX) Task Force
+Life Actuarial (A) Task Force
+Life Risk-Based Capital (E) Working Group
+Risk-Based Capital Investment Risk and Evaluation (E) Working Group
+Longevity Risk (E/A) Subgroup
+Life Insurance and Annuities (A) Committee
+Financial Condition (E) Committee
+Tuesday, November 3, 2026
+Interim Meeting Calendar
+Capital Adequacy (E) Task Force
+The purpose of this meeting is to consider adoption of 1) Proposal 2026-04-CR (Jan. 1 – Sept 30 Catastrophe Event Lists), 2) Proposal 2026-13-CR (Severe Convective Storm Implementation), 3) the Task Force and Working Groups’ Working Agendas, 4) the revised RBC Procedures; consider exposure of 5) Proposal 2026-14-CA (Security Identifier Update), 6) Proposal 2026-16-CA (Noncontrolled Assets); 7) receive referrals from the Statutory Accounting Principles (E) Working Group regarding ICOLI and Securities Lending.&nbsp;
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Capital Adequacy (E) Task Force
+Financial Condition (E) Committee
+Tuesday, November 03, 2026
+11:00 AM CST
+The purpose of this meeting is to consider adoption of 1) Proposal 2026-04-CR (Jan. 1 – Sept 30 Catastrophe Event Lists), 2) Proposal 2026-13-CR (Severe Convective Storm Implementation), 3) the Task Force and Working Groups’ Working Agendas, 4) the revised RBC Procedures; consider exposure of 5) Proposal 2026-14-CA (Security Identifier Update), 6) Proposal 2026-16-CA (Noncontrolled Assets); 7) receive referrals from the Statutory Accounting Principles (E) Working Group regarding ICOLI and Securities Lending.
+Wednesday, October 28, 2026
+Interim Meeting Calendar
+Health Risk-Based Capital (E) Working Group
+The purpose of the meeting is 1) adopt June 15 minutes, 2) receive a referral from the Statutory Accounting Principles (E) Working Group, 3) adopt the working agenda, and 4) receive a report on the Managed Care Credit Drafting Group
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Health Risk-Based Capital (E) Working Group
+Financial Condition (E) Committee
+Wednesday, October 28, 2026
+11:00 AM CDT
+The purpose of the meeting is 1) adopt June 15 minutes, 2) receive a referral from the Statutory Accounting Principles (E) Working Group, 3) adopt the working agenda, and 4) receive a report on the Managed Care Credit Drafting Group
+Wednesday, October 28, 2026
+Interim Meeting Calendar
+Property and Casualty Risk-Based Capital (E) Working Group, Catastrophe Risk (E) Subgroup
+The purpose of this meeting is to 1) consider adoption of interim joint meeting minutes; 2) consider adoption of Proposal 2026-13-CR (Severe Convective Storm Implementation; 3) consider adoption of Proposal 2026-04-CR (2026 CAT Event List Jan thru Sept); 4) discuss PCRBC WG and Cat Risk SG working agenda; 5) discuss climate impact disclosures; 6) discuss flood peril.&nbsp;
+11:00 AM ET, 10:00 AM CT, 9:00 AM MT, 8:00 AM PT
+1 hr
+×
+About This Meeting
+Jt. Call of the Property and Casualty Risk-Based Capital (E) Working Group and Catastrophe Risk (E) Subgroup
+Financial Condition (E) Committee
+Wednesday, October 28, 2026
+10:00 AM CDT
+The purpose of this meeting is to 1) consider adoption of interim joint meeting minutes; 2) consider adoption of Proposal 2026-13-CR (Severe Convective Storm Implementation; 3) consider adoption of Proposal 2026-04-CR (2026 CAT Event List Jan thru Sept); 4) discuss PCRBC WG and Cat Risk SG working agenda; 5) discuss climate impact disclosures; 6) discuss flood peril.
+Tuesday, October 13, 2026
+Interim Meeting Calendar
+Life Risk-Based Capital (E) Working Group
+The purpose of the call is to 1) receive comments on exposure of Recapture Risk &amp; E-Committee referral letter; 2) discussion questions related to the reinsurance recapture charge from the E-Committee referral letter; 3) receive notice from SAPWG – AVR updates; 4) discuss Working Agenda.&nbsp;
+11:00 AM ET, 10:00 AM CT, 9:00 AM MT, 8:00 AM PT
+1 hr
+×
+About This Meeting
+Life Risk-Based Capital (E) Working Group
+Financial Condition (E) Committee
+Tuesday, October 13, 2026
+10:00 AM CDT
+The purpose of the call is to 1) receive comments on exposure of Recapture Risk & E-Committee referral letter; 2) discussion questions related to the reinsurance recapture charge from the E-Committee referral letter; 3) receive notice from SAPWG – AVR updates; 4) discuss Working Agenda.
+Agenda & Materials
+Thursday, October 8, 2026
+Interim Meeting Calendar
+Risk-Based Capital Model Governance (EX) Task Force
+The purpose of the call is to continue discussions on the previously exposed list of potential gaps and possible structures.&nbsp;
+3:00 PM ET, 2:00 PM CT, 1:00 PM MT, 12:00 PM PT
+90 minutes
+×
+About This Meeting
+Risk-Based Capital Model Governance (EX) Task Force
+Executive (EX) Committee
+Thursday, October 08, 2026
+2:00 PM CDT
+The purpose of the call is to continue discussions on the previously exposed list of potential gaps and possible structures.
+Agenda & Materials
+Tuesday, October 6, 2026
+Interim Meeting Calendar
+Life Risk-Based Capital (E) Working Group
+The purpose of this meeting is to receive comments on the Exposure of Recapture Risk &amp; E-Committee referral letter, to receive a notice from SAPWG concerning AVR updates, and to discuss the Working Agenda.
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Meeting of the Life Risk-Based Capital (E) Working Group
+Financial Condition (E) Committee
+Tuesday, October 06, 2026
+11:00 AM CDT
+The purpose of this meeting is to receive comments on the Exposure of Recapture Risk & E-Committee referral letter, to receive a notice from SAPWG concerning AVR updates, and to discuss the Working Agenda.
+Agenda & Materials
+Monday, October 5, 2026
+Interim Meeting Calendar
+Risk-Based Capital Investment Risk and Evaluation (E) Working Group
+The purpose of the meeting is to&nbsp; 1) receive comments on exposures and 2) discuss structured assets RBC project plan.&nbsp;
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+Risk-Based Capital (RBC) Investment Risk and Evaluation (E) Working Group
+Financial Condition (E) Committee
+Monday, October 05, 2026
+1:00 PM CDT
+The purpose of the meeting is to 1) receive comments on exposures and 2) discuss structured assets RBC project plan.
+Agenda & Materials
+Monday, September 28, 2026
+Interim Meeting Calendar
+Property and Casualty Risk-Based Capital (E) Working Group, Catastrophe Risk (E) Subgroup
+The purpose of this meeting is to discuss comments for Proposal 2026-13-CR (Severe Convective Storm Implementation).&nbsp;
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Jt. Call of the Property and Casualty Risk-Based Capital (E) Working Group and Catastrophe Risk (E) Subgroup
+Financial Condition (E) Committee
+Monday, September 28, 2026
+11:00 AM CDT
+The purpose of this meeting is to discuss comments for Proposal 2026-13-CR (Severe Convective Storm Implementation).
+Agenda & Materials
+Thursday, September 24, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+Agenda&nbsp;– September 24, 2026
+Consider Exposure of Referral to SAPWG on Reinsurance Collateral
+Discuss Comments Received on Valuation Manual Default and Spread Methodology and Next Steps
+Academy Comment Letter
+ACLI Comment Letter
+Consider Adoption of the Task Force’s Summer National Meeting Minutes
+Hear Other Matters
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+Life Actuarial (A) Task Force
+Life Insurance and Annuities (A) Committee
+Thursday, September 24, 2026
+1:00 PM CDT
+Agenda – September 24, 2026
+Consider Exposure of Referral to SAPWG on Reinsurance Collateral
+Discuss Comments Received on Valuation Manual Default and Spread Methodology and Next Steps
+Academy Comment Letter
+ACLI Comment Letter
+Consider Adoption of the Task Force’s Summer National Meeting Minutes
+Hear Other Matters
+Referral to SAPWG on Reinsurance Collateral
+Academy Comment Letter
+ACLI Comment Letter
+Wednesday, August 26, 2026
+Interim Meeting Calendar
+Life Risk-Based Capital (E) Working Group
+The purpose of this meeting is to receive referrals and consider exposure of referrals. An agenda and materials will be distributed when available.
+3:00 PM ET, 2:00 PM CT, 1:00 PM MT, 12:00 PM PT
+30 minutes
+×
+About This Meeting
+Meeting of the Life Risk-Based Capital (E) Working Group
+Financial Condition (E) Committee
+Wednesday, August 26, 2026
+2:00 PM CDT
+The purpose of this meeting is to receive referrals and consider exposure of referrals. An agenda and materials will be distributed when available.
+Agenda
+Thursday, August 13, 2026
+National Meeting
+Risk-Based Capital Model Governance (EX) Task Force
+Hilton Tower 402—Robinson Ballroom AB—Level 5
+11:00 AM ET, 10:00 AM CT, 9:00 AM MT, 8:00 AM PT
+1 hr 00 min
+×
+About This Meeting
+Risk-Based Capital Model Governance (EX) Task Force
+Executive (EX) Committee
+Thursday, August 13, 2026
+10:00 AM CDT
+Hilton Tower 402—Robinson Ballroom AB—Level 5
+Agenda
+Agenda & Materials
+Minutes Packet
+Thursday, July 30, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+&nbsp;Agenda&nbsp;– July 30, 2026
+Hear Presentation from the SOA on Historical and Future Mortality Improvement
+Consider Exposure of Updates to Financial Analysis Handbook
+Financial Analysis Solvency Tools (E) Working Group Referral
+Revisions to Financial Analysis Handbook&nbsp;
+Consider Exposure of Updates to Financial Condition Examiners Handbook
+Financial Examiners Handbook (E) Technical Group Referral
+Revisions to Financial Condition Examiners Handbook
+Other Matters
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+Life Actuarial (A) Task Force - 07302026
+Life Insurance and Annuities (A) Committee
+Thursday, July 30, 2026
+1:00 PM CDT
+Agenda – July 30, 2026
+Hear Presentation from the SOA on Historical and Future Mortality Improvement
+Consider Exposure of Updates to Financial Analysis Handbook
+Financial Analysis Solvency Tools (E) Working Group Referral
+Revisions to Financial Analysis Handbook
+Consider Exposure of Updates to Financial Condition Examiners Handbook
+Financial Examiners Handbook (E) Technical Group Referral
+Revisions to Financial Condition Examiners Handbook
+Other Matters
+SOA Presentation
+Financial Analysis Solvency Tools (E) Working Group Referral
+Revisions to Financial Analysis Handbook
+Financial Examiners Handbook (E) Technical Group Referral
+Revisions to Financial Condition Examiners Handbook
+Tuesday, July 28, 2026
+Interim Meeting Calendar
+Longevity Risk (E/A) Subgroup
+7/28 Agenda:&nbsp;
+1. Consider Adoption of its June 9 Meeting Minutes&nbsp;
+2. Hear an Update on C-2 Longevity Risk Capital Charge Development for Longevity Reainsurance from the American Academy of Actuaries
+3:00 PM ET, 2:00 PM CT, 1:00 PM MT, 12:00 PM PT
+1 hr
+×
+About This Meeting
+Longevity Risk (E/A) Subgroup
+Life Insurance and Annuities (A) Committee
+Financial Condition (E) Committee
+Tuesday, July 28, 2026
+2:00 PM CDT
+7/28 Agenda:
+1. Consider Adoption of its June 9 Meeting Minutes
+2. Hear an Update on C-2 Longevity Risk Capital Charge Development for Longevity Reainsurance from the American Academy of Actuaries
+LRSG June 9 Meeting Minutes
+C-2 LongeviC-2 Longevity Risk Capital Charge Development
+Thursday, July 23, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+To be determined.
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+CANCELED - Life Actuarial (A) Task Force - 07232026
+Life Insurance and Annuities (A) Committee
+Thursday, July 23, 2026
+1:00 PM CDT
+To be determined.
+Thursday, July 16, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+To be determined.
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+CANCELED - Life Actuarial (A) Task Force - 07162026
+Life Insurance and Annuities (A) Committee
+Thursday, July 16, 2026
+1:00 PM CDT
+To be determined.
+Thursday, July 16, 2026
+Interim Meeting Calendar
+Life Risk-Based Capital (E) Working Group
+The purpose of the call is to 1) adoption of the Spring NM minutes, April 23, April 30, and June 11 minutes, 2) adoption of the 2025 RBC Statistics, and 3) adoption of LRBC 2026 Newsletter.&nbsp;
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Life Risk-Based Capital (E) Working Group
+Financial Condition (E) Committee
+Thursday, July 16, 2026
+11:00 AM CDT
+The purpose of the call is to 1) adoption of the Spring NM minutes, April 23, April 30, and June 11 minutes, 2) adoption of the 2025 RBC Statistics, and 3) adoption of LRBC 2026 Newsletter.
+Agenda & Materials
+Wednesday, July 15, 2026
+Interim Meeting Calendar
+Health Risk-Based Capital (E) Working Group
+The purpose of the meeting is to 1) adoption of its May 7 minutes, 2) discuss the 2025 Health Risk-Based Capital Statistics, 3) adopt the 2026 Health Risk-Based Capital Newsletter, 4) receive comments on the request for additional data analysis ideas, and 5) discuss factor time horizon in the H-2 Underwriting Risk Report.&nbsp;
+3:00 PM ET, 2:00 PM CT, 1:00 PM MT, 12:00 PM PT
+1 hr
+×
+About This Meeting
+Health Risk-Based Capital (E) Working Group
+Financial Condition (E) Committee
+Wednesday, July 15, 2026
+2:00 PM CDT
+The purpose of the meeting is to 1) adoption of its May 7 minutes, 2) discuss the 2025 Health Risk-Based Capital Statistics, 3) adopt the 2026 Health Risk-Based Capital Newsletter, 4) receive comments on the request for additional data analysis ideas, and 5) discuss factor time horizon in the H-2 Underwriting Risk Report.
+Agenda & Materials
+Thursday, July 9, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+To be determined.
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+CANCELED - Life Actuarial (A) Task Force - 07092026
+Life Insurance and Annuities (A) Committee
+Thursday, July 09, 2026
+1:00 PM CDT
+To be determined.
+Thursday, July 9, 2026
+Interim Meeting Calendar
+Property and Casualty Risk-Based Capital (E) Working Group, Catastrophe Risk (E) Subgroup
+The purpose of this meeting is to 1) consider adoption of the Working Group and Subgroup’s May 12 and June 17 minutes; 2) consider adoption of the P/C 2026 Newsletter; 3) discuss P/C 2025 RBC statistics; 4) hear updates on the severe convective storm impact analysis; and 5) discuss climate impact disclosures.
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Jt. Meeting of the Property and Casualty Risk-Based Capital (E) Working Group and Catastrophe Risk (E) Subgroup
+Financial Condition (E) Committee
+Thursday, July 09, 2026
+11:00 AM CDT
+The purpose of this meeting is to 1) consider adoption of the Working Group and Subgroup’s May 12 and June 17 minutes; 2) consider adoption of the P/C 2026 Newsletter; 3) discuss P/C 2025 RBC statistics; 4) hear updates on the severe convective storm impact analysis; and 5) discuss climate impact disclosures.
+Agenda & Materials
+Wednesday, July 8, 2026
+Interim Meeting Calendar
+Financial Condition (E) Committee
+The purpose of the call will be to consider certain proposed changes to RBC for year-end 2026.&nbsp;
+1:00 PM ET, 12:00 PM CT, 11:00 AM MT, 10:00 AM PT
+1 hr
+×
+About This Meeting
+Financial Condition (E) Committee
+Financial Condition (E) Committee
+Wednesday, July 08, 2026
+12:00 PM CDT
+The purpose of the call will be to consider certain proposed changes to RBC for year-end 2026.
+Agenda & Materials
+Thursday, July 2, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+To be determined.
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+CANCELED - Life Actuarial (A) Task Force - 07022026
+Life Insurance and Annuities (A) Committee
+Thursday, July 02, 2026
+1:00 PM CDT
+To be determined.
+Tuesday, June 30, 2026
+Interim Meeting Calendar
+Capital Adequacy (E) Task Force
+The purpose of this meeting is to 1) consider adoption of proposals and 2) consider adoption of its 2027 proposed charges.&nbsp;
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Capital Adequacy (E) Task Force
+Financial Condition (E) Committee
+Tuesday, June 30, 2026
+11:00 AM CDT
+The purpose of this meeting is to 1) consider adoption of proposals and 2) consider adoption of its 2027 proposed charges.
+Agenda & Materials
+Thursday, June 25, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+To be determined.
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+CANCELED - Life Actuarial (A) Task Force - 06252026
+Life Insurance and Annuities (A) Committee
+Thursday, June 25, 2026
+1:00 PM CDT
+To be determined.
+Tuesday, June 23, 2026
+Interim Meeting Calendar
+Risk-Based Capital Investment Risk and Evaluation (E) Working Group
+The purpose of the meeting is to receive comments on Proposal 2026-12-IRE (CLO RBC Factor).
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+2 hrs
+×
+About This Meeting
+Risk-Based Capital Investment Risk and Evaluation (E) Working Group
+Financial Condition (E) Committee
+Tuesday, June 23, 2026
+11:00 AM CDT
+The purpose of the meeting is to receive comments on Proposal 2026-12-IRE (CLO RBC Factor).
+Agenda & Materials
+Thursday, June 18, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+Agenda&nbsp;– June 18, 2026
+Hear Presentation from the SOA on Historical and Future Mortality Improvement
+Hear Update on Actuarial Guideline 55 Report Reviews—MATERIALS PENDING
+Discuss Other Matters
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+Life Actuarial (A) Task Force - 06182026
+Life Insurance and Annuities (A) Committee
+Thursday, June 18, 2026
+1:00 PM CDT
+Agenda – June 18, 2026
+Hear Presentation from the SOA on Historical and Future Mortality Improvement
+Hear Update on Actuarial Guideline 55 Report Reviews—MATERIALS PENDING
+Discuss Other Matters
+SOA on Historical and Future Mortality Improvement
+Actuarial Guideline 55 Report Reviews
+Thursday, June 18, 2026
+Interim Meeting Calendar
+Risk-Based Capital Model Governance (EX) Task Force, Capital Adequacy (E) Task Force
+The purpose of the meeting is to consider adoption of a modified version of the RBC Preamble.&nbsp;
+12:00 PM ET, 11:00 AM CT, 10:00 AM MT, 9:00 AM PT
+1 hr
+×
+About This Meeting
+Jt. Call of the Risk-Based Capital Model Governance (EX) Task Force and Capital Adequacy (E) Task Force
+Executive (EX) Committee
+Financial Condition (E) Committee
+Thursday, June 18, 2026
+11:00 AM CDT
+The purpose of the meeting is to consider adoption of a modified version of the RBC Preamble.
+Agenda & Materials
+Wednesday, June 17, 2026
+Interim Meeting Calendar
+Property and Casualty Risk-Based Capital (E) Working Group, Catastrophe Risk (E) Subgroup
+The purpose of this meeting is to 1) consider adoption of Proposal 2026-11-P (Underwriting Risk Line 1 Factors); 2) consider adoption of Proposal 2025-21-P (Premium and Loss Concentration Factors); 3) hear updates on the severe convective storm impact analysis; and 4) discuss climate impact disclosures.&nbsp;
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+Jt. Call of the Property and Casualty Risk-Based Capital (E) Working Group and Catastrophe Risk (E) Subgroup
+Financial Condition (E) Committee
+Wednesday, June 17, 2026
+1:00 PM CDT
+The purpose of this meeting is to 1) consider adoption of Proposal 2026-11-P (Underwriting Risk Line 1 Factors); 2) consider adoption of Proposal 2025-21-P (Premium and Loss Concentration Factors); 3) hear updates on the severe convective storm impact analysis; and 4) discuss climate impact disclosures.
+Agenda & Materials
+Thursday, June 11, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+Agenda&nbsp;– June 11, 2026
+Consider adoption of APF 2025-14 VA Scope Clarification
+ACLI Comment Letter
+Consider adoption of APF 2026-04 CSO Clarification
+Consider adoption of 2026-05 Editorial APF
+Consider adoption of APF 2025-18 VM-22 Deposit-Type Contracts&nbsp;
+Consider adoption of APF 2025-20 VM-22 Aggregation
+Consider any comments on Group Annuity Selection Memo&nbsp;
+Other Matters
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+Life Actuarial (A) Task Force - 06112026
+Life Insurance and Annuities (A) Committee
+Thursday, June 11, 2026
+1:00 PM CDT
+Agenda – June 11, 2026
+Consider adoption of APF 2025-14 VA Scope Clarification
+ACLI Comment Letter
+Consider adoption of APF 2026-04 CSO Clarification
+Consider adoption of 2026-05 Editorial APF
+Consider adoption of APF 2025-18 VM-22 Deposit-Type Contracts
+Consider adoption of APF 2025-20 VM-22 Aggregation
+Consider any comments on Group Annuity Selection Memo
+Other Matters
+APF 2025-14 VA Scope Clarification
+ACLI Comment Letter
+APF 2026-04 CSO Clarification
+2026-05 Editorial APF
+2025-18 VM-22 Deposit-Type Contracts
+APF 2025-20 VM-22 Aggregation
+Group Annuity Selection Memo
+Thursday, June 11, 2026
+Interim Meeting Calendar
+Life Risk-Based Capital (E) Working Group
+The purpose of the call is to 1) receive comments and consider re-exposures and 2) receive comments and consider adoptions.&nbsp;
+11:00 AM ET, 10:00 AM CT, 9:00 AM MT, 8:00 AM PT
+1 hr
+×
+About This Meeting
+Life Risk-Based Capital (E) Working Group
+Financial Condition (E) Committee
+Thursday, June 11, 2026
+10:00 AM CDT
+The purpose of the call is to 1) receive comments and consider re-exposures and 2) receive comments and consider adoptions.
+Agenda and Materials
+Thursday, June 4, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+To be determined.
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+CANCELED - Life Actuarial (A) Task Force - 06042026
+Life Insurance and Annuities (A) Committee
+Thursday, June 04, 2026
+1:00 PM CDT
+To be determined.
+Thursday, May 28, 2026
+Interim Meeting Calendar
+Life Actuarial (A) Task Force
+To be determined.
+2:00 PM ET, 1:00 PM CT, 12:00 PM MT, 11:00 AM PT
+1 hr
+×
+About This Meeting
+CANCELED - Life Actuarial (A) Task Force - 05282026
+Life Insurance and Annuities (A) Committee
+Thursday, May 28, 2026
+1:00 PM CDT
+To be determined.
+Committees Active on This Topic
+Executive (EX) Committee
+Financial Condition (E) Committee
+Financial Regulation Standards and Accreditation (F) Committee
+Health Insurance and Managed Care (B) Committee
+Innovation Cybersecurity and Technology (H) Committee
+International Insurance Relations (G) Committee
+Life Insurance and Annuities (A) Committee
+Market Regulation and Consumer Affairs (D) Committee
+Property and Casualty Insurance (C) Committee
+Working Groups
+Capital Adequacy (E) Task Force
+Catastrophe Risk (E) Subgroup
+Credit Rating Provider (E) Working Group
+Health Risk-Based Capital (E) Working Group
+Homeowners Market Data Call (C) Task Force
+Invested Assets (E) Task Force
+Investment Designation Analysis (E) Working Group
+Life Actuarial (A) Task Force
+Life Risk-Based Capital (E) Working Group
+Longevity Risk (E/A) Subgroup
+Natural Catastrophe Risk and Resilience (EX) Task Force
+Property and Casualty Risk-Based Capital (E) Working Group
+Regulatory Framework (B) Task Force
+Risk-Based Capital Investment Risk and Evaluation (E) Working Group
+Risk-Based Capital Model Governance (EX) Task Force
+Statutory Accounting Principles (E) Working Group
+Variable Annuities Capital and Reserve (E/A) Subgroup
+Contacts
+Media queries should be directed to the NAIC Communications Division at 816-783-8909 or news@naic.org.
+Services
+Services
+MyNAIC
+iSite+
+Financial Statement Filing
+Account Manager
+Resources
+Resources
+Resource Center
+Newsroom
+Publications
+Meetings and Events
+Education and Training
+Glossary of Insurance Terms
+Support
+Support
+Contact
+Help
+Careers
+© 1991-2026 National Association of Insurance Commissioners.
+All rights reserved.
+Stop.Call.Confirm is a registered service mark of the National Association of Insurance Commissioners.
+Privacy Policy
+Accessibility
+Connect
+Workplace
+Web CMS

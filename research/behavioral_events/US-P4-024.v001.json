@@ -1,0 +1,81 @@
+{
+  "market": "US",
+  "family": "passive_and_fund_constraints",
+  "parent_episode": "US_MMF_2014_REFORM",
+  "published_date": "2014-07-23",
+  "available_at": "2014-07-23T23:59:59-04:00",
+  "timezone": "America/New_York",
+  "publication_date_precision": "DATE",
+  "publication_date_evidence": {
+    "excerpt": "Washington D.C., July 23, 2014 —\n",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/8e42dfd09e371a158290.html"
+  },
+  "participant_type": "SEC, money-market-fund boards/advisers and redeeming investors",
+  "constraint": "可赎回负债对非即期可卖资产；净值、流动资产、费用与门槛制度",
+  "trigger": "SEC Adopts Money Market Fund Reform Rules",
+  "observed_action": "SEC Adopts Money Market Fund Reform Rules",
+  "action_status": "MANDATE_CHANGE",
+  "action_type": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "按规则过渡期执行；基金资金实际迁移未知",
+  "assets": [
+    "SPY"
+  ],
+  "voluntary_or_forced": "NOT_A_TRADE; applicable fund rule mandatory only after effectiveness",
+  "price_sensitive": "UNKNOWN",
+  "information_based": "RULE_ACTION_NOT_OBSERVED_FUND_FLOW",
+  "known_at_t": [
+    "Washington D.C., July 23, 2014 —\nThe Securities and Exchange Commission today adopted amendments to the rules that govern money market mutual funds. The amendments make structural and operational reforms to address risks of investor runs in money market funds, while preserving the benefits of the funds.\nToday’s rules build upon the reforms adopted by the Commission in March 2010 that were designed to reduce the interest rate, credit and liquidity risks of money market fund portfolios. When the Commission adopted the 2010 amendments, it recognized that the 2008 financial crisis raised questions of whether more fundamental changes to money market funds might be warranted.\nThe new rules require a floating net asset value (NAV) for institutional prime money market funds, which allows the daily share prices of these funds to fluctuate along with changes in the market-based value of fund assets and provide non-government money market fund boards new tools – liquidity fees and redemption gates – to address runs.\n“Today’s reforms fundamentally change the way that money market funds operate. They will reduce the risk of runs in money market funds and provide important new tools that will help further protect investors and the financial system,” said SEC Chair Mary Jo White. “Together, this strong reform package will make our markets more resilient and enhance transparency and fairness of these products for America’s investors.”\nWith a floating NAV, institutional prime money market funds (including institutional municipal money market funds) are required to value their portfolio securities using market-based factors and sell and redeem shares based on a floating NAV. These funds no longer will be allowed to use the special pricing and valuation conventions that currently permit them to maintain a constant share price of $1.00. With liquidity fees and redemption gates, money market fund boards have the ability to impose fees and gates during periods of stress. The final rules also include enhanced diversification, disclosure and stress testing requirements, as well as updated reporting by money market funds and private funds that operate like money market funds.\nThe final "
+  ],
+  "known_only_after_t": [],
+  "unknown_at_t": [
+    "未来价格、市场真实预期、未公开的仓位/对冲以及交易对手约束",
+    "基金未来赎回额、持仓迁移、ETF创建赎回实量；2021回述2020不是2020时已知"
+  ],
+  "source_ids": [
+    "US_SOURCE_8e42dfd09e371a158290"
+  ],
+  "source_paths": [
+    "research/phase4/sources/us/8e42dfd09e371a158290.html"
+  ],
+  "source_urls": [
+    "https://www.sec.gov/newsroom/press-releases/2014-143"
+  ],
+  "source_sha256": [
+    "086121914b1c752baa39e2573ebd7b9cebfa2c1a5840dec89f4d2eeb3c5a102d"
+  ],
+  "source_excerpt": "Washington D.C., July 23, 2014 —\nThe Securities and Exchange Commission today adopted amendments to the rules that govern money market mutual funds. The amendments make structural and operational reforms to address risks of investor runs in money market funds, while preserving the benefits of the funds.\nToday’s rules build upon the reforms adopted by the Commission in March 2010 that were designed to reduce the interest rate, credit and liquidity risks of money market fund portfolios. When the Commission adopted the 2010 amendments, it recognized that the 2008 financial crisis raised questions of whether more fundamental changes to money market funds might be warranted.\nThe new rules require a floating net asset value (NAV) for institutional prime money market funds, which allows the daily share prices of these funds to fluctuate along with changes in the market-based value of fund assets and provide non-government money market fund boards new tools – liquidity fees and redemption gates – to address runs.\n“Today’s reforms fundamentally change the way that money market funds operate. They will reduce the risk of runs in money market funds and provide important new tools that will help further protect investors and the financial system,” said SEC Chair Mary Jo White. “Together, this strong reform package will make our markets more resilient and enhance transparency and fairness of these products for America’s investors.”\nWith a floating NAV, institutional prime money market funds (including institutional municipal money market funds) are required to value their portfolio securities using market-based factors and sell and redeem shares based on a floating NAV. These funds no longer will be allowed to use the special pricing and valuation conventions that currently permit them to maintain a constant share price of $1.00. With liquidity fees and redemption gates, money market fund boards have the ability to impose fees and gates during periods of stress. The final rules also include enhanced diversification, disclosure and stress testing requirements, as well as updated reporting by money market funds and private funds that operate like money market funds.\nThe final ",
+  "pit_status": "VERIFIED_DATE_CONSERVATIVE",
+  "confidence_level": "LEVEL 1",
+  "mechanism": "赎回成本/门槛改变先赎回优势及流动性储备；不能据此推算股票flow",
+  "alternative_explanation": "改革被预期，或改变产品/负债结构但无股票边际流",
+  "falsifier": "过渡期内持仓/客户结构未改变，或制度变化不降低/改变run incentives",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "protocol": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+    "catalog_index": 0,
+    "catalog_n": 3,
+    "rule": "date order equisequence floor(i*(n-1)/9); no outcome/price filter"
+  },
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "outcomes": null,
+  "event_id": "US-P4-024",
+  "source_revision_risk": "Official historical original currently hosted; no contemporaneous independent archive snapshot; possible silent source corrections.",
+  "broad_asset_reaction_only": true,
+  "counterfactual": "NOT_IDENTIFIED: matched broad-asset date controls are descriptive and cannot isolate actor-specific counterfactual",
+  "generalizability": "Not established; same program/company and common macro constraints cluster observations.",
+  "closest_similar_events": [],
+  "important_differences": [],
+  "study_asset": "SPY",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/us/8e42dfd09e371a158290.html": "086121914b1c752baa39e2573ebd7b9cebfa2c1a5840dec89f4d2eeb3c5a102d"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

@@ -1,0 +1,91 @@
+INVESTOR BULLETIN
+
+Insider Transactions
+and Forms 3, 4, and 5
+The SEC’s Office of Investor Education and Advocacy is
+issuing this Investor Bulletin to help educate investors      Codes
+about SEC Forms 3, 4, and 5.
+                                                              Following is a description of some commonly used
+                                                              “transaction codes.” For more transaction codes and
+The federal securities laws require certain individuals
+                                                              a more detailed explanation for the various codes,
+(such as officers, directors, and those that hold more
+                                                              please see the General Instructions to Form 4 at
+than 10% of any class of a company’s securities, together
+                                                              www.sec.gov/about/forms/form4data.pdf.
+we’ll call, “insiders”) to report purchases, sales, and
+holdings of their company’s securities by filing Forms
+                                                              Transaction Code   Transaction
+3, 4, and 5.
+                                                                    A            Grant, award, or other acquisition
+                                                                                 of securities from the company
+What’s a Form 3?                                                                 (such as an option)
+When a person becomes an insider (for example, when                 K            Equity swaps and similar hedging
+                                                                                 transactions
+they are hired as an officer or director), they must file a         P            Purchase of securities on an
+Form 3 to initially disclose his or her ownership of the                         exchange or from another person
+company’s securities. Form 3 must be filed within 10                S            Sale of securities on an exchange
+days after the person becomes an insider.                                        or to another person
+                                                                    D            Sale or transfer of securities
+                                                                                 back to the company
+What’s a Form 4?                                                    F            Payment of exercise price or tax
+In most cases, when an insider executes a transaction,                           liability using portion of securities
+he or she must file a Form 4. With this form filing, the                         received from the company
+                                                                    M            Exercise or conversion of
+public is made aware of the insider’s various transactions                       derivative security received from
+in company securities, including the amount purchased                            the company (such as an option)
+or sold and the price per share. Form 4 must be filed               G            Gift of securities by or to the
+within two business days following the transaction date.                         insider
+                                                                    V            A transaction voluntarily reported
+Transactions in a company’s common stock as well as                              on Form 4
+derivative securities, such as options, warrants, and               J            Other (accompanied by a foot-
+convertible securities, are reported on the form. Each                           note describing the transaction)
+transaction is coded to indicate the nature of the
+transaction.
+
+Investor Assistance (800) 732-0330                                                                    www.investor.gov
+What’s a Form 5?
+A Form 5 is generally due to the SEC no later than 45                   Related Information
+days after the company’s fiscal year ends and is only      In addition to the SEC’s EDGAR database, there
+required from an insider when at least one transaction,    also are many third-party websites that offer
+because of an exemption or failure to earlier report,      insider ownership and transaction information.
+was not reported during the year. For example, some        If you enter the words “insider reports” into most
+transactions, such as certain purchases by an insider of   Internet search engines, you’ll quickly find
+less than $10,000 in a six-month period, don’t have to     websites that can provide this information.
+be reported on Form 4 when they occur but do have
+to be reported on Form 5. The Form 5 filing doesn’t        For more information on the reporting require-
+have to disclose transactions that have been previously    ments for officers, directors, and beneficial
+reported. When reporting transactions on Form 5,           owners, you can read Section 16 of the Exchange
+insiders use the same transaction codes as when            Act at www.sec.gov/about/laws/sea34.pdf. You
+reporting on Form 4.                                       can download blank PDF versions of Form 3,
+                                                           Form 4, and Form 5 as well as the instructions to
+What can investors do?                                     these forms by visiting www.sec.gov/divisions/
+Before investing, investors may wish to research insider   corpfin/forms/exchange.shtml.
+ownership to consider the extent of insiders’ economic
+stake in the success of the company, as reflected both     We offer educational materials so that investors
+in outright ownership and transactions (such as equity     can develop an understanding of the securities
+swaps) that may hedge the economic risk of that            industry and learn how to avoid costly mistakes
+ownership. Many investors believe that reports of          and fraud. Our educational materials also provide
+insiders’ purchases and sales of company securities can    tips on how investors can invest wisely. Investors
+provide useful information as to insiders’ views of the    can order our free publications by calling (800)
+performance or prospects of the company. Of course,        732-0330, or access them on the Internet
+insiders may sell company securities for any number        through the SEC’s Investor.gov website. For
+of reasons, including for liquidity and diversification    additional educational information for investors,
+purposes. Forms 3, 4, and 5 are publicly available         see the SEC’s Investor.gov website or the Office
+through the SEC’s EDGAR database at www.sec.gov/           of Investor Education and Advocacy’s homepage
+edgar/searchedgar/webusers.htm.                            at www.sec.gov/investor.shtml.
+
+
+
+                                                           The Office of Investor Education and Advocacy has pro-
+                                                           vided this information as a service to investors. It is neither
+                                                           a legal interpretation nor a statement of SEC policy. If you
+                                                           have questions concerning the meaning or application of a
+                                                           particular law or rule, please consult with an attorney who
+                                                           specializes in securities or tax law.
+
+
+
+
+                                                                                                   SEC Pub. No. 137 (2/13)
+

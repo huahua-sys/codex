@@ -1,0 +1,143 @@
+Money Market Fund Monitor | Office of Financial Research
+Skip to main content
+FinancialResearch.gov
+Enter Search Term(s):
+Submit
+Toggle navigation
+Monitoring Tools
+Monitoring Tools Overview
+Bank Systemic Risk Monitor
+Financial Stress Index
+Hedge Fund Monitor
+Short-term Funding Monitor
+U.S. Money Market Fund Monitor
+Discontinued
+Discontinued Monitors
+Financial System Vulnerabilities Monitor
+Financial Markets Monitor
+G-SIB Scores Interactive Chart
+Data & Standards
+Data & Standards Overview
+Financial Instrument Reference Database (FIRD)
+Data Collections
+Legal Entity Identifier (LEI)
+Interagency Data Inventory
+LIBOR Alternatives
+News & Events
+News & Events Overview
+From the Director
+Blog
+Press Releases
+Congressional Testimony
+Public Appearances
+Conferences
+Inside the OFR
+About Us
+OFR Leadership
+Careers
+Financial Research Advisory Committee
+Policies
+Budget
+Strategy
+Grants
+Meet the Research Staff
+Partnerships
+Publications
+Publications Overview
+Briefs
+Reports
+Staff Discussion Papers
+Viewpoint Papers
+Working Papers
+Feedback
+Subscribe
+Get updates from the OFR:
+Sign up
+Logo for Twitter
+Logo for LinkedIn
+Home
+/ Monitoring Tools / Money Market Fund Monitor
+Money Market Fund Monitor
+×
+How to use the OFR's Money Market Fund Monitor
+How to zoom in on chart?
+Click and drag in chart to zoom.
+How to filter chart?
+Type in search box for partial matching.
+How to drill through data?
+Click on details of legend item to see data drill down options.
+How to download data?
+Click "Data" button to download the current view as CSV file
+What if I find an error?
+Thank you! Please click the feedback icon on the right to send an email and describe the error.
+Close
+This monitor is designed to track the investment portfolios of money market funds by funds' asset types, investments in different countries, counterparties, and other characteristics. Users can view trends and developments across the MMF industry. Data are downloadable and displayed in six interactive charts. The reference guide contains examples of how to use the monitor and additional information.
+Get Updates by Email
+Select a chart to display:
+Investments by any U.S. MMF
+Investments by any U.S. MMF
+U.S. MMFs’ investments by fund category
+Investments by U.S. prime MMFs
+U.S. MMFs’ investments in the repo market
+U.S. MMFs’ repos with the Federal Reserve
+Federal Reserve repo facility total utilization and MMFs’ participation
+What is a Repurchase Agreement - Repo A repurchase agreement, or a repo, is the sale of a security in exchange for cash, with a commitment to buy it back again at a set price and at a set time. Repos are usually overnight, but they can be longer. They thus resemble short-term cash loans backed by collateral.
+See more: OFR's Repo Market Reference Guide
+To drill down to this level click 'details' next to an item above.
+How are MMFs categorized MMFs report their category in Form N-MFP by choosing from several options:
+Treasury
+Government/Agency
+Exempt Government
+Prime
+Single State
+Other Tax Exempt
+The OFR's MMF Monitor combines Treasury, Government/Agency and Exempt Government categories into the "Government" category. These funds invest most of their assets in cash, government securities, and repurchase agreements (repos) backed by these securities.
+Single State and Other Tax Exempt Funds are combined into the "Tax Exempt" category. The funds in this category invest mainly in securities exempt from local income taxes. Usually, these are securities issued by local governments or municipal entities.
+See more: SEC's Form N-MFP
+What are repos with the Federal Reserve The Federal Reserve (Fed) uses repurchase agreements, also called "repo" or "RRP", to help adjust the cash supply in the economy.
+When the Fed conducts a repo with an MMF, it sells securities with an agreement to buy them back at a later date. The Fed borrows cash from MMFs, which reduces the cash in circulation.
+See more: New York Fed's FAQ, OFR's Repo Market Reference Guide
+What are money market funds and fund managers Money market funds are a type of a mutual fund and are regulated by the SEC. Typically, money market funds issue shares in the public market and sell them to all types of investors. (A small group of funds do not issue public shares.) The fund invests that cash in short-term debt securities from issuers such as banks, nonfinancial corporations, municipalities and federal and local governments. Money market funds typically rely upon third parties to carry out business activities, such as an investment manager, administrator, custodian, principal underwriter, and transfer agent.
+See more: SEC: Money Market Funds, OFR's MMF Monitor Guide
+Please share your experience and report any errors.
+What is a prime fund Money market funds are a type of a mutual fund and are regulated by the SEC. Typically, money market funds issue shares in the public market and sell them to all types of investors. (A small group of funds do not issue public shares.) Money market funds that primarily invest in corporate debt securities are referred to as prime funds.
+See more: SEC's Form N-MFP
+What is a government fund MMFs report their category in Form N-MFP by choosing from several options:
+Treasury
+Government/Agency
+Exempt Government
+Prime
+Single State
+Other Tax Exempt
+The OFR's MMF Monitor combines Treasury, Government/Agency and Exempt Government categories into the "Government" category. These funds invest most of their assets in cash, government securities, and repurchase agreements (repos) backed by these securities.
+See more: SEC's Form N-MFP
+What is a tax exempt fund, and what are retail and institutional funds? Money market funds, a type of mutual fund, are regulated by the Securities and Exchange Commission. Money market funds that primarily invest in securities exempt from local income taxes are called tax exempt funds. Usually, these are securities issued by local governments or municipal entities.
+Since the adoption of money market reforms in 2014, tax exempt funds are further divided into two categories based on the type of investor. Tax exempt funds limited to individual investors are labeled "Tax Exempt Retail" in the OFR's U.S. Money Market Fund Monitor. These funds are allowed to maintain a stable net-asset value per share. All other tax exempt funds, labeled "Tax Exempt Institutional," have a floating net asset value per share that fluctuates with the market value of the fund's assets.
+See more: SEC's Form N-MFP
+×
+You are now leaving the OFR’s website.
+You will be redirected to:
+You are now leaving the OFR Website. The website associated with the link you have selected is located on another server and is not subject to Federal information quality, privacy, security, and related guidelines. To remain on the OFR Website, click 'Cancel'. To continue to the other website you selected, click 'Proceed'. The OFR does not endorse this other website, its sponsor, or any of the views, activities, products, or services offered on the website or by any advertiser on the website.
+Thank you for visiting www.financialresearch.gov.
+Cancel
+Proceed
+Was this page helpful?
+How can we make this page better?
+Thank you for your feedback!
+OFFICE OF FINANCIAL RESEARCH
+U.S. Department of the Treasury
+717 14th Street, NW
+Washington, DC 20220
+Contact us
+Accessibility
+Careers
+FOIA
+Legal Notices
+No FEAR Act
+Privacy
+Plain Writing
+Office of Inspector General
+Report Fraud Waste and Abuse
+U.S. Department of the Treasury
+USA.gov
+Office of Financial Research

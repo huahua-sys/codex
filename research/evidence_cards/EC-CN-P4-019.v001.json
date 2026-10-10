@@ -1,0 +1,40 @@
+{
+  "event_id": "CN-P4-019",
+  "market": "China",
+  "published_date": "2020-07-19",
+  "available_at": "2020-07-19T23:59:59+08:00",
+  "participant_type": "保险机构/保险资产管理人",
+  "observed_action": "按偿付能力等分八档，最高45%，能力不足不得新增权益；没有实际新增股票配置",
+  "constraint": "偿付能力、负债久期、集中度、流动性、内部授权",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "制度可能多年；实际配置速度UNKNOWN_AT_T",
+  "voluntary_or_forced": "制度强制上限；具体投资自主决策",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-INS-2020.html"
+  ],
+  "source_urls": [
+    "https://www.beijing.gov.cn/ywdt/zybwdt/202007/t20200719_1951762.html"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-INS-2020.html": "f0940d45f0e47504634064544984a297e7e704311299871ea5edd0022d3fa316"
+  },
+  "source_excerpt": "明确八档权益类资产监管比例，最高可到占上季末总资产的45%。主要考虑是通过设置差异化监管比例，赋予公司更多自主投资权，提高监管政策的精准性和针对性。二是强化对重点公司的监管。明确规定偿付能力充足率不足100%的保险公司，不得新增权益类资产投资，责任准备金覆盖率不足100%的人身险公司、资金运用出现重大风险事件、资产负债管理能力较弱且匹配状况较差、受到处罚的保",
+  "publication_date_evidence": {
+    "source_id": "CN-S-INS-2020",
+    "excerpt": "置监管有关事项的通知》 日期：2020-07-19 15:29 来源：中国银保监会 分享： X 字号： 大 中",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "扩大合格保险人的可配置集合；需求仍取决于偿付能力、资产负债匹配和投资意愿",
+  "alternative_explanation": "此前未接近上限，因此上限提升不约束边际买入；专项产品还可能投资债权",
+  "falsifier": "约束原本不绑定或放开后实际权益仓位不升，则“释放确定股市增量”失败",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-019",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

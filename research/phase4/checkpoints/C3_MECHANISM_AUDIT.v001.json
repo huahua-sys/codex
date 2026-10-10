@@ -1,0 +1,14 @@
+{
+  "recorded_at_utc": "2026-10-10T08:19:18.138355+00:00",
+  "stage": "C3_MECHANISM_AUDIT",
+  "reconstructed_checkpoint_record_not_fake_ex_ante_time": true,
+  "files": {
+    "PHASE4_MARKET_ECOLOGY_REPORT.md": "2d190e800c82ded01b018ff2c1378a1ee16e8aa6f271c76d60f9f5a5be427b00",
+    "HUMAN_DECISION_ARCHITECTURE.md": "a04789fc13ad7bfd74b57f55547539f545ee61384e2696b88f56319e2569845e",
+    "FAILED_MECHANISM_CASES.md": "54126267a2f8dfa97879a1d1139a8d30b241376adbb3d902fe79d83a8f311d55",
+    "research/phase4/audit/INDEPENDENT_PHASE4_QA.v003.json": "c732fcf318a1eb9e037b7311ff112d0fdd9ee599e4dcd71224dd413e76e3ee38"
+  },
+  "probability_forecasts": 0,
+  "operational_principles": 0,
+  "old_results_changed": false
+}

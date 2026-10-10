@@ -1,6 +1,6 @@
 {
-  "framework_version": "0.4.0-phase3-research",
-  "last_updated": "2026-10-09T15:43:48.458632+00:00",
+  "framework_version": "0.5.0-phase4-market-ecology-research",
+  "last_updated": "2026-10-10T08:19:18.138355+00:00",
   "framework_status": "INSUFFICIENT_EVIDENCE",
   "data_status": "LIMITED_REAL_QUOTES_ORIGINAL_RELEASES_AND_TWO_ORIGINAL_FILINGS",
   "live_signal_generation_enabled": false,
@@ -948,5 +948,41 @@
     "all_independent_qc": "PASS",
     "delivery_directory": "/workspace/scratch/investment_research_delivery_20261009",
     "user_receipt_confirmed": false
+  },
+  "phase4_state": {
+    "status": "FIRST_ROUND_COMPLETE_NO_IDENTIFIED_BEHAVIORAL_EDGE",
+    "research_mode": "EXPLORATORY_SOURCE_FIRST_NOT_BLIND_NOT_CAUSAL",
+    "raw_event_records": 115,
+    "observed_action_records": 71,
+    "mandate_change_records": 33,
+    "announcement_only_records": 11,
+    "unique_parent_episodes": 67,
+    "unique_publication_dates": 114,
+    "calendar_years": 18,
+    "effective_n": null,
+    "mature_price_horizon_labels": 667,
+    "complete_three_control_pairs": 641,
+    "comparison_slots": 102,
+    "purpose_selected_counterexample_review_cards": 15,
+    "new_probability_forecasts": 0,
+    "identified_return_mechanisms": 0,
+    "new_operational_principles": 0,
+    "operational_framework_changed": false,
+    "human_architecture": "HUMAN_DECISION_ARCHITECTURE.md",
+    "human_architecture_status": "UNVALIDATED_QUESTION_TREE_NOT_SCORE_OR_SIGNAL",
+    "source_scope": "Original dated participant reports; no complete holder-security solvency/flow/expectation linkage",
+    "protocol": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+    "event_lock": "research/phase4/data/events.all.v001.lock.json",
+    "report": "PHASE4_MARKET_ECOLOGY_REPORT.md",
+    "us_documentary_erratum": "research/phase4/regional/us/ERRATA.v001.md",
+    "final_independent_qa": "research/phase4/audit/INDEPENDENT_PHASE4_QA.v005.json",
+    "next_priority": "HOLDER_SECURITY_FUNDING_AND_ASSET_SOLVENCY_LINKAGE",
+    "final_independent_qa_status": "PASS",
+    "core_export": {
+      "file": "Investment_Research_Phase4_CORE.zip",
+      "bytes": 9007829,
+      "sha256": "bdef7229e0c67ad0323c640c2776d4fce49df94c4d829d030a3a8b7eb7eec942",
+      "snapshot": "Pre-final-QA core, validated by external v005 receipt; no package mutation"
+    }
   }
 }

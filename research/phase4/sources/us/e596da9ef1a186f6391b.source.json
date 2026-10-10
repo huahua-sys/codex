@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_e596da9ef1a186f6391b",
+  "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210",
+  "role": "institutional_reference_not_event",
+  "accessed_at": "2026-10-10T08:01:37.199237+00:00",
+  "source_path": "research/phase4/sources/us/e596da9ef1a186f6391b.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210",
+  "content_type": "text/html; charset=UTF-8",
+  "source_sha256": "d6a46e1a568d9864e949ff9c5e19c13011964c0dbb80afab0a40a9f8c6e78680",
+  "bytes": 299159,
+  "text_path": "research/phase4/sources/us/e596da9ef1a186f6391b.txt",
+  "text_sha256": "7471a3cab527aeeec372dcb041815acb6d2b53f254b7a9d019d5e5ab0daf05e8"
+}

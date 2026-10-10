@@ -1,0 +1,83 @@
+{
+  "event_id": "CN-P4-041",
+  "market": "China",
+  "family": "公司/产业资金",
+  "parent_episode": "CN-CORPORATE-BUYBACK-ZJ-2024",
+  "published_date": "2025-05-09",
+  "available_at": "2025-05-09T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "上市公司/控股股东/管理层/产业企业",
+  "constraint": "预算、现金流、债务、公司治理、回购用途",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "2024年浙江辖区上市公司实施回购210余亿元；2025年5月披露才进入信息集",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 210,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_AGGREGATE_REPORTED_LOWER_BOUND",
+    "scope": "2024年浙江辖区回购；不是全国",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "已报告期间的累计事实；未来持续期UNKNOWN_AT_T",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "price_sensitive": "UNKNOWN_AT_T",
+  "information_based": "UNKNOWN_AT_T",
+  "known_at_t": [
+    "2024年浙江辖区上市公司实施回购210余亿元；2025年5月披露才进入信息集",
+    "累计流量是发布前的既成事实，不能证明发布后仍有剩余买盘"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "市场事前预期和已计价程度",
+    "新增流量的未来净额、持续性和对手方",
+    "受益资产长期盈利、偿付能力是否受损"
+  ],
+  "source_ids": [
+    "CN-S-CORP-2025"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-CORP-2025.html"
+  ],
+  "source_urls": [
+    "https://www.csrc.gov.cn/zhejiang/c100657/c7556574/content.shtml"
+  ],
+  "source_sha256": [
+    "a2009dd7523b0bc4d5833e7607f04e248cca9175eebede8c46e3669d9d4358aa"
+  ],
+  "source_excerpt": "实施回购 210 余亿元，同比增长 74.51% ；控股股东、董监高等实施增持超 60 亿元，同比增长 96.34% 。 下一步，浙江证监局将进一步加强政策宣导，积极倡导 盈利和现金流稳定的上市公司增加分红频次、提高分红水平，支持更多上市公司开展回购注销和大股东增持，进一步用好回购增持再贷款政策工具， 与投资者 更好 共享企业成长成果。 链接： 中国政府网 ",
+  "publication_date_evidence": {
+    "source_id": "CN-S-CORP-2025",
+    "excerpt": "上市公司增强投资者回报 日期：2025-05-09 来源：浙江证监局 分享到： QQ空间 豆瓣网 【字号： 大",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "付出真实资金比口头意向更可检验；回购可用于员工激励而不注销，产业费用可产生供给竞争",
+  "alternative_explanation": "公司在高价回购、员工激励/支撑价格、行业过度投资；经济变化共同决定支出与价格",
+  "falsifier": "投资未转化为订单/自由现金流、回购用途造成再稀释、或预算/剩余额度已耗尽",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "asset_scope_caveat": "地方公司子集；SHCOMP只作预定宽基背景，不能归因或代表全市场流量",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-CORP-2025.html": "a2009dd7523b0bc4d5833e7607f04e248cca9175eebede8c46e3669d9d4358aa"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

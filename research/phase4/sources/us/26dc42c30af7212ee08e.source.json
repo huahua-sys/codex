@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_26dc42c30af7212ee08e",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/2023-press.htm",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:24.650517+00:00",
+  "source_path": "research/phase4/sources/us/26dc42c30af7212ee08e.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/2023-press.htm",
+  "content_type": "text/html",
+  "source_sha256": "4e966aac27cfda3df845c661b131a4d84ae2233416761f9ba451a51943551d62",
+  "bytes": 173350,
+  "text_path": "research/phase4/sources/us/26dc42c30af7212ee08e.txt",
+  "text_sha256": "b01e347d2f54ed90ffb462e724c3e2502438ddd8280983cba83313599a4f211c"
+}

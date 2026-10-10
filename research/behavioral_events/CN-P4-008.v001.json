@@ -1,0 +1,76 @@
+{
+  "event_id": "CN-P4-008",
+  "market": "China",
+  "family": "融资融券",
+  "parent_episode": "CN-MARGIN-RULES-2013",
+  "published_date": "2013-06-25",
+  "available_at": "2013-06-25T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "证券交易所/券商/信用账户投资者",
+  "constraint": "标的资格、保证金、担保物集中度、券源、短售/信息披露规则",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "关于《融资融券交易会员业务指南》的修订说明：公布融资融券约束/规则变化；尚无账户级执行量",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "制度期间；可能持续月/年，实际去杠杆速度未知",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "规则必须遵守；尚未观察forced liquidation",
+  "price_sensitive": "UNKNOWN_AT_T",
+  "information_based": "UNKNOWN_AT_T",
+  "known_at_t": [
+    "仅原源可见规则文本/资格约束发生变化；不等于已清仓或买入"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "各账户是否触及约束",
+    "券商自设保证金/追保期限",
+    "变更实际执行金额与对冲",
+    "借款人的现金流与资产价值"
+  ],
+  "source_ids": [
+    "CN-S-MARGIN-DIR-2013-06-25"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-MARGIN-DIR-2013-06-25.html"
+  ],
+  "source_urls": [
+    "https://www.sse.com.cn/services/tradingservice/margin/rules/c/c_20150912_3987312.shtml"
+  ],
+  "source_sha256": [
+    "0a70c2b33061a6df7bda865cfb77d6d2ee1469251fee97de9564b24c1dd065cd"
+  ],
+  "source_excerpt": "ETF融资余额或融券余量比例达到或超过70%时本所发布风险提示公告。 2、对于暂停融资买入（或融券卖出）的融资余额比例（或融券余量比例），分成除ETF以外的标的证券和ETF这两类进行分别规定。对于除ETF以外的标的证券仍然按照原规定，融资余额（或融券余量比例）达到或超过25%时暂停融资买入（或融券卖出），并公布融资余额（或融券余量）前五位会员名称及相应的融资",
+  "publication_date_evidence": {
+    "source_id": "CN-S-MARGIN-DIR-2013-06-25",
+    "excerpt": "交易会员业务指南》的修订说明 2013-06-25 本所于2013年5月29日发布了《关于进一步明确交易型开放",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "担保物/风险限额改变可改变可维持仓位，但余额变化不等于forced cash flow",
+  "alternative_explanation": "借款人可能主动还贷/增加抵押品；规则有过渡期/存量合约例外",
+  "falsifier": "没有账户触发约束或原约束不绑定，则强迫清算机制未成立",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "source_archive_caveat": "部分SSE现存法规路径迁移至2025目录；采用正文/当前官方索引的旧发布日期，非用URL路径当发布日期",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-MARGIN-DIR-2013-06-25.html": "0a70c2b33061a6df7bda865cfb77d6d2ee1469251fee97de9564b24c1dd065cd"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

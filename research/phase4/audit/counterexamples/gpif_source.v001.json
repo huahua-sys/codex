@@ -1,0 +1,10 @@
+{
+  "id": "GPIF_2014_10_31_POLICY_MIX",
+  "requested_url": "https://www.gpif.go.jp/en/performance/pdf/adoption_of_new_policy_asset_mix.pdf",
+  "resolved_url": "https://www.gpif.go.jp/en/performance/pdf/adoption_of_new_policy_asset_mix.pdf",
+  "retrieved_at": "2026-10-10T07:56:12.783716+00:00",
+  "sha256": "621fbb9fa3d8c973a90bbf2fe1b90ae3c6c40c06bc95c2f7a63d0e271b6a2be9",
+  "bytes": 181088,
+  "path": "sources/counterexamples/GPIF_2014_10_31_POLICY_MIX.pdf",
+  "extract_path": "research/phase4/audit/counterexamples/GPIF_2014_10_31_POLICY_MIX.extracted.txt"
+}

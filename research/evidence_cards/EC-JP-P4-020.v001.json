@@ -1,0 +1,45 @@
+{
+  "event_id": "JP-P4-020",
+  "market": "Japan",
+  "published_date": "2025-12-22",
+  "available_at": "2025-12-22T23:59:59+09:00",
+  "participant_type": "Public Pension (GPIF)",
+  "observed_action": "发布配置/委托人治理规则；未观察真实净买入",
+  "constraint": "长期养老金给付、政策配置偏离范围、外部管理人与治理要求；不能把资产配置当择时预测",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "多年配置/委托制度；披露仅覆盖过去会计期，未来执行速度未知",
+  "voluntary_or_forced": "MANDATE_CONSTRAINED_REBALANCING_NOT_VERIFIED_FORCED_TRADE",
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_020.pdf",
+    "research/phase4/sources/japan/gpif_catalog_2025.html"
+  ],
+  "source_urls": [
+    "https://www.gpif.go.jp/en/investment/20251208_Stewardship%20Principles%20and%20Proxy%20Voting%20Principles.pdf",
+    "https://www.gpif.go.jp/en/topics/2025/"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_020.pdf": "549212f7eb3f9380c8ff78764ec5e974d8c1cc64c59bfce16b775cd963f23a9e",
+    "research/phase4/sources/japan/gpif_catalog_2025.html": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050"
+  },
+  "source_excerpt": "Stewardship Principles Established on June 1, 2017 Revised on February 6, 2020 R ev ised o n Marc h 31 , 2 0 25 Revised on December 8, 2025 Government Pension Investment Fund Government Pension Investment Fund ",
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Dec 22, 2025",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/gpif_catalog_2025.html",
+    "source_sha256": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050",
+    "source_url": "https://www.gpif.go.jp/en/topics/2025/",
+    "historical_vintage_independently_archived": false
+  },
+  "source_proof_admitted": true,
+  "mechanism": "目标与实际持仓差距可能诱发慢速再平衡；先扣除价格/FX/衍生品估值及养老金净移交",
+  "alternative_explanation": "资产上涨或日元改变可导致市值/权重变动；季度披露时成交早已发生",
+  "falsifier": "剔除估值与资金移交后无同向净买卖，或目标范围内无强制再平衡，则慢钱持续买入解释失败",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "evidence_id": "EC-JP-P4-020",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

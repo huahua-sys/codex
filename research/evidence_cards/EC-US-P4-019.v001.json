@@ -1,0 +1,44 @@
+{
+  "event_id": "US-P4-019",
+  "market": "US",
+  "published_date": "2013-03-12",
+  "available_at": "2013-03-12T12:00:00-04:00",
+  "participant_type": "Federal Reserve and eligible depository institutions",
+  "observed_action": "TDF存款授标已完成；未来settlement将把可用准备金转成定期存款，方向与TAF相反",
+  "constraint": "银行选择将储备转为不能即期支付的定期存款；Fed技术性测试",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 3045110000.0,
+    "currency": "USD",
+    "unit": "USD",
+    "scope": "this auction gross awarded principal",
+    "basis": "AWARD_RESULT_NOT_SETTLED_CASH_FLOW; offered ceiling excluded; renewal/net balance not known"
+  },
+  "flow_duration": "28-day loan/deposit term, not an equity buying forecast",
+  "voluntary_or_forced": "VOLUNTARY_BID; funding need may constrain choice but no proven forced equity sale",
+  "source_paths": [
+    "research/phase4/sources/us/549916faf3f7cd533a4f.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130312a.htm"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/us/549916faf3f7cd533a4f.html": "b3bf7ce37e2382d64586bdbc239dcbfbb927caefbecea81f663f737c911deea5"
+  },
+  "source_excerpt": "For release at 12:00 p.m. EDT\nShare\nOn March 11, 2013, the Federal Reserve conducted an auction of $3 billion in 28-day term deposits through its Term Deposit Facility. Following are the results of the auction:\nTDF Auction ID:\nA29\nCompetitive Amount Offered:\n$3,000,000,000\nCompetitive Amount Tendered:\n$9,415,000,000\nCompetitive Amount Awarded:\n$3,000,010,000\nNon-Competitive Amount Awarded:\n$45,100,000\nTotal Amount Awarded:\n$3,045,110,000\nStop-Out Rate:\n0.25500 percent\nBid-to-Cover Ratio (Competitive Auction):\n3.14\nNumber of Bids Submitted:\n41\nNumber of Participants Submitting Bids:\n25\nBids at the stop-out rate were pro-rated at 53.037 percent. Resulting awards were rounded to the nearest $10,000 except that all awards below $10,000 were rounded up to $10,000.\nThe awarded deposits will settle on March 14, 2013, and will mature on April 11, 2013. The stop-out rate shown above will apply to all awarded deposits.\n",
+  "publication_date_evidence": {
+    "excerpt": "March 12, 2013; For release at 12:00 p.m. EDT",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/549916faf3f7cd533a4f.html"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "TAF缓解合格抵押融资约束；TDF是相反方向的准备金期限转换，不能共同归为QE",
+  "alternative_explanation": "流动性操作可能是危机严重程度的内生响应；授标可能替代其他融资/展期，非净增股市资金",
+  "falsifier": "融资约束未缓解、使用者/资产偿付恶化，或授标未交割/只为技术测试",
+  "confidence_level": "LEVEL 1",
+  "evidence_id": "EC-US-P4-019",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

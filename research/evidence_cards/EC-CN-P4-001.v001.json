@@ -1,0 +1,47 @@
+{
+  "event_id": "CN-P4-001",
+  "market": "China",
+  "published_date": "2008-06-03",
+  "available_at": "2008-06-03T23:59:59+08:00",
+  "participant_type": "中国人民银行/一级交易商",
+  "observed_action": "340亿元一年央票+30亿元28天正回购；是毛回笼，不知到期抵销",
+  "constraint": "货币市场流动性、央票/回购到期结构",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 370,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "GROSS_OPERATION",
+    "scope": "340亿元一年央票+30亿元28天正回购；是毛回笼，不知到期抵销",
+    "direction": "GROSS_ABSORPTION"
+  },
+  "flow_duration": "1年/28天",
+  "voluntary_or_forced": "央行政策执行；交易商依规则投标",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-PBOC-OMO-01.html"
+  ],
+  "source_urls": [
+    "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2837299/index.html"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-PBOC-OMO-01.html": "4d211e81ae5f226c506debc08cfa2b62bfc54794094c8e8e496d44f29afbba71"
+  },
+  "source_excerpt": "发行了2008年第六十四期央行票据，并开展了正回购操作。具体情况如下： 第六十四期央行票据发行情况 名称 发行量 期限 价格 参考收益率 2008年第六十四期央行票据 340亿元 1年 96.10元 4.0583% 正回购操作情况 期限 交易量 中标利率 28天 30亿元 3.20% 中国人民银行公开市场业务操作室 二○○八年六月三日 打印本页 关闭窗口 ﻿",
+  "publication_date_evidence": {
+    "source_id": "CN-S-PBOC-OMO-01",
+    "excerpt": "字号 大 中 小 文章来源： 2008-06-03 11:08:00 打印本页 关闭窗口 2008年第40号 ",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "央行与银行体系之间的准备金/抵押融资传导；不识别股票资金归属或股票回报",
+  "alternative_explanation": "约束变化可能只是响应已发生的市场/宏观变化；方向可由基本面或同期政策驱动",
+  "falsifier": "后续实际执行为零、其他资金完全抵销、基本面继续损坏或效应仅持续不足一周",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-001",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

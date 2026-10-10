@@ -1,0 +1,45 @@
+{
+  "event_id": "JP-P4-008",
+  "market": "Japan",
+  "published_date": "2020-09-17",
+  "available_at": "2020-09-17T23:59:59+09:00",
+  "participant_type": "Central Bank (BOJ)",
+  "observed_action": "已发布政策委员会指导/维持或变更政策条件。不是实际ETF买卖交易回执。",
+  "constraint": "物价稳定与金融市场运行目标；政策委员会及业务框架约束，非股东回报最大化",
+  "action_status": "ANNOUNCEMENT_ONLY",
+  "flow_size": null,
+  "flow_duration": "指导适用于meeting之间或年度目标；实际执行速度与金额未知",
+  "voluntary_or_forced": "POLICY_DISCRETION_WITH_LEGAL_MANDATE",
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_008.html",
+    "research/phase4/sources/japan/boj_catalog_2020.html"
+  ],
+  "source_urls": [
+    "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/k200917a.htm",
+    "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/index.htm"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_008.html": "87ff8c991e8ce6d8f9157f585a312ed240bf37ff4afd790f63f6ecf202a50663",
+    "research/phase4/sources/japan/boj_catalog_2020.html": "4e05b9209769d947a120b2d3e362378a0b76bce511ffd1906974bccfbb5e0ce2"
+  },
+  "source_excerpt": "Bank of Japan PDF Version [PDF 218KB] At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided upon the following. (1) Yield curve control The Bank decided, by an 8-1 majority vote, to set the follo",
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Sept. 17, 2020",
+    "locator": "official catalog date adjacent to selected URL",
+    "source_path": "research/phase4/sources/japan/boj_catalog_2020.html",
+    "source_sha256": "4e05b9209769d947a120b2d3e362378a0b76bce511ffd1906974bccfbb5e0ce2",
+    "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2020/index.htm",
+    "historical_vintage_independently_archived": false
+  },
+  "source_proof_admitted": true,
+  "mechanism": "政策改变JGB收益率/融资和日元相对回报，并可能授权ETF配置；实际执行与价格传导需另验",
+  "alternative_explanation": "市场事前预期/全球货币政策/汇率变化共同驱动；宽基反应不能识别BOJ买卖实流",
+  "falsifier": "若实施现金流未发生或市场已预期全部变更，持续资金流领先价格解释不成立",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "evidence_id": "EC-JP-P4-008",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

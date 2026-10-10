@@ -1,0 +1,45 @@
+{
+  "event_id": "JP-P4-023",
+  "market": "Japan",
+  "published_date": "2021-06-11",
+  "available_at": "2021-06-11T23:59:59+09:00",
+  "participant_type": "Exchange / Listing Rule Authority",
+  "observed_action": "制定/修订治理准则与上市规则；无独立持股出售金额证据",
+  "constraint": "上市公司治理、compliance-or-explain与董事会披露约束；不等于强制卖出所有交叉持股",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "多年治理/董事会实施；个体出售、回购与资本投入进度未知",
+  "voluntary_or_forced": "RULE_CONSTRAINED_DISCLOSURE_WITH_COMPANY_DISCRETION",
+  "source_paths": [
+    "research/phase4/sources/japan/jp_event_source_023.html",
+    "research/phase4/sources/japan/jpx_governance_catalog.html"
+  ],
+  "source_urls": [
+    "https://www.jpx.co.jp/english/news/1020/20210611-01.html",
+    "https://www.jpx.co.jp/english/equities/listing/cg/index.html"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/japan/jp_event_source_023.html": "6be72b0f42585760fd11ac9f99cb4bd75d01eacb2f8ecf10c8ae5011d7c61d65",
+    "research/phase4/sources/japan/jpx_governance_catalog.html": "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94"
+  },
+  "source_excerpt": "Jun. 11, 2021 TSE Publication of Revised Japan's Corporate Governance Code Tweet Tokyo Stock Exchange, Inc. (TSE) has partially revised the Securities Listing Regulations pertaining to the revision of Japan's Corporate Governance ",
+  "publication_date_evidence": {
+    "precision": "DATE_CONSERVATIVE_END_OF_DAY",
+    "excerpt": "Jun. 11, 2021",
+    "locator": "original Market News date heading",
+    "source_path": "research/phase4/sources/japan/jp_event_source_023.html",
+    "source_sha256": "6be72b0f42585760fd11ac9f99cb4bd75d01eacb2f8ecf10c8ae5011d7c61d65",
+    "source_url": "https://www.jpx.co.jp/english/news/1020/20210611-01.html",
+    "historical_vintage_independently_archived": false
+  },
+  "source_proof_admitted": true,
+  "mechanism": "董事会解释政策持股合理性/资本效率后可能出售、改变股东治理与利润留存用途；必须识别实际行动及价值捕获",
+  "alternative_explanation": "企业已计划出售或改资本政策；全球利润与日元环境可解释指数上涨",
+  "falsifier": "只有披露措辞改变，持股未减且资本回报/盈利未改善，则治理改革=新增买盘逻辑失败",
+  "confidence_level": "LEVEL_1_MECHANISM_PLAUSIBLE",
+  "evidence_id": "EC-JP-P4-023",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

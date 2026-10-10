@@ -81,3 +81,19 @@ RAW OBSERVATIONS：2704计划格/0新锁feature/0新revealed label；EFFECTIVE S
 ## RL-P3-FINAL — 2026-10-09T15:43:48.458632+00:00
 
 全部独立QA PASS：路径v005、统计v006、反证v007、前瞻v008。冻结协议/A/B/code与原3366/9operative守恒；C候选1非操作、LEVEL3为0，研究边界与下一3个问题已存。交付使用Cloud Shared Files原生共享路径，完整Phase3包含上轮证据；旧Phase2 ZIP SHA不变。565原重复输入恢复核验、完整包/报告包/旧包ZIP CRC与manifest读回实际执行后再报告验收，不假定用户已收到。
+
+
+## RL-P4-C1/C2/C3 — Market Ecology / 2026-10-10T08:19:18.138355+00:00
+
+用户Phase4改变研究对象，旧结果/失败不删。source-first行为协议先锁；三国官方目录等序抽样，缺目录/JS/不明PIT保留；全115 A锁后新计算价格B，旧282/Phase3不重跑。RAW=115：US42/CN42/JP31；Observed71/Mandate33/Announcement11；67parent/114公开日/18年，独立N未知。145关联原文件不是145独立证据。四短期限成熟各115，12m110/24m97，合计667；三控制完整配对641；17组×6h=102槽全部保留，305非正差是event-horizon而非独立机制。
+
+主3m只是宽基PRICE_ONLY背景；非个股效果、分红/FX/净alpha；季度控制缺估值/信用/行业，NOT_IDENTIFIED。全市场实际非重叠3m67/12m36/24m20仍跨市场相关。15目的性反证审计不加样本N；0新概率、0操作原则，H-P4五机制未识别，NO ROBUST BEHAVIORAL PROBABILITY EDGE ESTABLISHED。
+
+独立数值QA v003 PASS64449；scope-key adapter v002错误FAIL保留；US九公司范围errata在全局揭晓后追加v002，不换115/不重算/不改金额日期。框架reference-only来源与当前制度不搬回旧T。首次真实forward仍2026-10-30，capture0。下一最小研究是holder-security资金压力与资产偿付联结，不用漂亮GPIF均值宣布慢钱趋势。
+
+
+## Phase4 最终验包 checkpoint — 2026-10-10T08:27:11.526769+00:00
+
+独立QA v005 PASS（67,415检查）；收据 `research/phase4/audit/INDEPENDENT_PHASE4_QA.v005.json`。核心ZIP 9,007,829 bytes，SHA256 `bdef7229e0c67ad0323c640c2776d4fce49df94c4d829d030a3a8b7eb7eec942`，909个manifest文件的SHA/大小与完整ZIP CRC通过。v004的唯一FAIL是QA代码只识别EXPORT_MANIFEST.json、未识别实际CORE_EXPORT_MANIFEST.json；原失败保留，v005修正验证适配并核对全部manifest，不改ZIP或研究结果。
+
+核心包是最终QA前的冻结快照；其中metadata的PENDING_CORE_PACKAGE指该时点。最终收据在核心包之外、完整仓库内，避免验包文件引用自身的哈希循环。本次仅更新研究状态/交付metadata，原预测、收益、统计与操作规则不变。GitHub同步及用户下载是否成功另行确认；本地验包通过不代表用户收到。

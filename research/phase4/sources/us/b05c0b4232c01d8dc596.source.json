@@ -1,0 +1,15 @@
+{
+  "source_id": "US_SOURCE_b05c0b4232c01d8dc596",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/2010all.htm",
+  "role": "official_catalog",
+  "accessed_at": "2026-10-10T07:56:23.757523+00:00",
+  "source_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html",
+  "revision_risk": "Currently hosted official original page, not contemporaneous archive; silent site corrections remain possible.",
+  "http_status": 200,
+  "final_url": "https://www.federalreserve.gov/newsevents/pressreleases/2010all.htm",
+  "content_type": "text/html",
+  "source_sha256": "42d8becd666d37791aa2b61e049d45ec27d163e1c5427d679d8df60506429126",
+  "bytes": 363259,
+  "text_path": "research/phase4/sources/us/b05c0b4232c01d8dc596.txt",
+  "text_sha256": "810d8bf843793f382f39b85233d0bf5a5fddc87db0b0c91e8938e914cf419d69"
+}

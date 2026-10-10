@@ -1,0 +1,2992 @@
+{
+  "created_at_utc": "2026-10-10T08:19:18.138355+00:00",
+  "files": [
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2013-08-28.html",
+      "size_bytes": 44484,
+      "sha256": "6e14ef015e242bcb8a4090d8a61043aa76785c52772ebe08195f608d769d05c1"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-LOAN-2024-Q4.derived.txt",
+      "size_bytes": 119674,
+      "sha256": "7dcf0442cdfbce64ee5c1d4d69275f2d8fcc154dd1d57691c5e499950e55466c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2018-REGISTER.html",
+      "size_bytes": 30410,
+      "sha256": "54cf7d3069667a803c9a653bbe2731c212c593a5a38ff3941b9c25edef390e9a"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-02.html",
+      "size_bytes": 34042,
+      "sha256": "190f91476e82a62fa7e617b6a669677ce31684b0123e418ee37d248307ad8696"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-2024-MIRROR.html",
+      "size_bytes": 7300,
+      "sha256": "e5df47d71b96063d320a51893556e3460a058e2941de13d159f3e529b9af5239"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CONNECT-2014.html",
+      "size_bytes": 32903,
+      "sha256": "e4c5e289384adad0f0ef8359539449f935c7bcfcb559023ca7c75f4af61ced94"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-10.html",
+      "size_bytes": 30845,
+      "sha256": "f8b33cee0cc5484a04ad5248a8f4968b53ee701ae4061be88c1899f7fa7b7d31"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-LOAN-2024-Q4-PUBLICATION.html",
+      "size_bytes": 29136,
+      "sha256": "7395112e84257a6e6fa7c62e75930ad4299361cba8a45c6f23f514873410a861"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-2025.html",
+      "size_bytes": 15562,
+      "sha256": "a2009dd7523b0bc4d5833e7607f04e248cca9175eebede8c46e3669d9d4358aa"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2013-05-29.html",
+      "size_bytes": 28550,
+      "sha256": "25aa5bb175afe0510fe2dbbe0d9d57e298cfa4b1db2daafa64d892220aae0ea9"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-2015-LAW.html",
+      "size_bytes": 80550,
+      "sha256": "85cc8c12c91f2b2aaf1a44f0f12d3789377697f6adbf80aa4596a454b54e1d09"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002717.html",
+      "size_bytes": 7599,
+      "sha256": "0d1a05de08f5bcf8bdc8a7b9704309c1872bae2abdcbdcc78a76f79a14a0b4c8"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-2023.html",
+      "size_bytes": 47795,
+      "sha256": "4422f68f886137dfea652412bf67f6e5861c239c5490f7dfb24e7f3cc567d616"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2023-02-17.html",
+      "size_bytes": 34299,
+      "sha256": "262bf06966fb217f56087834ca51d4f183753ef123dcd08d518539f1227046fd"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002861.html",
+      "size_bytes": 7318,
+      "sha256": "69c6cecda2a816fe68f9bb05df5ae672de8b8db6e9593d8fdd1a31f567129198"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2014-09-12.html",
+      "size_bytes": 29448,
+      "sha256": "1739695ad889447d04c02c9c4a6c5a5a4a209aa8ace83ea6d4744b3e37a02aa9"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-RELOAN-2024-PBOC.html",
+      "size_bytes": 16219,
+      "sha256": "7cecae26cce7f583b4857fd71f9d3c58c6d0d57590c81d3bc3f1260dd1b66234"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1.derived.txt",
+      "size_bytes": 117693,
+      "sha256": "01334f688a61ec31c238f147b42c8c27eade0a3d8b599ca8b04a1694624b49e6"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-150.html",
+      "size_bytes": 40165,
+      "sha256": "7d50ce764dfd85eca9f7aa6053ea9b33c62c93d2cdba55d51167bed06c3303d8"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-075.html",
+      "size_bytes": 40188,
+      "sha256": "2dbaa17d22d86f5ed01ce2fd0e41aca881e45ce3291c313e1a5d15fa54f99add"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002653.html",
+      "size_bytes": 9848,
+      "sha256": "771df4d596f1a22d5c7fde3448d01174b57636bce812b5ffe9802485ef8a589b"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002107.html",
+      "size_bytes": 7432,
+      "sha256": "d8a13aa97a4604e27ff89b47b6f4b0785ef3e62add4a2312d5ec0bf59443d719"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2023-04-28.html",
+      "size_bytes": 32508,
+      "sha256": "65d3c94a5f04eb7402b9a9586302875e25695eedbade6799e02772f04654516e"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2015-04-17.html",
+      "size_bytes": 29111,
+      "sha256": "322598aa7fc0ebcc3ff20232f6626b22266157901075cac3d3de4f075ebfae1b"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2024-07-10.html",
+      "size_bytes": 31499,
+      "sha256": "1cc92c81eb7aa25406d54efab7a190139698e733d2dc7cf3b54a27f25a7c6f4c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002262.html",
+      "size_bytes": 7088,
+      "sha256": "69541ac8f3edc585cf765e30eaa026f1b35f3e0d47ee235dacfd4058035aa563"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2020.html",
+      "size_bytes": 32339,
+      "sha256": "f0940d45f0e47504634064544984a297e7e704311299871ea5edd0022d3fa316"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-DIR-2023.html",
+      "size_bytes": 19650,
+      "sha256": "ec66b49b127e23c9196da265ca95e7266da35d5a3547e4fa917a18fd0028561f"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-07.html",
+      "size_bytes": 27007,
+      "sha256": "fdc9736a7e0daf8a54a0c3c99c745a216f4ade3fde9e1234682df02c6d9f1f70"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-01.html",
+      "size_bytes": 32411,
+      "sha256": "4d211e81ae5f226c506debc08cfa2b62bfc54794094c8e8e496d44f29afbba71"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-NFRA-DIR.html",
+      "size_bytes": 4012,
+      "sha256": "972796bd37b7687b66b0b360a3c708b32cf5fc72ba539e7fbf2082dcfd5c05b6"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002841.html",
+      "size_bytes": 7075,
+      "sha256": "e51c873520a74de49f6d5d4a6601c29a8074f856d4d223b2c8777d4e49246d01"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CONNECT-2024.html",
+      "size_bytes": 32520,
+      "sha256": "b68b0008e7b60c1b1ed1180710cfe57491fdaf743115ccd56d130815842aa5a4"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-2024.html",
+      "size_bytes": 55998,
+      "sha256": "b4ba38dace82679c400ffa12223d1cc8c6a0826c24afbf1d26f1022cee9b2eb1"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002847.html",
+      "size_bytes": 10037,
+      "sha256": "70b66758a7bce1567acd49901ed86cd0196ef771e2d2f5fae0207566359904a1"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CSRC-DIR.html",
+      "size_bytes": 16172,
+      "sha256": "89ae410733b158e853b7356673007bc09dbc47da151fb5bdf009b0009fe888a0"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002229.html",
+      "size_bytes": 7497,
+      "sha256": "211e25e9ab14477b670b2fef7295b18dd9a0b78f743db931db456682a64c5ff6"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-2015.html",
+      "size_bytes": 28357,
+      "sha256": "bd5bdd0c7166bc8c7748a101425778868d730fc22f516baee4871f9ccdfeeeba"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2013-06-25.html",
+      "size_bytes": 49629,
+      "sha256": "0a70c2b33061a6df7bda865cfb77d6d2ee1469251fee97de9564b24c1dd065cd"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-04.html",
+      "size_bytes": 28310,
+      "sha256": "ca5a69b0800270018121d462028ee388a641cab870f97c4d8909e313ffe00097"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002605.html",
+      "size_bytes": 7599,
+      "sha256": "90a530855c5a3905e3ae64d3958510043f04dfdf6bf590c49903086d7638602c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-160.html",
+      "size_bytes": 40165,
+      "sha256": "577168ecb4d8320629f034281af2b8887bbebd230bf69e4cdb82f9bfbac8d9fc"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002600.html",
+      "size_bytes": 7429,
+      "sha256": "e006caca27c275f90a5ea893aa4de351792cb2a55074eb9c9fbe897375fe97ff"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-001.html",
+      "size_bytes": 40079,
+      "sha256": "0634fc2c5295c83e7028ddf524e619ab6c6dc838b82ad964db71080dab317a61"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2015-MIRROR.html",
+      "size_bytes": 13163,
+      "sha256": "f4f179f8d6c56849c3088346c20ec317a14617af37c9fd2525992c6bb7b84204"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-175.html",
+      "size_bytes": 40165,
+      "sha256": "e9265bdc4aa10b571ac9dc23c9263b02102167ac93d5f664282cda27ecb57e6c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-170.html",
+      "size_bytes": 40165,
+      "sha256": "a17d8bfe12bc880558d6fa1dd5d9e6f643bf08031d2bab49d8834c15c191a161"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-191.html",
+      "size_bytes": 37615,
+      "sha256": "bd343a4326e465ad723b6735b999d53315159e86342c77e149277b74df92cbfe"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-09.html",
+      "size_bytes": 28554,
+      "sha256": "e74cfcb0de9fe4bd820124dc7b00248365c5c59975ef8edadff058a36824c3c4"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002698.html",
+      "size_bytes": 7674,
+      "sha256": "91d25edef73c3af904cb7b6a49198b7d61dc2a5a2ba8c3445c4362ac7ecf79fc"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002226.html",
+      "size_bytes": 6931,
+      "sha256": "653eef5824161d50b787922cc409f20f4c553c75284dacf4dde0e15d5aa1dda2"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2020-LAW.html",
+      "size_bytes": 15774,
+      "sha256": "501a09741f6779995328d2de6ee9303de7176fd5dcebb78db671865100c0ee69"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002677.html",
+      "size_bytes": 7598,
+      "sha256": "8d09972c61b22d0e8f97b2baede193c468a0f69b406c40ffa1a23a795fba244d"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002104.html",
+      "size_bytes": 11400,
+      "sha256": "af240893b65adaaf7730f0b6cd61a7e66fc66e85e377a84d68f8e86fc3020e5b"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002132.html",
+      "size_bytes": 7436,
+      "sha256": "7076177978aa70a6285c5c4c5a14f535517bc18959a9d57619ae69413bf528bc"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002141.html",
+      "size_bytes": 7430,
+      "sha256": "595ad494407237ebeca368cf4a1e16062e2a416243ef8101e1004b69debbfb22"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-LOAN-2024-Q4.pdf",
+      "size_bytes": 1270128,
+      "sha256": "1a642956b21b758c04ae002a2eda12e12d64a4c00ff7a2e39201e75e9ba73ea3"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002804.html",
+      "size_bytes": 6996,
+      "sha256": "f5b5ff7957700eb063fbe0c5ea920094b4483625885cf7c541b26f563ea2e833"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-DIR-2024.html",
+      "size_bytes": 19924,
+      "sha256": "96d846460da133b5fc897f3fe968c7359069bacf2e24ba55912fa43e1398f940"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-025.html",
+      "size_bytes": 40200,
+      "sha256": "c457681479cd03b06aeef3e1d3507d17371a24285eec69a71db9fb33297cb854"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002709.html",
+      "size_bytes": 7599,
+      "sha256": "25ddd8404cd4c036b5de5df7fd5e6e39f5e0cdbcf2d6b7496f4b473acd9c6c13"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-06.html",
+      "size_bytes": 30210,
+      "sha256": "4be9d80c51ed40e8d29db454f07aec1d07f43347d1979c260211ce015741d3ee"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-2020.html",
+      "size_bytes": 36472,
+      "sha256": "5cc65e90b25a352180660df647ff2ee473a3a67b12a45ff9f366b0a44ff32394"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CONNECT-2018.html",
+      "size_bytes": 28347,
+      "sha256": "eaf5092d74c96b6237bf1f6a7dbcb9abf34c364f90d88565b742880e06eece20"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-050.html",
+      "size_bytes": 40200,
+      "sha256": "462f80d6096da3fcbafbee2310d20047d44ce78ea90309c52cf0d3d0fd91e16c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-SSE-MARGIN-DIR.html",
+      "size_bytes": 33832,
+      "sha256": "dee946c16f8b6d0537c2e3b63fd23e230ed02ef2817d7fb460381aa36e3735c1"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2023-04-04.html",
+      "size_bytes": 28581,
+      "sha256": "eccd59d0dc3b24699332097716cf33a5731e02f1c51c858db93d3a2631da04b8"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002788.html",
+      "size_bytes": 7427,
+      "sha256": "9cc4a8df4a67fd4bfc44cabbdfa71f63b9a5311c184e4634a4ace34f1a51d11c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-100.html",
+      "size_bytes": 40151,
+      "sha256": "1337f62aee20793e3f049fdb4e05cb54b2670bcb4f2fd181ddfb46f2a9ad14a4"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2025-MIRROR.html",
+      "size_bytes": 19936,
+      "sha256": "5e165125cc4684260e00d1ebaefe6dc908e5f069aaf1ba2c3b533ec9c2c7d7aa"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-2023.html",
+      "size_bytes": 14034,
+      "sha256": "4defe35005e657cae044c64effe021fd216fd599a9bb04c3b6ab73ee1ecc77cb"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-03.html",
+      "size_bytes": 36293,
+      "sha256": "f33bbe82b2496f65a0ab055c3313937f589544d8473886c99dc8c933cfde048e"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-125.html",
+      "size_bytes": 40151,
+      "sha256": "ed83d76cb88a1b25cbdc5eff753f06e4d3e91e422308fb4507dbf106769b18e8"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2014-MIRROR.html",
+      "size_bytes": 10827,
+      "sha256": "cdc41cbe3c7f92a6a4ed27a7a5f5c9bfd6fa2f5e0c07f5cc5e9ec2898e9b04b8"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002182.html",
+      "size_bytes": 7430,
+      "sha256": "80432c71bebd4ae7d328b9b1e83c5a988502946b217159b3eadea31358767fa2"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002718.html",
+      "size_bytes": 7675,
+      "sha256": "cfeb1a084594a04adcaa3cc88e3ae14dee57a18f2cf471551428d962b86a8c9d"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2023-10-14.html",
+      "size_bytes": 34439,
+      "sha256": "d745b678f6ba3e9a0268e20ce0690433dcc6d74189a3fce600620f81b98e9aba"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002221.html",
+      "size_bytes": 7022,
+      "sha256": "25176ba8eff80b10ddfcf521611fa0757810788c847a0eab08364272b60ff35d"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2018-RULE.html",
+      "size_bytes": 34094,
+      "sha256": "5a57eade2167ce9a9067e8e3df72094fa73a73f985bdf4b535c05288adb07347"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-08.html",
+      "size_bytes": 29935,
+      "sha256": "7ca4d6d33fb87696a820d6958eb6680a33aa802b20965246db736b9187b2269a"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002859.html",
+      "size_bytes": 8648,
+      "sha256": "cab31a006c43ce80eb8b7049637b6f5d9a1c233784d57246c8cc29013134645c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1-PUBLICATION.html",
+      "size_bytes": 49338,
+      "sha256": "4428fffe5d94d3062dce1948d8681a2cd9c68ebe4ce0bd1b1bd7e4af187413d9"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-DIR.html",
+      "size_bytes": 13115,
+      "sha256": "5729e6d70cf04e8863f26501f72fea5fc2b1e47f626935f5987aacd83cfb4668"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2013-01-25.html",
+      "size_bytes": 29357,
+      "sha256": "0e6933adf7edddbe1b3843c72d3f7faae58be3fa746cbfd2b677928318277537"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-DIR-165.html",
+      "size_bytes": 40165,
+      "sha256": "87dc88e1bec66594eeb57fe86af4b5a9e6869f7100119c3e79a01ec3f670bf85"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002218.html",
+      "size_bytes": 7268,
+      "sha256": "07f68dfd098d5a3824f9729df3869c66170355703748c3c1fc89eff51016344c"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2012-08-27.html",
+      "size_bytes": 30957,
+      "sha256": "938f6fb7819bdd5d1ca3a9ab81a748a14e8b175844486abf5508d009368d3c52"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002787.html",
+      "size_bytes": 7007,
+      "sha256": "210a4f0e9310641e9bf150487d119fcf816f813b4f41faa5bb4b3adc6b17a021"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2025.html",
+      "size_bytes": 20416,
+      "sha256": "2746269444dfbb546796f82825e20d277d6f21e04a357922a03218f9a5bd14d6"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-CORP-LOAN-2025-Q1.pdf",
+      "size_bytes": 1423468,
+      "sha256": "ca0d0af85241dbde98f21bc9442120fe2c4bd944999555ac27668c4277d26408"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-2024.html",
+      "size_bytes": 13244,
+      "sha256": "135eb1822f5db33a95301d051237ae82c65248476a011b22390f1f81f49bbf1b"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002136.html",
+      "size_bytes": 7430,
+      "sha256": "7bc0fda24e7a403322af8c76466ff1c59ddbd4d932286c7f2425f9d369bde6dc"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002239.html",
+      "size_bytes": 8019,
+      "sha256": "e0a21696d9886b76c7f91efcd98ac82e52c282613886be61ab3abe96e4648831"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-MARGIN-DIR-2014-11-26.html",
+      "size_bytes": 27828,
+      "sha256": "4ce2673ec7fff513e2c2dc97aebced0c9440466abe7b1ca6ce849beefd0eb34a"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-PBOC-OMO-05.html",
+      "size_bytes": 28367,
+      "sha256": "62e43b93591b73f0b688495d23b6b81ff268b95c9bd9388399dc8c517ad2a868"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-HUIJIN-1002248.html",
+      "size_bytes": 7622,
+      "sha256": "d7bfe195aa4cea78d14ba8488980f0d1f828b3e0ba5291a6461eb1a343ebbc16"
+    },
+    {
+      "path": "research/phase4/sources/china/CN-S-INS-2015.html",
+      "size_bytes": 15610,
+      "sha256": "406870216957226a2ea3ff49739f6c4cc62a22e37966a4d3e18f4247829e6335"
+    },
+    {
+      "path": "research/phase4/sources/us/67800f685ba6c80e87f7.source.json",
+      "size_bytes": 849,
+      "sha256": "a3d03b38a1cfc8787ecd7645c87659648d02d4cc3994aec46f7a13d9074e787c"
+    },
+    {
+      "path": "research/phase4/sources/us/b2a47f6d9aec024be9a0.html",
+      "size_bytes": 643397,
+      "sha256": "e2ba522fe0abc05977dcdf737be0f5964ab28f303a144770564dd2e01697c09a"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_532f1a86ad593c158094.pdf",
+      "size_bytes": 313364,
+      "sha256": "224cb9a327125f7e0cebcd0cfb502218833d381c9d9e4b0d70d551d65c1c8ae9"
+    },
+    {
+      "path": "research/phase4/sources/us/7b9106b17e9f3bf91a78.txt",
+      "size_bytes": 22072,
+      "sha256": "97dfe965849029bea8a71d2bd522efc384b1275880d61cf91c40b84473899829"
+    },
+    {
+      "path": "research/phase4/sources/us/ee0978f67ade568e9dc6.source.json",
+      "size_bytes": 820,
+      "sha256": "b0ee7dfe506a7f9a3964dade03345ddb518251cc9d0ce1b644bd8941549b6a3b"
+    },
+    {
+      "path": "research/phase4/sources/us/bfd7b8fb8d2b7ff7c019.source.json",
+      "size_bytes": 486,
+      "sha256": "2acb7157988974595df54f4c52c880e2e02d602ac4663badb5f3d2837a3efe6c"
+    },
+    {
+      "path": "research/phase4/sources/us/548f0e9308fa222d63f3.source.json",
+      "size_bytes": 849,
+      "sha256": "b5de28d3f0710d8d67b8507945fbee3aa9965b3fc5af3b23208a06a03fcc5dbf"
+    },
+    {
+      "path": "research/phase4/sources/us/2e05b9ddce85f8917436.html",
+      "size_bytes": 80393,
+      "sha256": "c2f6fff8200b2bbaaa5f4f0cd6190f3fa52c8e8bfea8cca684ade1034022d02e"
+    },
+    {
+      "path": "research/phase4/sources/us/6ea7fadcf2af3dac120d.html",
+      "size_bytes": 66566,
+      "sha256": "58d776995ac6197dee2e7d5782254ef97292448eee9d51cc7fab8df032ef0710"
+    },
+    {
+      "path": "research/phase4/sources/us/67800f685ba6c80e87f7.txt",
+      "size_bytes": 3686,
+      "sha256": "d7dae089fb0ac4815d1664d7cab14c86d93270d1501c53641f1b9c54640c3dad"
+    },
+    {
+      "path": "research/phase4/sources/us/408b104437da6844073f.txt",
+      "size_bytes": 10428,
+      "sha256": "758c76557d5b70b301ab84c6d1baff11652cfc98874648e2bdbc6f177cd6ed2f"
+    },
+    {
+      "path": "research/phase4/sources/us/24fa8491e8be361707df.source.json",
+      "size_bytes": 820,
+      "sha256": "9685b4ccf0bdd7bafca91ed888fbbd821b1e3defbde22971bd35ff2943e01d28"
+    },
+    {
+      "path": "research/phase4/sources/us/7403691da98a48d474ab.txt",
+      "size_bytes": 39408,
+      "sha256": "a3ab50c77e0b85b8b48a936caff0ce03fa75735a078b27a1d54ac08f6b070ba6"
+    },
+    {
+      "path": "research/phase4/sources/us/3e2d9ce6b49b34eb22ab.source.json",
+      "size_bytes": 849,
+      "sha256": "14842fd97c2a5cd5ec44662806d5d4e1d625d6cc0d8bc3070a9d3d43eb4bfa5a"
+    },
+    {
+      "path": "research/phase4/sources/us/936a15e4132ed8c6499d.txt",
+      "size_bytes": 3592,
+      "sha256": "c013aab7837d98841db253a8771c6e92df32e656126c6d9b857d7b5775f8ab39"
+    },
+    {
+      "path": "research/phase4/sources/us/2e05b9ddce85f8917436.source.json",
+      "size_bytes": 840,
+      "sha256": "a06e75b06f9564061374b283dd1217a59fa3540bfa2cd77ca71eae80d101783c"
+    },
+    {
+      "path": "research/phase4/sources/us/62c3d5637662bd496bb3.source.json",
+      "size_bytes": 839,
+      "sha256": "200b5ceb60cef8a7643096edc6d214bf0c080c7ee0cd7fd8994b17cb5dc51216"
+    },
+    {
+      "path": "research/phase4/sources/us/b53df4cc27444e382fdc.source.json",
+      "size_bytes": 821,
+      "sha256": "026a4525e109dcfb29d70ee6208b5ae7d702e41218f12f8501dc3897f413baca"
+    },
+    {
+      "path": "research/phase4/sources/us/a9795d68c1421323f463.source.json",
+      "size_bytes": 849,
+      "sha256": "bd2bc63956bbe4cc9087a37743ac2825db3e60a9ab3f79e2a397f34399e6459a"
+    },
+    {
+      "path": "research/phase4/sources/us/3bf4638ed156bd7e623e.source.json",
+      "size_bytes": 891,
+      "sha256": "2f716b6fa78b43f926a77e83a76d667e6a36b2277520652cbdda1217aa4cc2b7"
+    },
+    {
+      "path": "research/phase4/sources/us/bbe773a6b871fd7603cb.source.json",
+      "size_bytes": 827,
+      "sha256": "313cf8fd92e875db13367e671e97fa62e2cb0ba9c5a7a114f0e3a295cd20a629"
+    },
+    {
+      "path": "research/phase4/sources/us/2e90cb6f565aa87817b0.html",
+      "size_bytes": 366704,
+      "sha256": "02d23e43fb267761f049ef7b7180ddcfdbad754b0dc69db41522c935c7a042c1"
+    },
+    {
+      "path": "research/phase4/sources/us/6ea7fadcf2af3dac120d.txt",
+      "size_bytes": 3461,
+      "sha256": "c11613f68764e99e354575e24b021908ac61ffb4c7e711b059d4bd7c2a345f14"
+    },
+    {
+      "path": "research/phase4/sources/us/7403691da98a48d474ab.source.json",
+      "size_bytes": 821,
+      "sha256": "9bc6cbc39d7dcbb8e40b2c3bc2ee5e9fae8490dfaa9b5ef1fcabae2b075a3fe9"
+    },
+    {
+      "path": "research/phase4/sources/us/763bc4965ec3566b1902.txt",
+      "size_bytes": 10464,
+      "sha256": "a1f305bd7e42c03f7c8c58e27919801f4fff5337c7181b46756451aa611b945c"
+    },
+    {
+      "path": "research/phase4/sources/us/e3dc2859282dee5acd7e.source.json",
+      "size_bytes": 607,
+      "sha256": "3a256835db22c38a8fafd540693e5bc02e59661ba8daae0807d5932d0354ad79"
+    },
+    {
+      "path": "research/phase4/sources/us/e482c6b523d48deb076a.source.json",
+      "size_bytes": 866,
+      "sha256": "8f727b49353c0f77a5d0cef011111b34512ad1b51a58d35617667dec62e2a2d8"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_2776765ce95ddecd79e8.pdf",
+      "size_bytes": 444892,
+      "sha256": "c3af7285c92bb11dbb1fa1701d8a8402d8e18bf7d01a59d5d24a1653bfd22793"
+    },
+    {
+      "path": "research/phase4/sources/us/73d708fd4e8ca811b3b1.html",
+      "size_bytes": 65010,
+      "sha256": "13e4cfc28cdf02b66e469c80d2bf006956fe895c9eab38938e54ac07aabddf00"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_1883caebca2cba37df70.source.json",
+      "size_bytes": 850,
+      "sha256": "4c5d5a2bd22bf51629a8cbc0d287f9a5278d51743cdc6b50cbb1f13359e35b50"
+    },
+    {
+      "path": "research/phase4/sources/us/8813e340d76cec428a3e.html",
+      "size_bytes": 80464,
+      "sha256": "21b763e890db94cb8223ba75b9e6cd525aef2637825517664b840c5907240548"
+    },
+    {
+      "path": "research/phase4/sources/us/6202e5c55c6e56aa35b9.txt",
+      "size_bytes": 39692,
+      "sha256": "5581eb3e9d2b3b1e2ea25ca27d28197313e460e0d0caa5f6a7e0fa9a0c760ab1"
+    },
+    {
+      "path": "research/phase4/sources/us/f0cdfa3fadaf0f770964.source.json",
+      "size_bytes": 822,
+      "sha256": "5bd32a3832c924e97315c634d3e4e49c9c886987474e32704243289802b61a45"
+    },
+    {
+      "path": "research/phase4/sources/us/4cd9a57cab787176fa9b.html",
+      "size_bytes": 82984,
+      "sha256": "f379a3ce97a7e9a0aebd4798a536c1aef46b642fddb658186e3511c8df9686c1"
+    },
+    {
+      "path": "research/phase4/sources/us/1acd0eab7698cd8b5df2.html",
+      "size_bytes": 50340,
+      "sha256": "2542de09bc39ad31a2effcc457c5d9c7fcd39f04e8357e6d1152071531fe5c30"
+    },
+    {
+      "path": "research/phase4/sources/us/f5ef6cabe502d13bfeab.source.json",
+      "size_bytes": 467,
+      "sha256": "db45dc5a7f1758167dc7ff538ced76dea0cd805d062868339d0a65d6643a13c6"
+    },
+    {
+      "path": "research/phase4/sources/us/d2b9e828479ae581146f.html",
+      "size_bytes": 72496,
+      "sha256": "2c946340bb4ef0c9113298ddfb884d80012d2beba5501123b0080cb8447e8f8e"
+    },
+    {
+      "path": "research/phase4/sources/us/8ca6daef267ce0cbc20b.txt",
+      "size_bytes": 683531,
+      "sha256": "253732f7a589e0fa9078d0aad6173c05aa3682e29e79bbede57c74296822ffce"
+    },
+    {
+      "path": "research/phase4/sources/us/160d2bebb478a07f5aec.txt",
+      "size_bytes": 9663,
+      "sha256": "f6d9f594f5655cb5a028950caf19c6f95bc03afa066008ebfade6e9637849376"
+    },
+    {
+      "path": "research/phase4/sources/us/73d708fd4e8ca811b3b1.source.json",
+      "size_bytes": 805,
+      "sha256": "09f49c60077219401f871f3657dbed822009fb620bff1c2eb7aebd8f9c2a0e49"
+    },
+    {
+      "path": "research/phase4/sources/us/82bc2654c4415643f29c.source.json",
+      "size_bytes": 827,
+      "sha256": "3a34f2bf59c69dd8edcba5514817437a74c544c9a74c6fc2783265d395469e9e"
+    },
+    {
+      "path": "research/phase4/sources/us/0fd4e0c80aff84673446.source.json",
+      "size_bytes": 840,
+      "sha256": "a94a1c188cb5a99bc0f734e5429ef2bcf76cac0200e82ce4d6d8105b93dc2980"
+    },
+    {
+      "path": "research/phase4/sources/us/140bfe730f6d7088f2f5.txt",
+      "size_bytes": 9512,
+      "sha256": "4112ec12dcbb3564cbbff4d36b0879aff977fd63abeff19bdf27f73c61bd4d49"
+    },
+    {
+      "path": "research/phase4/sources/us/fcabd7d9e7267f173eab.txt",
+      "size_bytes": 3610,
+      "sha256": "666f9513c1fad92ddd0d2d25c29db211e95fc6565d8c840f252add57c014dd31"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_2650be9aaf222d591878.source.json",
+      "size_bytes": 885,
+      "sha256": "706f933a8cd335d3424991009ba4fd8cc69ba209eea5f961126b5adb39c148d6"
+    },
+    {
+      "path": "research/phase4/sources/us/65762925ec8286339d01.txt",
+      "size_bytes": 12619,
+      "sha256": "aeac4d7fdde68dbdb24f2570639e533226855bbff494c68be489dcffa8d1d50c"
+    },
+    {
+      "path": "research/phase4/sources/us/431d7ceef234fd5a9fe7.txt",
+      "size_bytes": 3461,
+      "sha256": "c11613f68764e99e354575e24b021908ac61ffb4c7e711b059d4bd7c2a345f14"
+    },
+    {
+      "path": "research/phase4/sources/us/0850d09f28777d142e2f.txt",
+      "size_bytes": 23312,
+      "sha256": "80b94d56b6d58f34e2febf08136ec99399db659ed6387409392383c23718038e"
+    },
+    {
+      "path": "research/phase4/sources/us/40c56ac57e23969c257e.html",
+      "size_bytes": 5119017,
+      "sha256": "31f74bcbd3ed5423a39dc11f49219a94fe129f0ab652cfba4d854ad27bac175e"
+    },
+    {
+      "path": "research/phase4/sources/us/d44c01a937142042ee71.html",
+      "size_bytes": 68477,
+      "sha256": "de2ffc57b47c9e929462af8ad1f2334511d4d129ed53d6d1a4cc3e77de19adb4"
+    },
+    {
+      "path": "research/phase4/sources/us/0fd4e0c80aff84673446.html",
+      "size_bytes": 82403,
+      "sha256": "221b37d86b051b9771b4352c1da5df040da453024591a2f040497fe042e36301"
+    },
+    {
+      "path": "research/phase4/sources/us/67800f685ba6c80e87f7.html",
+      "size_bytes": 68643,
+      "sha256": "6aa3f15f216df53f494ed810b399e0c54790fae68c58a0b284f4fa9113507307"
+    },
+    {
+      "path": "research/phase4/sources/us/8813e340d76cec428a3e.source.json",
+      "size_bytes": 840,
+      "sha256": "c9589a427b2165c08d55a2f48345676c62d1f77afc85f55c295f1ccc892d6a57"
+    },
+    {
+      "path": "research/phase4/sources/us/b04cdb35233e2f1dfff4.html",
+      "size_bytes": 82899,
+      "sha256": "dc09c1e9afcf204fcc03c04ce32e8dff8b153fbcc061405e4e1824b44cdb5463"
+    },
+    {
+      "path": "research/phase4/sources/us/2e05b9ddce85f8917436.txt",
+      "size_bytes": 9499,
+      "sha256": "6eaffd14efff058756ec7b4814eff930b82df622eeb8aa1aa1861b04c092e1fc"
+    },
+    {
+      "path": "research/phase4/sources/us/549916faf3f7cd533a4f.source.json",
+      "size_bytes": 840,
+      "sha256": "29be66f83234016ee8efc66e3a9be2d70a0454ecadc87fbb98cd3e0a1fd31995"
+    },
+    {
+      "path": "research/phase4/sources/us/0fae2a5a09519ae8c821.source.json",
+      "size_bytes": 499,
+      "sha256": "30d5803f4691f5b73e8556eedef9c05d8ceb6b32208bff669472ad8532b9daa2"
+    },
+    {
+      "path": "research/phase4/sources/us/7786b41c6661c9e0fdd3.source.json",
+      "size_bytes": 562,
+      "sha256": "3312697f11b249738868b404b129b10206641b00fcd0181f5af009fb4ae550ad"
+    },
+    {
+      "path": "research/phase4/sources/us/3bf4638ed156bd7e623e.html",
+      "size_bytes": 77841,
+      "sha256": "f702cfba39dec05f60f6e22c89e64483a0c5a4f7697432f26f167c5c12c1da2b"
+    },
+    {
+      "path": "research/phase4/sources/us/974a467bb400871d0cdb.txt",
+      "size_bytes": 38921,
+      "sha256": "9025c29bce881ff6d8dadb0eebef094215c6ad937c8397129efa5437046b44de"
+    },
+    {
+      "path": "research/phase4/sources/us/ee0978f67ade568e9dc6.html",
+      "size_bytes": 64322,
+      "sha256": "dff0d67ab4c04aecf4bb28f28a4999f6d13c9f5957d46aad1fde7454539dd77f"
+    },
+    {
+      "path": "research/phase4/sources/us/82bc2654c4415643f29c.html",
+      "size_bytes": 244499,
+      "sha256": "a44cb05e131101b9a5af42ed989d96cb0dda7e39602f4a39238ae8e76b7f52bb"
+    },
+    {
+      "path": "research/phase4/sources/us/225048c4abb9c98e5d10.txt",
+      "size_bytes": 35514,
+      "sha256": "f7df5163a95608f608d2e7cf8d0a90263b58000bac139fe225392fc6669419bb"
+    },
+    {
+      "path": "research/phase4/sources/us/d2b9e828479ae581146f.source.json",
+      "size_bytes": 846,
+      "sha256": "c92f91d0a2300a2aa806fd6faa2e83eb9cdb6408fffcf1866b93477a71b7e893"
+    },
+    {
+      "path": "research/phase4/sources/us/23f1e69b9b69b7d4ba79.txt",
+      "size_bytes": 39269,
+      "sha256": "c0a2747a71810fc45a20f140b09d9c16fc1bbec1a7c33c401f9c69f1b7bb5fe0"
+    },
+    {
+      "path": "research/phase4/sources/us/b2a47f6d9aec024be9a0.txt",
+      "size_bytes": 61185,
+      "sha256": "7e205c1599324f53883f58ac51fd2c8fe20ae753fd65730cdf453ffb91bd2cd5"
+    },
+    {
+      "path": "research/phase4/sources/us/1948c42c2a75261aa322.html",
+      "size_bytes": 589216,
+      "sha256": "df47bd87aaeb80009ed534dd8fb9033a7a86f53f0a03d7f40e067ffaac738157"
+    },
+    {
+      "path": "research/phase4/sources/us/06949917ace2d54a14a3.html",
+      "size_bytes": 66566,
+      "sha256": "a7f0b5091bfb2c481ce946a5f3a114bccb2ccddb460913a6799ccbfa47385798"
+    },
+    {
+      "path": "research/phase4/sources/us/408b104437da6844073f.source.json",
+      "size_bytes": 834,
+      "sha256": "50cf2cc3b271e6e9a67bf9e05f1816ebff7538b060dce9cea93e84b8000b2033"
+    },
+    {
+      "path": "research/phase4/sources/us/7b9106b17e9f3bf91a78.source.json",
+      "size_bytes": 866,
+      "sha256": "e0ac9bd54e5006c5e7ad9851c51f16cfab256f4a2a66ddada65eed23b52f6a4b"
+    },
+    {
+      "path": "research/phase4/sources/us/1acd0eab7698cd8b5df2.source.json",
+      "size_bytes": 809,
+      "sha256": "923380d403d1ed2a925fa3d5f6bb964d95e3786407380b0256def7bcc670fb62"
+    },
+    {
+      "path": "research/phase4/sources/us/24fa8491e8be361707df.html",
+      "size_bytes": 64677,
+      "sha256": "3fd62bc6be1535e85738a62eb826a706fa74c6af347e9dd71e2df0d4bb9fbe97"
+    },
+    {
+      "path": "research/phase4/sources/us/278fee75693cdbb7dfee.txt",
+      "size_bytes": 12326,
+      "sha256": "1afc176882e44cb25d6fdb690ed3785fed12c6357a8ef47ecd0909e0602f798d"
+    },
+    {
+      "path": "research/phase4/sources/us/549916faf3f7cd533a4f.txt",
+      "size_bytes": 9678,
+      "sha256": "d188dec106a6da8c25cc82ceaccd229999685d2d91e70e85c965b565a7c345ca"
+    },
+    {
+      "path": "research/phase4/sources/us/39ff2296b1dcaeaeac70.source.json",
+      "size_bytes": 909,
+      "sha256": "b445b3e27c8557d635c01d9d50a58179f7854ef62df768fda0b9b8782ff67b21"
+    },
+    {
+      "path": "research/phase4/sources/us/974a467bb400871d0cdb.source.json",
+      "size_bytes": 821,
+      "sha256": "1514c4995e6c30cb22e91e2d55f710f9e9f40633a52227a54573f2b40a4be7a7"
+    },
+    {
+      "path": "research/phase4/sources/us/b53df4cc27444e382fdc.txt",
+      "size_bytes": 38420,
+      "sha256": "ee2116115ec3417e91e9699dffe396d475c397cce4de2e5998c448a6d339e7cd"
+    },
+    {
+      "path": "research/phase4/sources/us/bc1c56344aa36f06af90.html",
+      "size_bytes": 66566,
+      "sha256": "23b7bb11b7ad678efdc2c9704a00f5c9495ba7fcbaeb325e143434c406e8dbb2"
+    },
+    {
+      "path": "research/phase4/sources/us/bbe773a6b871fd7603cb.txt",
+      "size_bytes": 30344,
+      "sha256": "e0f0af5c2ea6509e510fb7d827ca7bd46b6f5dae113e63cc1ccaa5b4b4aa3d3c"
+    },
+    {
+      "path": "research/phase4/sources/us/4cd9a57cab787176fa9b.source.json",
+      "size_bytes": 822,
+      "sha256": "93b085a4192c9c4a7a03ced3ceb0ca254a1285b60e593b067710eb17744d1139"
+    },
+    {
+      "path": "research/phase4/sources/us/5058f00c35c1eaab1ed1.source.json",
+      "size_bytes": 857,
+      "sha256": "38cfd9c0f87e18a26109da0a84494db65f7cf8d29072747dfae4c6029b0b8aef"
+    },
+    {
+      "path": "research/phase4/sources/us/353d3d5fe3b41ca5890b.html",
+      "size_bytes": 711365,
+      "sha256": "460cea123cf1fd5f3a71da7c76a6ab598a81b4f36fc56b313a0b613bfe21abcc"
+    },
+    {
+      "path": "research/phase4/sources/us/a74c40e4c51eaeaada89.source.json",
+      "size_bytes": 805,
+      "sha256": "4cee2bea60788d61b196fcad71c1c6807e3c4a742ffd6b83d660a8adec5a886b"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_6a9eafcf8d09aa9c2f40.pdf",
+      "size_bytes": 271635,
+      "sha256": "d3b61f018b3c66fa832fc4ff52fc5980193240a1dfea774b5ed72318afade284"
+    },
+    {
+      "path": "research/phase4/sources/us/353d3d5fe3b41ca5890b.source.json",
+      "size_bytes": 866,
+      "sha256": "40cb37200286403d1186de1c53ae528d113fa20807d0119d99bd1c0951866800"
+    },
+    {
+      "path": "research/phase4/sources/us/d0f57e93ede4728329f4.source.json",
+      "size_bytes": 849,
+      "sha256": "6ef675af2a8a91361f95c877663fd622457f26daadde7fed3126c1565cbaf3c3"
+    },
+    {
+      "path": "research/phase4/sources/us/278fee75693cdbb7dfee.source.json",
+      "size_bytes": 834,
+      "sha256": "891905a5156a4fceb0b7b951b476c8e1d0e93a69aa0acd53c0d95f35695f2632"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_7d1d7f5d59d4185d9c5d.pdf",
+      "size_bytes": 605843,
+      "sha256": "73253be3d52045f6c3b561de9d375a5a8b9fd9eab606595e3753d3828a4a5ca0"
+    },
+    {
+      "path": "research/phase4/sources/us/1acd0eab7698cd8b5df2.txt",
+      "size_bytes": 7486,
+      "sha256": "246e820a8607e7b7345a02c39a4ddd2dfd6669cf0b4ce6a623214f1c81167fcd"
+    },
+    {
+      "path": "research/phase4/sources/us/82bc2654c4415643f29c.txt",
+      "size_bytes": 39999,
+      "sha256": "b69fb4811e3f5337382b3129e3b853e959e1c798b0dd8e273f253cceba2e1134"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_212803af985db52b9829.pdf",
+      "size_bytes": 367749,
+      "sha256": "02ffb1cea05320e75bb456ccfcb911f434af266dd1b598641439dbb4fee19818"
+    },
+    {
+      "path": "research/phase4/sources/us/763bc4965ec3566b1902.html",
+      "size_bytes": 81489,
+      "sha256": "8298eaa362dc1f112d3ece9f9199c2182d534af1d835fe3f50cb4a42144deef6"
+    },
+    {
+      "path": "research/phase4/sources/us/62c3d5637662bd496bb3.html",
+      "size_bytes": 105688,
+      "sha256": "41e82c6fedba2121c98fe1cad96e54f13c023118d70b5fbd90c54be1ce0cae1d"
+    },
+    {
+      "path": "research/phase4/sources/us/a9795d68c1421323f463.html",
+      "size_bytes": 66568,
+      "sha256": "53a2916746d9f6823ed2b406f321802d3d705f57d87685f697837ed724d05611"
+    },
+    {
+      "path": "research/phase4/sources/us/06949917ace2d54a14a3.source.json",
+      "size_bytes": 849,
+      "sha256": "ddee0553b37e92d9159f08beba0d9fac2a9ee0fda87a0525f5df0bb53984d2e1"
+    },
+    {
+      "path": "research/phase4/sources/us/6604879df9d06531e8ea.txt",
+      "size_bytes": 3561,
+      "sha256": "1276ba6129fddad80d47727b2a937362f282bca48be84fdfe60ee16a927cd0c8"
+    },
+    {
+      "path": "research/phase4/sources/us/06949917ace2d54a14a3.txt",
+      "size_bytes": 3461,
+      "sha256": "c11613f68764e99e354575e24b021908ac61ffb4c7e711b059d4bd7c2a345f14"
+    },
+    {
+      "path": "research/phase4/sources/us/23f1e69b9b69b7d4ba79.html",
+      "size_bytes": 245572,
+      "sha256": "f96d80302c321015fd6da21a687edbbd69bc84cb75858d9f0d923a4b97b4b5ab"
+    },
+    {
+      "path": "research/phase4/sources/us/0a73bcbae7eb9863eb2f.source.json",
+      "size_bytes": 834,
+      "sha256": "1e3d8f4bcefbb4ae5576356c6bc37466d5629ff266f9fafe7756229b8a28868f"
+    },
+    {
+      "path": "research/phase4/sources/us/b1225f0159ffe8481f43.source.json",
+      "size_bytes": 827,
+      "sha256": "2b5e170b74e8713b2c63c5114392e2cc04d3c4eeac63355d97cb9e43cc0de8ef"
+    },
+    {
+      "path": "research/phase4/sources/us/548f0e9308fa222d63f3.txt",
+      "size_bytes": 3627,
+      "sha256": "f95f1fa88bd9cad62cf6576f56552696cf0746060dfba8717388e314292650b2"
+    },
+    {
+      "path": "research/phase4/sources/us/974a467bb400871d0cdb.html",
+      "size_bytes": 253228,
+      "sha256": "175c3aa353bcb1ef2289f7eb7617d51a3243a16fcc4cdfb00497f95d9db9e795"
+    },
+    {
+      "path": "research/phase4/sources/us/e482c6b523d48deb076a.txt",
+      "size_bytes": 33317,
+      "sha256": "33cede11a3268c36d6bd1bf0cd1117617c72f699bebb0c002fbeaa458749abc1"
+    },
+    {
+      "path": "research/phase4/sources/us/e596da9ef1a186f6391b.txt",
+      "size_bytes": 170810,
+      "sha256": "7471a3cab527aeeec372dcb041815acb6d2b53f254b7a9d019d5e5ab0daf05e8"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_2776765ce95ddecd79e8.source.json",
+      "size_bytes": 885,
+      "sha256": "bb9ad4be3f47bdb50bdb627b08526e74308d18750cb8d029a7924f11195cbd62"
+    },
+    {
+      "path": "research/phase4/sources/us/d0f57e93ede4728329f4.txt",
+      "size_bytes": 3638,
+      "sha256": "82c30614b6d39c2c45a32c3080371055f28ca72c5898d738a129048b5a3a2c78"
+    },
+    {
+      "path": "research/phase4/sources/us/1948c42c2a75261aa322.txt",
+      "size_bytes": 35017,
+      "sha256": "d4945c4d63373010bafca76bfb71ffb102a12cead0c9d704f74f890a142ababc"
+    },
+    {
+      "path": "research/phase4/sources/us/73d708fd4e8ca811b3b1.txt",
+      "size_bytes": 5941,
+      "sha256": "0d3bb1d499e2e1227156b8cbb57877562b72ef3535d1c89eecf542a149a8219e"
+    },
+    {
+      "path": "research/phase4/sources/us/46b3e2c272f89aca3924.txt",
+      "size_bytes": 42145,
+      "sha256": "3dd76b405fe0967288fabbdb4acb999efa8d1ab8b769c37dc728cd5103b2a5b9"
+    },
+    {
+      "path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.html",
+      "size_bytes": 325895,
+      "sha256": "a3e9eb2f5979647af216fc1c4da986a9413519e986d949bb74e5146b92de0bb3"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_0b29adadf72159c8067a.pdf",
+      "size_bytes": 449046,
+      "sha256": "f56eb37b7e8dffd67819c025abce2f727f810a022f40f34695f75c30c8f4d9b4"
+    },
+    {
+      "path": "research/phase4/sources/us/225048c4abb9c98e5d10.source.json",
+      "size_bytes": 866,
+      "sha256": "1db09fda0d03304f70d3749f88c5c8f3eb0744ed1f977842f30c972350932ab9"
+    },
+    {
+      "path": "research/phase4/sources/us/23f1e69b9b69b7d4ba79.source.json",
+      "size_bytes": 827,
+      "sha256": "ed4e65b2e25f959543b664061213e94aa5932627411bea1b2d9ba1280d2aea9e"
+    },
+    {
+      "path": "research/phase4/sources/us/62e8f492725d527b44e7.source.json",
+      "size_bytes": 834,
+      "sha256": "fed24fe0c2cdd043c98b61f171ba3c80f0c75daaf61c083d3dee2b0cf3e6e7a5"
+    },
+    {
+      "path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.source.json",
+      "size_bytes": 821,
+      "sha256": "bab3ae07e743dc6ab9e169a8253e68b91d7cfca2b96ae72fead75e1d85bc8d00"
+    },
+    {
+      "path": "research/phase4/sources/us/278fee75693cdbb7dfee.html",
+      "size_bytes": 84221,
+      "sha256": "bf574f48e3305e38657be908f63f40f1d42ddbb6c415b46b543c9aa022e25bf7"
+    },
+    {
+      "path": "research/phase4/sources/us/a74c40e4c51eaeaada89.html",
+      "size_bytes": 65032,
+      "sha256": "4c84a82b56c5489b2e5e6e4eb967c89a10a17420847feca87c8a68b1451e7456"
+    },
+    {
+      "path": "research/phase4/sources/us/c82c99f4c312944b050c.txt",
+      "size_bytes": 38171,
+      "sha256": "c7b1a633d716bc9190c9f1dc5a8838d1df68934fb4e080fe4d5851a83698a780"
+    },
+    {
+      "path": "research/phase4/sources/us/936a15e4132ed8c6499d.source.json",
+      "size_bytes": 849,
+      "sha256": "3e908ddabacd9c42541ff5b35ecce06bb010e4418a5bf1f3f266f5e3a7bf5f6c"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_6a6fc911a0d35998be0a.source.json",
+      "size_bytes": 468,
+      "sha256": "2877ecc0be024c4a946e854a29d0529be9c83c96e3b0f344f4f6d8d7d766c890"
+    },
+    {
+      "path": "research/phase4/sources/us/8e42dfd09e371a158290.txt",
+      "size_bytes": 26130,
+      "sha256": "e1982d709eadabdc2b09d836958879486823064e186e798a14336a3cf89b1255"
+    },
+    {
+      "path": "research/phase4/sources/us/3bf4638ed156bd7e623e.txt",
+      "size_bytes": 10048,
+      "sha256": "efc7792c807c4419813999ebcabf43740c3a1c66f7fb3c3ea9ad727014e00477"
+    },
+    {
+      "path": "research/phase4/sources/us/6604879df9d06531e8ea.source.json",
+      "size_bytes": 849,
+      "sha256": "8688e90c0b68373c9603abf3e2bc47d371ac4d90c13a90c68aa06a212c422049"
+    },
+    {
+      "path": "research/phase4/sources/us/eb8fcdbdb8926223e20a.html",
+      "size_bytes": 127204,
+      "sha256": "2e491ec41302864deb33188679f6fc91461b42ee77c74ab9329f77f191eab825"
+    },
+    {
+      "path": "research/phase4/sources/us/43e2825f0b4c68ce8a24.source.json",
+      "size_bytes": 834,
+      "sha256": "c3e5177de96c279471420c60738b4f6288152e359baf14b6605cf53329e46f85"
+    },
+    {
+      "path": "research/phase4/sources/us/fe113f1598900eb0178b.source.json",
+      "size_bytes": 840,
+      "sha256": "784664e1731c38c80cfde350924a5ef559727f0d59e520c5de17d5de40cbd058"
+    },
+    {
+      "path": "research/phase4/sources/us/26dc42c30af7212ee08e.source.json",
+      "size_bytes": 827,
+      "sha256": "25df86289799bd908d49f4e6028a65fe47b54afe40a46f92aa6b4ee4e1c64358"
+    },
+    {
+      "path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.txt",
+      "size_bytes": 37520,
+      "sha256": "81d86dd748275d32d3887f23f427a24a605009da503e5edb0998a1f96e2ed752"
+    },
+    {
+      "path": "research/phase4/sources/us/f0cdfa3fadaf0f770964.txt",
+      "size_bytes": 11035,
+      "sha256": "c5b046bc7da67c296e10f2004cdb13b7888f02d33dbb77ed2927ee7a3e921fdb"
+    },
+    {
+      "path": "research/phase4/sources/us/5058f00c35c1eaab1ed1.html",
+      "size_bytes": 103156,
+      "sha256": "959b178a345659847c13f12bf7506afee8b74311243df8cf690801baa357f12c"
+    },
+    {
+      "path": "research/phase4/sources/us/2642b920cdfa9a189e2a.source.json",
+      "size_bytes": 827,
+      "sha256": "2857adfc882789336031a3440bfa443f4ce89714c63a28d8489dbee7ccb13f48"
+    },
+    {
+      "path": "research/phase4/sources/us/26dc42c30af7212ee08e.txt",
+      "size_bytes": 27629,
+      "sha256": "b01e347d2f54ed90ffb462e724c3e2502438ddd8280983cba83313599a4f211c"
+    },
+    {
+      "path": "research/phase4/sources/us/c350b64e2114cd2a18c8.txt",
+      "size_bytes": 33989,
+      "sha256": "716ac1fe97b501bb1af911603d0382a1dea49ec86cfca11d91fbcbd6af7b08a8"
+    },
+    {
+      "path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.source.json",
+      "size_bytes": 821,
+      "sha256": "876a4593ba9ffd016a286fa9ad167287bfb700d635e948d29716dc73002f391e"
+    },
+    {
+      "path": "research/phase4/sources/us/b1225f0159ffe8481f43.html",
+      "size_bytes": 168886,
+      "sha256": "cd9470d2fdf637a1bb351447fd019485cbfc39df8a155f8d50af269c42315782"
+    },
+    {
+      "path": "research/phase4/sources/us/160d2bebb478a07f5aec.html",
+      "size_bytes": 80579,
+      "sha256": "320cb82594ce336f02dd7b04b3657dfef4af43dde1d577dd7a72ed5f039ab9b8"
+    },
+    {
+      "path": "research/phase4/sources/us/165befb696f2aa216f8d.source.json",
+      "size_bytes": 866,
+      "sha256": "7bcff2deb2f33854a72e60e54cd3ac03ebd10933bfb2d46f13c9a1e0e2856cff"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_bfa6ea1b54017dd3220c.source.json",
+      "size_bytes": 468,
+      "sha256": "e962c66bdef74d467365de7b254b0667b696d00b6712a81073d76d94288a04e7"
+    },
+    {
+      "path": "research/phase4/sources/us/0850d09f28777d142e2f.source.json",
+      "size_bytes": 848,
+      "sha256": "c193fbf7ea4d17fd5c8437fc12c4331a4b996bebbcb78812d1b4e79ac03c66cf"
+    },
+    {
+      "path": "research/phase4/sources/us/fdd63fe96316b522f85f.source.json",
+      "size_bytes": 840,
+      "sha256": "d7b1c06b32d39ff51ddc08cc4161c77e536a08e4c2b28e28c9df1e41ccc825b2"
+    },
+    {
+      "path": "research/phase4/sources/us/431d7ceef234fd5a9fe7.source.json",
+      "size_bytes": 849,
+      "sha256": "a151ad86a38224cb09d89a7dd71bc459ac0a46ce0026f18c348c4e64793f0a30"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_bce29ee94a9acecd4f1b.source.json",
+      "size_bytes": 885,
+      "sha256": "62b6e1a985a61217192bb345a3e342e00f79010e188f08ed0d7e1947bb6a1e60"
+    },
+    {
+      "path": "research/phase4/sources/us/3a8ec34203cf8d26d84a.txt",
+      "size_bytes": 3577,
+      "sha256": "9fef288e4f7e4d3027f794da7fb0604f176fdc719646e15816dc20f4f9251f87"
+    },
+    {
+      "path": "research/phase4/sources/us/140bfe730f6d7088f2f5.html",
+      "size_bytes": 80420,
+      "sha256": "500eb62c37ae7dafc366496c6afae196592317ba968fce750272c8a46ecde71f"
+    },
+    {
+      "path": "research/phase4/sources/us/8e42dfd09e371a158290.html",
+      "size_bytes": 87213,
+      "sha256": "086121914b1c752baa39e2573ebd7b9cebfa2c1a5840dec89f4d2eeb3c5a102d"
+    },
+    {
+      "path": "research/phase4/sources/us/eb8fcdbdb8926223e20a.txt",
+      "size_bytes": 26210,
+      "sha256": "8c16065a58b75a31164c47d91d1f2ee811a09fd60bf31b61501b9117b7d5e1e1"
+    },
+    {
+      "path": "research/phase4/sources/us/e5e64f972c675aeae0ca.source.json",
+      "size_bytes": 851,
+      "sha256": "6185d981b7ce1892d44f707c4970efbfc74f07b165bbe9ef20319102b0b7a4e0"
+    },
+    {
+      "path": "research/phase4/sources/us/788569c10a0ffd9c869e.txt",
+      "size_bytes": 11712,
+      "sha256": "35b878e01cd8e5ed3e02d4f8e3362f36112f2f3ee761b0eab7898ba237adbc51"
+    },
+    {
+      "path": "research/phase4/sources/us/2642b920cdfa9a189e2a.txt",
+      "size_bytes": 43133,
+      "sha256": "e7b7196a3d10ba377c80169b4878552ecda8e5826d2687ac6236efc685f7d6f4"
+    },
+    {
+      "path": "research/phase4/sources/us/49d89231a02c918ef688.html",
+      "size_bytes": 73317,
+      "sha256": "8064185d10e91e47772a5726d055da1b42b976383474a3b1be17c58cfd8414ad"
+    },
+    {
+      "path": "research/phase4/sources/us/3a8ec34203cf8d26d84a.html",
+      "size_bytes": 67570,
+      "sha256": "194353671133004bba23ee846748e48d07a8d6b9ca3840126bb897fa7207d470"
+    },
+    {
+      "path": "research/phase4/sources/us/548f0e9308fa222d63f3.html",
+      "size_bytes": 68432,
+      "sha256": "519ad93595d1a0f6d1fa52175d816f4915bcc740a27140543cd8ef10290d1bb9"
+    },
+    {
+      "path": "research/phase4/sources/us/2dc9bffc49f061afa9cc.source.json",
+      "size_bytes": 860,
+      "sha256": "5f0300d190d03d376ef2ff854e5eb136176a44049b6ba9b060561efac2dc62e2"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_bfa6ea1b54017dd3220c.pdf",
+      "size_bytes": 598636,
+      "sha256": "854de9e128b842cbf2eacb7d931d45bb4f0b8f1313e47ecca04f9fe2ddc8ce06"
+    },
+    {
+      "path": "research/phase4/sources/us/f47ae5004f63e58ef517.source.json",
+      "size_bytes": 840,
+      "sha256": "78c5369a69be0c5b273ec4d63e894259418f26efeba09c30c9e25a5a33cd4b88"
+    },
+    {
+      "path": "research/phase4/sources/us/f47ae5004f63e58ef517.html",
+      "size_bytes": 80384,
+      "sha256": "7cddc2ced5dfbbc60226735cd471fc92964d48fe6b28d8fbe08792eedc244aa0"
+    },
+    {
+      "path": "research/phase4/sources/us/6b04adddf20cf4832e10.txt",
+      "size_bytes": 10727,
+      "sha256": "54f8ff46ae52ec0049408979161a67b70be0be6d0462c9d9b26370cb41948e4e"
+    },
+    {
+      "path": "research/phase4/sources/us/bc1c56344aa36f06af90.txt",
+      "size_bytes": 3461,
+      "sha256": "c11613f68764e99e354575e24b021908ac61ffb4c7e711b059d4bd7c2a345f14"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_a41d6de32360ba88a678.source.json",
+      "size_bytes": 885,
+      "sha256": "cc2ffa39bfb3206a8411e05c1d6ce031f34584ca766720a4bf44b241d1357ad6"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_c595bf31e2b492850b18.source.json",
+      "size_bytes": 461,
+      "sha256": "dd34e956854af2ebbe6f0fe48b3a17d822e1660056a3478bb156e3317082cc1b"
+    },
+    {
+      "path": "research/phase4/sources/us/e596da9ef1a186f6391b.html",
+      "size_bytes": 299159,
+      "sha256": "d6a46e1a568d9864e949ff9c5e19c13011964c0dbb80afab0a40a9f8c6e78680"
+    },
+    {
+      "path": "research/phase4/sources/us/21066f6ff34682a2d033.txt",
+      "size_bytes": 8089,
+      "sha256": "8b2beb88dd1bdb4b49faae7bfa22cb987f9ba84ab459fb093c7f104604186a26"
+    },
+    {
+      "path": "research/phase4/sources/us/8879805e4bcc5c86b36b.html",
+      "size_bytes": 179470,
+      "sha256": "3924eaec2187c34b5b9eb114d31f0082f0f726370a3af17437e87bc5edbbcdf3"
+    },
+    {
+      "path": "research/phase4/sources/us/e5e64f972c675aeae0ca.txt",
+      "size_bytes": 9754,
+      "sha256": "f51aa5702d7f9e2fd3a4ba70db419c35f55944c4616e17fb97afea3bf53687ec"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_74f4c11db1636d1eafe3.source.json",
+      "size_bytes": 473,
+      "sha256": "091dbbcc3356f9f5d9c6a5a0c9e33acc98bda1c37fb119c92ab173cf6ec02d52"
+    },
+    {
+      "path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.html",
+      "size_bytes": 230117,
+      "sha256": "7cbd6e6d6977e4273945567fb40c347183b75ba4fd5a22c96bd2bab1c3b71b6c"
+    },
+    {
+      "path": "research/phase4/sources/us/2dc9bffc49f061afa9cc.txt",
+      "size_bytes": 63661,
+      "sha256": "bcb07aa4fb219614482eb0c5e614d9d4fdd1f9e6d271d40ad81b8659497d04b0"
+    },
+    {
+      "path": "research/phase4/sources/us/b2a47f6d9aec024be9a0.source.json",
+      "size_bytes": 866,
+      "sha256": "f54572205861a868e16e622048d7791ca85e9fb2206888ae55699446cd7e11e3"
+    },
+    {
+      "path": "research/phase4/sources/us/2642b920cdfa9a189e2a.html",
+      "size_bytes": 245522,
+      "sha256": "d9c05dbba649961bc93f3089a2e187d6da3c80b8360c5947e8d63ca50da192aa"
+    },
+    {
+      "path": "research/phase4/sources/us/3ce081b541f023f94c19.source.json",
+      "size_bytes": 486,
+      "sha256": "14e2ca8340e5306267876b2cd50c6608f254f4820dd3c2daa37d7d8abcf5ee90"
+    },
+    {
+      "path": "research/phase4/sources/us/dba8fcbae7ac39f9b6fc.txt",
+      "size_bytes": 9474,
+      "sha256": "bb64c1250713a2a83b776daafe5889c1e4a4311a95da10cdd0b189619a148ca9"
+    },
+    {
+      "path": "research/phase4/sources/us/b53df4cc27444e382fdc.html",
+      "size_bytes": 239121,
+      "sha256": "8e64748c2e3dcf1634c27f4b24c11b056e8b0d41d17cc46c540c2cda8a55347d"
+    },
+    {
+      "path": "research/phase4/sources/us/ee0978f67ade568e9dc6.txt",
+      "size_bytes": 5399,
+      "sha256": "4d920572ed6ec54e03abd15352f602359f44a5261dae5bfe8bc9a66f46f2ce33"
+    },
+    {
+      "path": "research/phase4/sources/us/549916faf3f7cd533a4f.html",
+      "size_bytes": 82374,
+      "sha256": "b3bf7ce37e2382d64586bdbc239dcbfbb927caefbecea81f663f737c911deea5"
+    },
+    {
+      "path": "research/phase4/sources/us/846819e9995d12fec1c7.html",
+      "size_bytes": 265209,
+      "sha256": "98e7fb3dfa2e9d070abf4882d834717c9b4d7f6ad7991dc64d9e30c0ff8f4af5"
+    },
+    {
+      "path": "research/phase4/sources/us/d0f57e93ede4728329f4.html",
+      "size_bytes": 68436,
+      "sha256": "23c3a04f5849c6545c0708f1dd66c05bcea67c7dc904749221b4974abc25887c"
+    },
+    {
+      "path": "research/phase4/sources/us/975bce0d2a4ef21087e6.html",
+      "size_bytes": 66568,
+      "sha256": "358d5bacd23d0d5b016066f6c724a4bb01071de994a8e6c8862effbf0cf7de9f"
+    },
+    {
+      "path": "research/phase4/sources/us/8879805e4bcc5c86b36b.source.json",
+      "size_bytes": 827,
+      "sha256": "1278743628dcfe48d24d0e136964189840a8ea942d0a2b1022a70959959053e1"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_8d2b51ad151f42fb72d6.pdf",
+      "size_bytes": 585420,
+      "sha256": "df8dd7d44939e5cc2c86b74fb129c2afaef2fbf8e91b35adddaa71a51b4ba8bc"
+    },
+    {
+      "path": "research/phase4/sources/us/c350b64e2114cd2a18c8.html",
+      "size_bytes": 580627,
+      "sha256": "f38abc0b657400e7a50458f26ea1d9ef79eda2c3f068289a0b6e1ee28ac050c4"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.source.json",
+      "size_bytes": 885,
+      "sha256": "97ce5383afdc669091bc2aa76169d7d9388188e837b91067ccb3efb13415472f"
+    },
+    {
+      "path": "research/phase4/sources/us/d2b9e828479ae581146f.txt",
+      "size_bytes": 10679,
+      "sha256": "3789a9173c2d03344b9c8644f08493936748409bcf5a34ab08d8abd3fa46ec1e"
+    },
+    {
+      "path": "research/phase4/sources/us/d44c01a937142042ee71.txt",
+      "size_bytes": 3679,
+      "sha256": "5aa684e48bf1de9cb1d9627c221a59baa0676ec1db4a65de4ed0ed447b65c344"
+    },
+    {
+      "path": "research/phase4/sources/us/86659082f842adbb47a4.txt",
+      "size_bytes": 31240,
+      "sha256": "d1a7336e295c6d69544e66489fa426543e07a2e147ed19b1fa62b411db68a522"
+    },
+    {
+      "path": "research/phase4/sources/us/24fa8491e8be361707df.txt",
+      "size_bytes": 5534,
+      "sha256": "3e1ee7435717e3925cb010da77ee3ba2916334b47cace06c8d596e9bade9df09"
+    },
+    {
+      "path": "research/phase4/sources/us/0a73bcbae7eb9863eb2f.txt",
+      "size_bytes": 9670,
+      "sha256": "a181ea69906016b3744fae54a10ab9b0a3d1192ae0381919af45756c2c99ecde"
+    },
+    {
+      "path": "research/phase4/sources/us/65762925ec8286339d01.html",
+      "size_bytes": 85176,
+      "sha256": "3c2be038ba7b7d8675d8c53111514cb4e7ee317d948d4e1659e8fafe78a04805"
+    },
+    {
+      "path": "research/phase4/sources/us/d44c01a937142042ee71.source.json",
+      "size_bytes": 849,
+      "sha256": "717b7b73865629533ca0b659dd82fee6ce795f1d11a389ef7e7c426df986dfb4"
+    },
+    {
+      "path": "research/phase4/sources/us/86659082f842adbb47a4.source.json",
+      "size_bytes": 827,
+      "sha256": "ed2fb077c37d4eaf79b60413176d14fb901d26b62d0f34e067e4d0ec06737a3f"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_76687896799b3a1ba34d.pdf",
+      "size_bytes": 1478258,
+      "sha256": "baf076bcaa61e03a688ed162d84fa4324867bf98153fa75ad62830f5c700bf1d"
+    },
+    {
+      "path": "research/phase4/sources/us/6b04adddf20cf4832e10.html",
+      "size_bytes": 81546,
+      "sha256": "84292deac783dabbf95e7b9b207165fffef46b3d74f54972e1f4b7c82a34369f"
+    },
+    {
+      "path": "research/phase4/sources/us/975bce0d2a4ef21087e6.source.json",
+      "size_bytes": 849,
+      "sha256": "9ca17282ccf61cd931a54cbd44a8d5e4b53175828f3ba4cd9d9b17f9f894e89a"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_050e8d198a70e4700607.source.json",
+      "size_bytes": 867,
+      "sha256": "c285122ea85f985e254d9c15768d6b0a9259a59daf0271214a6f3095fdfeee9c"
+    },
+    {
+      "path": "research/phase4/sources/us/846819e9995d12fec1c7.txt",
+      "size_bytes": 40488,
+      "sha256": "fed4f27523166d4300aed758ae76444f5e47a3a71a44e89c22ee071948856892"
+    },
+    {
+      "path": "research/phase4/sources/us/b6c30dac434723d4d08f.source.json",
+      "size_bytes": 478,
+      "sha256": "d7bac51710891a8126cc9d0329b678fd177b3e166ad00cc087d2fe013c36b279"
+    },
+    {
+      "path": "research/phase4/sources/us/165befb696f2aa216f8d.txt",
+      "size_bytes": 35219,
+      "sha256": "5014fb2fd2a77847ef3fdf23e386cd1b12e90443a131549b883f1e3ae84f194e"
+    },
+    {
+      "path": "research/phase4/sources/us/8e42dfd09e371a158290.source.json",
+      "size_bytes": 805,
+      "sha256": "2c0494dfa4a743479b77a55b4025b289e6418f2678732fe0514ffc1261f39155"
+    },
+    {
+      "path": "research/phase4/sources/us/62c3d5637662bd496bb3.txt",
+      "size_bytes": 17041,
+      "sha256": "16ca159f32b1869c6636e817f389d5631948557cc4cbe901e08de4a47964a285"
+    },
+    {
+      "path": "research/phase4/sources/us/6b04adddf20cf4832e10.source.json",
+      "size_bytes": 834,
+      "sha256": "21607f596ed1bf3178cd4fd3b8ef0f2b3e9132efb9cef7895f89c10df8ab871e"
+    },
+    {
+      "path": "research/phase4/sources/us/c82c99f4c312944b050c.source.json",
+      "size_bytes": 827,
+      "sha256": "70e6d67d3e68bea1922b1e5f07b2435968c1caaa75937f782f7fe59e164b8219"
+    },
+    {
+      "path": "research/phase4/sources/us/39ff2296b1dcaeaeac70.html",
+      "size_bytes": 261626,
+      "sha256": "18c1c7af505b7973bca16e2dd29ccb3972c89bedb2833ae4f436ce81a77b2bb1"
+    },
+    {
+      "path": "research/phase4/sources/us/8ca6daef267ce0cbc20b.html",
+      "size_bytes": 551563,
+      "sha256": "c969ceba33551e1f92e7171d28a36e22aefe36fd379b6a957d083625de2b4ac3"
+    },
+    {
+      "path": "research/phase4/sources/us/f0cdfa3fadaf0f770964.html",
+      "size_bytes": 70935,
+      "sha256": "dcf51f40fc92be680afb1bf60f8eb6fee919486700aaf256092123005175a301"
+    },
+    {
+      "path": "research/phase4/sources/us/a9795d68c1421323f463.txt",
+      "size_bytes": 3461,
+      "sha256": "c11613f68764e99e354575e24b021908ac61ffb4c7e711b059d4bd7c2a345f14"
+    },
+    {
+      "path": "research/phase4/sources/us/fcabd7d9e7267f173eab.source.json",
+      "size_bytes": 849,
+      "sha256": "62b85d50515ca225bd80c4ce057348882bc61dad0f9f3d399bf4d2c77b357a04"
+    },
+    {
+      "path": "research/phase4/sources/us/25a2a99a5fe49b99586f.txt",
+      "size_bytes": 3567,
+      "sha256": "31630068d9f74395a081427ba88cbe31fc9167850ea4e2f5e73145e765f5cefa"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_a41d6de32360ba88a678.pdf",
+      "size_bytes": 545176,
+      "sha256": "69a94c537c76fa97460479b037df818806b68c8a0dc7c2e7506e6e9e9e30237e"
+    },
+    {
+      "path": "research/phase4/sources/us/49d89231a02c918ef688.source.json",
+      "size_bytes": 796,
+      "sha256": "5a0dc518b521e14f944f28379d185cf2d21d168633debf7b00752e1e845ae368"
+    },
+    {
+      "path": "research/phase4/sources/us/408b104437da6844073f.html",
+      "size_bytes": 82708,
+      "sha256": "ddfda6453eaeb31d21adaf94ca9a5abf9e28fb4f148bafe78d10ffa07af96914"
+    },
+    {
+      "path": "research/phase4/sources/us/2dc9bffc49f061afa9cc.html",
+      "size_bytes": 147035,
+      "sha256": "8987bb0b302f39037483f9ec9fae9b1ab72d499caa698f00a4db52c81c9fae6d"
+    },
+    {
+      "path": "research/phase4/sources/us/9d1a48f6fe3634bf9a81.source.json",
+      "size_bytes": 555,
+      "sha256": "d1759696ecee0f2e5e6879189bee5b957c55d26ef108a0d65a5ced46dc3d408b"
+    },
+    {
+      "path": "research/phase4/sources/us/fdd63fe96316b522f85f.txt",
+      "size_bytes": 9507,
+      "sha256": "f71077e555fd861fdfb085a05afe897b8584ad90a9dc735496c006cb2fc679ab"
+    },
+    {
+      "path": "research/phase4/sources/us/ab101f452bb20f472b19.txt",
+      "size_bytes": 3587,
+      "sha256": "06ff5a2e031eb738bc9ac0868c9a640ffe93cb91c23e6050b5bc9764f100649f"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_76687896799b3a1ba34d.source.json",
+      "size_bytes": 846,
+      "sha256": "fff38b92fce6c5a32f27eb54a83a61a6b7921c9f7293c66f74fe5b3707bb778d"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_1883caebca2cba37df70.pdf",
+      "size_bytes": 2056762,
+      "sha256": "09a36af4af43d94c850c8cf7bb743353b98cad95c41a2089ddaddc0213db9004"
+    },
+    {
+      "path": "research/phase4/sources/us/dba8fcbae7ac39f9b6fc.html",
+      "size_bytes": 80354,
+      "sha256": "c2b1eb4f97d15ed358607b12e8f8d6bb130664344820e92ae2d6dfbe5492f072"
+    },
+    {
+      "path": "research/phase4/sources/us/6604879df9d06531e8ea.html",
+      "size_bytes": 67536,
+      "sha256": "2150c3de74bab4d78166df802ca96cae306ecf83cf40d56859e9044aead7a49f"
+    },
+    {
+      "path": "research/phase4/sources/us/43e2825f0b4c68ce8a24.html",
+      "size_bytes": 82858,
+      "sha256": "ede0610433d7444f6583857a3ef2a9a2359c0a137c195148a63ad9d9a22a1c08"
+    },
+    {
+      "path": "research/phase4/sources/us/fe113f1598900eb0178b.txt",
+      "size_bytes": 10170,
+      "sha256": "9f39bab89908397cacd2f5879b5b4f05c79639745c3b2ed5e26714d23fbe9413"
+    },
+    {
+      "path": "research/phase4/sources/us/0850d09f28777d142e2f.html",
+      "size_bytes": 84398,
+      "sha256": "d3d6de0b187a09185eee2fa4bc3e82d889fed5a0f0ad2c47cd937aca64c93ac1"
+    },
+    {
+      "path": "research/phase4/sources/us/e596da9ef1a186f6391b.source.json",
+      "size_bytes": 845,
+      "sha256": "a592baa11b8f6172106804286a97b03e972ca5f723696e802ba0a73fcf144477"
+    },
+    {
+      "path": "research/phase4/sources/us/b05c0b4232c01d8dc596.html",
+      "size_bytes": 363259,
+      "sha256": "42d8becd666d37791aa2b61e049d45ec27d163e1c5427d679d8df60506429126"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_212803af985db52b9829.source.json",
+      "size_bytes": 473,
+      "sha256": "6adc9454692c472a53beeb5194e784cf07bd092077a91ea1a4be8e74d6eaf969"
+    },
+    {
+      "path": "research/phase4/sources/us/2e90cb6f565aa87817b0.source.json",
+      "size_bytes": 821,
+      "sha256": "26be85de0960920b7a15a2c50f6f4b57d5d6e0c9017bbec3096aba2e66a2afa5"
+    },
+    {
+      "path": "research/phase4/sources/us/a74c40e4c51eaeaada89.txt",
+      "size_bytes": 6006,
+      "sha256": "a13ac44cd96d16f48b184c2de9b30f1d57e4cbdd7933b195cef9ec7d3caec317"
+    },
+    {
+      "path": "research/phase4/sources/us/7403691da98a48d474ab.html",
+      "size_bytes": 249970,
+      "sha256": "203f0e3f92dd646c11a4523e9298101f8d24e7d7126d651181c1c049ddb14c58"
+    },
+    {
+      "path": "research/phase4/sources/us/49d89231a02c918ef688.txt",
+      "size_bytes": 9014,
+      "sha256": "22acfd1f13d13d352f68d93586dc2427e587aa80f2da6059c79741a95624a514"
+    },
+    {
+      "path": "research/phase4/sources/us/86659082f842adbb47a4.html",
+      "size_bytes": 190572,
+      "sha256": "9f05eddb78bbb3346847a3d309a61fa1b142b544d7ce6bc4822b10cf447ba42c"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_7d1d7f5d59d4185d9c5d.source.json",
+      "size_bytes": 468,
+      "sha256": "c4eec745477d0eb887b29bc5f0fc386f2f477e21c0df128ad8d97b09f616ff9b"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_050e8d198a70e4700607.pdf",
+      "size_bytes": 916278,
+      "sha256": "66b42fd25e4cab55797eca9c662e6fdf8eb6a6a480112fe17756efc3dfa0f28e"
+    },
+    {
+      "path": "research/phase4/sources/us/b04cdb35233e2f1dfff4.txt",
+      "size_bytes": 9662,
+      "sha256": "07736c33bc7773879ebbe30511c8b35a66d2513a30dfceb8e3edb7869cbdf464"
+    },
+    {
+      "path": "research/phase4/sources/us/21066f6ff34682a2d033.html",
+      "size_bytes": 88019,
+      "sha256": "550ea1f0a43d58549ef931343c731ece485f450f883606e3017d95fd15865706"
+    },
+    {
+      "path": "research/phase4/sources/us/6202e5c55c6e56aa35b9.source.json",
+      "size_bytes": 866,
+      "sha256": "7b87c60806d9f4613cbe8fa201e4074a61559595352916af9a55d793a1477099"
+    },
+    {
+      "path": "research/phase4/sources/us/26dc42c30af7212ee08e.html",
+      "size_bytes": 173350,
+      "sha256": "4e966aac27cfda3df845c661b131a4d84ae2233416761f9ba451a51943551d62"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_74f4c11db1636d1eafe3.pdf",
+      "size_bytes": 297358,
+      "sha256": "1511d6b15abb216c2401bdf40806d1d16d20837717e836937af59e5125e8bc07"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_378eaf0e6f085738105f.pdf",
+      "size_bytes": 392132,
+      "sha256": "dbab6d869c1428f92e9a47b6f5bd53f7639b06fcfaedd44eca537d680c46332e"
+    },
+    {
+      "path": "research/phase4/sources/us/0fd4e0c80aff84673446.txt",
+      "size_bytes": 9687,
+      "sha256": "409a296b718f15afa89752f18bacd5633810ec844ca895c8520f68ba8016dcb0"
+    },
+    {
+      "path": "research/phase4/sources/us/46b3e2c272f89aca3924.html",
+      "size_bytes": 265643,
+      "sha256": "5ed7175b51bddbde76720d91d9fe22e63a7eca48b78b1e54803a843df6ee944d"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_bce29ee94a9acecd4f1b.pdf",
+      "size_bytes": 426410,
+      "sha256": "ea19bd96e41f72f80eccf63da8eb0346ea128fb25f2e25ac362dfdf8a723aff8"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_6a6fc911a0d35998be0a.pdf",
+      "size_bytes": 564633,
+      "sha256": "cbfa9a5a1095b9ef8fc305aebd1bcecbe57cf94024c0510a73e6ad8612a9f73d"
+    },
+    {
+      "path": "research/phase4/sources/us/788569c10a0ffd9c869e.source.json",
+      "size_bytes": 834,
+      "sha256": "d0fab184eb2dd986e5781620e010c5c9493ccf7c15c64baab33f43c315439d67"
+    },
+    {
+      "path": "research/phase4/sources/us/c350b64e2114cd2a18c8.source.json",
+      "size_bytes": 866,
+      "sha256": "abc35d26964b19dc4efb8970a722d276eabef8b6111348948cfd73e5a02ab424"
+    },
+    {
+      "path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.html",
+      "size_bytes": 233753,
+      "sha256": "66f6ff1d50b8e831621e7a2a9432fd200069a483c54e70265d071f9ec8ed9bb1"
+    },
+    {
+      "path": "research/phase4/sources/us/b04cdb35233e2f1dfff4.source.json",
+      "size_bytes": 840,
+      "sha256": "168c5e8e14ec0e63273574e28a80cf2cd0fe3b7d5a7fc023826ed6e1ae905814"
+    },
+    {
+      "path": "research/phase4/sources/us/431d7ceef234fd5a9fe7.html",
+      "size_bytes": 66566,
+      "sha256": "502725f574a5ad571fbebc8c31531d6eb179016e676eec5f2d6fbff9bdac5d8b"
+    },
+    {
+      "path": "research/phase4/sources/us/e5e64f972c675aeae0ca.html",
+      "size_bytes": 83342,
+      "sha256": "45f2b80a1c986aae2dd635958daa06fefe8ab4df3e87a6c9b5c73eef93379834"
+    },
+    {
+      "path": "research/phase4/sources/us/846819e9995d12fec1c7.source.json",
+      "size_bytes": 839,
+      "sha256": "e4dd05b7fa621d220d1ed90717d571be6b66eab44dae419aef69647ff8d518b0"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_efca91c84b84891dd983.source.json",
+      "size_bytes": 473,
+      "sha256": "39f785c9592995356679d3ffb495d33fb28e04def122f339b29422372312f8bd"
+    },
+    {
+      "path": "research/phase4/sources/us/c82c99f4c312944b050c.html",
+      "size_bytes": 235038,
+      "sha256": "af227c8fb23b85223a7881dd167f53da8d14b4102f1ab250917fd05035f75ead"
+    },
+    {
+      "path": "research/phase4/sources/us/e482c6b523d48deb076a.html",
+      "size_bytes": 704916,
+      "sha256": "499cd4883563b1ba5bd98fcd446765fbd5f58784b9b204ccd341a6a354353266"
+    },
+    {
+      "path": "research/phase4/sources/us/4cd9a57cab787176fa9b.txt",
+      "size_bytes": 20080,
+      "sha256": "c180fcf4df0c70f9595974a7d01dc01780931b46903bafb5b87ce1fe0204f5e1"
+    },
+    {
+      "path": "research/phase4/sources/us/936a15e4132ed8c6499d.html",
+      "size_bytes": 67596,
+      "sha256": "ebd4c6acf37d1aaa775be1a6dc6871f3b7a91296ed1d46ab5c9c28110f3aa904"
+    },
+    {
+      "path": "research/phase4/sources/us/5058f00c35c1eaab1ed1.txt",
+      "size_bytes": 9537,
+      "sha256": "c9134b53bdff18930386aef4894d0a8e6f75c0582091e6d1c9589c1f538819c6"
+    },
+    {
+      "path": "research/phase4/sources/us/b05c0b4232c01d8dc596.source.json",
+      "size_bytes": 821,
+      "sha256": "3634a08e5006ae8ab2776b9d1c12b5e8ac4c7d94a85d40cffd430fadf2f06710"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_532f1a86ad593c158094.source.json",
+      "size_bytes": 473,
+      "sha256": "3436cf996c8d44873ce5887630bb349ff43c76a86052c053a2391e385f9bd854"
+    },
+    {
+      "path": "research/phase4/sources/us/2a683919620878001c30.html",
+      "size_bytes": 69717,
+      "sha256": "6c0043aa2a3d6ffd54cf6fa3935264ea7609434599853485506f493fcb0a5583"
+    },
+    {
+      "path": "research/phase4/sources/us/25a2a99a5fe49b99586f.html",
+      "size_bytes": 67478,
+      "sha256": "76af52a72daa32fa30a117fd8069e59884dfeba51698d07dace4624e81a32800"
+    },
+    {
+      "path": "research/phase4/sources/us/39ff2296b1dcaeaeac70.txt",
+      "size_bytes": 175011,
+      "sha256": "83ccc007f7a4808da18f96bd74060acf992d297987004a38ac1f0de55d1fc37a"
+    },
+    {
+      "path": "research/phase4/sources/us/40c56ac57e23969c257e.txt",
+      "size_bytes": 6360019,
+      "sha256": "4f15cc8817e37bdecb734e9ec204d0624a24673b8d8b102bdebb5d2336f4e3bd"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_efca91c84b84891dd983.pdf",
+      "size_bytes": 371804,
+      "sha256": "4fba53ec176da193e65786a50e73d91368c5feaef44762da47977c406d3162d2"
+    },
+    {
+      "path": "research/phase4/sources/us/21066f6ff34682a2d033.source.json",
+      "size_bytes": 880,
+      "sha256": "2466d60ff91f8d3cecf5bb9ed4db7dc53bf787d34453389f93f2f89de00ea614"
+    },
+    {
+      "path": "research/phase4/sources/us/40c56ac57e23969c257e.source.json",
+      "size_bytes": 889,
+      "sha256": "40bc8cfe0cb3215c4e221f436c5a861f9acdfb45df50a15e6294811209388071"
+    },
+    {
+      "path": "research/phase4/sources/us/bbe773a6b871fd7603cb.html",
+      "size_bytes": 186529,
+      "sha256": "7eac4d23a671c4c81d5c0b97ba761a7722ba0dc066ab6b30e5ecf53ad7930393"
+    },
+    {
+      "path": "research/phase4/sources/us/9fe0d364b05234a7d4b3.source.json",
+      "size_bytes": 827,
+      "sha256": "d49bad283f676f6d7ab08973a533fe740daa26c7326ac8e2afdc6b6c183ed962"
+    },
+    {
+      "path": "research/phase4/sources/us/975bce0d2a4ef21087e6.txt",
+      "size_bytes": 3461,
+      "sha256": "c11613f68764e99e354575e24b021908ac61ffb4c7e711b059d4bd7c2a345f14"
+    },
+    {
+      "path": "research/phase4/sources/us/06a5db7d8553bc62d0d9.txt",
+      "size_bytes": 48674,
+      "sha256": "2f3f0ab46d0c021244e68b7f6e2667776d27efd30813f173f80888d4c9f1c524"
+    },
+    {
+      "path": "research/phase4/sources/us/62e8f492725d527b44e7.html",
+      "size_bytes": 81594,
+      "sha256": "837390b783bc1cd4a7950459520fa3c163e309c73d5bcf9c8e83701fa6dfa043"
+    },
+    {
+      "path": "research/phase4/sources/us/f47ae5004f63e58ef517.txt",
+      "size_bytes": 9622,
+      "sha256": "075487cd6e8b9ef190745834142137c63007eef0ab2d7b5ac5173a790c3a02fc"
+    },
+    {
+      "path": "research/phase4/sources/us/b1225f0159ffe8481f43.txt",
+      "size_bytes": 26728,
+      "sha256": "28d0e26ac2aeff50b077c4ddc7af6807ee12875c7703e3cc3248fd5472068148"
+    },
+    {
+      "path": "research/phase4/sources/us/3a8ec34203cf8d26d84a.source.json",
+      "size_bytes": 849,
+      "sha256": "252bea55fc685dc6bf2ef1151349744a09d47012e23261fa45797f1f354934a4"
+    },
+    {
+      "path": "research/phase4/sources/us/62e8f492725d527b44e7.txt",
+      "size_bytes": 10187,
+      "sha256": "0ed953d16940c7ed314c2d2b0e69624eee7f167d64dd379d9773ddc28adff19e"
+    },
+    {
+      "path": "research/phase4/sources/us/fe113f1598900eb0178b.html",
+      "size_bytes": 80970,
+      "sha256": "cf7fe7804209a58be0ab365da79590bc5961a8bc6631ea95e9d70445d437ce23"
+    },
+    {
+      "path": "research/phase4/sources/us/353d3d5fe3b41ca5890b.txt",
+      "size_bytes": 51274,
+      "sha256": "2c4059ca0043b893b894b44f7975c72d86c5267568aab8d72c68e7d3fcc1eaf5"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_0b29adadf72159c8067a.source.json",
+      "size_bytes": 867,
+      "sha256": "d3436d10fd1decdc746fe2c41a5c59447589386a72111423cc97b17ae4f60384"
+    },
+    {
+      "path": "research/phase4/sources/us/2e90cb6f565aa87817b0.txt",
+      "size_bytes": 51494,
+      "sha256": "6f59511080da8f75554549dbad7f92abe2b22572ff6f50b7f77b506b8daef2e7"
+    },
+    {
+      "path": "research/phase4/sources/us/160d2bebb478a07f5aec.source.json",
+      "size_bytes": 840,
+      "sha256": "86e4f028869b98e7e742c94f969088cb65baa60d7ecba1a073789e784300cd7f"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_8d2b51ad151f42fb72d6.source.json",
+      "size_bytes": 468,
+      "sha256": "f0d0b5250004d388b90706786eca02b1eb3b0e8ac2ca783f14b134fd651b1d16"
+    },
+    {
+      "path": "research/phase4/sources/us/8879805e4bcc5c86b36b.txt",
+      "size_bytes": 28727,
+      "sha256": "fab534cb041f39da3f4c0884d8a77e6822540e36f040f9728bbd1be4ad441633"
+    },
+    {
+      "path": "research/phase4/sources/us/8ca6daef267ce0cbc20b.source.json",
+      "size_bytes": 792,
+      "sha256": "651855115320ac34707c8fff35eb014a462d81087437258627e4507c2de6a77b"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_f40ba3907bea794e978d.pdf",
+      "size_bytes": 594130,
+      "sha256": "86ed77792e5e05dc3144f99d63eb72bebbd35fb71143b3d8e45419e742bafcc4"
+    },
+    {
+      "path": "research/phase4/sources/us/b5b36ee5cf2e262403d4.txt",
+      "size_bytes": 37972,
+      "sha256": "5cd6e47df4912264216caf28b9bb1e24bae3bf93d03b2cf4fc57ca034a4a08e9"
+    },
+    {
+      "path": "research/phase4/sources/us/1948c42c2a75261aa322.source.json",
+      "size_bytes": 866,
+      "sha256": "b40e32ad0b595e0181703c0594f317c908fc04282a6e752f57dda5b049800178"
+    },
+    {
+      "path": "research/phase4/sources/us/46b3e2c272f89aca3924.source.json",
+      "size_bytes": 821,
+      "sha256": "a4dccb8c9949bf7b09a4548ece66edb2674f356663186ade43a65bab24b5c891"
+    },
+    {
+      "path": "research/phase4/sources/us/6202e5c55c6e56aa35b9.html",
+      "size_bytes": 575603,
+      "sha256": "ee2dc225b58505597cda5a9c97b5ef66d9f298336654f14774de65960c97c0cd"
+    },
+    {
+      "path": "research/phase4/sources/us/3e2d9ce6b49b34eb22ab.txt",
+      "size_bytes": 3461,
+      "sha256": "c11613f68764e99e354575e24b021908ac61ffb4c7e711b059d4bd7c2a345f14"
+    },
+    {
+      "path": "research/phase4/sources/us/763bc4965ec3566b1902.source.json",
+      "size_bytes": 840,
+      "sha256": "6940a4cd26419ab522b756d6a7d7a718a3a4b4fbcc1c570ecc2fe3061f61d188"
+    },
+    {
+      "path": "research/phase4/sources/us/fdd63fe96316b522f85f.html",
+      "size_bytes": 80415,
+      "sha256": "88604f7bc7444c73fb9f9235f8ba38f3f8f0866e551ee911e9eaca402b77d86e"
+    },
+    {
+      "path": "research/phase4/sources/us/fcabd7d9e7267f173eab.html",
+      "size_bytes": 67523,
+      "sha256": "ab273ddc71cecefc13058893fdd0761b1ab4b551493ff287ae720ee789b41fdb"
+    },
+    {
+      "path": "research/phase4/sources/us/165befb696f2aa216f8d.html",
+      "size_bytes": 598659,
+      "sha256": "31f4761cf31067656c6c48516713a1c2b081e385d68705c4b4bb5d07f3f4581b"
+    },
+    {
+      "path": "research/phase4/sources/us/225048c4abb9c98e5d10.html",
+      "size_bytes": 650287,
+      "sha256": "e0ee0a6d509de7a38ecd2f12a6f9327ddb5e28397cd08bb9a051c68c4da9697f"
+    },
+    {
+      "path": "research/phase4/sources/us/140bfe730f6d7088f2f5.source.json",
+      "size_bytes": 840,
+      "sha256": "4cc05884fcce58091e71c59b846d09f7a6770f709cc35d5f8258f2360079566e"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_f40ba3907bea794e978d.source.json",
+      "size_bytes": 867,
+      "sha256": "faa18fd71794504a7f86384cc8181b5f87f9a7194b0988dba72dab2c7bb9e096"
+    },
+    {
+      "path": "research/phase4/sources/us/788569c10a0ffd9c869e.html",
+      "size_bytes": 84292,
+      "sha256": "ca05015218ef18ed42759708c258b6d3de9dd0a646207ebbe2f80a23681b66d5"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_2650be9aaf222d591878.pdf",
+      "size_bytes": 446986,
+      "sha256": "22b877ab501a9852c4e039f6d7d9b43dcde686ef24878f520e9d7cde05b2849f"
+    },
+    {
+      "path": "research/phase4/sources/us/25a2a99a5fe49b99586f.source.json",
+      "size_bytes": 849,
+      "sha256": "9d6cf674996a044b7e672ea9eb7d2257fd1e462e35bb99234ccc66fbe6ff11a2"
+    },
+    {
+      "path": "research/phase4/sources/us/dba8fcbae7ac39f9b6fc.source.json",
+      "size_bytes": 840,
+      "sha256": "b2e43061e92006f222637cf5931ea537f45e1a1d6a62078631ec95fd119059b9"
+    },
+    {
+      "path": "research/phase4/sources/us/eb8fcdbdb8926223e20a.source.json",
+      "size_bytes": 827,
+      "sha256": "a5f0f260ab41e475dc58c75885fd925aac61c3a4cc2e91b0e2baf64d71510f66"
+    },
+    {
+      "path": "research/phase4/sources/us/b05c0b4232c01d8dc596.txt",
+      "size_bytes": 49276,
+      "sha256": "810d8bf843793f382f39b85233d0bf5a5fddc87db0b0c91e8938e914cf419d69"
+    },
+    {
+      "path": "research/phase4/sources/us/8813e340d76cec428a3e.txt",
+      "size_bytes": 9659,
+      "sha256": "96814ee136f321ddc9ae27b666d1bb18dcc7aa338bf00772fb9e0c34155aefb4"
+    },
+    {
+      "path": "research/phase4/sources/us/2a683919620878001c30.source.json",
+      "size_bytes": 849,
+      "sha256": "14777775df4f738d98a15a53c7a862d4547365a7d88510523e5a75e62e9dcc09"
+    },
+    {
+      "path": "research/phase4/sources/us/43e2825f0b4c68ce8a24.txt",
+      "size_bytes": 11232,
+      "sha256": "00a7a868714a6db3e54d2b554c57f85cae4c87617bbc8031c6a0cf5d5492e5b3"
+    },
+    {
+      "path": "research/phase4/sources/us/6ea7fadcf2af3dac120d.source.json",
+      "size_bytes": 849,
+      "sha256": "c4ed71add4d37fcf9143ccd3784eb8a5428e2b0c5aad0eb11133057e9e7a7ff6"
+    },
+    {
+      "path": "research/phase4/sources/us/7b9106b17e9f3bf91a78.html",
+      "size_bytes": 533459,
+      "sha256": "004be5e9e46135eb2bf50320baca61a2a3643122c06c2d6db761ec9286c14b46"
+    },
+    {
+      "path": "research/phase4/sources/us/bc1c56344aa36f06af90.source.json",
+      "size_bytes": 849,
+      "sha256": "160b950dbc83beef66cc53f0a32fbfce6d9711bdc4b717dddc4f90ccb763156e"
+    },
+    {
+      "path": "research/phase4/sources/us/ab101f452bb20f472b19.source.json",
+      "size_bytes": 849,
+      "sha256": "ffff88f5aa99b548f590bc73e75d8ade604783035e760ed49cba475c915ceef9"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_6a9eafcf8d09aa9c2f40.source.json",
+      "size_bytes": 473,
+      "sha256": "eefd7afb46a430052f16a4fc222f1d5a1e856c8ce012b51d1bc282e142197ec3"
+    },
+    {
+      "path": "research/phase4/sources/us/ab101f452bb20f472b19.html",
+      "size_bytes": 67499,
+      "sha256": "eeeeb11d3dc77765df1f22b1914ab4229e50818c202471b33491d8b756a4bffa"
+    },
+    {
+      "path": "research/phase4/sources/us/2a683919620878001c30.txt",
+      "size_bytes": 3802,
+      "sha256": "c092c22dce868cd9589d5a5c92ca90362f9603097b7b69af520245b0063774ea"
+    },
+    {
+      "path": "research/phase4/sources/us/US_SOURCE_c595bf31e2b492850b18.pdf",
+      "size_bytes": 668477,
+      "sha256": "93ff66456192772202c1536b14a5c6d42e9a2107fcedc9751de466524606d156"
+    },
+    {
+      "path": "research/phase4/sources/us/0a73bcbae7eb9863eb2f.html",
+      "size_bytes": 80660,
+      "sha256": "adcd7ec7263840bd8faefda0dfd9f726e14fa5fafb5528de6e32076184ec2a27"
+    },
+    {
+      "path": "research/phase4/sources/us/65762925ec8286339d01.source.json",
+      "size_bytes": 834,
+      "sha256": "e9bb4b2fc9783fa1c2c2b6bae954b70cd343d5c0668b59400914590ac9388a80"
+    },
+    {
+      "path": "research/phase4/sources/us/3e2d9ce6b49b34eb22ab.html",
+      "size_bytes": 66566,
+      "sha256": "b6700a71b6f69b47d48aaeb4398fba7df18045071e87788abe325925321db8c5"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2017.html",
+      "size_bytes": 37734,
+      "sha256": "ebeb187c762f0a322d87722fddcbce5dfd04c93877be382786449ccf0e80a4ae"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2014.html",
+      "size_bytes": 39292,
+      "sha256": "6d2b2bfe762b2898468c378e9f05f1352b1c71d5824c80e6daf2779d280973a2"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_governance_catalog.html",
+      "size_bytes": 34554,
+      "sha256": "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_05.pdf",
+      "size_bytes": 141921,
+      "sha256": "e8573298be019219c42470935c8b6a98718e4dda46611e34e3b5d1ecfdfdcdfb"
+    },
+    {
+      "path": "research/phase4/sources/japan/probe_1.pdf",
+      "size_bytes": 181088,
+      "sha256": "621fbb9fa3d8c973a90bbf2fe1b90ae3c6c40c06bc95c2f7a63d0e271b6a2be9"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_016.pdf",
+      "size_bytes": 1074514,
+      "sha256": "981eb1dd20bfa76a811cf41b524d862dbc1f606f78a742b8f8fc698556fe398d"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_03.pdf",
+      "size_bytes": 141851,
+      "sha256": "63213b6e27c4b987aebcb2af8e11dd02f241039ee361d4794b34295eb50564d2"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_008.txt",
+      "size_bytes": 8393,
+      "sha256": "e1488fe801cb6e8ee72caca214a25674f862bcd5c3ce5da1bf3cd0f6b0010e09"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_014.txt",
+      "size_bytes": 13863,
+      "sha256": "7c8ecae1c3a2d7e27e053c83d9138a569752d9c10c438322aea51be039ba9bc5"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_028.pdf",
+      "size_bytes": 68096,
+      "sha256": "7d3ade9cf98ee3087a1491aadad340c7759095e2232a6699d39ae54e53f8676d"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_08.pdf",
+      "size_bytes": 284743,
+      "sha256": "30d1b537e65e1ae52f0837404bac2009448c75c766978c8307125635909d7ff4"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2025.html",
+      "size_bytes": 38511,
+      "sha256": "0fcd98b2f17f96fc5754c0fcde00c204910ecba266a37eef1c29abf1b5238ecc"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2008.html",
+      "size_bytes": 40449,
+      "sha256": "cd2c2996f23d70570ec89be0df9c82512d0e4b2ba86b3a9154c0ed1436b99d5f"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_003.txt",
+      "size_bytes": 5023,
+      "sha256": "8fc7344de4d1e41c2dee1433835aa95085eb062c079c4927109f328b9b9bf666"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_002.pdf",
+      "size_bytes": 84178,
+      "sha256": "96a7ad62401ca09a77c702a81c8df7cba6860f5dbc4432163535dd8661a5159d"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_001.pdf",
+      "size_bytes": 69599,
+      "sha256": "4b0170afbfe6de0254b64407342de2e73cb03a0c52e4afb17b651ea26be43fc2"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_2024_exit.txt",
+      "size_bytes": 11996,
+      "sha256": "1e19129a5cf50e020dd0d19255e4b99978b6986269d4fcbb15dd4017dfc6c350"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_025.txt",
+      "size_bytes": 2834,
+      "sha256": "06664451fcc219924c2b2e0710fb524c8d25c661fec5a109ea2b41c9aef0cc3e"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_014.pdf",
+      "size_bytes": 549186,
+      "sha256": "f1d3f853df9ce96cb77202c45825446159369d14083798faadefd31e336119be"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_10.txt",
+      "size_bytes": 44015,
+      "sha256": "43a1dfaebc49348d99845805008178dda0270951c5e0ccce446913cd8d33fe0b"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_201706.html",
+      "size_bytes": 23624,
+      "sha256": "ca826cdeeb13c28dd96a1c8f1d302ce09f0a8badff66f67901f9a478d2df51a9"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_017.txt",
+      "size_bytes": 714153,
+      "sha256": "a8105bc22cb2912ca89681a464096bf5280a2f95e40a60f576037875c4f876be"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2021.html",
+      "size_bytes": 37654,
+      "sha256": "3f128bd9bd3852d83a65fc583944324d4d771d84dda5c1029efcb302423f80ed"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_01.txt",
+      "size_bytes": 44095,
+      "sha256": "1d90032636a69d7edaa6741dd1427510b357dbf6f8b0ed42c08c5a1db28a3256"
+    },
+    {
+      "path": "research/phase4/sources/japan/probe_2.html",
+      "size_bytes": 24961,
+      "sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_007.txt",
+      "size_bytes": 7499,
+      "sha256": "9b2333975ee5ae2c6ab85f8b999738fd7dcf35d7791a7f9533631265b9f8d175"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_004.txt",
+      "size_bytes": 8608,
+      "sha256": "f2f8ae55cdc0dfadac3cb5e4573f5c08ccf7729c9713fab08185f890423a699d"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_001.txt",
+      "size_bytes": 2091,
+      "sha256": "4d3a071c8dcd811f59da781c305059e0cf889ba715e876151e246e18d867a0f3"
+    },
+    {
+      "path": "research/phase4/sources/japan/probe_stock250101.pdf",
+      "size_bytes": 116831,
+      "sha256": "60e0661b70469419d182608e98154eff1e73205f831097ba930d52396c461589"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_012.pdf",
+      "size_bytes": 389215,
+      "sha256": "48b11498411f4e1886cf081cabb14e49dda1f098fc207035b53899a5e99a2d33"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_2024_exit.pdf",
+      "size_bytes": 474660,
+      "sha256": "e07e26da39f4428bd5be1c870d7ec2229a98d0428f687b19fef220c6cc70e851"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_015.txt",
+      "size_bytes": 14829,
+      "sha256": "a743aad2abf3f9f5058a8729de1d81664a22704f04e0367a2f9b329c3ac0a5cc"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_004.pdf",
+      "size_bytes": 37086,
+      "sha256": "e16304b6f60fc5d93524b573ea9be90dce7d0f919c3ab7fc8073fd33640a0bd5"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_201702.html",
+      "size_bytes": 24271,
+      "sha256": "504b0e248d517aa20588b14d865b0228d86bbed1b0398cebeb020089adbe64b2"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_2025_disposal.txt",
+      "size_bytes": 12027,
+      "sha256": "2551461502db064b9091a09e7d65022a9cb101104639ced3fd13c509dacb1fc2"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_09.pdf",
+      "size_bytes": 284687,
+      "sha256": "fa5fae763f0ae9317fedd4d16cbba074ae6ce84a617428cabbe68d5a8f52f9d5"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_07.pdf",
+      "size_bytes": 142503,
+      "sha256": "7841a9054943f1387e3e2dbe0dd059e83d190ff186dfafa10388ea6cad3f1deb"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_010.html",
+      "size_bytes": 47235,
+      "sha256": "c2919ea70749595db70751db0051556b2f2d67e81c49395f3cb78d37079888de"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_202308.html",
+      "size_bytes": 25026,
+      "sha256": "5e0fb01d730c20b9a03812cdfe2d80e2c17f98e03dcbaf9ad14c6397c4842933"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_023.txt",
+      "size_bytes": 7492,
+      "sha256": "0b7c4a50c7088da4025aae39db24be4b2f8ebbabf2104f4aab73ee1113376b89"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_capital_catalog.html",
+      "size_bytes": 33268,
+      "sha256": "504f8988d5c1e2461689ae4bc3e21f5ed9a9a5f8acf8e80fd7abac60861029be"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_2025_disposal_terms.html",
+      "size_bytes": 37810,
+      "sha256": "8b19db5e0fcf6a4ca2cce39d35c2791afc052bcd4f74994678bc7c69b3c236a6"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_002.txt",
+      "size_bytes": 4990,
+      "sha256": "9efdbfaeb6d5e8d497755734d02557011b07650fa55a308b300446b28b792fe3"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_022.html",
+      "size_bytes": 25448,
+      "sha256": "dda60d6ef35576f65e2c674400561f64c8bad391265128a78dae90c998e6972d"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_003.pdf",
+      "size_bytes": 21173,
+      "sha256": "9736ca5db7126e2963e7c0ac202eea4eb4ec7093ecd4bf4fb9587db4317387c9"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_019.txt",
+      "size_bytes": 25836,
+      "sha256": "948d2390bf3c65775015d39c0d9075baa8c7f6d0ca0fb15991e781d1324e80a3"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_009.txt",
+      "size_bytes": 7613,
+      "sha256": "e9656d13e6287521beee65da0a84bdf9a9590c2565f3758077b45ae9d96021d8"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_201701.html",
+      "size_bytes": 25540,
+      "sha256": "d06d1f3eec8274b1f9ecefb12f2f01eb783f87f6ae8891fd5ce45f8753401f21"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_007.pdf",
+      "size_bytes": 24373,
+      "sha256": "d116781f513017576b29d9fd82e58670bc077af53ca79b0950fe2fe049cb8d0c"
+    },
+    {
+      "path": "research/phase4/sources/japan/gpif_catalog_2025.html",
+      "size_bytes": 23499,
+      "sha256": "a91267a6d54af610346d0f961760791336636c60ecba9032c97419f4edb09050"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_2025_disposal.pdf",
+      "size_bytes": 232154,
+      "sha256": "3f0700adb18629b355a07fb71b1de1f7ae835258e46534cfccddca499267fece"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_009.html",
+      "size_bytes": 44691,
+      "sha256": "c2404059f54159a7cdbf17f1c1ee315bac6959e1facdce62efd99ea0dcd68bc7"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_02.txt",
+      "size_bytes": 44167,
+      "sha256": "c34c5fad3f5e3ba04c878d9dcb0139df084359bf2d518d009fc110797e821246"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_021.html",
+      "size_bytes": 24162,
+      "sha256": "0d5b6b57645983aafb47abed33c3529a1d8016b3093d7df8628a07df15f68f99"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_201705.html",
+      "size_bytes": 24726,
+      "sha256": "e02037b25f2c59655e64c55a5b074b6d32054c4029510cecf8059d36f28148e6"
+    },
+    {
+      "path": "research/phase4/sources/japan/probe_0.pdf",
+      "size_bytes": 647775,
+      "sha256": "111d0f9403b6a8413edf9da7376b7bf2e2f4ccb83c0ef2d6beff40cd45cb9862"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_013.pdf",
+      "size_bytes": 460122,
+      "sha256": "fe1198f375d16c394539acf54eb85e84a3a74798ccfa2a10fedfa8c5f1059384"
+    },
+    {
+      "path": "research/phase4/sources/japan/gpif_2014_policy_mix.pdf",
+      "size_bytes": 181088,
+      "sha256": "621fbb9fa3d8c973a90bbf2fe1b90ae3c6c40c06bc95c2f7a63d0e271b6a2be9"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_015.pdf",
+      "size_bytes": 160540,
+      "sha256": "d8384437a4acb93205fa054f2ba163f73b0b87ae15e8c99b5ed5053786d3d4aa"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_019.pdf",
+      "size_bytes": 354836,
+      "sha256": "a23d1170f8626dda29249080c27b2444d6d2afa1a1517418716f37af4e36198f"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2015.html",
+      "size_bytes": 39329,
+      "sha256": "4e8bd29fc15867fe6a0f6a8ade5d7de842e0eaad53323cf2f2dd2b228ea1eb83"
+    },
+    {
+      "path": "research/phase4/sources/japan/gpif_2014_policy_mix.txt",
+      "size_bytes": 35386,
+      "sha256": "b191e40473ffc39ae4afbdca1f52d62c83e4b2cf853ffb9feea441bb6b1f16fb"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_016.txt",
+      "size_bytes": 58900,
+      "sha256": "8dcca6c21a6e0103510ab395054448b583f8823243005584f4bcdc8a19f6b16a"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2023.html",
+      "size_bytes": 37633,
+      "sha256": "82b670bc0586ea72df80ac172e975a1274c5d7c1adde21cf68a3343d3e152686"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2019.html",
+      "size_bytes": 37630,
+      "sha256": "e6de502c4a548fa18877147ae1b4d6372acca12b245b925159bf1137c7b124ae"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2009.html",
+      "size_bytes": 40003,
+      "sha256": "eea4ddac39804e91b699a5ac7177ba1d58079fa74ce94e3deafa340a3440bd20"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2012.html",
+      "size_bytes": 39924,
+      "sha256": "eb056edcb0d37f583d800594663c5542ff48438977dc2fd02dc876ef8d97ad92"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_031.txt",
+      "size_bytes": 2831,
+      "sha256": "2b3309eac033e73c208dba14e382e583a19c2d89a04ef7e7ec7e72201ccf4a4f"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_031.pdf",
+      "size_bytes": 65159,
+      "sha256": "aba45501f8fba76ce0b9919cedb20e50ad5d9a74a6e30d7910065bc239a543dc"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_024.pdf",
+      "size_bytes": 67072,
+      "sha256": "52e41e4a3ace5f82950a56846fb1c4cfc78b5820df59032ad32df04af46a5eaa"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_09.txt",
+      "size_bytes": 44247,
+      "sha256": "ad43120b2b075c5f1615e4ff69fe3b1eaf6e0b0856b772a1e4ff770481f3a43f"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_04.pdf",
+      "size_bytes": 116995,
+      "sha256": "3a3024aa324349c346a8d32122322402996a28c779e95a8b4385f4a5f9a6e62d"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_006.pdf",
+      "size_bytes": 57441,
+      "sha256": "f992a6d57c559747233c1f4b8f593cc69215cde677f71968e43fbf9a4710eb3f"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2022.html",
+      "size_bytes": 37632,
+      "sha256": "a2bdeecaa39cf1b5d9e6ec39341b61247e0cd27bec4ba02c4cb4f008cb418325"
+    },
+    {
+      "path": "research/phase4/sources/japan/gpif_catalog_2024.html",
+      "size_bytes": 24961,
+      "sha256": "2a13b3dedab0da8c5ba9c87fcaf83f72d5024900dfbe0ed2b0ee0549057ff382"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_10.pdf",
+      "size_bytes": 284488,
+      "sha256": "ab651d4057b78d7ab58f35f420d3675ee901a8385ee7184b62cd8cf7f44e5c20"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2018.html",
+      "size_bytes": 37674,
+      "sha256": "babf0dbb0be29a639ae3f8278d5c504c3ffec10c2f2d17527dfab618f183332c"
+    },
+    {
+      "path": "research/phase4/sources/japan/SOURCE_MANIFEST.json",
+      "size_bytes": 37403,
+      "sha256": "0dd0613868f946ffe38a4b8f072f10bcc5519080411c9eaa795ce56581ed414c"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_005.txt",
+      "size_bytes": 5641,
+      "sha256": "b9167a5e4c4c2b514278e69c70ca98552bbc4b301cc951e142bea15ef02e7380"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_202109.html",
+      "size_bytes": 24659,
+      "sha256": "9f8da3d35aa3d1ab2bfb0524ec833d55468e00bb706907f1bc624c344711a28e"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2011.html",
+      "size_bytes": 39742,
+      "sha256": "302a2a56b64f170183bcf5ed6df324f98858a45ea4b7f7149b180e1b0ac1869c"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_02.pdf",
+      "size_bytes": 117070,
+      "sha256": "97b22d923d8139cbaf80b4e163937a9fd93c2b6da916e3f83b4a0cc1ff5be72c"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_010.txt",
+      "size_bytes": 9566,
+      "sha256": "afbb1ac6f76a95f98b4e390efdf818b8ef0ae9e844577ed0d2a16557c6f01ff7"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_020.txt",
+      "size_bytes": 11002,
+      "sha256": "e9616daf614c1f5184c7c1c7650b928f4dcee170a596fec6f8e592fe924fdae1"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2016.html",
+      "size_bytes": 38331,
+      "sha256": "0da5a70658b764f0b5d3c7339de635162e98be3ff0ac28cb9dadd54014f577f9"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_006.txt",
+      "size_bytes": 20686,
+      "sha256": "503d147be5da93445defa581c47b5a307a39cde2f2920045a246c0152bcf73b7"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_202307.html",
+      "size_bytes": 25906,
+      "sha256": "1f0d8121e25925fb8a2b082923bcbc4a6f8d36f805836eff51d0093ec018a6d2"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_013.txt",
+      "size_bytes": 13991,
+      "sha256": "397ee9467490bec35a3d5ca4a2aaf64ed8ddb40fd862d1ac1e1ede954134a9d0"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_018.txt",
+      "size_bytes": 14050,
+      "sha256": "066381f02958c6cb0ece706dfda4412c4e260b2481dba936ed316d3622b50ea0"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_027.txt",
+      "size_bytes": 2444,
+      "sha256": "bef3e7617e08fb07e45b57f7d88162d794b5fe29f1fc729592f7db2d99890062"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_03.txt",
+      "size_bytes": 43833,
+      "sha256": "a4bbca9cea7b100e3f0c5bbed818137504f299fb38e9af18ca779586886f5009"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_020.pdf",
+      "size_bytes": 156367,
+      "sha256": "549212f7eb3f9380c8ff78764ec5e974d8c1cc64c59bfce16b775cd963f23a9e"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_011.txt",
+      "size_bytes": 900624,
+      "sha256": "2a791357a01d1e6929ec02180c520ad2c5562c494b7786ccec160b3e2fb9bd2d"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_017.xlsx",
+      "size_bytes": 967223,
+      "sha256": "22db0e574f84ab01c02606793b66d9b56abf8f6373a25d9988f67e356cbf53d2"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_023.html",
+      "size_bytes": 28285,
+      "sha256": "6be72b0f42585760fd11ac9f99cb4bd75d01eacb2f8ecf10c8ae5011d7c61d65"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_07.txt",
+      "size_bytes": 43829,
+      "sha256": "b7d736b6bb60a993cab4844cea7fd004571f426acee825636dadb1b065127fb3"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2020.html",
+      "size_bytes": 38106,
+      "sha256": "4e05b9209769d947a120b2d3e362378a0b76bce511ffd1906974bccfbb5e0ce2"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2013.html",
+      "size_bytes": 39755,
+      "sha256": "12c661b5fdcbb59b0ec24aa904726d7a25dc608c7bd99b7ae5a0970671fdced7"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_08.txt",
+      "size_bytes": 43996,
+      "sha256": "fa8984582bb9b163382e19b3ca49b820e91f934c080c72d02aed116bc6726a38"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_030.txt",
+      "size_bytes": 2971,
+      "sha256": "09e90221297470b9152900f2382b3da8b4be33090c924a6716392621c3d437aa"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_018.pdf",
+      "size_bytes": 639957,
+      "sha256": "21e41302402914af7fa3bce6f927013ae1b3c77b805f3c0a86dd65916bd5e5c7"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_029.pdf",
+      "size_bytes": 59459,
+      "sha256": "be024400931ba014eb8736d2d449e0261f103abb470a690598768b27e2a615b0"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_026.txt",
+      "size_bytes": 2419,
+      "sha256": "977a70f4a7ed47a59dd5c1d37f309db9eb97d01c3eabe43cdfaca5253abfa2ec"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_04.txt",
+      "size_bytes": 44094,
+      "sha256": "923a4b6ceb21c21053cec8d560a13cb18db1be1df6e1cf8a9175fd844fdb14eb"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_028.txt",
+      "size_bytes": 2584,
+      "sha256": "33e14fc9dfbee50bcda3cfaed9a9a8b1485e0d7b529ae13216a6d3e630a85894"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_05.txt",
+      "size_bytes": 43834,
+      "sha256": "312ab2b61c08671c049595b889ff988d3fa65c4acecd875b5d0f0025f9d3cb4c"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_005.pdf",
+      "size_bytes": 16417,
+      "sha256": "19accfe9cf4f4f11858d596115ab9fa516af48781c8a57ccf7211faf6d9986ce"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_027.pdf",
+      "size_bytes": 67155,
+      "sha256": "b030b65ee7232963cc1a6fe08fb7a4ee7bc35adcb980e03dc51513f951a6e5d8"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_030.pdf",
+      "size_bytes": 60439,
+      "sha256": "9a1e268edb5a461198297b043bda62cebe5f995c3acd08c22c1694f84e7a2c41"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_corp_catalog_202110.html",
+      "size_bytes": 25164,
+      "sha256": "b4d028253ead2c7e6b41b38889c4b4469cbfeb4c393301743a7a49d487025d14"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_011.xlsx",
+      "size_bytes": 1177023,
+      "sha256": "6f52d8592b40d5e53ea3ed130d694766138da7d91068b225da8afc0080b2e5cc"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_06.pdf",
+      "size_bytes": 141673,
+      "sha256": "ef6f79262aa8394f27311a239959189c0b4d91ca2af1c0a44475471956fd60ea"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_029.txt",
+      "size_bytes": 2820,
+      "sha256": "d94d8de52498f612c029c1b435215bf7cc0c6b0d927a9aba1d05578314ba47e6"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_012.txt",
+      "size_bytes": 5160,
+      "sha256": "578f19e16de5db7f3bb058473a83f73245570d2b4e8266deea23eb020bfca841"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_021.txt",
+      "size_bytes": 4842,
+      "sha256": "481ea47779c57a614bfdaca1ffc0c7b551a8d915197fbaf338acde999b22aa42"
+    },
+    {
+      "path": "research/phase4/sources/japan/jpx_foreign_catalog_2025.html",
+      "size_bytes": 98773,
+      "sha256": "72b62f76e313e912a5edd865b23306b07096716f0c48a0b1a7d3e80b0b5815bc"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_025.pdf",
+      "size_bytes": 58344,
+      "sha256": "c3b6af155567c4e5adb7bafb52e68189428ab6d7f6f1d6f3ee6e391aaf0029cd"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2024.html",
+      "size_bytes": 38412,
+      "sha256": "2a5742c0602ee86cc4e2fad1c86a4c22a748503af6793354fd48b5f63ad00eba"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_06.txt",
+      "size_bytes": 43838,
+      "sha256": "09b1265f2ed166da07fdff1f569d496ea8d4240f9e9db7df6514fcc83bf9bb96"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_022.txt",
+      "size_bytes": 5601,
+      "sha256": "7f8aae7d1fc85fecf3fa31f07ecef45abb813b174ffba7537012baa905c305fe"
+    },
+    {
+      "path": "research/phase4/sources/japan/boj_catalog_2010.html",
+      "size_bytes": 40582,
+      "sha256": "be6fb2d5010b1b683a3b9d224b3c452d70a1c5df4381f32e4cf498a1b90a373c"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_024.txt",
+      "size_bytes": 2424,
+      "sha256": "95891e8fdb126f97d1ea5fd9de90ab55b62c0355a662b8e69fcaa91c271efcc8"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_026.pdf",
+      "size_bytes": 67158,
+      "sha256": "8a9733d802b0181ab01fed29ed21fbb3933c3faeb5c81dcc6137d7d696f59137"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_foreign_missing_01.pdf",
+      "size_bytes": 116831,
+      "sha256": "60e0661b70469419d182608e98154eff1e73205f831097ba930d52396c461589"
+    },
+    {
+      "path": "research/phase4/sources/japan/jp_event_source_008.html",
+      "size_bytes": 45472,
+      "sha256": "87ff8c991e8ce6d8f9157f585a312ed240bf37ff4afd790f63f6ecf202a50663"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW13.html",
+      "size_bytes": 49689,
+      "sha256": "ddb42afd42060d0b5a9fbc289be4b3943eebb91a03453533fd6831f45a7f8ef6"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW08.html",
+      "size_bytes": 35992,
+      "sha256": "e823384c45b5687217bfcafaa9bc350bd4c9002e91821c183a14bb87ae2812de"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW06.extracted.txt",
+      "size_bytes": 3441,
+      "sha256": "e8f9505f6242951778afeee315dace49f2cda2dca8411209145c1507c77ba83a"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/fetch_framework_source_addenda.py",
+      "size_bytes": 1740,
+      "sha256": "8f329cf7a79c48e589dfa4e570ae12cb109c53923bd7f707f9768b49234fc531"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW12.extracted.txt",
+      "size_bytes": 10540,
+      "sha256": "104cd27746ad2f85d9eed7d318f949b79f8766a38349fcabe1d712789bdfa355"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW10.extracted.txt",
+      "size_bytes": 10575,
+      "sha256": "ca0d273b4069f76cebe4c39d7cf04a9ce30bf8b1ed5577671e3bf536de9f5489"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW04.extracted.txt",
+      "size_bytes": 56606,
+      "sha256": "83e5e715e8473ae96574786c67da07a06128e626fa6337ac53cac2314b21875a"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FRAMEWORK_DOCUMENT_QA.v002.json",
+      "size_bytes": 8533,
+      "sha256": "f206e30ac4ad38dd43039b116ec56eac47d8c10b6d27c0e6760fec173f6f051f"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW11.html",
+      "size_bytes": 88574,
+      "sha256": "5f0932340591595efdd0d7fa7dcaa716298c6957351069c23b62d419e5c477dc"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW07.html",
+      "size_bytes": 103052,
+      "sha256": "581c40a4f139f13b9e310ddfdf353c7f844f4899079ea6f8066c93a41b649f74"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW21.extracted.txt",
+      "size_bytes": 2012,
+      "sha256": "49d6feab077145dc5a700f55f898e93c3b6e85184fc421591603ef15faf18034"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/EVIDENCE_EXCERPTS.md",
+      "size_bytes": 4412,
+      "sha256": "3188ea3fd96e028b1b05ffa63d46c8c60be885e6bde4789bbeb04f00a8c5228e"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW02.extracted.txt",
+      "size_bytes": 12385,
+      "sha256": "7e6311ebf02708f63a848455533b228da78b9872a5a68a1510542c4fbf90388d"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW14.extracted.txt",
+      "size_bytes": 14706,
+      "sha256": "d4c61ea577db0b0f4ba7b1cb8b74f3ca712ac9665eda3022a5924e66e1f7e47c"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FRAMEWORK_SOURCE_LEDGER.v001.json",
+      "size_bytes": 44401,
+      "sha256": "44dcc76f3596c76e9cff440358c01c24f219bca14b0b83d1ced1e09f97b5e02d"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/fetch_framework_sources.py",
+      "size_bytes": 7712,
+      "sha256": "de1d26afd0895a896953c73f23cb6803094546bbd6f6db2f4a42bdcb047ab4c8"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW18.extracted.txt",
+      "size_bytes": 3307,
+      "sha256": "9460cca94752bdae33c43ba18888109328b972d5ceb6c35ad8803e1eb815afa0"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FRAMEWORK_SOURCE_LEDGER.v002.json",
+      "size_bytes": 48698,
+      "sha256": "0c3672265f51af3a4fb36b54a26b516918bd08616cd4b7465fb8f47d7dc00df5"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW06.html",
+      "size_bytes": 47737,
+      "sha256": "afa2caf081c9d0ddfbd437758cb593173643ec0036ad3f2a58a6baa8be14242a"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW11.extracted.txt",
+      "size_bytes": 5682,
+      "sha256": "6bfa9c9c23e6538d924c32ab4ebc15ec45b7fc7dcee5d49db3c452f394297a33"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FRAMEWORK_DOCUMENT_QA.v001.json",
+      "size_bytes": 8232,
+      "sha256": "5b379be4453ca5b3867c91536fd7c4bd0feab490b7e1453efc65b87827ebf9c3"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW13.extracted.txt",
+      "size_bytes": 16493,
+      "sha256": "b4ac31305423ac5e73d90c03bcbebbce4a1fb6dab52691e585f95aea952cae7e"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW21.pdf",
+      "size_bytes": 116020,
+      "sha256": "279f9250d4c27137e28cb1ee27be3c51b0505c10c1e28407e42d373054cd32d9"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/write_footprints.py",
+      "size_bytes": 21063,
+      "sha256": "4935944106d9287982216aa0f45492d29c05f92dc3c351651ea16b97425eec11"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW20.html",
+      "size_bytes": 28575,
+      "sha256": "4d592dfb0fba6e03b66a7ff5a780c18d293395d4292d21373b6bb47b4a60617e"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW19.extracted.txt",
+      "size_bytes": 3418,
+      "sha256": "a3f7277637edbcc7d407d2347c07377ae34f477f3acd3c52de7af6d99868c616"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW17.html",
+      "size_bytes": 14044,
+      "sha256": "3820b194d79f878435fa570af5b35bd15bf04c2f5021c56492fcff381491abb7"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW16.pdf",
+      "size_bytes": 64248,
+      "sha256": "9413b92d7ffdee708af14cf006ef79bcf462cc587bdcc0c93d17e24491a210c9"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW12.pdf",
+      "size_bytes": 474660,
+      "sha256": "e07e26da39f4428bd5be1c870d7ec2229a98d0428f687b19fef220c6cc70e851"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW03.html",
+      "size_bytes": 84596,
+      "sha256": "2d65a3cc4af9e0cfd879a815dda1c4bb8213a17c1fbae04db1455ebba54f3596"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW18.html",
+      "size_bytes": 18466,
+      "sha256": "1b4539059370e52eb40e0cf3ce7994bc1340e22fd0d14f3de3b6f3b2c7fffd69"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW25.html",
+      "size_bytes": 43033,
+      "sha256": "83b42971124de780356f678d3896035ab7492f2251d1a518abb1a91d6e398615"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW26.extracted.txt",
+      "size_bytes": 1724,
+      "sha256": "c4475cb1fdde4125291d509e9d0e942a9092ec35b34d466ec66f19b2b7fcc4ac"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW03.extracted.txt",
+      "size_bytes": 13132,
+      "sha256": "994b8ba76e1173a6a3847aace60d91046066046f03fb33040d15646b0c5d8c61"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW10.html",
+      "size_bytes": 84750,
+      "sha256": "7558c4457a7fb010d89873bf93aa4ab6e16ebba389e9496d2ccc2d0dc3b32606"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW17.extracted.txt",
+      "size_bytes": 2671,
+      "sha256": "8828497390fbda2745b8b40a21a7611d41eb9cc189c9e1cf76d08fff1e8b58b1"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW27.pdf",
+      "size_bytes": 79791,
+      "sha256": "44f5f3c9795735dc7fe1510d0a9d518d2f5f9712c3a7c0334845e77a595f16a2"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW24.extracted.txt",
+      "size_bytes": 11769,
+      "sha256": "589c42de026669caf5fc8ac2fc3f0af70b8dcf6741d6c6a1cb9f1fe4dc2d811c"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW22.html",
+      "size_bytes": 596541,
+      "sha256": "6aaf0e77cb40075128b669717aee2355faa180bfffb57b8cd5d2d2b5f2d30dce"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW26.pdf",
+      "size_bytes": 175694,
+      "sha256": "a06ecac997030f81011922511e908f3841536ef16ff0693577608e6e2496b854"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW05.extracted.txt",
+      "size_bytes": 5926,
+      "sha256": "bee4810010f2cc7855c4fee61f5eb4482845277b2dea89a98f96f5774df42af1"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW15.html",
+      "size_bytes": 38922,
+      "sha256": "ffeb758f608744ab0893edc31777fb5ab622786ea20a11aaf8dd02e767e4864a"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW19.html",
+      "size_bytes": 31414,
+      "sha256": "cb5ea2ef602fa44ebcda305068e51013572254bd39ba1b1928cfeaafb9fd597f"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW02.html",
+      "size_bytes": 163774,
+      "sha256": "fadda76168818df7dad9a609802009b3ae7ef43ea3f30c803cd3241c0d488648"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW23.html",
+      "size_bytes": 88019,
+      "sha256": "550ea1f0a43d58549ef931343c731ece485f450f883606e3017d95fd15865706"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW24.html",
+      "size_bytes": 103050,
+      "sha256": "aa02545bc5ae5f25259f5cf4cc48759df14a6fc5e46d4b013d4993d70f4ced8d"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW15.extracted.txt",
+      "size_bytes": 4510,
+      "sha256": "dcfec332ee62683ab07f96de0d30731b2cde9a50da734aa881428627f676d2ac"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW01.html",
+      "size_bytes": 64562,
+      "sha256": "8fd03e6ced200fb5915bdce1072160fba6638cd14b5df19a69c87f00bc842117"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW23.extracted.txt",
+      "size_bytes": 8241,
+      "sha256": "37f5f4b6c91dcc63d9fd419e1807a63eb80f72945bc432f901974295d91edf3c"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW01.extracted.txt",
+      "size_bytes": 5899,
+      "sha256": "598c9192130cd80cec0d8c684e4ac111fbe41899db0ff8194fd951958504e551"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW20.extracted.txt",
+      "size_bytes": 3834,
+      "sha256": "3ac2552a492efa967dda34054e7dcc219b7780bf1e4ee90994ee9b1087b26711"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW09.extracted.txt",
+      "size_bytes": 47225,
+      "sha256": "641cec321fcad8f100b45ef0397e61771b97806d9cb396b174407447e4853428"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW04.html",
+      "size_bytes": 83924,
+      "sha256": "9d82d370eef6dc54ef9d80315bc8790c6d44f684370e5a3c593d33669d8172c1"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW08.extracted.txt",
+      "size_bytes": 5533,
+      "sha256": "b2e2a6261de78ffd08e2ca5e988f0ccf9377e12355e9f700264bbb4b45f4ca71"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW16.extracted.txt",
+      "size_bytes": 11572,
+      "sha256": "e262c1ac64d93083c0302c9fbbf77281cfc49484e9b814650467780fa6c5eefa"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW09.html",
+      "size_bytes": 136706,
+      "sha256": "506f65d29a96a38fc11cc71283554675bb4722ab6693333351616b6db4d2cb4e"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW22.extracted.txt",
+      "size_bytes": 5148,
+      "sha256": "a09acf2b35115e13edd849920a221ad43d3773b686247d717992e5c8447aa6f7"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW25.extracted.txt",
+      "size_bytes": 9407,
+      "sha256": "6709ed20a5d058671f4f2d1e9273803a43a80b3a751a09ed81daddedfad1c8d6"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW14.html",
+      "size_bytes": 40088,
+      "sha256": "48dd34ee501b61ed4c4c7158e59d178ba888d41e85ab953d55ead8841955ac09"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW07.extracted.txt",
+      "size_bytes": 7192,
+      "sha256": "b8b1c0e6b0da194de95f644d8d531a9d0c5eaae7c800f9ef355b21b81a2d1490"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW05.html",
+      "size_bytes": 69227,
+      "sha256": "d5743b1d4316e96e48516fd57b57267d0ac66ab3b750a4b36b53390c69527f13"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/FW27.extracted.txt",
+      "size_bytes": 482,
+      "sha256": "fb04d47824b3e4d4561d33a834011ef889da444cbcfd7ec039ec65aca3a4eb15"
+    },
+    {
+      "path": "research/phase4/sources/frameworks/__pycache__/fetch_framework_sources.cpython-312.pyc",
+      "size_bytes": 11500,
+      "sha256": "45f95553e328089558aa7a519678302fa1fe97d5b096762c751d7dd05eb956ae"
+    }
+  ],
+  "first_publication_archive_certification": false,
+  "note": "Includes raw downloads and derived/metadata files, not a count of independent evidence. Reference-only files cannot enter historical signals."
+}

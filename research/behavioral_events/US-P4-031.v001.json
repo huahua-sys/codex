@@ -1,0 +1,81 @@
+{
+  "market": "US",
+  "family": "regulatory_capital_constraints",
+  "parent_episode": "US_VOLCKER_RULES",
+  "published_date": "2019-07-09",
+  "available_at": "2019-07-09T23:59:59-04:00",
+  "timezone": "America/New_York",
+  "publication_date_precision": "DATE",
+  "publication_date_evidence": {
+    "excerpt": "July 09, 2019; For release at 4:00 p.m. EDT",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/408b104437da6844073f.html"
+  },
+  "participant_type": "Federal banking agencies and regulated banks/dealers",
+  "constraint": "资本/杠杆/压力测试或持仓活动限制；规则生效前过渡期须单列",
+  "trigger": "Agencies adopt final rule to exclude community banks from the Volcker Rule",
+  "observed_action": "Agencies adopt final rule to exclude community banks from the Volcker Rule",
+  "action_status": "MANDATE_CHANGE",
+  "action_type": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "监管适用期；各行落实时间和真实仓位改变未知",
+  "assets": [
+    "SPY"
+  ],
+  "voluntary_or_forced": "MANDATORY_RULE_FOR_APPLICABLE_ENTITIES; actual trades not observed",
+  "price_sensitive": "UNKNOWN; regulation is not a trade",
+  "information_based": "PUBLIC_REGULATORY_RULE_NOT_DIRECTIONAL_SIGNAL",
+  "known_at_t": [
+    "For release at 4:00 p.m. EDT\nShare\nFive federal financial regulatory agencies announced on Tuesday that they adopted a final rule to exclude community banks from the Volcker Rule, consistent with the Economic Growth, Regulatory Relief, and Consumer Protection Act.\nThe Volcker Rule generally restricts banking entities from engaging in proprietary trading and from owning, sponsoring, or having certain relationships with hedge funds or private equity funds. Under the final rule, which is unchanged from the proposal, community banks with $10 billion or less in total consolidated assets and total trading assets and liabilities of 5 percent or less of total consolidated assets are excluded from the Volcker Rule.\nThe final rule also permits a hedge fund or private equity fund, under certain circumstances, to share the same name or a variation of the same name with an investment adviser as long as the adviser is not an insured depository institution, a company that controls an insured depository institution, or a bank holding company.\nThe final rule is being issued by the Federal Reserve Board, the Commodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the Securities and Exchange Commission.\nFederal Register notice HTML\nMedia Contacts:\nFederal Reserve Board\nDarren Gersh\n(202) 452-2955\nCFTC\nErica Richardson\n(202) 418-5080\nFDIC\nJulianne Breitbeil\n(202) 898-6895\nOCC\nStephanie Collins\n(202) 649-6870\nSEC\nRyan White\n(202) 551-4120\nRelated Content\nBoard Votes\n"
+  ],
+  "known_only_after_t": [],
+  "unknown_at_t": [
+    "未来价格、市场真实预期、未公开的仓位/对冲以及交易对手约束",
+    "实际资金流和受影响银行边际约束、最终生效后的执行规模"
+  ],
+  "source_ids": [
+    "US_SOURCE_408b104437da6844073f"
+  ],
+  "source_paths": [
+    "research/phase4/sources/us/408b104437da6844073f.html"
+  ],
+  "source_urls": [
+    "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20190709b.htm"
+  ],
+  "source_sha256": [
+    "ddfda6453eaeb31d21adaf94ca9a5abf9e28fb4f148bafe78d10ffa07af96914"
+  ],
+  "source_excerpt": "For release at 4:00 p.m. EDT\nShare\nFive federal financial regulatory agencies announced on Tuesday that they adopted a final rule to exclude community banks from the Volcker Rule, consistent with the Economic Growth, Regulatory Relief, and Consumer Protection Act.\nThe Volcker Rule generally restricts banking entities from engaging in proprietary trading and from owning, sponsoring, or having certain relationships with hedge funds or private equity funds. Under the final rule, which is unchanged from the proposal, community banks with $10 billion or less in total consolidated assets and total trading assets and liabilities of 5 percent or less of total consolidated assets are excluded from the Volcker Rule.\nThe final rule also permits a hedge fund or private equity fund, under certain circumstances, to share the same name or a variation of the same name with an investment adviser as long as the adviser is not an insured depository institution, a company that controls an insured depository institution, or a bank holding company.\nThe final rule is being issued by the Federal Reserve Board, the Commodity Futures Trading Commission, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the Securities and Exchange Commission.\nFederal Register notice HTML\nMedia Contacts:\nFederal Reserve Board\nDarren Gersh\n(202) 452-2955\nCFTC\nErica Richardson\n(202) 418-5080\nFDIC\nJulianne Breitbeil\n(202) 898-6895\nOCC\nStephanie Collins\n(202) 649-6870\nSEC\nRyan White\n(202) 551-4120\nRelated Content\nBoard Votes\n",
+  "pit_status": "VERIFIED_DATE_CONSERVATIVE",
+  "confidence_level": "LEVEL 1",
+  "mechanism": "规则改变可影响中介资产负债表空间，但需要银行资本余量/风险预算和实际仓位佐证",
+  "alternative_explanation": "规则已在提案/立法时预期；不约束边际银行，或受盈利/风险需求抵消",
+  "falsifier": "未适用于边际中介、其他约束仍绑定，或额度释放不伴随真实风险承担",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": {
+    "protocol": "research/phase4/protocols/BEHAVIORAL_EVENT_SELECTION_PROTOCOL.v001.md",
+    "catalog_index": 30,
+    "catalog_n": 35,
+    "rule": "date order equisequence floor(i*(n-1)/9); no outcome/price filter"
+  },
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "outcomes": null,
+  "event_id": "US-P4-031",
+  "source_revision_risk": "Official historical original currently hosted; no contemporaneous independent archive snapshot; possible silent source corrections.",
+  "broad_asset_reaction_only": true,
+  "counterfactual": "NOT_IDENTIFIED: matched broad-asset date controls are descriptive and cannot isolate actor-specific counterfactual",
+  "generalizability": "Not established; same program/company and common macro constraints cluster observations.",
+  "closest_similar_events": [],
+  "important_differences": [],
+  "study_asset": "SPY",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/us/408b104437da6844073f.html": "ddfda6453eaeb31d21adaf94ca9a5abf9e28fb4f148bafe78d10ffa07af96914"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

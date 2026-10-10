@@ -1,0 +1,76 @@
+{
+  "event_id": "CN-P4-013",
+  "market": "China",
+  "family": "保险配置",
+  "parent_episode": "CN-INSURANCE-ALLOCATION-2015",
+  "published_date": "2015-07-08",
+  "available_at": "2015-07-08T23:59:59+08:00",
+  "timezone": "Asia/Shanghai",
+  "participant_type": "保险机构/保险资产管理人",
+  "constraint": "偿付能力、负债久期、集中度、流动性、内部授权",
+  "trigger": "原源所报告的行动或制度调整；未用未来价格选样",
+  "observed_action": "合格公司单一蓝筹比例上限5%→10%，权益达到30%后可增至40%；是上限而非应投金额",
+  "action_status": "MANDATE_CHANGE",
+  "flow_size": null,
+  "flow_duration": "制度可能多年；实际配置速度UNKNOWN_AT_T",
+  "assets": [
+    "SHCOMP"
+  ],
+  "voluntary_or_forced": "制度强制上限；具体投资自主决策",
+  "price_sensitive": "配置仍受收益/风险/负债约束，非无条件买入",
+  "information_based": "制度约束变化或登记事实；无回报预测",
+  "known_at_t": [
+    "合格公司单一蓝筹比例上限5%→10%，权益达到30%后可增至40%；是上限而非应投金额"
+  ],
+  "known_only_after_t": [
+    "后续实际资产价格仅可作Outcome Label；本模块未读取",
+    "后续计划履行率和最终现金流不在T时点信息集"
+  ],
+  "unknown_at_t": [
+    "当时存量持仓距离上限的余量",
+    "实际实缴和成交",
+    "偿付能力和负债现金流限制",
+    "同次政策其他资金的抵销"
+  ],
+  "source_ids": [
+    "CN-S-INS-2015-MIRROR"
+  ],
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-INS-2015-MIRROR.html"
+  ],
+  "source_urls": [
+    "https://www.gdjr.gov.cn/gdjr/jrzx/jryw/content/mpost_1739.html"
+  ],
+  "source_sha256": [
+    "f4f179f8d6c56849c3088346c20ec317a14617af37c9fd2525992c6bb7b84204"
+  ],
+  "source_excerpt": "将投资单一蓝筹股票的比例上限由占上季度末总资产的5％调整为10％；投资权益类资产达到30％比例上限的，可进一步增持蓝筹股票，增持后权益类资产余额不高于上季度末总资产的40％。同时，《通知》还适度提高保险资金投资蓝筹股票的资产认可比例。 《通知》要求保险公司应当根据资产负债管理需要及市场变化，加强权益类资产风险监测，定期开展压力测试，确保偿付能力等符合监管规定",
+  "publication_date_evidence": {
+    "source_id": "CN-S-INS-2015-MIRROR",
+    "excerpt": "筹股票监管比例 --> 日期：2015-07-08 来源：保监会网站 --> 7月8日，为优化保险资金配置结构",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "pit_status": "VERIFIED_DATE_ONLY",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "mechanism": "扩大合格保险人的可配置集合；需求仍取决于偿付能力、资产负债匹配和投资意愿",
+  "alternative_explanation": "此前未接近上限，因此上限提升不约束边际买入；专项产品还可能投资债权",
+  "falsifier": "约束原本不绑定或放开后实际权益仓位不升，则“释放确定股市增量”失败",
+  "fundamental_change_at_t": null,
+  "credit_change_at_t": null,
+  "selection_basis": "PARTIAL_CATALOG；官方日期排序等序位规则，未读取新未来价格；完整候选/未选/blocked保留",
+  "source_vintage_limitation": "今日官方服务器原始响应字节+可见历史发布时间；不是历史日期网页的独立WARC快照，未知内容修订风险",
+  "source_level": "政府门户转载监管原文/通稿；不是第二条独立证据",
+  "study_asset": "SSE",
+  "source_proof_admitted": true,
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-INS-2015-MIRROR.html": "f4f179f8d6c56849c3088346c20ec317a14617af37c9fd2525992c6bb7b84204"
+  },
+  "original_quote_vintage_verified": false,
+  "independent_first_publication_archive_verified": false,
+  "price_study_scope": "BROAD_MARKET_CONTEXT_NOT_ISSUER_OR_FLOW_CAUSAL_EFFECT",
+  "classification_at_t": "UNCLEAR_UNLESS_INDEPENDENT_ASSET_SOLVENCY_AND_HOLDER_EVIDENCE",
+  "probability_forecast": null,
+  "historical_future_memory_risk": "MODEL_OR_PRIOR_RESEARCH_MAY_ALREADY_KNOW_HISTORY"
+}

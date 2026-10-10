@@ -1,0 +1,12 @@
+{
+  "locked_at": "2026-10-10T08:06:17.181811+00:00",
+  "phase": "CHINA_SOURCE_EVIDENCE_PRE_OUTCOME",
+  "sha256": {
+    "events.json": "f73cdb9fc7107af5d2959d2391466d57dc48dd5bc250aa146e8c3c600b8d589f",
+    "sources_index.json": "9eae82af89decb835b54d4710c326bdfc59c27f911c8ba3f70e27a5c0e8e060e",
+    "huijin_selected.json": "11847ae8a95759ef3cdd489e4b40c01462396774c65ab9c2bbb84dfedf992750",
+    "margin_selected.json": "fc9f90f611daacb38e4e6c21b0f7b0cc6c524e3187c3ce51f2fc549ac556d55d",
+    "summary.json": "17c4115ad7f88e9616c6de01447497ed1369925a0f7bbecc8726ea636c5b9c2f"
+  },
+  "outcomes_seen_in_module": false
+}

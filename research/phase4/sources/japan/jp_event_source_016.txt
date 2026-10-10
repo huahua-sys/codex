@@ -1,0 +1,761 @@
+Policy Asset Mix for the Fifth Medium-Term Objectives Period
+                           - Details -
+                     Policy Asset Mix for the Fifth Medium-Term Objectives Period
+○ Government Pension Investment Fund (“GPIF”) establishes the target weights of different assets as a policy asset mix and
+  makes an investment based on it. GPIF has formulated the policy asset mix for the fifth medium-term objectives (5-year plan)
+  starting from fiscal 2025. The new policy asset mix was decided after six rounds of discussions at the Board of Governors, and
+  will be effective on April 1, 2025.
+○ In order to facilitate discussions at the Board of Governors, a Project Team consisting of experts in economics and finance was
+  established under the Board of Governors in fiscal 2022, and has conducted twenty rounds of deliberations from multifaceted,
+  comprehensive, theoretical and practical perspectives.
+○ With regard to the investment of pension reserves, it is necessary to secure the investment returns required for the pension
+  finance over the long run at the minimum risk, while responding to changes in the current investment environment and the
+  expected future investment environment, toward stable pension benefits in the future.
+○ In formulating the policy asset mix;
+      The results of the financial verification conducted by the Ministry of Health, Labour and Welfare and the medium-term
+       objectives provided by the Minister of Health, Labour and Welfare were taken into consideration, as well as a reference
+       asset mix jointly established by the four asset management entities responsible for the investment of pension reserves
+       after the integration of the Employee’s Pension Schemes.
+      The professional knowledge generally recognized for asset management and investment were taken into account, as well
+       as domestic and foreign economic trends.
+      In light of the increasing uncertainties in the recent global situation, such as the effects of various geopolitical risks and
+       global challenges on the economy and society, a risk analysis was conducted from a forward-looking perspective.
+⃝   Against these backdrops, by estimating the expected returns and risks of different assets and the correlation between them,
+    and formulating a policy asset mix that achieves the investment returns required for the pension finance at the minimum risk,
+    the target allocation remains the same as in the fourth medium-term objectives period.
+⃝   The deviation limits to the target allocation are established for four assets as well as global bonds and global equities in order
+    to strengthen the risk management on the equity side. The new deviation limits are narrowed compared with that of the
+    fourth medium-term objectives period, based on the newly assumed risks.
+                                                                                                                                     2
+                          Policy Asset Mix for the Fifth Medium-Term Objectives Period
+◯    GPIF has formulated policy asset mix as follows;
+
+                                                         Domestic bonds         Foreign bonds   Domestic equities     Foreign equities
+
+                                Target allocation            25%                    25%               25%                  25%
+
+                                Deviation limits
+[Fourth Period]                                              ±7%                    ±6%               ±8%                  ±7%
+                                 (each asset)
+
+                                 Deviation limits
+                                                                      ±11%                                     ±11%
+                           (global bonds and equities)
+
+
+
+
+                                                         Domestic bonds         Foreign bonds   Domestic equities     Foreign equities
+
+                                Target allocation            25%                    25%               25%                  25%
+
+                                Deviation limits
+                                                             ±6%                    ±5%               ±6%                  ±6%
+                                 (each asset)
+    [Fifth Period]
+                                 Deviation limits
+                                                                          ±9%                                   ±9%
+                           (global bonds and equities)
+
+
+◯    The target allocation remains the same as in the fourth medium-term objectives period, for the reason that GPIF selected a portfolio that
+     achieves the real investment return* of 1.9% at the minimum risk after estimating the expected return of each asset based on the fiscal 2024
+     financial verification, and changing the calculation and updating the data with regard to the risks of different assets and the correlation
+     between them.
+     * nominal investment return minus nominal wage growth
+
+◯    The deviation limits to the target allocation are established for four assets as well as global bonds and global equities in order to strengthen the
+     risk management on the equity side. The new deviation limits are narrowed compared with that of the fourth medium-term objectives period,
+     based on the newly assumed risks.
+◯    Alternative assets (infrastructure, private equities, real estates and other assets determined after discussions by the Board of Governors) are
+     not positioned as independent asset classes as before and managed within domestic bonds, foreign bonds, domestic equities and foreign
+     equities according to their risk-return characteristics with the upper limit of 5% of the total portfolio.
+                                                                                                                                                        3
+                                      Basic Concepts of Policy Asset Mix
+
+Nature of policy asset mix
+○ In long-term investment, it is known that it is more efficient to determine the basic asset allocation weight (policy asset
+  mix) and maintain it for the long run than to change the asset allocation weight depending on short-term market trends.
+  In addition, most of the long-term investment performance is determined by the policy asset mix.
+
+Basic concepts of policy asset mix
+○ GPIF establishes the policy asset mix as the Minister of Health, Labour and Welfare provides an investment objective
+  which is to secure the investment returns required for the pension finance over the long run at the minimum risk. An
+  investment is made based on the policy asset mix, however, since the market constantly fluctuates, GPIF also establishes
+  a mechanism to enable flexible investment in reasonable and feasible manners and sets the deviation limits from the
+  target allocation.
+
+○ In establishing a policy asset mix, it is common to first determine the asset classes to be invested in, and then use the
+  expected return and risk of each asset to establish a policy asset mix that meets the investment objectives and risk
+  constraints.
+
+○ It is said that diversifying into assets with different characteristics can improve the efficiency of the portfolio, and it is
+  common to classify assets based on the following factors; (1) different sources of return, (2) different risk characteristics
+  and (3) low correlation between assets.
+
+○ After determining the asset classes, GPIF estimates the expected return and risk of each asset based on professional
+  knowledge generally recognized for asset management and investment, and then establishes a policy asset mix that
+  meets the investment objective of "achieving the investment returns required for pension finance over the long run at the
+  minimum risk."
+
+
+
+                                                                                                                                   4
+                               Priniciples to Formulate Policy Asset Mix (1)
+
+Taking the financial verification, the medium-term objectives and recent economic conditions into consideration, GPIF
+determined the principles to formulate the policy asset mix as follows;
+
+
+                             1.    Investment objective should be achieving the investment returns (nominal wage
+                                  growth + 1.9%) required for pension finance over the long run at the minimum risk.
+
+                             2.    Risk constraints should be ”the downside risks of underperforming the nominal wage
+                                  growth (“lower partial probability”) of the policy asset mix should not exceed that of the
+    Investment                    portfolio solely comprised of domestic bonds.” as the Ministry of Health, Labour and Welfare
+   objective and                  continued to instruct. In addition, the risk measure should be the average rate of shortages
+  risk constraints                when the investment return cannot meet the nominal wage growth (“conditional average
+                                  shortfall rate”).
+
+                             3.   No other constraints (such as allocation order between assets) should be included.
+
+                             4.    Deviation limits should be set for each asset as well as global bonds and equities.
+
+
+                             1.    Asset classes should remain the same. The policy asset mix should consists of domestic
+                                  bonds, foreign bonds, domestic equities and foreign equities.
+   Asset classes             2.    Alternative assets should not be positioned as independent asset classes and managed
+       and                        within the four traditional assets according to their risk-return characteristics.
+    investable               3.    Yen-denominated short-term assets and currency-hedged foreign bonds should be
+      assets                      positioned as domestic bonds because they are considered to have similar risk-return
+                                  characteristics as domestic bonds. Likewise, foreign currency-denominated short-term
+                                  assets should be positioned as foreign bonds.
+                                                                                                                                 5
+                        Priniciples to Formulate Policy Asset Mix (2)
+
+                   1.     Policy benchmarks should be used to estimate expected returns, risks and correlations.
+                         The policy benchmarks should be chosen based on the investment environment, such as
+                         liquidity and tax rates in investing various overseas assets.
+
+                   2.     As for expected returns, the accuracy of estimation should be improved by combining
+                         multiple methods. Specifically, the expected returns in building block method and the
+                         equilibrium returns deemed intrinsic to maket capitalization should be integrated for all four
+Expected return,         assets.
+    risk and       3.     Risk of each asset and of wage growth rate should be estimated as an average over the
+  correlation            long run. Since the level of risk of each asset tends to differ between the beginning of the
+                         month, the middle of the month and the end of the month, the risk estimate should be
+                         taken as an average over the month.
+
+                   4.     Correlation between each asset should be estimated as an average over the long run.
+                         Since it takes time for wages to reflect corporate performance, wage growth rates tend to
+                         lag stock prices. This lag should be taken into account when estimating the correlations
+                         between the return of four assets and the rate of wage growth.
+
+                   1.    The future values of the reserve invested according to the policy asset mix should be
+                         compared with the future values of the reserve planned in the financial verification to calculate
+                         the probability that the reserve will be short of the planned value.
+
+ Risk analysis     2.     Risk analysis using empirical distribution as well as stress test should be carried out,
+      and                considering that equities may have a larger probability of downside than expected.
+  stress test      3.     It should be confirmed whether the policy asset mix can secure the required investment
+                         return under any economic scenario in the financial verification.
+                   4.     It should be confirmed that the policy asset mix is included in the the range of median of
+                         the reference asset mix.                                                                    6
+                                          Assumptions on Policy Asset Mix
+                                      - Investable Assets and Asset Classes -
+
+Investable assets and their roles
+○ GPIF invests in traditional listed equities and bonds as well as alternative assets (infrastructure, private equities, real
+  estates and other assets determined after the discussion by the Board of Governors. Their roles are deemed as follows;
+                                                          [Role of each asset]
+                     Domestic bonds are safe and secure assets as the coupons are predetermined and the principals are generally
+ Domestic bonds
+                     guaranteed.
+                     The investment return of foreign bonds is equivalent to that of domestic bonds over the long run. Meanwhile,
+  Foreign bonds
+                     considering the large size of the reserve, they are highly effective to avoid the impact on the domestic bond market.
+                     Domestic equities are closely related to economic growth and are expected to hedge against inflation. While short-
+Domestic equities
+                     term risk is high, they are assets to seek profitability over the long run.
+                     Foreign equities, like domestic equities, are expected to earn returns commensurate with risks over the long run.
+ Foreign equities    Large diversification effects are also expected when holding equities in countries that have different economic swings
+                     and cycles to Japan.
+                     The risk-return characteristics of alternative assets are different from those of traditional assets such as listed equities
+Alternative assets
+                     and bonds, and by adding them to portfolio, the efficiency is expected to improve. Assets to seek excess returns.
+Asset classes
+○ The current policy asset mix is comprised of four assets of domestic bonds, foreign bonds, domestic equities and foreign equities
+  with the aim of increasing the degree of freedom in determining the target allocation and taking into account the impact of foreign
+  exchange rates.
+○ In recent years, with the globalization of corporate activities, the returns of domestic and foreign equities have been highly
+  correlated. Therefore, it is possible to integrate both domestic and foreign equities, which have similar risk characteristics.
+  However, in that case, the allocation to the domestic and foreign equities will be determined by the policy benchmark of the global
+  equities and the degree of freedom in determining the target allocations will decrease. In addition, the contribution of foreign
+  exchange risk to the portfolio may increase.
+○ In view of the above, asset classes are not integrated and the policy asset mix continues to consists of domestic bonds, foreign
+  bonds, domestic equities and foreign equities.
+○ Alternative assets are classified into domestic bonds, foreign bonds, domestic equities and foreign equities according to their risk-
+  return characteristics. The allocation to the alternative assets is up to 5% of the total asset.                                      7
+                                                    Assumptions on Policy Asset Mix
+                                                        - Policy Benchmarks -
+
+○ GPIF call benchmarks to formulate the policy asset mix as policy benchmarks.
+○ Taking into account the description of the medium-term objectives, a wide range of theoretical and practical perspectives,
+  and the benchmarks used in the reference asset mix, GPIF determined the policy benchmarks as follows;
+
+
+
+                                 Policy Benchmarks for the fourth medium-term objectives period (fiscal 2020 – fiscal 2024)
+
+          Domestic
+                                                                             NOMURA-BPI (excluding ABS)
+           bonds
+           Foreign
+                                               FTSE World Government Bond Index (excluding Japan, unhedged, yen basis )
+            bonds
+          Domestic
+                                                                              TOPIX (including dividends)
+          equities
+           Foreign
+                                                   MSCI ACWI(excluding Japan, yen basis, including dividends, before tax)
+           equities
+        *Since China was included in the FTSE World Government Bond Index in October 2021, Chinese government bonds were not included in the policy
+        benchmark for foreign bonds in formulating the policy asset mix for the fourth medium-term objectives period.
+
+
+
+
+                                   Policy Benchmarks for the fifth medium-term objectives period (fiscal 2025 – fiscal 2029)
+
+          Domestic
+                                                                             NOMURA-BPI (excluding ABS)
+           bonds
+           Foreign
+                                     FTSE World Government Bond Index (excluding Japan, excluding China, unhedged, yen basis)
+            bonds
+          Domestic
+                                                                              TOPIX (including dividends)
+          equities
+           Foreign              MSCI ACWI(excluding Japan, excluding China A shares, yen basis, including dividends, after taking into
+                                                                                                                                                      8
+           equities                                             account GPIF dividend tax factors)
+                                                      Assumptions on Policy Asset Mix
+                                                           - Expected Returns -
+
+ ○ The expected returns of the four assets were estimated by integrating the expected returns based on the building block
+   method * 1, in which the risk premiums are added to the short-term interest rates, with the equilibrium rates of return * 2.
+ ○ The expected return for each asset was estimated based on the four long-term scenarios. As a result, the expected returns
+   were estimated to be between -0.3% and 3.2% for domestic bonds, between 1.4% and 4.9% for foreign bonds, between
+   4.0% and 7.5% for domestic equities and between 4.6% and 8.1% for foreign equities.
+                                              Economic scenarios and expected return of each asset
+
+                                                                          Nominal         Short-term                        Expected nominal returns
+                                          Price         Real wage
+      Economic scenarios                                                   wage            interest
+                                        increase         growth                                             Domestic          Foreign         Domestic          Foreign
+                                                                          growth             rate
+                                                                                                             bonds             bonds          equities          equities
+
+
+Achievement of high
+                                          2.0%             2.0%             4.0%             2.9%             3.2%             4.9%              7.5%             8.1%
+economic growth
+
+
+Transition to and
+continuation of growth-                   2.0%             1.5%             3.5%             2.4%             2.7%             4.4%              7.0%             7.6%
+oriented economy
+
+
+Recurrence of the past thirty
+                                          0.8%             0.5%             1.3%             0.2%             0.5%             2.2%              4.8%             5.4%
+years
+
+
+
+Zero economic growth per
+                                          0.4%             0.1%             0.5%             -0.6%            -0.3%            1.4%              4.0%             4.6%
+capita
+
+
+*1 The building block method is a method of estimating the expected return of each asset by decomposing the expected return of each asset into the expected return of
+   the short-term interest rate and the risk premium (the portion regarded as compensation for the risk), and then estimating and totaling them.
+*2 The equilibrium rate of return is the expected short-term interest rate plus the market-implied return using the risk and correlation of each asset and the global market
+   capitalization
+*3 The expected short-term interest rates and the expected return of each asset are estimated by various methods. The above is one of them (see page 16 and 17 for           9
+   details).
+                                                    Assumptions on Policy Asset Mix
+                                                       - Risks and Correlations -
+
+○ Risks and correlations were estimated using the monthly returns of the policy benchmarks over the past thirty years. Since
+  the monthly returns vary depending on the start date, the risks and correlations were calculated when the start date
+  varied from the 1st to the 30th of each month, and was set by taking the average of these.
+○ Since it is appropriate to consider the wage growth rates as the annual rate of increase, the correlations between the wage
+  growth rates and the four assets were estimated using the annual returns * 1. Since the wage growth rates lag equity
+  indices for approximately one year, a twelve month lag was set for the wage growth rates * 2.
+
+
+
+                                                                   Risk (standard deviation)
+
+                  Domestic bonds                Foreign bonds              Domestic equities            Foreign equities                Wage growth
+
+                        2.60%                        9.72%                       19.19%                       20.35%                       0.94%
+
+
+
+                                                                             Correlation
+
+                                        Domestic bonds           Foreign bonds         Domestic equities       Foreign equities          Wage growth
+
+                Domestic bonds                             1                  0.073                  -0.254                  -0.125                -0.110
+
+
+                 Foreign bonds                                                     1                  0.271                   0.560                0.193
+
+
+               Domestic equities                                                                          1                   0.692                0.537
+
+
+                Foreign equities                                                                                                    1              0.619
+
+
+                 Wage growth                                                                                                                           1
+
+*1 The growth rates of standardized remuneration were used for historical data of wages.
+*2 The growth rates of wages for fiscal 2024 was extrapolated using the current economic scenarios in the financial verification.                           10
+                                                        Selection of Policy Asset Mix
+
+○ Based on the estimated expected returns, risks and correlations, GPIF selected a portfolio that achieves the investment
+  returns required for the pension finance (nominal wage growth + 1.9%), ensures that the lower partial probability is less
+  than that of all-domestic-bond portfolio and has the minimum conditional average shortfall rate.
+○ The policy asset mix was determined by rounding exact optimal allocation at 5% increments.
+○ The deviation limits are set for four assets as well as global bonds and global equities in order to strengthen the risk
+  management on the equity side. The deviation limits are narrowed from the fourth medium-term objectives period based on
+  the newly assumed risks.
+
+
+                                                                 Target allocation and deviation limits
+
+
+
+                                                         Domestic                        Foreign                    Domestic                      Foreign
+                                                          bonds                           bonds                     equities                      equities
+
+
+            Target allocation                                25%                           25%                          25%                          25%
+
+
+             Deviation limits
+                                                             ±6%                           ±5%                          ±6%                          ±6%
+              (each asset)
+
+
+          Deviation limits
+                                                                           ±9%                                                        ±9%
+    (global bonds and equities)
+
+
+  * Alternative assets (infrastructure, private equities, real estates and other assets determined after discussions by the Board of Governors) are continuously not
+    positioned as independent asset classes and managed within domestic bonds, foreign bonds, domestic equities and foreign equities according to their risk-return
+    characteristics with the upper limit of 5% of the total portfolio. However, if it becomes difficult to comply with the upper limit of 5% due to changes in economic
+    and market conditions, the limit will be increased after deliberation and resolution by the Board of Governors.                                                       11
+                                                             Profiles of Policy Asset Mix
+
+  ○ The policy asset mix is a portfolio that can achieve the investment returns required for the pension finance (nominal wage
+    growth + 1.9%) under all economic scenarios assumed in the financial verification.
+  ○ The standard deviation of the return of the policy asset mix is 10.34%, the probability that the investment return will be
+    short of the nominal wage growth (“lower partial probability”) is 42.3% and the average rate of shortages when the
+    investment return cannot meet the nominal wage growth (“conditional average shortfall rate”) is 7.2%.
+  ○ In the case of all-domestic-bond portfolio, the real return of 1.9% cannot be achieved under all economic scenarios.
+
+
+
+
+      Expected returns and risks based on various risk measures for policy asset mix and all-domestic-bond portfolio
+
+
+                                                                                  Conditional average short fall rate
+
+                                             Standard          Lower partial                                             Average short           CVaR               CVaR
+                         Real return
+                                             deviation          probability                                                 fall rate            (5%)               (1%)
+                                                                                     Normal             Empirical
+                                                                                   distribution        distribution
+
+
+
+ Policy asset mix           1.9%              10.34%              42.3%               -7.2%               -8.5%              -3.0%              -18.3%             -24.2%
+
+
+
+All-domestic-bond
+                           -0.8%               2.60%              60.8%               -2.6%               -2.7%              -1.6%              -6.7%               -8.4%
+     portfolio
+
+
+
+※ The real return is calculated by subtracting the nominal wage growth rate from the nominal investment return.
+※ The conditional average shortfall rate was calculated using not only the normal distribution but also the empirical distribution estimated from past realized returns, taking
+  into account that the probability of downside risks for equities may be larger than expected (so-called "tail risk").
+※ In the event of an economic situation with a probability of less than 5% with confidence intervals of 95% and 99% (CVaR5% and CVaR1%), such as the Global Financial
+  Crisis, the average returns were -18.3% and -24.2%, respectively.
+                                                                                                                                                                            12
+               Comparison with the Planned Reserve in the Financial Verification
+           - Scenario of Transition to and Continuation of Growth-Oriented Economy -
+                        - Scenario of Recurrence of the Past Thirty Years -
+○ Based on the expected return, standard deviation and correlation of each asset, we conducted 1 million Monte Carlo
+  simulations using random numbers to determine the future evolution of the reserve in the case of investment in policy asset
+  mix. We examined the distribution of these simulations and compared them with the planned reserve in the financial
+  verification (scenario of transition to and continuation of growth-oriented economy and recurrence of the past thirty years).
+○ The simulated reserve (median) exceeded planned reserve in both 25 and 50 years, with a 41% to 46% probability of being
+  below the planned reserve. On the other hand, in the case of investment in all-domestic-bond portfolio, the simulated
+  reserve was always below the planned reserve.
+○ Taken together with lower partial probability and conditional average short fall rate, this portfolio is the most efficient in
+  minimizing downside risks while meeting the investment objective.
+                    Estimation of the reserve                                                          Estimation of the reserve
+  (Transition to and continuation of growth-oriented economy)                                     (Recurrence of the past thirty years)
+
+
+
+
+    Probability of    As of the end of fiscal 2049   As of the end of fiscal 2074     Probability of     As of the end of fiscal 2049   As of the end of fiscal 2074
+    falling short            (25 years later)               (50 years later)          falling short             (25 years later)               (50 years later)
+
+   Policy asset mix             40.6%                          40.8%                 Policy asset mix              45.7%                          45.8%
+  All-domestic-bond                                                                 All-domestic-bond
+                                99.8%                         100.0%                                               99.9%                         100.0%                13
+       portfolio                                                                         portfolio
+                                                       Verifications by Various Risk Measures
+                                                                    - Stress Tests -
+
+○ Using historical data, we checked the short-term (1 year) and long-term (10 years) returns of policy asset mix. While 1-year
+  returns are volatile, 10-year annualized returns are all positive and the minimum return is 0.5%.
+○ We analyzed the returns of policy asset mix and all-domestic-bond portfolio during past stress phases such as Black Monday,
+  the bursting of the Dot-com bubble and the Global Financial Crisis. In the case of policy asset mix, the maximum temporary
+  loss would be -33.0% at the time of the Global Financial Crisis. In the case of all-domestic-bond portfolio, the maximum
+  temporary loss would be -4.7% at the time of Japanese bubble burst.
+
+
+                      Short-term returns                                   Long-term returns       Nominal investment return during past stresses
+                             (1 year)                                  (10 year, annualized)
+
+                                                                                                     Past stresses
+                                                                                                                                               All-domestic-
+                                                                                               (From month end to month     Policy asset mix
+                                                                                                                                               bond portfolio
+                                                                                                         end)
+
+
+  40%                                                                                          From September 1987 to
+                                                                                                   December 1987                -14.8%             5.9%
+                                         30.7%                                                     (Black Monday)
+  30%             Maximum
+                      →
+                                                                                                From December 1989 to
+                                                                                                   Septermber 1990              -16.9%             -4.7%
+  20%
+                                                                                                (Japanese bubble burst)
+                                                                                  8.4%
+  10%                                    5.5%                   Maximum                           From March 2000 to
+                  Median →                                          →→
+                                                                Median                              September 2001               -9.9%             5.3%
+                                                                                  5.5%
+                                                                 Minimum                       (Dot-com bubble and 9.11)
+    0%
+                                                                     →            0.5%
+                                                                                                From December 2007 to
+ -10%                                                                                               February 2009               -33.0%             3.0%
+                                                                                                (Global Financial Crisis)
+ -20%             Minimum
+                      →                  -22.2%                                                 From November 2019 to
+                                                                                                      March 2020                 -9.1%             -0.7%
+ -30%                                                                                           (Outbreak of COVID-19)
+
+(Note)The analysis period is 39 years from April 1985 to March 2024.                                                                                        14
+                                           Verifications by Various Risk Measures
+                                                        - Stress Tests -
+⃝ We conducted several stress tests under the assumption that a financial crisis would occur. For the stress scenarios, we
+  used market performance during the Global Financial Crisis (2008), the bursting of the Dot-com bubble (2000) or other
+  stresses.
+
+⃝ In all stress scenarios, the cumulative real investment returns are expected to decline temporarily and then improve as
+  the market recovers.
+* Market movements several years after the shock varied depending on economic conditions at the time.
+
+                                        Actual and estimated real investment return (cumulative)
+
+
+
+
+                                                                                                                                                           15
+         * From April 2025 onwards, the index is the cumulative rate of return obtained by investing in the policy asset mix during past stress periods.
+               (Reference) Estimation of Expected Returns in Different Economic Assumptions
+
+◯ The expected return of each asset is estimated by the expected short-term interest rate plus the risk premium.
+◯ Since the financial verification showed four long-term economic assumptions, the expected returns based on the long-term
+  economic assumptions were estimated from multiple perspectives.
+◯ For the estimation, the nominal expected short-term interest rate and the risk premium for the recurrence of the past thirty
+  years scenario were used as the starting point, then the expected short-term interest rate and risk premium for other
+  economic scenario were estimated. Specifically;
+    The expected short-term interest rate for the recurrence of the past thirty years scenario was calculated using the past
+     thirty year average of one year interest rates.
+    The relationship between interest rates and prices was based on the Fisher equation (Nominal interest rate is real interest
+     rate plus expected inflation rate).
+    On this basis, we examined a method in which the expected short-term interest rate fluctuates according to the price
+     increase and the real wage growth (Pattern A and Pattern B) and
+      a method in which the expected short-term interest rate fluctuates according to the price increase and the risk
+       premium fluctuates according to the real wage growth (Pattern C).
+
+
+                                                                   (Starting point)        (Pattern A and B)            (Pattern C)
+       Economic assumptions in the financial verification
+
+                                                     Nominal                               [Expected short-term interest rates for other
+   Economic            Price        Real wage                                                        economic scenarios and
+                                                      wages
+   scenarios         increase        growth
+                                                     growth                                         Risk premium estimates]
+
+High economic
+                      2.0%             2.0%            4.0%
+   growth
+                                                                                            Risk premium
+Growth-oriented                                                                                                        Risk premium
+                      2.0%             1.5%            3.5%
+   economy                                                         Risk premium
+                                                               (Recurrence of the past
+                                                                                              Short-term             Real wage growth
+ Recurrence of                                                      thirty years)
+ the past thirty      0.8%             0.5%            1.3%                                  interest rates
+     years                                                                                                               Short-term
+                                                                                           Real wage growth
+                                                               Short-term interest rates                                interest rates
+Zero economic
+ growth per           0.4%             0.1%            0.5%     (Recurrence of the past                                 Price increase     16
+                                                                                            Price increase
+    capita                                                           thirty years)
+                   (Reference) Estimation of Expected Returns in Different Economic Assumptions
+
+  ○ For the period from 1985 to 2024, a 1% increase in wages leads to a 1% increase in short-term interest rates. In Pattern A,
+    this relationship was applied uniformly to all economic scenarios. In Pattern B, given that the relationship between wages
+    and short-term interest rates differs depending on the period, a different relationship was applied to each economic scenario.
+  ○ The risk premium for equities is higher (lower) than the increase (decrease) in wages (β is no less than 1), but the risk
+    premium for bonds is not higher (lower) than the increase (decrease) in wages (β is less than 1). In Pattern C, expected
+    return based on these conditions was set for each asset.
+  ○ It is confirmed that the policy asset mix can achieve the investment returns required for the pension finance (nominal wage
+    growth + 1.9%) under all economic scenarios and estimation patterns.
+
+                                                                                                                       Relationship between wage growth and
+                                                                                                                         short-term interest rates (nominal)
+                                                                                                                                  10%          0 1985 to 1998
+                                       Policy asset mix returns
+
+
+
+
+                                                                                   Nominal short-term interest rates
+                                                                                                                                               0 1998 to 2024
+   Economic                                                                                                                       8%
+   scenarios
+                          Pattern                 Pattern                Pattern                                                  6%
+                             A                       B                      C
+                                                                                                                                  4%
+ High economic              1.9%                   3.5%                    1.9%
+    growth                 (5.9%)                 (7.5%)                  (5.9%)                                                  2%
+
+                                                                                                                                  0%
+    Growth-
+                            1.9%                   1.9%                    1.9%                -4%                                           1%                                   6%
+    oriented
+    economy                (5.4%)                 (5.4%)                  (5.4%)                                                  -2%
+                                                                                                                                  Nominal wage growth (year-on-year)
+ Recurrence of
+                            1.9%                   1.9%                    1.9%                                    Relationship between wage growth (real)
+ the past thirty
+     years                 (3.2%)                 (3.2%)                  (3.2%)                                        and risk premium of each asset
+                                                                                                                                              β
+
+Zero growth per             1.9%                   2.1%                    1.9%                                        Domestic   Foreign         Domestic             Foreign
+     capita                (2.4%)                 (2.6%)                  (2.4%)                                        bonds      bonds           equities            equities
+                                                                                                                         0.54       0.61             2.37               4.32           17
+*The upper numbers are real and the lower numbers in parentheses are nominal.
+                                         (Reference) Changes in Policy Benchmarks
+
+◯ GPIF invests in various types of assets, both domestic and foreign, to increase opportunities and earn profits from economic
+  activities around the world. GPIF also reduces the fluctuation of the whole investment value through the effect of asset
+  diversification, thereby reducing the possibility of significant losses.
+◯ When investing in various foreign assets, GPIF is concerned that the management and investment of the pension reserve
+  may be hindered if any of following situation is recognized;
+
+  • Situations that may hinder settlement through international settlement systems
+  • Situations where market liquidity is not sufficient in comparison with GPIF's investment scale
+  • Situations where foreign investors are restricted in their investment activities such as futures trading, or where a certification system is
+      imposed on foreign investors to conduct investment activities
+  • Situations where transactions are suspended for many securities
+  • Situations where authorities frequently make policy changes that lead to restrictions on investment
+
+◯ As a result of a comprehensive review of investments in foreign assets, taking into account the current investment situation
+  and environment, GPIF decided to adopt;
+  FTSE World Government Bond Index (excluding Japan, excluding China * 1, unhedged, yen basis) as a policy benchmark for foreign bonds
+  MSCI-ACWI (excluding Japan, excluding China A shares * 2, yen basis, including dividends, after taking into account GPIF dividend tax
+   factors) as a policy benchmark for foreign equities.
+
+ GPIF will continue to review policy benchmarks as necessary, taking into account changes in the economy and society in
+ timely and appropriate manners.
+ *1 Since China was included in the FTSE World Government Bond Index in October 2021, Chinese government bonds were not included in the policy benchmark for foreign bonds in
+    formulating the policy asset mix for the fourth medium-term objectives period.
+ *2 While MSCI-ACWI(excluding Japan, yen basis, before tax) was used as the policy benchmark for foreign equities, against the background of the above-mentioned concerns, China A shares
+    were not included in the investable universe for passive investment managers. As a certain period of time has passed since the China A shares were included in indices in 2018, GPIF has
+    changed the policy benchmark in line with the passive investment.
+
+
+
+
+                                                                                                                                                                                           18
+                                       (Reference) Various risk measures
+
+◯   Standard deviation -------------------- Breadth of portfolio return distribution
+◯   Lower partial probability -------------- Probability in which portfolio return will be short of nominal wage growth
+◯   Conditional average shortfall rate ---- Average rate of shortages when portfolio return cannot meet the nominal wage growth
+◯   Average shortfall rate ----------------- Average shortfall of portfolio returns to nominal wage growth
+                                                (the average shortfall rate is zero when portfolio return is greater than nominal wage growth)
+◯   CVaR a% -------------------------------- Average shortfall when portfolio returns are in the lower a% of the spread from nominal wage growth
+
+
+
+                             Nominal wage growth
+                        *In reality, the rate of wage growth also
+                               fluctuates with probability
+                                                                                                    Portfolio return distribution
+
+
+
+
+                                                      Average
+                   Lower partial probability
+                                 (area)
+
+       Average of the lower a% of the
+       distribution of the spread from
+       nominal wage growth                                             Conditional average shortfall rate
+
+
+
+                                                                        Average shortfall rate
+                                                                        (conditional average shortfall times lower partical probability)
+
+
+                                                                        CVaRa%
+
+
+                                                                                                                       Standard deviation
+                                                                                                                        (breadth of distribution)   19
+                                          Discussions at the Project Team for Policy Asset Mix
+Session   Meeting date                                       Main agenda                                                             Date                                           Main agenda
+
+  1st     Apr 25, 2022   •   Key issues in policy asset mix formulation
+
+
+                         •   Scenario analysis                                                                                                  •   Review of policy benchmarks
+                                                                                                                      13th       Sep 12, 2024
+                         •   Optimization results, issues in proxy allocation and risk management of                                            •   Asset classification and deviation limits
+ 2nd      Aug 2, 2022
+                             alternative assets
+                         •   Questionnaires to overseas pension funds
+
+                                                                                                                                                •   Data assumptions in policy asset mix formulation
+ 3rd      Nov 1, 2022    •   Alternative assets (1)                                                                                             •   Report on academic tetulage in estimating expected short-term interest rates
+                         •                                                                                            14th        Oct 8, 2024       based on risk premium hypothesis
+ 4th      Jan 30, 2023       First report on the survey of overseas pension funds
+                                                                                                                                                •   Issues presented by three asset management entities at the liason meeting of
+                                                                                                                                                    reference asset mix
+                         •   Expected short-term interest rates (1)
+ 5th      May 2, 2023    •   Second report on the survey of overseas pension funds
+                         •   Review of the integration of domestic and foreign assets                                                           •   Exchange rate
+                                                                                                                                                •   Wage growth rate (3)
+                                                                                                                      15th       Nov 15, 2024
+                         •   Stability of equilibrium rate of returns                                                                           •   Policy asset mix proposal (1)
+                         •   Review of expected return estimation                                                                               •   Progress of the liason meetings of reference asset mix
+ 6th      Aug 4, 2023
+                         •   Final report on the survey of overseas pension funds and applicable results for
+                             GPIF
+                                                                                                                                              •     Stress test and scenario analysis (1)
+                                                                                                                                              •     Policy asset mix proposal (2)
+                         •   Characteristics of data of each asset used in policy asset mix formulation
+                                                                                                                      16th       Dec 12, 2024 •     Summary of Discussion (Draft)
+                         •   Policy benchmark for domestic assets
+ 7th      Nov 6, 2023                                                                                                                         •     Progress of the liason meetings of reference asset mix
+                         •   Results of analysis on the term structure of risk                                                                •     Reference value for estimated TE of the entire reserve
+                         •   Follow-up report on the survey of overseas pension funds
+
+
+                                                                                                                                                •   Investment objectives
+                         •   Policy benchmark for foreign assets (1)                                                                            •   Policy asset mix proposal (3)
+ 8th      Feb 7, 2024    •   Interim report on expected return estimation based on economic scenarios                 17th       Dec 24, 2024
+                                                                                                                                                •   Stress test and scenario analysis (2)
+                         •   Optimization                                                                                                       •   Summary of discussions (1)
+
+
+                         •   Policy benchmark for foreign assets (2)
+                         •   Sensitivity analysis of variance-covariance matrix in optimization
+ 9th      May 2, 2024                                                                                                                           •   Policy asset mix proposal (reference asset mix proposal) (4)
+                         •   Constraints in optimization                                                              18th       Jan 17, 2025
+                         •   Economic scenarios                                                                                                 •   Summary of discussions (2)
+
+
+
+                       •     Policy benchmark for foreign assets (3)
+ 10th     May 31, 2024 •     Alternative assets (2)
+                       •     Expected short-term interest rates (2)                                                                             •   Status of reference asset mix formulation
+                                                                                                                      19th       Feb 26, 2025
+                                                                                                                                                •   Summary of discussions (3)
+
+                         •   Wage growth rate (1)
+ 11th     Jun 20, 2024
+                         •   Liaison meetings of referent asset mix
+
+
+                        •    Wage growth rate (2)                                                                                               •   Policy asset mix proposal (5)
+                                                                                                                      20th       Mar 19, 2025
+ 12th     July 19, 2024 •    Investment constraints in policy asset mix formulation                                                             •   Summary of discussions (4)
+                        •    Fiscal 2024 financial verification results
+
+
+
+                                                                                             *    Eight rounds of discussions had been held before the project team for policy asset mix verification was established.
+                                                                                                                                                                                                                           20
+                   Discussions at the Board of Governors
+
+
+
+Session   Meeting date                                     Main agenda
+
+
+ 98th     Jul 26, 2024   Review of fiscal 2024 financial verification results
+
+
+100th     Oct 29, 2024   New policy asset mix (1)
+
+
+101th     Nov 22, 2024   New policy asset mix (2)
+
+
+102th     Dec 20, 2024   New policy asset mix (3)
+
+
+                         • New policy asset mix (4) (New reference asset mix)
+103th     Jan 24, 2025
+                         • Treatment of 5% ceiling on alternative assets
+
+
+                         • Status of reference asset mix formulation
+105th     Mar 11, 2025
+                         • New policy asset mix (5)
+
+
+
+
+                                                                                21
+Copyright © 2025 Government Pension Investment Fund All rights reserved.
+

@@ -1,0 +1,47 @@
+{
+  "event_id": "CN-P4-029",
+  "market": "China",
+  "published_date": "2023-10-31",
+  "available_at": "2023-10-31T23:59:59+08:00",
+  "participant_type": "上市公司/控股股东/管理层/产业企业",
+  "observed_action": "前三季度实体类公司研发支出约5813亿元、同比8%；真实产业支出不等股票买盘或盈利捕获",
+  "constraint": "预算、现金流、债务、公司治理、回购用途",
+  "action_status": "OBSERVED_ACTION",
+  "flow_size": {
+    "value": 5813,
+    "unit": "亿元人民币",
+    "currency": "CNY",
+    "basis": "ACTUAL_RESEARCH_EXPENSE_NOT_STOCK_FLOW",
+    "scope": "2023年前三季度沪市实体公司研发",
+    "direction": "UNKNOWN"
+  },
+  "flow_duration": "已报告期间的累计事实；未来持续期UNKNOWN_AT_T",
+  "voluntary_or_forced": "主动/规则约束；不能据公告认定被迫买卖",
+  "source_paths": [
+    "research/phase4/sources/china/CN-S-CORP-2023.html"
+  ],
+  "source_urls": [
+    "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20231031_5728276.shtml"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/china/CN-S-CORP-2023.html": "4422f68f886137dfea652412bf67f6e5861c239c5490f7dfb24e7f3cc567d616"
+  },
+  "source_excerpt": "实体类公司合计研发支出约5813亿元，同比增长8%。分行业看，传统行业转型升级加快，公用事业、交通运输、建筑业、采矿业研发支出增幅达23%、13%、12%、9%；高技术行业研发投入更为显著，电子设备制造业、信息技术服务业、运输设备制造业研发支出增幅达20%、15%、15%，有力助推我国高水平科技高质量发展。科创板作为“硬科技”企业的主阵地，坚持创新驱动发展，",
+  "publication_date_evidence": {
+    "source_id": "CN-S-CORP-2023",
+    "excerpt": "公司完成2023年三季报披露 2023-10-31 截至2023年10月31日，除多地上市红筹企业中芯国际、百",
+    "locator": "原HTML可见发布日期/发布目录日期；PDF发布日期由配套官方网页证明",
+    "precision": "DATE_ONLY",
+    "timestamp_policy": "即使页面给时分秒也采用日末保守上界；不是精确首发时刻"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "付出真实资金比口头意向更可检验；回购可用于员工激励而不注销，产业费用可产生供给竞争",
+  "alternative_explanation": "公司在高价回购、员工激励/支撑价格、行业过度投资；经济变化共同决定支出与价格",
+  "falsifier": "投资未转化为订单/自由现金流、回购用途造成再稀释、或预算/剩余额度已耗尽",
+  "confidence_level": "LEVEL 1 — 机制可行；行为/制度事实有原源，预测优势未识别",
+  "evidence_id": "EC-CN-P4-029",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}

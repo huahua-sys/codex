@@ -1,0 +1,19 @@
+{
+  "created_at_utc": "2026-10-10T08:27:11.526769+00:00",
+  "status": "FINAL_PACKAGE_QA_PASS_GITHUB_DELIVERY_PENDING",
+  "qa": "research/phase4/audit/INDEPENDENT_PHASE4_QA.v005.json",
+  "independent_checks": 67415,
+  "core_export": {
+    "file": "Investment_Research_Phase4_CORE.zip",
+    "bytes": 9007829,
+    "sha256": "bdef7229e0c67ad0323c640c2776d4fce49df94c4d829d030a3a8b7eb7eec942",
+    "snapshot": "Pre-final-QA core, validated by external v005 receipt; no package mutation"
+  },
+  "frozen_prior_results_unchanged": true,
+  "nine_append_prefixes_unchanged": true,
+  "nine_operative_fields_unchanged": true,
+  "new_forecasts": 0,
+  "new_operational_principles": 0,
+  "final_qa_external_to_frozen_core": true,
+  "user_download_confirmed": false
+}

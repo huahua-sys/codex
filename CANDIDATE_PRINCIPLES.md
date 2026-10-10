@@ -58,3 +58,8 @@
 PAC-P3-001 / LEVEL2 / C preliminary / PREDICTIVE_ASSOCIATION_ONLY：美国固定股票ETF集合里，相对自身历史高波动组的12/24m平均收益关系经同季度对照、全部10遗漏和严格非重叠后仍存活。不是更高上涨概率、不是beta匹配alpha、不是已识别经济机制；不得产生买卖规则。完整机制、counterexamples、negative controls、false negatives、产业/市场/年代、持续/套利解释、price-in、失效/下一测试见PHASE3_SURVIVING_PRINCIPLES。主结果后挑选攻击的问题与大范围比较需降级。
 
 本次新增候选关联1/投资原则0；原15条candidate及CURRENT_FRAMEWORK operative candidate列表保持完全不变，没有A/B晋升。
+
+
+## Phase4 — 没有新增可操作原则
+
+研究对象转向受约束资金。H-P4-001…005是五个机制研究问题，尚非Candidate Investment Principle；动作事实LEVEL2不能升级收益机制。原15候选与PAC-P3-001/C非操作关联原样保留。新增LEVEL3收益机制0、LEVEL4原则0；不因GPIF7条/2年正均值或JPX8条负宽基差而升可信度。研究问题树在HUMAN_DECISION_ARCHITECTURE.md；不是自动BUY规则，不赋未经校准概率。

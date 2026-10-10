@@ -1,0 +1,38 @@
+{
+  "event_id": "US-P4-036",
+  "market": "US",
+  "published_date": "2021-12-15",
+  "available_at": "2021-12-15T23:59:59-05:00",
+  "participant_type": "SEC, money-market-fund boards/advisers and redeeming investors",
+  "observed_action": "SEC Proposes Amendments to Money Market Fund Rules",
+  "constraint": "可赎回负债对非即期可卖资产；净值、流动资产、费用与门槛制度",
+  "action_status": "ANNOUNCEMENT_ONLY",
+  "flow_size": null,
+  "flow_duration": "proposal not binding",
+  "voluntary_or_forced": "NOT_A_TRADE; applicable fund rule mandatory only after effectiveness",
+  "source_paths": [
+    "research/phase4/sources/us/73d708fd4e8ca811b3b1.html"
+  ],
+  "source_urls": [
+    "https://www.sec.gov/newsroom/press-releases/2021-258"
+  ],
+  "source_file_hashes": {
+    "research/phase4/sources/us/73d708fd4e8ca811b3b1.html": "13e4cfc28cdf02b66e469c80d2bf006956fe895c9eab38938e54ac07aabddf00"
+  },
+  "source_excerpt": "Washington D.C., Dec. 15, 2021 —\nThe Securities and Exchange Commission today voted to propose amendments to certain rules that govern money market funds under the Investment Company Act of 1940. In March 2020, growing economic concerns about the impact of the COVID-19 pandemic led investors to reallocate their assets into cash and short-term government securities. Prime and tax-exempt money market funds, particularly institutional funds, experienced large outflows, which contributed to stress on short-term funding markets. The Commission’s proposed amendments are designed, in part, to address concerns about prime and tax-exempt money market funds highlighted by these events.\n“Together, these amendments are designed to reduce the likelihood of runs on money market funds during periods of stress,” said SEC Chair Gary Gensler. “They also would equip funds to better meet large redemptions, addressing concerns about redemption costs and liquidity. Given the broad reach of short-term funding markets, these proposals speak to our remit to maintain fair, orderly, and efficient markets.”\nThe proposed amendments would increase liquidity requirements for money market funds to provide a more substantial liquidity buffer in the event of rapid redemptions. The proposed amendments also would remove provisions in the current rule permitting or requiring a money market fund to impose liquidity fees or to suspend redemptions through a gate when a fund’s liquidity drops below an identified threshold. These provisions appeared to contribute to investors’ incentives to redeem in March 2020 as some funds’ reported liquidity levels declined.\nTo address concerns about redemption costs and liquidity, the proposal would require institutional prime and institutional tax-exempt money market funds to implement swing pricing policies and procedures that would require redeeming investors, under certain circumstances, to bear the liquidity costs of their redemptions.\nFurther, the proposal would amend certain reporting requirements to improve the availability of information about money market funds and enhance the Commission’s monitoring and analysis of these funds.\nThe SEC began evaluating th",
+  "publication_date_evidence": {
+    "excerpt": "Washington D.C., Dec. 15, 2021 —\n",
+    "locator": "Original article publication heading/dateline (not fiscal-end or URL-only)",
+    "source_path": "research/phase4/sources/us/73d708fd4e8ca811b3b1.html"
+  },
+  "source_proof_admitted": true,
+  "mechanism": "赎回成本/门槛改变先赎回优势及流动性储备；不能据此推算股票flow",
+  "alternative_explanation": "改革被预期，或改变产品/负债结构但无股票边际流",
+  "falsifier": "过渡期内持仓/客户结构未改变，或制度变化不降低/改变run incentives",
+  "confidence_level": "LEVEL 1",
+  "evidence_id": "EC-US-P4-036",
+  "costliness_of_action": "UNASSESSED_UNLESS_ORIGINAL_SOURCE_QUANTIFIES_COMMITTED_COST",
+  "independent_evidence": "Same issuer reposts are not independent confirmation.",
+  "potential_size_interpretation": "Capacity/authorization/holdings are not executed marginal flow.",
+  "evidence_scope": "Participant action and disclosure evidence; no correctness or tradable-edge inference."
+}
