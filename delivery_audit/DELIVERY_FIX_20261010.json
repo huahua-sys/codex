@@ -1,0 +1,12 @@
+{
+  "stage": "DELIVERY_ACCESS_FIX_2026_10_10",
+  "shared_root_mode": "0755",
+  "former_nested_directory_mode": "0700",
+  "nested_directory_mode_now": "0755",
+  "flat_pdf_pages": 3,
+  "flat_pdf_bytes": 124091,
+  "flat_pdf_sha256": "c6c0b8d9c4b147083ce311ccd4c359b534fb0e7999a3fd2b4aa8858f5a2b48b8",
+  "flat_zip_files": 3,
+  "research_results_or_old_frozen_artifacts_modified": false,
+  "actual_user_click_confirmed": false
+}

@@ -1,0 +1,648 @@
+{
+  "batch_role": "NEW_LABELS_COMPUTATIONAL_HOLDOUT_NOT_PROSPECTIVE",
+  "cutoff_dates": [
+    "2005-03-31",
+    "2006-03-31",
+    "2007-03-31",
+    "2008-03-31",
+    "2009-03-31",
+    "2010-03-31",
+    "2011-03-31",
+    "2012-03-31",
+    "2013-03-31",
+    "2014-03-31",
+    "2015-03-31",
+    "2016-03-31",
+    "2017-03-31",
+    "2018-03-31",
+    "2019-03-31",
+    "2020-03-31",
+    "2021-03-31",
+    "2022-03-31",
+    "2023-03-31",
+    "2024-03-31"
+  ],
+  "episodes": [
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2005-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-001",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2005-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-002",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2005-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-003",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2006-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-004",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2006-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-005",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2006-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-006",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2007-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-007",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2007-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-008",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2007-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-009",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2008-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-010",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2008-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-011",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2008-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-012",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2009-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-013",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2009-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-014",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2009-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-015",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2010-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-016",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2010-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-017",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2010-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-018",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2011-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-019",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2011-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-020",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2011-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-021",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2012-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-022",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2012-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-023",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2012-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-024",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2013-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-025",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2013-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-026",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2013-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-027",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2014-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-028",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2014-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-029",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2014-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-030",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2015-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-031",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2015-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-032",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2015-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-033",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2016-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-034",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2016-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-035",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2016-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-036",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2017-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-037",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2017-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-038",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2017-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-039",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2018-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-040",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2018-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-041",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2018-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-042",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2019-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-043",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2019-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-044",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2019-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-045",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2020-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-046",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2020-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-047",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2020-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-048",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2021-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-049",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2021-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-050",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2021-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-051",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2022-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-052",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2022-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-053",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2022-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-054",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2023-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-055",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2023-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-056",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2023-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-057",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2024-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-058",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2024-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-059",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2024-03-31T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-060",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    }
+  ],
+  "missing_policy": "KEEP_ROW_AND_REPORT_UNRESOLVED_DATA_NO_REPLACEMENT",
+  "round_id": "NIGHT_CALENDAR_CONTROL",
+  "selection_inspects_outcomes": false,
+  "selection_method": "FIXED_CALENDAR_FULL_GRID",
+  "universe": [
+    {
+      "asset_id": "SPY",
+      "inception_date": "1993-01-29",
+      "market": "US"
+    },
+    {
+      "asset_id": "HSI",
+      "inception_date": "1969-11-24",
+      "market": "HK"
+    },
+    {
+      "asset_id": "N225",
+      "inception_date": "1950-09-07",
+      "market": "JP"
+    }
+  ]
+}

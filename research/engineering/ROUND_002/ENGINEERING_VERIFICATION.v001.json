@@ -1,0 +1,20 @@
+{
+  "record_type": "synthetic_engineering_verification",
+  "evidence_class": "NOT_INVESTMENT_EVIDENCE",
+  "run_at": "2026-10-08T08:31:05.005271+00:00",
+  "command": "python -m unittest discover -s tests -p test_round_002.py -v",
+  "exit_code": 0,
+  "test_count": 10,
+  "stdout": "",
+  "stderr": "test_all_locks_required_before_future_read (test_round_002.ReplayEngineering.test_all_locks_required_before_future_read) ... ok\ntest_calendar_selection_has_no_outcome_interface (test_round_002.ReplayEngineering.test_calendar_selection_has_no_outcome_interface) ... ok\ntest_execution_uses_next_open_and_excludes_exit_session_future_extrema (test_round_002.ReplayEngineering.test_execution_uses_next_open_and_excludes_exit_session_future_extrema) ... ok\ntest_future_record_rejected_even_if_observed_period_earlier (test_round_002.ReplayEngineering.test_future_record_rejected_even_if_observed_period_earlier) ... ok\ntest_missing_outcome_not_zero_and_unknown_actions_not_total_return (test_round_002.ReplayEngineering.test_missing_outcome_not_zero_and_unknown_actions_not_total_return) ... ok\ntest_nonprice_publication_cannot_be_backdated (test_round_002.ReplayEngineering.test_nonprice_publication_cannot_be_backdated) ... ok\ntest_price_cutoff_filter_and_uncertain_quarantine (test_round_002.ReplayEngineering.test_price_cutoff_filter_and_uncertain_quarantine) ... ok\ntest_stage_a_subprocess_guard_and_brier_baselines (test_round_002.ReplayEngineering.test_stage_a_subprocess_guard_and_brier_baselines) ... ok\ntest_total_return_split_and_dividend_entry_and_exit (test_round_002.ReplayEngineering.test_total_return_split_and_dividend_entry_and_exit) ... ok\ntest_write_once_repeat_verifies_and_tampering_blocks_labels (test_round_002.ReplayEngineering.test_write_once_repeat_verifies_and_tampering_blocks_labels) ... ok\n\n----------------------------------------------------------------------\nRan 10 tests in 0.130s\n\nOK\n",
+  "source_sha256": {
+    "lab/schema.py": "157f074041b11abbeb145332e6f28a9ab69657a0827e4c4a6b9be44656febb42",
+    "lab/replay.py": "745b24cc1d8000fc8ee57ba6057b7758a3cd460658865a4b14c3111f5cc55f2f",
+    "lab/evaluate.py": "0e8d6f9195acab27008dcef9703c48048bfeffc422e293ea6ac8614e9d4ab01b",
+    "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+    "scripts/run_replay.py": "aac0c6940ace0f77aa768770573c75c674c802260b845c5712dbb73ad2fc4a3b",
+    "scripts/import_dataset.py": "df6c3f52d23a860c781e6be8a7a78c365ea07a4dc8756cfd89d2f67421244712",
+    "tests/test_round_002.py": "7fce5513713478b0e4c5a60866bea35a07c8c9b05b408d9636af8ace874ada40"
+  },
+  "synthetic_episode_count_in_empirical_registry": 0
+}

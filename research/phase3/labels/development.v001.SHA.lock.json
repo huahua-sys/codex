@@ -1,0 +1,9 @@
+{
+  "development_analysis_lock": null,
+  "feature_sha256": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+  "label_sha256": "5e3e07c0f95fa374e4146545f21faf6950d5c496bf1c7cf34a8825f2d357cd37",
+  "locked_at": "2026-10-09T05:51:11.250015+00:00",
+  "partition": "development",
+  "registration_sha256": "b507566e01e0cd32b63af7ec239aa39ab93c27bc2db300b0892994175a730c8b",
+  "status": "FUTURE_LABELS_REVEALED_AFTER_FEATURE_LOCK"
+}

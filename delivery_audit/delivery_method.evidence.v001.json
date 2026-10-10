@@ -1,0 +1,24 @@
+{
+  "checked_at_utc": "2026-10-09T15:42:25.291853+00:00",
+  "method": "DOCUMENTED_NATIVE_SHARED_FILES",
+  "source_document": "/opt/codex/cua_node/lib/node_modules/@oai/browser-desktop/environment-docs/cloud/cloud-shared-files.md",
+  "source_document_sha256": "409f04bb73715d4bf27631b3a913273a64d6d323b93d105593564b3c5aff46ac",
+  "documented_main_directory": "/workspace/scratch",
+  "documented_browser_directory": "/home/oai/share",
+  "target_delivery_directory": "/workspace/scratch/investment_research_delivery_20261009/",
+  "scratch_exists": true,
+  "scratch_writable": true,
+  "files_copied_by_this_subagent": false,
+  "browser_click_verified": false,
+  "user_received_confirmed": false,
+  "external_site_created": false,
+  "external_publish_performed": false,
+  "zip_output_citation_support_independently_verified": false,
+  "receipt_required": [
+    "real_file_path",
+    "file_size_bytes",
+    "source_sha256",
+    "delivered_sha256",
+    "zip_crc_error_member_or_null"
+  ]
+}

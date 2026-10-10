@@ -1,0 +1,112 @@
+{
+  "design": {
+    "MAE_MFE_basis": "DAILY_CLOSE_WEALTH_AND_TERMINAL_OPEN_NOT_INTRADAY_EXTREMA",
+    "accounting": "UNADJUSTED units; split before distribution; dividends earned by prior holdings, ex-date CLOSE reinvestment; exit-open entitlement retained as cash; no entry-exdate entitlement",
+    "benchmarks_initial_weights": {
+      "ALWAYS_BIL": {
+        "BIL": 1.0
+      },
+      "ALWAYS_IEF": {
+        "IEF": 1.0
+      },
+      "ALWAYS_SPY": {
+        "SPY": 1.0
+      },
+      "FIXED_50_50_SPY_BIL": {
+        "BIL": 0.5,
+        "SPY": 0.5
+      },
+      "FIXED_60_40_SPY_IEF": {
+        "IEF": 0.4,
+        "SPY": 0.6
+      },
+      "FIXED_70_30_SPY_IEF": {
+        "IEF": 0.3,
+        "SPY": 0.7
+      }
+    },
+    "beta_control": "descriptive OLS weekly-minus-BIL on SPY-minus-BIL per horizon/cost; no trade weights or model prediction derived",
+    "cost_choice_optimized": false,
+    "costs_per_order_leg_bps": {
+      "fixed_10bp_sensitivity": 5.0,
+      "primary_50bp_roundtrip": 25.0
+    },
+    "daily_wealth": "initial NAV, every held-session CLOSE, terminal exit OPEN; mixed daily paths weighted before recomputing MDD",
+    "dividend_payment_dates": "UNKNOWN: economic ex-date reinvestment, not verified executable payment-date cash",
+    "entry": "first common observed SPY/IEF/BIL US session OPEN strictly after T",
+    "exit": "OPEN after N complete common observed sessions; same entry and exit for every benchmark",
+    "horizons": {
+      "12m": 252,
+      "1m": 21,
+      "1w": 5,
+      "24m": 504,
+      "3m": 63,
+      "6m": 126
+    },
+    "intervals": "1000 paired annual-cutoff resamples, fixed seed 20261009, percentile 2.5/97.5; descriptive only, overlapping 24m/year regimes invalidate independent-bet interpretation",
+    "limitations": [
+      "current corrected/backfilled vendor vintages, not archived quotes",
+      "provider-reported dividends not independently reconciled",
+      "BIL split-unit admin evidence only",
+      "surviving ETF sample",
+      "normal-session timing; halts and half-days not exhaustively audited",
+      "USD only; no FX or taxes",
+      "fund expenses embedded; trading costs assumed",
+      "17 annual clusters, overlapping horizons and common macro shocks",
+      "fixed allocation controls do not demonstrate optimal asset allocation",
+      "no return edge, risk edge or principle promotion from sample averages alone"
+    ],
+    "no_new_independent_replay_or_prediction": true,
+    "old_results_known_before_design": true,
+    "old_rules": "copy WEEKLY_SWITCH and FIXED_ENTRY_CHOICE results only; no new signal, rerun, parameter change or sample filtering",
+    "parameter_searches": 0,
+    "parity_requirement": "all old SPY/BIL and 50/50 returns/MDD match under both costs and every horizon; fail whole run on timing discrepancy",
+    "primary_horizon": "12m",
+    "rebalancing": "NONE; fixed initial buy-and-hold weights, drifting thereafter; not annual-rebalanced allocation or CAGR",
+    "residuals": "paired net-return difference from each specified same-timing benchmark; not estimated causal alpha",
+    "secondary_horizons": [
+      "1w",
+      "1m",
+      "3m",
+      "6m",
+      "24m"
+    ],
+    "selection": {
+      "all_existing_cash_sell_rows_retained": true,
+      "cutoff": "09-30T23:59:59+00:00",
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "status": "EXPLORATORY_COMPARISON_AFTER_OLD_RESULTS_KNOWN",
+    "study_id": "PHASE2-RESIDUAL-BENCHMARKS-v001",
+    "threshold_optimization": false
+  },
+  "honesty_note": "Old 102 cash/sell records and summary were inspected before this new comparator design; this lock cannot establish blindness.",
+  "registered_at": "2026-10-09T00:13:03.781430+00:00",
+  "source_and_code_sha256": {
+    "data/raw/round_002/market/BIL.canonical.json": "47d1a9dc7657afea42f5dbe0d39abff0a3ccb5a1e2d7d466105fcb8983d800eb",
+    "data/raw/round_002/market/IEF.canonical.json": "a7c4676d7b929d22b5d29687d0c9740c25206aaa5cb507d306a069436e6b17a9",
+    "data/raw/round_002/market/SPY.canonical.json": "b8fd3fcd5434381c8e8c15f81f92e5441b972a7843085e7242c88c97bcf4c874",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "research/night/cash_sell/CASH_SELL_RESULTS.v001.json": "1159e678f7c609540074492612967ce1df16f990e0c54a2f0310a7faf53709cb",
+    "scripts/analyze_cash_and_sell.py": "0c10ac9dbe8077512e0d3b5cd92e840c0c43a5c617d9fcd1a1bdac9604c272d4",
+    "scripts/phase2_benchmarks.py": "f1018fcd6716235693207a1f9f23951e01ba9a9babbca8bf26c37f73e5153f3a"
+  }
+}

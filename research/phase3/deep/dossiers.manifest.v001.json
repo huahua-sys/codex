@@ -1,0 +1,2197 @@
+{
+  "EFFECTIVE_SAMPLE_ASSESSMENT": "Independent N unknown; text count is not identified mechanisms",
+  "RAW_OBSERVATIONS": 273,
+  "created_at": "2026-10-09T05:58:03.407924+00:00",
+  "dossiers": [
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2000Q2.v001.md",
+      "point_id": "P3-XLK-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "336c243b2b5d7b55ed9a3062fd61ea73a08f9e68a6f5d721de7d0760c15b3199"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2000Q2.v001.md",
+      "point_id": "P3-SOXX-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "81e9e395549241b8e98d94c9903699ea5c716cf7e65972fb620d3a8496dab28a"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2000Q2.v001.md",
+      "point_id": "P3-KBE-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "873ba9e9924029badea26e95fd30f9cca3793bf85a04ddb9a1581c9a5609ec9a"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2000Q2.v001.md",
+      "point_id": "P3-XLI-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "ff13b9131a603752edff25fcaf834eb4c0d61b45fdaf5e9de94402ff6caa90e4"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2000Q2.v001.md",
+      "point_id": "P3-XLY-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "1f571be29470527d9b019a8793f54d1cc7bffdd35de7747277c86aee4b4ca37d"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2000Q2.v001.md",
+      "point_id": "P3-XLV-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "730711568f96dba0ae0c1bbb078f1282c7a13e1692fbed542f0f42c46c54f63d"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2000Q2.v001.md",
+      "point_id": "P3-XLE-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "1dd9be8e9285726c10a6699e231892a618c5e78c665013bb1b7055792810ad5b"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2000Q2.v001.md",
+      "point_id": "P3-XLU-2000Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "8093fc31fb279d0627e50acacd78ae4756c9b14562c8f02be3138292dc00feb4"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2000Q4.v001.md",
+      "point_id": "P3-SPY-2000Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "5ca8b0cd551efe0f670db7fe482f35a2f19f5eaf60e58b7e4ef7411b697960e4"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2000Q4.v001.md",
+      "point_id": "P3-HSI-2000Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "4d04b446ca1ed1f19f819e0f949a8db93653db5c91201b16eebf657096f5fadb"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2000Q4.v001.md",
+      "point_id": "P3-N225-2000Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "6eb8c10ad6e2c5a689ce2a8cbe97ca7b694e999d7a11cf97a93c9c13e0269eb5"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2000Q4.v001.md",
+      "point_id": "P3-SSE-2000Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "d68b5180532a12573490229f970b34229ecc7c8c577176ebb3bf882492067a86"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2000Q4.v001.md",
+      "point_id": "P3-STOXX50E-2000Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "07f9e280b6fb0bce8f7ae1205647e6b008ba839961bea7561fa0f17c4485fd20"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2001Q2.v001.md",
+      "point_id": "P3-XLK-2001Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "6c689e1576d39e93a797ec25b375aa886edfae49dc89a7385c5e557aa194f1e3"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2001Q2.v001.md",
+      "point_id": "P3-SOXX-2001Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "09515355fb1467a17f858e7d302efbf26459db8b98615782e254f28f577b9565"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2001Q2.v001.md",
+      "point_id": "P3-KBE-2001Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "0e9519a4a958cea0d5e8ebdc6dcbe6eb719386f4787495df7d7f8ed6f1c68fbb"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2001Q2.v001.md",
+      "point_id": "P3-XLI-2001Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "7143ddf38326762b47b33eb229a12dc62adcc143c69e9703d8b19b029d18ad6c"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2001Q2.v001.md",
+      "point_id": "P3-XLY-2001Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "b8448cd26cd81046ccc0e8254a67f22a3504a12092972fd046e08a02591ded4b"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2001Q2.v001.md",
+      "point_id": "P3-XLV-2001Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "1a6294b8d24a36a5090aafab5bf8f6229134e3c1a6a4a72f851f02dd52088d56"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2001Q2.v001.md",
+      "point_id": "P3-XLE-2001Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "31404eb017b9d621e8444483c32bec10e0ff43d00a71836a9169ac8546eab700"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2001Q2.v001.md",
+      "point_id": "P3-XLU-2001Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "0cd005939b14a451a8f7495dddb2251ccd0bbc65e32eba8f3a63904b7ebde4de"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2002Q2.v001.md",
+      "point_id": "P3-XLK-2002Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "d68f77326d527d1f6d5f980334f41a5930eca5498803038683ba4de5b9b049a7"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2002Q2.v001.md",
+      "point_id": "P3-SOXX-2002Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "fdb321f76c09f46640275d1fd0edcddbf5fee5aa62632816474b48cfc9f2cac8"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2002Q2.v001.md",
+      "point_id": "P3-KBE-2002Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "53f604e94382c1bb5fdf34a7a2003cefad54f49d9d1b50b5780d129cd0aaad6a"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2002Q2.v001.md",
+      "point_id": "P3-XLI-2002Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "830fa7ae735fb5e12db936916c6be9117a1683f5a95b222cc4de9011df8e13d4"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2002Q2.v001.md",
+      "point_id": "P3-XLY-2002Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "32104ff4b3f2a356942b04613838c2df71c297cd677e52b5538d72686534e015"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2002Q2.v001.md",
+      "point_id": "P3-XLV-2002Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "1d18d9903bc79c2d15893b252bb75b953855ae6c8802be5dcec5e36fb7147f54"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2002Q2.v001.md",
+      "point_id": "P3-XLE-2002Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "0f7f008f7375d1b0b49ce0ff8d4c0d8ad4cda94b43a990a497a1d0359fa6602c"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2002Q2.v001.md",
+      "point_id": "P3-XLU-2002Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "ddf833a3b2821cfd01a8e31b7976da39d1b38d77505b4e39515680dd14602db1"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2002Q4.v001.md",
+      "point_id": "P3-SPY-2002Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "35505593161bb59f2c6b826dec61eb5e0e5e6ba5f994912b739f78b241b529e7"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2002Q4.v001.md",
+      "point_id": "P3-HSI-2002Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "c25fdee2ceca500950d007ec5090baa296f12c13feb4f2a257b2e7eeb02ebca3"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2002Q4.v001.md",
+      "point_id": "P3-N225-2002Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "a94fce994d4411b4bc77ed6ecf7482b02b2cc59677b7b7abf8d940ae153bf3eb"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2002Q4.v001.md",
+      "point_id": "P3-SSE-2002Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "cdd25eee5fb3f69ac13e74efa107d300022b2caba64e195ccfaa71185d10f839"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2002Q4.v001.md",
+      "point_id": "P3-STOXX50E-2002Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "96ab628cbefffe35afb62e423cd547b5ffbbeeb9e5ad10c3c9ef80985245e8da"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2003Q2.v001.md",
+      "point_id": "P3-XLK-2003Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "5080e83148f56306b56b92e413f42dd9da059e24cb441785ececfb1a414b9e6f"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2003Q2.v001.md",
+      "point_id": "P3-SOXX-2003Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "a4f57294806599d75ac6bcb5227580349eab82efcb5068ea67b58b53754b95eb"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2003Q2.v001.md",
+      "point_id": "P3-KBE-2003Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "1d6dc37150279a8c38ee3302ad521dae3708680165748720be30d8d4f79677f2"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2003Q2.v001.md",
+      "point_id": "P3-XLI-2003Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "27db65e5ca92fd658eae0e68555d60be986073926ecc5bb59890eefd1cbdd160"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2003Q2.v001.md",
+      "point_id": "P3-XLY-2003Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "35717b2ec28909cbdd5d2acfe05290bc2d21479bc75571e7743a964559ebb83f"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2003Q2.v001.md",
+      "point_id": "P3-XLV-2003Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "e920ae1debb8506c8819a62e9bac5e98ff07277fe7048b1de6b1d2a6b83876ea"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2003Q2.v001.md",
+      "point_id": "P3-XLE-2003Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "a137a1e098057b5e763200b6fce6ffd201dc261550fa1fa1ad54788f9617390e"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2003Q2.v001.md",
+      "point_id": "P3-XLU-2003Q2",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "89d5caab4e286ab67137c454dd9acd74ff52737bb1afe9817c52cf558247cef8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2004Q2.v001.md",
+      "point_id": "P3-XLK-2004Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "221f3295e01262faf835ae4b66707df05207eae4fb98168454d1b52cb428e980"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2004Q2.v001.md",
+      "point_id": "P3-SOXX-2004Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b524b94d2431acc3bafe16ce9ea73d121b12bd6f73567c1b8238fdd06bff8829"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2004Q2.v001.md",
+      "point_id": "P3-KBE-2004Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "a963b29dc8fbf5ff5686bd83245ec6bbd2ec96816e60a11179a6150d6e1065f8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2004Q2.v001.md",
+      "point_id": "P3-XLI-2004Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "eb93473b7c17a1f82028608002e1f19edcaf1d013ed2a30543f351af3ba50055"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2004Q2.v001.md",
+      "point_id": "P3-XLY-2004Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "74dedf890920aac1d8650c6c840eea186cccd9a7ad9094ba2a91f57467ec4118"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2004Q2.v001.md",
+      "point_id": "P3-XLV-2004Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "63d620671c7e38c39c405ea1389aa508ca936a133661a6c6f0ae0b000b995511"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2004Q2.v001.md",
+      "point_id": "P3-XLE-2004Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "34ef3813026d8f2ee048746ee94546861e607471d844c2a315771377f25b16b9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2004Q2.v001.md",
+      "point_id": "P3-XLU-2004Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "7be4cda1bd363fcd896da892323afe677c8e80cf84b6941eb3dd6bacd45bc512"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2004Q4.v001.md",
+      "point_id": "P3-SPY-2004Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "db68e14ff2051a24da1527fed68f8a002b3fb432ecaaf6d6f6f78f4cb46129c5"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2004Q4.v001.md",
+      "point_id": "P3-HSI-2004Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "f6fe83420146b8a4a7bc7ad2789d6d88c8dc32ccb321e33b4a0d434234741996"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2004Q4.v001.md",
+      "point_id": "P3-N225-2004Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "3336bdadb6b1c4c62ce424524397ed82a5e30b02766e8f0531c2d0dc0930f428"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2004Q4.v001.md",
+      "point_id": "P3-SSE-2004Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "18d7bf445329d022952d06aae7c9771825d6413e6966b993c03e5f74c4c7a83d"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2004Q4.v001.md",
+      "point_id": "P3-STOXX50E-2004Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "a976f908d165f860f390022de06e0bb522c408326c1fb437714190f91f891baf"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2005Q2.v001.md",
+      "point_id": "P3-XLK-2005Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "eee969ffc7d901255a5a16ca946f9fedefe0a433e84b39cc3a4398d1cec9c073"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2005Q2.v001.md",
+      "point_id": "P3-SOXX-2005Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "9688e419f5e34028ef454eeb063a5b2487054bcbc3c67f8aead87dc406f5a393"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2005Q2.v001.md",
+      "point_id": "P3-KBE-2005Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "e050bf1eb4263bce913d664ffbcecacc3532f7c83b62003b6c33253369fffdf3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2005Q2.v001.md",
+      "point_id": "P3-XLI-2005Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "289d5a3d06558b87be4897b08267d197adb44c9702f3fa5b01ae5c9dd0fff93d"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2005Q2.v001.md",
+      "point_id": "P3-XLY-2005Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "17f538a2e8baea6bbe140e44a23d313623a9af85d38c9d773047e57ff3aa392e"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2005Q2.v001.md",
+      "point_id": "P3-XLV-2005Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "da49f85a876837c0f1db445eb3e95515fb575915f1d560b630d9c97932e0a595"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2005Q2.v001.md",
+      "point_id": "P3-XLE-2005Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8dfd53af7a02d7f693c01c98765e70b749c6699f0d87e0bc797648dbb02ab275"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2005Q2.v001.md",
+      "point_id": "P3-XLU-2005Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d3f44ceac32dc6aeb93e680e48b8e6a6511ca029521a24b340dad2b1f9a336e9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2006Q2.v001.md",
+      "point_id": "P3-XLK-2006Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "f8448a7f21d7849f15fef437b247ae1913a4e45901ccdb0938553b02d495d4d4"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2006Q2.v001.md",
+      "point_id": "P3-SOXX-2006Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e76e4c0cb3a0d69a51cc3599c10f51ffb50d2b9181645c349792f9668be1bea5"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2006Q2.v001.md",
+      "point_id": "P3-KBE-2006Q2",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "88d3d5bd06e54d893227457d6dd6e6bd398e2f7beb83f8602299b8e87ceb4f3d"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2006Q2.v001.md",
+      "point_id": "P3-XLI-2006Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a7064d1a72bd9bbf45e4b1cc0c1247cd616b4d4e6e2199ec9af1afe6767c59f9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2006Q2.v001.md",
+      "point_id": "P3-XLY-2006Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0dddaf71f11672b1a59f1b467dbdefe41a68b6afc292ec033b9f2d29a3d754f8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2006Q2.v001.md",
+      "point_id": "P3-XLV-2006Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e25b8c0a7e062d17c43874a1fb117ef11f5be8151eb78eda9dcda08359009c71"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2006Q2.v001.md",
+      "point_id": "P3-XLE-2006Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b0b8378abab1deca3640d6e6965e7c6584f8604e7eb9294e6532b04f3d9d4ac0"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2006Q2.v001.md",
+      "point_id": "P3-XLU-2006Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8228389c6844cf5e7f4b9f1c7102371eb044ae512499a8a9e02d827620833d1f"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2006Q4.v001.md",
+      "point_id": "P3-SPY-2006Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "76f6e8fcbff034387cf0ec6880baaf6ade100d821540b3205eecdb6f263c5757"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2006Q4.v001.md",
+      "point_id": "P3-HSI-2006Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "c98797f5803b3f088b116d7c3c0eb1d7d4deff1e855cdd858924942ac2efeeaa"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2006Q4.v001.md",
+      "point_id": "P3-N225-2006Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "e94fe615c9df940ece8819847acce589d1d9f150168f3be048df0b1b9ae65eb1"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2006Q4.v001.md",
+      "point_id": "P3-SSE-2006Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "6d939f41c5a744ac4192ee778678bdd83e7cd7fce9e51d7f43e0582b9e212eae"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2006Q4.v001.md",
+      "point_id": "P3-STOXX50E-2006Q4",
+      "quality": "MISSING_OR_EXCLUDED_HISTORY",
+      "sha256": "7f3624f456f12ec2b0603ad3238b1afd98418e98510c1280d1910b8b1bffadd0"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2007Q2.v001.md",
+      "point_id": "P3-XLK-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "2c565f2ec76b16afa06111e0a1d67e0d0133288ee45ad6c2fd6715aaceae38ad"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2007Q2.v001.md",
+      "point_id": "P3-SOXX-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d665a83fadb946a00f90e7f9b20f7fbf93ad1bf6842d1f1b78243ec848143b11"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2007Q2.v001.md",
+      "point_id": "P3-KBE-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "af7e209f20d19d2648f3e4ec59bdcaab1ada64a24cc22256792a2114f9258fc4"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2007Q2.v001.md",
+      "point_id": "P3-XLI-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "9fbd8ce3a5fbbc2ae95a530070c22c1d251501a1e166cd8bde1f60551d4a1f58"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2007Q2.v001.md",
+      "point_id": "P3-XLY-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "35a0676373df0005c77b85f9b314fede8e2fcf93add34ec04eeee710d2c5c8e8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2007Q2.v001.md",
+      "point_id": "P3-XLV-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a5af09dfd6d5ef7233b585e290a7ed09b252bd2855a195194fc4beb40ec7a726"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2007Q2.v001.md",
+      "point_id": "P3-XLE-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "858467b55194d716515570a55cfd1852aee35ce2859ae86065873859f796fcec"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2007Q2.v001.md",
+      "point_id": "P3-XLU-2007Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "6c3fc87cd8245f695e1efd25d6dcf55d05feb8ce55bc91dd542f8b322b1926d5"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2008Q2.v001.md",
+      "point_id": "P3-XLK-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "9032d66b98b477ce331bbba5ca2043e4ea551faf297b7872159cee653096353a"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2008Q2.v001.md",
+      "point_id": "P3-SOXX-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ba7eb43547cb76ebe3205c368d6e70ffdb5bd8a87b04ea5cb1b5c0266969d9ff"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2008Q2.v001.md",
+      "point_id": "P3-KBE-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8887fb71625164fcf80cd2bdece28d3e4fca43f5496cbcddde0bf1e5695a719a"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2008Q2.v001.md",
+      "point_id": "P3-XLI-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8b72ce139fce821a3dc8027516b44d7ab8ea16f1d5c7859bff3bd3f638375ecd"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2008Q2.v001.md",
+      "point_id": "P3-XLY-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "880c52eb9afa3b9a85792f4e2d2ee73ae0c844a789a2df8f3d1df907199c4da5"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2008Q2.v001.md",
+      "point_id": "P3-XLV-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "2386e412b491351ad997384fc8264eaa81947ac2cba951706d4f74c3c583b7a9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2008Q2.v001.md",
+      "point_id": "P3-XLE-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "253cafb21e853a61dce9d68d860ed8715e6a2458e36eb5be395e80f30c66c0f2"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2008Q2.v001.md",
+      "point_id": "P3-XLU-2008Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "5579c5a1128413b4f490e9f7da806fbfb6f84a57c00e23ac800515e807e35b54"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2008Q4.v001.md",
+      "point_id": "P3-SPY-2008Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "70f16daec87ce859e8f70680722e4bd22cc5c42df9a4339af2bf9f138816a85a"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2008Q4.v001.md",
+      "point_id": "P3-HSI-2008Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "b80ff73efd599cc5f9b518784c83e750ecd60629ae84dcc638d008aebfb59b97"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2008Q4.v001.md",
+      "point_id": "P3-N225-2008Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "7aa033f8d585941fb82bb099addf5eb5c38f6898b4e6fc385df0d8f844441b4a"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2008Q4.v001.md",
+      "point_id": "P3-SSE-2008Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "6e541e2a1b8a50d63e0cf00fa3fbd88bb4ed936eeb67151272ebb66d29330fae"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2008Q4.v001.md",
+      "point_id": "P3-STOXX50E-2008Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "ff2e5c6e631f8d530f9ed3eb4cb4edcfcfa50a42d4eca2b0d3b298ed80ac2829"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2009Q2.v001.md",
+      "point_id": "P3-XLK-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b0ee15d81a2c83def551413dd6b4d701857556a35fc36d7875451f0da18af6c9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2009Q2.v001.md",
+      "point_id": "P3-SOXX-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8befeeaa99bbfd815349f179fbcce6d81a599897ae4175fe8c8ebee5b34ecc08"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2009Q2.v001.md",
+      "point_id": "P3-KBE-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "929fd4188777aff1c84fd9f4454bca14c931d63fb76a0900dcb45f5dedf722ea"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2009Q2.v001.md",
+      "point_id": "P3-XLI-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b133cd4a549fb82fb3aebd1ff2689bbedebb31aaa101085bb4ce32fc7a6ce32a"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2009Q2.v001.md",
+      "point_id": "P3-XLY-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "9337a5c8fc0e5299cfdbfd75338a5f4f0c92290168355a72e67264798cbaa312"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2009Q2.v001.md",
+      "point_id": "P3-XLV-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0e10b58f4631cb4fa77f507c33af4d5731c58d273e79ed1df8fb97b82073d6c6"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2009Q2.v001.md",
+      "point_id": "P3-XLE-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "c0c1fe9d383fdcf63eba30445cad3c8f45c6800c4394f9853154e576b92433bf"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2009Q2.v001.md",
+      "point_id": "P3-XLU-2009Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "f66034e06c827ce190f9191ab4df75411c2f9c58287794d44647045c4e73e80f"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2010Q2.v001.md",
+      "point_id": "P3-XLK-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "815727f607cc04277f3117ba55f3637b74df9064e202f53f3819c939af96ecb0"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2010Q2.v001.md",
+      "point_id": "P3-SOXX-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "821ba6b885fa88ee7953bbbc2fc943e9e79634b3aa454e94c58bbababbe2eb1b"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2010Q2.v001.md",
+      "point_id": "P3-KBE-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "2212d53291c467acb5cbe38eee9f9e0b7515073fc35ef45fc44b1ff6baf4a9f5"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2010Q2.v001.md",
+      "point_id": "P3-XLI-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ae2599fec172efcefb3775e31ce953834e0ded1f10aea8fb8410f42079fdfee0"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2010Q2.v001.md",
+      "point_id": "P3-XLY-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "59e28b242661334f228f7fb02b7c950aa6d3e60adee20c407aa094bf47249b03"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2010Q2.v001.md",
+      "point_id": "P3-XLV-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "904c17c03f7e7581c23e8d45f5a09274cea59908ab00c37f68fdd61caf79c0e4"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2010Q2.v001.md",
+      "point_id": "P3-XLE-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "cf1d5e939166f337509d34262d2c1ec354d1f6689fa241525477770d1449102e"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2010Q2.v001.md",
+      "point_id": "P3-XLU-2010Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "89ae50aa6b834fce53fb2e69540fd6361f486fd4b0926d49abbca827a9c7fcbc"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2010Q4.v001.md",
+      "point_id": "P3-SPY-2010Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a2f1bf139ffc4802b08da67fb9097387c74c5f67feb29b87461bf4d984d3b83f"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2010Q4.v001.md",
+      "point_id": "P3-HSI-2010Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "cd1c9f89058119e9d76b70addbead9ea093689193b060b1ea2040822069e3074"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2010Q4.v001.md",
+      "point_id": "P3-N225-2010Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "33bad3096964e0a3b9b3329af6e98a968986acff96a31b6206e704dc24145b39"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2010Q4.v001.md",
+      "point_id": "P3-SSE-2010Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "d79bf98109be149b75c0265d4be8d593a638c0cc2cab2ed82a0a6c8c57df822f"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2010Q4.v001.md",
+      "point_id": "P3-STOXX50E-2010Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "02f8a7c21b2766fd475960e15ad9a40735b29cb5f8419b97b43142bfbd5f91e1"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2011Q2.v001.md",
+      "point_id": "P3-XLK-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a15d6a0684b577733ddfec337c31f23442d76bb3cb4dd61ac2f79cc8fb96a06e"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2011Q2.v001.md",
+      "point_id": "P3-SOXX-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "03337aaf971a708e1f476db3d8d72638ea7f22c87bc6847c49dda68238f85406"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2011Q2.v001.md",
+      "point_id": "P3-KBE-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0acfa7dc4b46e9daede77b01118bd93e93826f24f17cc4264888604f52a4f0b3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2011Q2.v001.md",
+      "point_id": "P3-XLI-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "bd7e04a1ed2ff5944ce3f59c203657f080fda608f863f905eb4a5dedca8b0f9c"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2011Q2.v001.md",
+      "point_id": "P3-XLY-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "651d461e4b5f062eaa6b9dc957e8d2934168d3f6d895032f55ad42ae98b18aad"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2011Q2.v001.md",
+      "point_id": "P3-XLV-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b6a2ee7833624c7df3764471bc66fada7c990cc1726093819b34446e539569d3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2011Q2.v001.md",
+      "point_id": "P3-XLE-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "71478b1d393e557734daca4b92b86cc9d52b5ade292744aaf07d245ad7e0eb14"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2011Q2.v001.md",
+      "point_id": "P3-XLU-2011Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d67906d4145d8f5d5b42ce9eb24a29369d9bd6306699e7eaceb32ffdc468ac65"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2012Q2.v001.md",
+      "point_id": "P3-XLK-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8e8dacd034dfb7e5e78e0f56a32978b725c8e5fd366d7adea72153e3001de0db"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2012Q2.v001.md",
+      "point_id": "P3-SOXX-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "306166fa816ad073898f63e914754704538720d7b9eae2e2f7355694249dc737"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2012Q2.v001.md",
+      "point_id": "P3-KBE-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "6bd98f3d0e965e5b39c9e05f26370f05590adcce92e296b0b3a8579c7f21b108"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2012Q2.v001.md",
+      "point_id": "P3-XLI-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b21d6ded03f923fa19a05b41dd589852114536013452921a06811ab5b7aa4e20"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2012Q2.v001.md",
+      "point_id": "P3-XLY-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ad73aa248721c2808c5e925fc6e11acfbcfcd3278909525c8a7352c39b2960e3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2012Q2.v001.md",
+      "point_id": "P3-XLV-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "f87e10d3642e332ed87ebcf1d7d51d68bc94347bf4ef5baaca9455ddfc3c3379"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2012Q2.v001.md",
+      "point_id": "P3-XLE-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "c367ef2884dff42fb9a7d4e9ea9e0e4d7a524c5ed3d09cb1903bd3ceb4077607"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2012Q2.v001.md",
+      "point_id": "P3-XLU-2012Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "4cb4ebb30f74bc1016dc58796a0850a93be6fb47a407ae075b491e89356d1c07"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2012Q4.v001.md",
+      "point_id": "P3-SPY-2012Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "5f7326bfe34a984949cf7768a67faa30b79ae6f40f17cfe8683a47994d8913de"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2012Q4.v001.md",
+      "point_id": "P3-HSI-2012Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "07c3020c737632df039a97809df078b9b5c60af437d0ea49813688992e06349e"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2012Q4.v001.md",
+      "point_id": "P3-N225-2012Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "d114f62fdd3b956fdcd526a3a0f8fa323abbd8dd930a25547752a0cf99f348b2"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2012Q4.v001.md",
+      "point_id": "P3-SSE-2012Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "7a8f0cf71b138ee07d902688863c73518dad3db9691c5dda80ce16e7e0f5b28c"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2012Q4.v001.md",
+      "point_id": "P3-STOXX50E-2012Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "8fda8b8b238eb8ee6aa93c36e7684ae1aa90f7b4d11205b97d5c5c01d2f433e1"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2013Q2.v001.md",
+      "point_id": "P3-XLK-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "369195bc44bfe0417ebb34a0d743acb9cfdb286284d142915bed11dad717d2fa"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2013Q2.v001.md",
+      "point_id": "P3-SOXX-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "14ba6885540662180d3227d51a92a1daef7e8cd6ae9c79ee954480f8a054bb73"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2013Q2.v001.md",
+      "point_id": "P3-KBE-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "388aa33cc5069c72f695e2f34107e7e444ab41f770cfe8bc7f1f6aa1fd492b71"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2013Q2.v001.md",
+      "point_id": "P3-XLI-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "4f521a1fd10c6fe3ecb8b3da2964724d69db7ee4066420a4925cfee287658c93"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2013Q2.v001.md",
+      "point_id": "P3-XLY-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "fa7b5203b6e671a0d7da9c4888535c8c850c3084a6bdd00d5ee4564b914411d3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2013Q2.v001.md",
+      "point_id": "P3-XLV-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "87091deed502b865f21a8aea598f83395b4cb8f7df1da3e900fcd62f26b5ac07"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2013Q2.v001.md",
+      "point_id": "P3-XLE-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e9d160166c297892d471920f9418023503f21a29dd0ca8acc9dcbc24a174f57c"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2013Q2.v001.md",
+      "point_id": "P3-XLU-2013Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "50017afdf1efcfb2397b60c1e8a0272fcf4a60a5a7a2763090368a499874b9f8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2014Q2.v001.md",
+      "point_id": "P3-XLK-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0d9d8f3ba8ac9ede9af0b3eef8ce2cfcfa9b8fb3bb2030cd5bd3ab73574c6ba8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2014Q2.v001.md",
+      "point_id": "P3-SOXX-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b1e1cac896826ff471188777f77c37a36b73e710c1e0817234fb3ba6faffb22d"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2014Q2.v001.md",
+      "point_id": "P3-KBE-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "422d62e58136a49287776cacbcc3c8517469b763f84ad8425b3af367644011ea"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2014Q2.v001.md",
+      "point_id": "P3-XLI-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "6ac79e2c77da730d7ff84d803e4da40db43cf5cc41a9f31dee3d4e0c0c5342fb"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2014Q2.v001.md",
+      "point_id": "P3-XLY-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ac48ab1f5c47f038d25139fa7568be81e425a5ffcaea8de806f41e192db7da00"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2014Q2.v001.md",
+      "point_id": "P3-XLV-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "5dd97f3bf2119f9bd2afcb5657c9760fe8ed30e55464d983acbcd36333d6c556"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2014Q2.v001.md",
+      "point_id": "P3-XLE-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "58ce1159665314a1f996fc1969454605b0e828c7d1f12986ea6797871abc54c0"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2014Q2.v001.md",
+      "point_id": "P3-XLU-2014Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "356faabbcb233c7f255ea8ea23ccb3473cccadd6bdcbdb4964aac0c3cc29b3b3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2014Q4.v001.md",
+      "point_id": "P3-SPY-2014Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "168d3ac81fe286ef2e70c4ceb38a9837a35b7afe075ee1f7a9b77d865e0590a5"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2014Q4.v001.md",
+      "point_id": "P3-HSI-2014Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "ca896a2911f432addbe1ba8cbd3de02a10755d1bdaa24db6e76635db94eeebaa"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2014Q4.v001.md",
+      "point_id": "P3-N225-2014Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "f1f52153eff90e3f651a9e753c902f22039c231066223acec2239513907dcb51"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2014Q4.v001.md",
+      "point_id": "P3-SSE-2014Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "ff56cbe07f7256919709475b14b0a2db8f9d1cb6759f1ea2544df819b8044059"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2014Q4.v001.md",
+      "point_id": "P3-STOXX50E-2014Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "fb546ce1d2b4942e25a2adb4b0d293d1f48eaa04cde9da1eeb1f84965b7bd37a"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2015Q2.v001.md",
+      "point_id": "P3-XLK-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8c53554351fe89ae88e1302ecccc18aa32502394e0abcba7fbc98f917ab2f5e9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2015Q2.v001.md",
+      "point_id": "P3-SOXX-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "375f11b41effd0747d73de24d124fcea5e14f61a1da9d0eef9c1ee9a6b7d50e4"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2015Q2.v001.md",
+      "point_id": "P3-KBE-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a5cf5d209ad6c801d273757652de751230bad57a2e3b9ae5f521bba39cbccdff"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2015Q2.v001.md",
+      "point_id": "P3-XLI-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "c117548ca5f8aa3560df3b2bfb33b0883f5eafefbcf96d7b805423ba8db3abe6"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2015Q2.v001.md",
+      "point_id": "P3-XLY-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b217e1a85dec176487724076d801bfd62322d6d3deb61559fafe8d0e44cd171a"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2015Q2.v001.md",
+      "point_id": "P3-XLV-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "c3256d7e859059449c137321c8167cf4698b61d821d1a700b098dabb3d3e1671"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2015Q2.v001.md",
+      "point_id": "P3-XLE-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "edf7d93ce54589fbacdba13f240f0e7615db3a5c5ae56713ef7f8f921ec2d719"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2015Q2.v001.md",
+      "point_id": "P3-XLU-2015Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8abd0fe20e635d9a45c45bfca85a6ae2ee6bc7237c8743f0458f308b8d5fbe2e"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2016Q2.v001.md",
+      "point_id": "P3-XLK-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d08de7046298982df98857cbdd6062ee78608686f83479923ae851918fac26b9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2016Q2.v001.md",
+      "point_id": "P3-SOXX-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a41c3bde283f4fafa06f8554d06412b9c51e661c90b84c79f35508b94e63d51e"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2016Q2.v001.md",
+      "point_id": "P3-KBE-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "36619bb0dfceca64056b46f5cb4a8a418c65b8b77f58de0c28060771e796304d"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2016Q2.v001.md",
+      "point_id": "P3-XLI-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ada9fefa821fbb88f46d903a5350673554bed4a7e63712bce2337e3478341eea"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2016Q2.v001.md",
+      "point_id": "P3-XLY-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b495de8e173a213126aa5db1166f9ab27cf33afc6859b3186a4bd33503d642f3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2016Q2.v001.md",
+      "point_id": "P3-XLV-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "054c4def1461b5757d9ad5344c6dc675c6c580a63d9cdd9a87ee4fed5c95b342"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2016Q2.v001.md",
+      "point_id": "P3-XLE-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "21d33e6837b01d6ef0bca7a4a016cd41dd8864d405d589566536c741a6871449"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2016Q2.v001.md",
+      "point_id": "P3-XLU-2016Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "7fe7084bb868f668e21e1517e5843a14a24db4bcda887caf475bb425f37c51f7"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2016Q4.v001.md",
+      "point_id": "P3-SPY-2016Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "9a0a33148c17729317325192afb0be2f07797a1bc26186629daeb56c49f6b23e"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2016Q4.v001.md",
+      "point_id": "P3-HSI-2016Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "e14edaabc95df7e3efb8f124add28ad78c7ba3983af803075e22ac1c17babc63"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2016Q4.v001.md",
+      "point_id": "P3-N225-2016Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "4edb8794fd3c13c80f4d07dbf63e114f16e227c48c0ec1102c92a45bd2afa5b7"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2016Q4.v001.md",
+      "point_id": "P3-SSE-2016Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "a1fb5258f5a4e6dc2d5b038bb4472ce356a3760bd1a0eb114ecce7712af880cd"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2016Q4.v001.md",
+      "point_id": "P3-STOXX50E-2016Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "2849b5eb8ec006d0a866bd206ac21f2a9fa2f3535703b177d9b27cb259a18a37"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2017Q2.v001.md",
+      "point_id": "P3-XLK-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d019bb345bf7604696780684c1e3bebdd3bbc9ba724c2fbce562af69b738b83b"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2017Q2.v001.md",
+      "point_id": "P3-SOXX-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "33f6bb68500fe2d050ee3bb484654de9e60164dd92494b24487f478e90da3e65"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2017Q2.v001.md",
+      "point_id": "P3-KBE-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "5134340661ec84e8015d6f6ac256a6ae529e38977cd4c3c90fa6cf0e37fba1f8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2017Q2.v001.md",
+      "point_id": "P3-XLI-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "79be8b62c5de2e5cf89abc5a829a019f87034799102e27dc71099ba65eb5efcb"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2017Q2.v001.md",
+      "point_id": "P3-XLY-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e40192292abb6e8bd1401970200387a0ed423810cbc22807cc4a2c63b990ec92"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2017Q2.v001.md",
+      "point_id": "P3-XLV-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "1f8e13788cfcba3e870174ae3cd526d9ce2d5f65e1fe3970b77ba23d931c2a17"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2017Q2.v001.md",
+      "point_id": "P3-XLE-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "3ed14863839917d8c53ae90aad883872cea5a3d62d8741add67651c38a736bad"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2017Q2.v001.md",
+      "point_id": "P3-XLU-2017Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "33ccf6865bdfa8ba8a5fe41d57bf199974edb03dfc4068550e492a29196e3d41"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2018Q2.v001.md",
+      "point_id": "P3-XLK-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e312fcb7d39c3ba015bda10f2fabd1f54aa6646d54fd10311a186255b9a986f4"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2018Q2.v001.md",
+      "point_id": "P3-SOXX-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "cc9d23b3d56735003fe83a6c95739b6c702891b6fcaa4988e833e3930f57ecb6"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2018Q2.v001.md",
+      "point_id": "P3-KBE-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e00c986d121a40c30568fb237e05a336763f07d0c99c334ff0fdd13b78e439cb"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2018Q2.v001.md",
+      "point_id": "P3-XLI-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "027d2e7c48bc30c49eca1d5b44b8ad8baf58a281f8f1733f6de9579c3bc9e2bb"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2018Q2.v001.md",
+      "point_id": "P3-XLY-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "95df7e8a0e57544059259c4001bd7c820e929434c5323655769a990a26baa769"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2018Q2.v001.md",
+      "point_id": "P3-XLV-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "4e05f19214e2ea6397a83b07a58f5363a82f6157a363d721b0ec9db6dad43aa7"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2018Q2.v001.md",
+      "point_id": "P3-XLE-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e3f39b8d21452046d94ffff5d0b8e343eaf56bed0a47e00cfdccf9c1ff5e52c9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2018Q2.v001.md",
+      "point_id": "P3-XLU-2018Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "06db7f075cf4ba60a8a59325989d13f26c626e21b0910d517a5be7061abf7920"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2018Q4.v001.md",
+      "point_id": "P3-SPY-2018Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "6a3e875eace796d3923800186ce80afd49a46af97153d2f914fb39e5432f33e7"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2018Q4.v001.md",
+      "point_id": "P3-HSI-2018Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "aa733d0244667cc42be98c0c11956bbe686091301af9bee9404fee9ecbea1ce9"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2018Q4.v001.md",
+      "point_id": "P3-N225-2018Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "1594f25608801ab824dc20571f3127767fff88b44763b76bcfa3a2df76859597"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2018Q4.v001.md",
+      "point_id": "P3-SSE-2018Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "360dadd7c5175faa3ba28b4534b6ca3550e492f471dd97938824a333bc3aaef1"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2018Q4.v001.md",
+      "point_id": "P3-STOXX50E-2018Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "9860578c868bd10ae5ec0abf00dbb23a808737b2b6fa368f5f6445c23f3444b2"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2019Q2.v001.md",
+      "point_id": "P3-XLK-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d41e85d78a4f36f0d764e366d8e9da4afef7ca1989a61ec4401c0577ba65320e"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2019Q2.v001.md",
+      "point_id": "P3-SOXX-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "dfefb30e93987f180513b844ea0dc8f05ce173c3eb127a3b8b4b34f6b4d6781c"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2019Q2.v001.md",
+      "point_id": "P3-KBE-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "56744f87816e33c453e18d0a8315c16982be0044d45e7434ffcd35fec87e90b7"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2019Q2.v001.md",
+      "point_id": "P3-XLI-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "c83c80b00aa545f5341294c135e85eefbc5ac36e2d9a1935bbf95d3a773ce3e7"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2019Q2.v001.md",
+      "point_id": "P3-XLY-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0c0c438776e3d8dae4ee3107d7dc6c9ab337d4ed289bd9b60fbcadc976a7a4db"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2019Q2.v001.md",
+      "point_id": "P3-XLV-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d52ec26e44a19e29ead457c474349843823b26717b592910ceb2b8900d356760"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2019Q2.v001.md",
+      "point_id": "P3-XLE-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "e7b9c6ca03d863801ab4896252604d849e3090ae4de093381f315f625992cde8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2019Q2.v001.md",
+      "point_id": "P3-XLU-2019Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d3cec9187633af1835b120d57c7ca5ccfdfd0522da2e8ecff17a5cf869788ab2"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2020Q2.v001.md",
+      "point_id": "P3-XLK-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "1f46e976795e94bbeef0e66de25e1bcabd5396cb2f4134e988ace518bb069d2b"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2020Q2.v001.md",
+      "point_id": "P3-SOXX-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8cf933b5e8c4b236ecfd38aaa51a3c2b255c724e6edd085627de32b0763f10dc"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2020Q2.v001.md",
+      "point_id": "P3-KBE-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "953e23c3f15784d24c28b89e5fd5520caf06ede690e2f9ffed5f73ea9eb34ce7"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2020Q2.v001.md",
+      "point_id": "P3-XLI-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ceca1690d689599004e79f2a2850aa9f7b931a0904eb9542a4bf07594eb3d954"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2020Q2.v001.md",
+      "point_id": "P3-XLY-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "701e2b54103b228a844d5fe352169329883ac95426f54de4f0eb28841967a0ed"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2020Q2.v001.md",
+      "point_id": "P3-XLV-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a6b6106e6a563acfbce1e33215d58bea988e7044324766dd6835a87d8962aa44"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2020Q2.v001.md",
+      "point_id": "P3-XLE-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "98bf5fcdd52e42e0be7a247c1ea88de5d8937a59013d4feaa05496a4db900f27"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2020Q2.v001.md",
+      "point_id": "P3-XLU-2020Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8f2fcffc8f37379b9620fb726a36e224a70e6bd16d205d29096c3e73b2b64ffa"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2020Q4.v001.md",
+      "point_id": "P3-SPY-2020Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "41fe815ddf16a5b986900041c321dee702deaa0fd6f00b289fe831052f426852"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2020Q4.v001.md",
+      "point_id": "P3-HSI-2020Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "3a8967c1ca2954231a1d8f1b1276898be0bbab099fb06a2d219c706fd35a4fc4"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2020Q4.v001.md",
+      "point_id": "P3-N225-2020Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "6775015780609a520b4b4ad2a14804971a04619c403b02cc5a0ecee61ef4a8bb"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2020Q4.v001.md",
+      "point_id": "P3-SSE-2020Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "8832c6357f323c057c8ed007c852f0220902babb41602ff41ae7dcf080439afa"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2020Q4.v001.md",
+      "point_id": "P3-STOXX50E-2020Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "cf7ff7047b02d70adf97d5f0f62ece673694660414ef948fecb15512a5ba0262"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2021Q2.v001.md",
+      "point_id": "P3-XLK-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "58118125004bc1fd5b3481625472f574e478a1e2ca4686133ca955b01b7a799f"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2021Q2.v001.md",
+      "point_id": "P3-SOXX-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "f20c70c14e1d0d0148eab897c4e391e6cd61ceaa1ffc521d0fa43a9db28b1a2c"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2021Q2.v001.md",
+      "point_id": "P3-KBE-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0149fb7d599591510d3d46464c840db0cc1e43b524b12a53c6fd91d3f4df6a30"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2021Q2.v001.md",
+      "point_id": "P3-XLI-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "3dae128192397caf7efb92e8aa35cb95a382ddb3f4bcefe8ac28593654ac49e0"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2021Q2.v001.md",
+      "point_id": "P3-XLY-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "79c7be5eb2fd2637a19f35fc4484a273472f37c04a3b489b04895dceb705beab"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2021Q2.v001.md",
+      "point_id": "P3-XLV-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b9031d0869d11df3320a185b27aa2dd5f931d3f16803b0520f0fcc4002cca1fb"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2021Q2.v001.md",
+      "point_id": "P3-XLE-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "dcf0f9269be8803bd14f70bf3d85d57e130f979f259ae40ee8282c1e682543dd"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2021Q2.v001.md",
+      "point_id": "P3-XLU-2021Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8290d7ff04cbcf79d496c380f195a98b626ce7ea656feaefc84c729d99ba904a"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2022Q2.v001.md",
+      "point_id": "P3-XLK-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "134330159bea07fb69703de6ea4b62035f6e03f08bf52203bbdd0676f6b5f66e"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2022Q2.v001.md",
+      "point_id": "P3-SOXX-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "6a83ed3a006e57eda1bd566bdd0b2f027c70f89d4dee05dccf20e4f0023c12bf"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2022Q2.v001.md",
+      "point_id": "P3-KBE-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "cef6e8078e659d32c29976fbc28eb2ac0e857bf8e7cb0a34e415ad2e4c4e3ba0"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2022Q2.v001.md",
+      "point_id": "P3-XLI-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0eb2f9e8ca58cc86ee31db2e9fd7cd4ab72027652c88286e5b533af91e26b3f2"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2022Q2.v001.md",
+      "point_id": "P3-XLY-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "188441aead4fcb2ec4d8bf74dcce25e191005840653a3a3d24eedd5a83ef897b"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2022Q2.v001.md",
+      "point_id": "P3-XLV-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "98560a55078b3e9659b79e6b78cc7e04bdf3a2fe5f2eb0d5a41d964c210783ef"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2022Q2.v001.md",
+      "point_id": "P3-XLE-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ca443442c362926960c16b543e2b9d93ea0e935608231d356ea6a14a24eaca15"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2022Q2.v001.md",
+      "point_id": "P3-XLU-2022Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "94956874f05c39a2f04cfa1e6858392111845a375e376f1d9e5a93a68549432b"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2022Q4.v001.md",
+      "point_id": "P3-SPY-2022Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "b52fa4dbc113be9cd5fea64f39b0b5b8b5cd73b13d8a5a233301770aacdf1e1c"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2022Q4.v001.md",
+      "point_id": "P3-HSI-2022Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "fd8085e71d84fb462b3141f6744fd674aada1c8140f370818924de46ee283c7b"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2022Q4.v001.md",
+      "point_id": "P3-N225-2022Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "0397f849035e85d4c7817837e760144d1039cddd8e87513672b18a18f84289a5"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2022Q4.v001.md",
+      "point_id": "P3-SSE-2022Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "28e032c0c42cc24baf1d672b6e3938325f8c86045dc6a7273d5f92d0c597c995"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2022Q4.v001.md",
+      "point_id": "P3-STOXX50E-2022Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "f88ba6024174c8488786101f39beafe694b11bc4f77c9ecdecb56fb5a4dd1062"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2023Q2.v001.md",
+      "point_id": "P3-XLK-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "129f63cd3d2b06511a4dedb8253d6fcdf1357e15de447de91f81c1d4c7b3d7a6"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2023Q2.v001.md",
+      "point_id": "P3-SOXX-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ed64a280e3bf6d2b7e1e6ad806edcc2028b63ac24c7c54aff4754c2032f47d6f"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2023Q2.v001.md",
+      "point_id": "P3-KBE-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a3524d326851e2ad2c89213f25b5d841ee029f3138207e3c31f7da44167d2be7"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2023Q2.v001.md",
+      "point_id": "P3-XLI-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "878e8c72aec5a6e4aa9d9aa11539b4c5b9279573228be60bcc11cf391d6691a9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2023Q2.v001.md",
+      "point_id": "P3-XLY-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "25253c8a1bb0c1a29eeaf050e373e5e6e715f247424560433856845d032ed5f5"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2023Q2.v001.md",
+      "point_id": "P3-XLV-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "be5636469c45d103301d926642bb74b25f4526db85bfa6495e8564bc455dc4f3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2023Q2.v001.md",
+      "point_id": "P3-XLE-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ef31fe18ff1ac642c6b774bc914dddba7bddfe4e5c38dcde3b0654e2ecaadbbf"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2023Q2.v001.md",
+      "point_id": "P3-XLU-2023Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "d227f57964554e216da185ff3f63fb7a8c3d0fc1ff5a3c343360974cb94586cd"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2024Q2.v001.md",
+      "point_id": "P3-XLK-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "81e9240863003663623e5f189c8f0e7173e4a535df58c544bbe0bd548cb186bc"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2024Q2.v001.md",
+      "point_id": "P3-SOXX-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "4871cd8da81e9f911c741cebb50c7b1fcf5ef2e0ed5120b6386a6df8d2de414f"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2024Q2.v001.md",
+      "point_id": "P3-KBE-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "be40b2087361a9bd4ccb5350149f9ab8164c2cbf203d5be9de438dc5b1530425"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2024Q2.v001.md",
+      "point_id": "P3-XLI-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "f522680ad5b82958f8d306b55dbf8d53b3d9c8c101ef1d67973000e7bd5f0067"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2024Q2.v001.md",
+      "point_id": "P3-XLY-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "8bbae3ebf584a47b17f8c05bd014ed2566855774199b935bfda1324e333f4ae3"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2024Q2.v001.md",
+      "point_id": "P3-XLV-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "27378faf0db11764e5e366fbcfd3f65398c937092a69b4fc96f61ee524d66301"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2024Q2.v001.md",
+      "point_id": "P3-XLE-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0e2f12dae4741aa37f35c669391e35689c91099e53b41723dfff1fa847243647"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2024Q2.v001.md",
+      "point_id": "P3-XLU-2024Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "c07ab1b36859957de70692baec2d3acd30f0714bfd346d859ac162613be03467"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SPY-2024Q4.v001.md",
+      "point_id": "P3-SPY-2024Q4",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "a68e3ea41ca3f1a8b116a132b26a9955c1016ee1a10d02aeec59f9edb2f72829"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-HSI-2024Q4.v001.md",
+      "point_id": "P3-HSI-2024Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "e180a22d2309bcf857829a6d013e5b9b7e9ae84701cdf2e2ba6b6800edb48b85"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-N225-2024Q4.v001.md",
+      "point_id": "P3-N225-2024Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "9340832b519a386428394237d969c34f205623e04efec01c27722b8fa1f22e12"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SSE-2024Q4.v001.md",
+      "point_id": "P3-SSE-2024Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "40a0f98aec913614d315d6930de237595f49cec3c083f89584183b5b7c35515f"
+    },
+    {
+      "credit_original_context": false,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-STOXX50E-2024Q4.v001.md",
+      "point_id": "P3-STOXX50E-2024Q4",
+      "quality": "RECONSTRUCTED_PRICE_ONLY_FUNDAMENTALS_MISSING",
+      "sha256": "0eb21223def17d963968ffc13f9af60eec1e05d2eef6ccd9477cc5ba4dd3f116"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLK-2025Q2.v001.md",
+      "point_id": "P3-XLK-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "ea1cdb8dfe1e1e8f6e8fb782dab13b8c06cdbe70acaa71e389116baf27c208c9"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-SOXX-2025Q2.v001.md",
+      "point_id": "P3-SOXX-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "4f1403246338ac094f6d482d662873c957e02f81a1deb82b72a86814b6707ab8"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-KBE-2025Q2.v001.md",
+      "point_id": "P3-KBE-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "c3c826b2a4a17c0dbb5262f4001bd07b7b3d238b1c0518cbea761845b36925fd"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLI-2025Q2.v001.md",
+      "point_id": "P3-XLI-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "f95122d90ff336fe6bd457fe02b24f3f449642b06ed1eea95d6ce2f0ab9e3423"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLY-2025Q2.v001.md",
+      "point_id": "P3-XLY-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "19418639308f081b07586f666582058c48fe1aff18fe4c436a6845846a97f78f"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLV-2025Q2.v001.md",
+      "point_id": "P3-XLV-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "542c5e6a72444c238c36fcc2411ee22ea86dc193b5fb6207626ab9a8a8496f8a"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLE-2025Q2.v001.md",
+      "point_id": "P3-XLE-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "0ee074796f999cdf3b5b68c627b76a473e1789285163d8c84bf2f01ed4791f65"
+    },
+    {
+      "credit_original_context": true,
+      "labels_available": true,
+      "path": "research/phase3/deep/dossiers/P3-XLU-2025Q2.v001.md",
+      "point_id": "P3-XLU-2025Q2",
+      "quality": "ORIGINAL_CREDIT_CONTEXT_PLUS_RECONSTRUCTED_PRICE_FUNDAMENTALS_MISSING",
+      "sha256": "be697cdc5d9b9fd5bd06a2947dba2c32e60824070322b6a4fdb4a6369d38cc3e"
+    }
+  ],
+  "feature_sha256": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+  "label_sha256": {
+    "development": "5e3e07c0f95fa374e4146545f21faf6950d5c496bf1c7cf34a8825f2d357cd37",
+    "holdout": "a3dee7c7c4d83eb1bd0dd845925d532c39080436616f52f14b4ee6b1a8c6bcbd"
+  },
+  "mechanism_identified_count": 0
+}

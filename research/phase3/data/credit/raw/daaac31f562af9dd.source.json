@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:29:52.785863+00:00",
+  "content_type": "text/html",
+  "final_url": "https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "archive_index",
+  "source_path": "research/phase3/data/credit/raw/daaac31f562af9dd.bin",
+  "source_sha256": "e38d19bba6ed4be2b1db0aad63ee1bde57af788407327140116b8de0b2970ac8",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm"
+}

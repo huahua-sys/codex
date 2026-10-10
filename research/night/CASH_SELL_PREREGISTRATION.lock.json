@@ -1,0 +1,11 @@
+{
+  "cycle_id": "NIGHT-CASH-SELL-v001",
+  "external_trusted_timestamp": false,
+  "hash_does_not_prove_no_prior_knowledge": true,
+  "implementation_sha256": {
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "scripts/analyze_cash_and_sell.py": "0c10ac9dbe8077512e0d3b5cd92e840c0c43a5c617d9fcd1a1bdac9604c272d4"
+  },
+  "locked_at": "2026-10-08T16:30:42.590162+00:00",
+  "preregistration_sha256": "356f2465d44e4d1ae3700fed1ad9501ad44dca44471b1bdb187660463dd5116d"
+}

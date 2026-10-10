@@ -1,0 +1,16 @@
+{
+  "code_sha256": "afbd43a27e7bce0d8d88e5ec11d6d87922ec38ceeacb6e04c74e1dac2ecc2c2b",
+  "sha256": "bd04ddfd231801bb86eaa4e78f81eda0b8bf3abccf2e2e3d9032884ed85a33f0",
+  "summary": {
+    "effective_sample_assessment": {
+      "n_effective": null,
+      "notes": "Quarterly surveys overlap bank respondents and lending cycle; serial/global regime dependence. Credit records are source releases, not independent investments.",
+      "year_clusters": 22
+    },
+    "exact_numeric_tables": 104,
+    "no_outcome_data_read": true,
+    "publication_dates_verified": 85,
+    "raw_observations": 104,
+    "usable_original_releases": 85
+  }
+}

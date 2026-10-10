@@ -1,0 +1,2643 @@
+                                                                  DIVISION OF MONETARY AFFAIRS
+
+
+
+
+For release at 2:00 p.m. ET                                             January 31, 2011
+
+
+
+
+TO:    HEADS OF RESEARCH AT ALL FEDERAL RESERVE BANKS
+
+
+
+
+       Enclosed for distribution to respondents is a national summary of the January 2011
+Senior Loan Officer Opinion Survey on Bank Lending Practices.
+
+
+
+
+Enclosures
+
+
+
+
+This document is available on the Federal Reserve Board=s web site
+(http://www.federalreserve.gov/boarddocs/surveys).
+The January 2011 Senior Loan Officer Opinion Survey on Bank Lending Practices
+
+The January 2011 Senior Loan Officer Opinion Survey on Bank Lending Practices addressed
+changes in the supply of, and demand for, bank loans to businesses and households over the past
+three months. The survey included three sets of special questions: the first set asked banks about
+changes in their credit policies on commercial real estate (CRE) loans over the past year; the
+second set asked banks about factors affecting recent growth in closed-end residential real estate
+loans; and the third set asked banks about their outlook for credit quality in 2011. This summary
+is based on responses from 57 domestic banks and 22 U.S. branches and agencies of foreign
+banks.1
+
+Overall, the January survey indicated that a modest net fraction of banks continued to ease
+standards and terms for commercial and industrial (C&I) loans over the fourth quarter while
+banks reported small mixed changes in their lending policies for other types of loans to
+businesses and households.2 Similarly, the respondents reported a moderate increase in demand
+for C&I loans but little change, on balance, in demand for other types of loans.
+
+Regarding loans to businesses, survey respondents, particularly large banks, reported having
+eased standards and most terms on C&I loans, especially to large and middle-market firms.3
+Banks mainly pointed to a more favorable or less uncertain economic outlook and increased
+competition from other banks or nonbank lenders as reasons for easing. By contrast, standards
+on CRE loans were reportedly about unchanged.
+
+Changes in standards and terms on loans to households were small and mixed. Banks again
+reported an increased willingness to make consumer installment loans, and a small net fraction of
+respondents reported easing standards for approving consumer credit card applications.
+However, a few banks, on net, reported having tightened terms on, or having reduced the sizes of
+credit lines on existing consumer credit card accounts. A modest net fraction of respondents
+reported having tightened standards on nontraditional residential mortgage loans, while banks on
+net reported little change in standards on prime residential mortgage loans or home equity lines
+of credit (HELOCs).
+
+
+
+1
+  Respondent banks received the survey on or after December 22, 2010, and their responses were due by January 11,
+2011.
+2
+  For questions that ask about lending standards or terms, reported net percentages equal the percentage of banks that
+reported having tightened standards ("tightened considerably" or "tightened somewhat") minus the percentage of
+banks that reported having eased standards ("eased considerably" or "eased somewhat"). For questions that ask
+about demand, reported net fractions equal the percentage of banks that reported stronger demand ("substantially
+stronger" or "moderately stronger") minus the percentage of banks that reported weaker demand ("substantially
+weaker" or "moderately weaker").
+3
+  Large and middle-market firms are generally defined as firms with annual sales of more than $50 million. Large
+banks are defined as banks with assets greater than or equal to $20 billion as of October 31, 2010.
+Demand increased, on net, for business loans, including C&I loans, particularly for large or
+middle-market firms. A smaller net fraction of banks reported increased demand for CRE loans.
+Moderate net fractions of banks reported decreased demand for all types of residential mortgage
+loans. In addition, banks, on net, did not indicate much change in demand for consumer loans.
+
+Business Lending
+(Table 1, questions 1-9, 22; Table 2, questions 1-10)
+
+Questions on commercial and industrial loans. The January survey found that a modest net
+fraction of domestic respondents continued to ease standards on C&I loans to large and middle-
+market firms. Few banks reported changing standards on such loans to small firms. The banks
+that eased standards were almost all large banks. In addition, a few branches and agencies of
+foreign banks reported having eased standards on C&I loans, while none of those institutions
+tightened standards.
+
+Positive net fractions of banks eased most terms on C&I loans, with larger net fractions easing
+terms for loans to large and middle-market firms than for loans to small firms. Compared with
+the October survey, somewhat more banks reported having reduced spreads of loan rates over
+their bank’s cost of funds, with about 45 percent of banks, on net, trimming spreads on loans to
+large and middle-market firms and 30 percent, on net, narrowing spreads on loans to small firms.
+Somewhat smaller net fractions of banks lowered the cost of credit lines and lengthened the
+maximum maturity for loans to firms of all sizes. The sizes of existing C&I credit lines and
+business credit card accounts were reportedly little changed.
+
+Of banks that reported having eased standards or terms on C&I loans, large majorities pointed to
+increased competition from other banks and nonbank lenders, as well as to a more favorable or
+less uncertain economic outlook, as reasons for the changes. Between 20 percent and 30 percent
+of respondents also cited reductions in defaults by borrowers in the public debt market, increased
+tolerance for risk, and industry-specific improvements.
+
+Reports of strengthened demand for C&I loans were more widespread than in the previous
+survey. About 30 percent of banks, on net, reported greater demand from large and middle-
+market firms, and about 5 percent reported strengthened demand from small firms. In addition,
+compared with the October survey, a larger fraction of banks reported an increase in inquiries
+from business borrowers for new or increased credit lines. Of the banks reporting stronger
+demand, about 75 percent indicated that the increased demand was partly due to funding needs
+for merger and acquisition activity, and more than half noted reduced borrowing from other
+banks or nonbank sources. Somewhat less than half of the banks also noted increased financing
+needs for inventories, accounts receivable, and investment in plant and equipment. Foreign
+institutions also reported a moderate net increase in demand and in inquiries regarding lines of
+credit, in line with the previous survey.
+
+Questions on commercial real estate lending. Domestic respondents reported no net change in
+standards on CRE loans in the fourth quarter, though a few foreign institutions reported having
+tightened standards. Roughly 20 percent of banks, on net, indicated that they had reduced the
+sizes of lines of credit for commercial construction, about the same as in the previous survey.
+About 10 percent of domestic banks, on net, reported increased demand for CRE loans, the
+strongest reading since early 2006. Foreign banks also reported that demand had strengthened,
+on net.
+
+Special question on commercial real estate lending. In response to a special question that has
+been repeated on an annual basis since 2001, domestic banks indicated that they had tightened
+some terms on CRE loans over 2010. However, the tightening was less widespread than that
+reported in 2009, and almost no banks reported having tightened terms considerably. About 40
+percent of domestic banks, on net, reported having tightened loan-to-value ratios, and moderately
+smaller fractions tightened debt service coverage ratios and maximum loan sizes. Spreads,
+maximum maturities, and requirements for takeout financing were reportedly little changed on
+net. Moderate net fractions of foreign banks indicated that they had eased some terms, including
+maximum loan sizes, spreads, and requirements on debt-service coverage ratios.
+
+Lending to Households
+(Table 1, questions 10-21)
+
+Questions on residential real estate lending. Standards on prime closed-end residential real
+estate loans were little changed, on balance, over the fourth quarter. In contrast, standards on
+nontraditional mortgage loans were reportedly tightened by about 15 percent of banks. The net
+fraction of banks tightening standards on nontraditional mortgage loans has now increased a bit
+for two consecutive quarters, after having fallen to nearly zero during the first half of 2010.
+Banks reported little net change in standards for, or the sizes of, HELOCs.
+
+Demand reportedly weakened somewhat, on net, for both prime and nontraditional closed-end
+residential real estate loans as well as for HELOCs. Reported demand for closed-end loans has
+now declined for two consecutive surveys after having increased during parts of 2009 and 2010.
+
+Special questions on factors affecting recent closed-end residential real estate loan growth.
+According to the Federal Reserve's weekly H.8 statistical release, "Assets and Liabilities of
+Commercial Banks in the United States," banks’ aggregate holdings of closed-end residential
+real estate loans increased steadily over the second half of 2010.4 A special survey question
+
+4
+    The H.8 statistical release can be found at http://www.federalreserve.gov/releases/h8/current/default.htm.
+asked respondents to assess the contribution of various possible factors to the recent increase in
+their closed-end residential real estate loan holdings.
+
+About 45 percent of the respondents indicated that they had experienced recent growth in their
+residential mortgage portfolios. The majority of banks that recorded such an increase noted the
+relative attractiveness of the risk-adjusted returns on these loans compared with other assets and
+reported having become more willing to expand their overall balance sheets via this category of
+loan. About one-third of the banks also reported having originated a larger volume of loans that
+are not eligible for guarantee by the Federal Housing Administration or do not conform to
+standards required for sale to the government sponsored enterprises (GSEs), Federal National
+Mortgage Association and Federal Home Loan Mortgage Corporation. Banks were somewhat
+less likely to credit their accumulations of closed-end residential mortgages to reductions in
+charge-offs or paydowns, or to originations of GSE-eligible loans that had exceeded their banks’
+capacity to process such loans for sale to the GSEs. Only two banks attributed their loan
+accumulations in part to repurchases from the GSEs or other securitization pools.
+
+An additional special question asked respondents whether they expected their holdings of closed-
+end residential real estate loans to increase over the first half of 2011. About 35 percent of
+banks, on net, reported expectations that such loan holdings would increase.
+
+Questions on consumer lending. A small net fraction of banks reported having eased standards
+on consumer credit card and non-credit-card loans in the fourth quarter, about the same as in the
+past two surveys. The net fraction of banks that reported an increased willingness to make
+consumer installment loans remained elevated.
+
+Banks reported little change, on net, in most terms on consumer loans, with the exception of
+spreads on non-credit-card loans and minimum credit scores on credit card loans, which were
+eased by small net fractions of banks. A similar fraction of banks reported cutting back the sizes
+of consumer credit card lines. Banks were somewhat split regarding changes in demand for
+consumer loans, and on net they reported little change.
+
+Special Questions on Banks' Outlook for Asset Quality in 2011.
+(Table 1, questions 23-25; Table 2, questions 11-12)
+
+The January survey included a set of special questions that asked banks about their outlook for
+delinquencies and charge-offs across major loan categories in the current year, assuming that
+economic activity progresses in line with consensus forecasts. This special question has been
+asked once each year during the past five years. In the January survey, expectations were
+significantly more upbeat than in past years. Moderate to large net fractions of banks reported
+that they expected improvements in delinquency and charge-off rates during 2011 in every major
+loan category.
+
+The responses indicated that banks were least likely to expect improvement in the quality of
+residential real estate loans this year. About 20 percent of banks, on net, reportedly expect
+improvement in nontraditional closed-end loans, and about 35 percent of banks indicated they
+expect improvement in HELOCs. Almost 40 percent of respondents expected improvement for
+prime closed-end loans. Large banks were somewhat more likely than small banks to report
+expectations of improvement in the quality of residential real estate loans.
+
+The survey also found that about 50 percent of banks, on net, expected improvement this year in
+the quality of consumer loans, including both credit card loans and other consumer loans.
+Similarly, about 55 percent of banks, particularly large banks, expected improvement in the
+quality of CRE loans.
+
+A large share of respondents reported that they expect an improvement this year in the quality of
+C&I loans. About 80 percent of respondents expected improvements in C&I loans to large and
+middle-market firms, and about 70 percent expected improvements in C&I loans to small firms.
+Moreover, about 10 percent expected the quality of C&I loans to large and middle-market firms
+to improve “substantially” (as opposed to improve “somewhat”) this year. In addition, under the
+assumption that economic activity progressed in line with consensus forecasts, no bank reported
+that they expect deterioration in the quality of C&I loans to firms of any size this year.
+Measures of Supply and Demand for Commercial and Industrial Loans,
+                   by Size of Firm Seeking Loan
+
+
+
+Net Percentage of Domestic Respondents Tightening Standards for Commercial and Industrial Loans
+                                                                                                     Percent
+                                                                                             Oct.              100
+                                                                                           survey
+                                                                                                                80
+                  Loans to large and medium-sized firms
+                  Loans to small firms                                                                          60
+
+                                                                                                                40
+
+                                                                                                                20
+
+                                                                                                                0
+
+                                                                                                               -20
+
+                                                                                                               -40
+       1991     1993     1995      1997      1999         2001   2003   2005    2007     2009       2011
+
+
+
+
+Net Percentage of Domestic Respondents Increasing Spreads of Loan Rates over Banks’ Costs of Funds
+                                                                                                     Percent
+                                                                                                               100
+
+                                                                                                               80
+
+                                                                                                               60
+
+                                                                                                               40
+
+                                                                                                               20
+
+                                                                                                                0
+
+                                                                                                               -20
+
+                                                                                                               -40
+
+                                                                                                               -60
+
+                                                                                                               -80
+       1991     1993     1995      1997      1999         2001   2003   2005    2007     2009       2011
+
+
+
+
+Net Percentage of Domestic Respondents Reporting Stronger Demand for Commercial and Industrial Loans
+                                                                                                     Percent
+                                                                                                               60
+
+                                                                                                               40
+
+                                                                                                               20
+
+                                                                                                                0
+
+                                                                                                               -20
+
+                                                                                                               -40
+
+                                                                                                               -60
+
+                                                                                                               -80
+       1991     1993     1995      1997      1999         2001   2003   2005    2007     2009       2011
+ Measures of Supply and Demand for Commercial Real Estate Loans
+
+
+
+
+Net Percentage of Domestic Respondents Tightening Standards for Commercial Real Estate Loans
+                                                                                               Percent
+                                                                                        Oct.             100
+                                                                                      survey
+
+                                                                                                          80
+
+
+
+                                                                                                          60
+
+
+
+                                                                                                          40
+
+
+
+                                                                                                          20
+
+
+
+                                                                                                          0
+
+
+
+                                                                                                         -20
+
+
+
+                                                                                                         -40
+      1991     1993     1995    1997     1999     2001    2003     2005     2007    2009       2011
+
+
+
+
+Net Percentage of Domestic Respondents Reporting Stronger Demand for Commercial Real Estate Loans
+                                                                                               Percent
+                                                                                                         60
+
+
+
+                                                                                                         40
+
+
+
+                                                                                                         20
+
+
+
+                                                                                                          0
+
+
+
+                                                                                                         -20
+
+
+
+                                                                                                         -40
+
+
+
+                                                                                                         -60
+
+
+
+                                                                                                         -80
+      1991     1993     1995    1997     1999     2001    2003     2005     2007    2009       2011
+          Measures of Supply and Demand for Residential Mortgage Loans
+
+
+
+
+      Net Percentage of Domestic Respondents Tightening Standards for Residential Mortgage Loans
+      Percent                                                                                                                         Percent
+100                                                                                                                                               100
+
+
+
+ 80                                                                                                                                                80
+
+
+
+ 60                                                                                                                                                60
+
+
+
+ 40                                                                                                                                                40
+
+                  All residential
+ 20                                                                                                                                                20
+
+
+
+  0                                                                                                                                                0
+                                                                                                                           Prime
+                                                                                                                           Nontraditional
+-20                                                                                                                                               -20
+                                                                                                                           Subprime
+
+          1990      1992      1994      1996      1998      2000     2002      2004      2006              2007         2009          2011
+
+
+       Note: For data starting in 2007:Q2, changes in standards for prime, nontraditional, and subprime mortgage loans are reported separately.
+      Series are not reported when the number of respondents is three or fewer.
+
+
+
+      Net Percentage of Domestic Respondents Reporting Stronger Demand for Residential Mortgage Loans
+      Percent                                                                                                                         Percent
+80                                                                                                                                                80
+
+                                                                                                                           Prime
+60                 All residential                                                                                                                60
+                                                                                                                           Nontraditional
+                                                                                                                           Subprime
+40                                                                                                                                                40
+
+
+20                                                                                                                                                20
+
+
+ 0                                                                                                                                                 0
+
+
+-20                                                                                                                                               -20
+
+
+-40                                                                                                                                               -40
+
+
+-60                                                                                                                                               -60
+
+
+-80                                                                                                                                               -80
+
+
+
+          1990      1992      1994      1996      1998      2000     2002      2004      2006              2007         2009          2011
+
+
+       Note: For data starting in 2007:Q2, changes in demand for prime, nontraditional, and subprime mortgage loans are reported separately.
+      Series are not reported when the number of respondents is three or fewer.
+              Measures of Supply and Demand for Consumer Loans
+
+
+
+
+Net Percentage of Domestic Respondents Tightening Standards for Consumer Loans
+                                                                                                   Percent
+                                                                                            Oct.             100
+                                                                                          survey
+                                                                                                              80
+
+
+                                                                                                              60
+                                                       Credit card loans
+                                                       Other consumer loans                                   40
+
+
+                                                                                                              20
+
+
+                                                                                                              0
+
+
+                                                                                                             -20
+       1991     1993     1995     1997     1999     2001      2003      2005   2007     2009       2011
+
+
+
+
+Net Percentage of Domestic Respondents Reporting Increased Willingness to Make Consumer Installment Loans
+                                                                                                   Percent
+                                                                                                             40
+
+
+
+                                                                                                             20
+
+
+
+                                                                                                              0
+
+
+
+                                                                                                             -20
+
+
+
+                                                                                                             -40
+
+
+       1991     1993     1995     1997     1999     2001      2003      2005   2007     2009       2011
+
+
+
+
+Net Percentage of Domestic Respondents Reporting Stronger Demand for Consumer Loans
+                                                                                                   Percent
+                                                                                                             60
+
+
+                                                                                                             40
+
+
+                                                                                                             20
+
+
+                                                                                                              0
+
+
+                                                                                                             -20
+
+
+                                                                                                             -40
+
+
+                                                                                                             -60
+       1991     1993     1995     1997     1999     2001      2003      2005   2007     2009       2011
+                                                    Table 1
+
+            Senior Loan Officer Opinion Survey on Bank Lending Practices
+                    at Selected Large Banks in the United States 1
+                                   (Status of policy as of January 2011)
+Questions 1-6 ask about commercial and industrial (C&I) loans at your bank. Questions 1-3 deal with changes
+in your bank's lending policies over the past three months. Questions 4-5 deal with changes in demand for C&I
+loans over the past three months. Question 6 asks about changes in prospective demand for C&I loans at your
+bank, as indicated by the volume of recent inquiries about the availability of new credit lines or increases in
+existing lines. If your bank's lending policies have not changed over the past three months, please report them as
+unchanged even if the policies are either restrictive or accommodative relative to longer-term norms. If your
+bank's policies have tightened or eased over the past three months, please so report them regardless of how they
+stand relative to longer-term norms. Also, please report changes in enforcement of existing policies as changes
+in policies.
+
+1. Over the past three months, how have your bank's credit standards for approving applications for C&I loans or
+credit lines—other than those to be used to finance mergers and acquisitions—to large and middle-market firms
+and to small firms changed? (If your bank defines firm size differently from the categories suggested below,
+please use your definitions and indicate what they are.)
+
+      A. Standards for large and middle-market firms (annual sales of $50 million or more):
+
+                                                All Respondents     Large Banks      Other Banks
+
+                                                Banks    Percent Banks Percent Banks Percent
+
+              Tightened considerably                 0       0.0       0      0.0        0      0.0
+              Tightened somewhat                     1       1.8       0      0.0        1      4.0
+              Remained basically unchanged         49      86.0      26      81.3      23      92.0
+              Eased somewhat                         7     12.3        6     18.8        1      4.0
+              Eased considerably                     0       0.0       0      0.0        0      0.0
+              Total                                57     100.0      32     100.0      25     100.0
+      B. Standards for small firms (annual sales of less than $50 million):
+
+                                                All Respondents     Large Banks       Other Banks
+
+                                                Banks    Percent Banks Percent Banks Percent
+
+              Tightened considerably                 0       0.0       0        0.0     0      0.0
+              Tightened somewhat                     2       3.7       1        3.4     1      4.0
+              Remained basically unchanged          49     90.7       25       86.2    24     96.0
+              Eased somewhat                         3       5.6       3       10.3     0      0.0
+              Eased considerably                     0       0.0       0        0.0     0      0.0
+              Total                                 54    100.0       29      100.0    25    100.0
+
+2. For applications for C&I loans or credit lines—other than those to be used to finance mergers and
+acquisitions—from large and middle-market firms and from small firms that your bank currently is willing to
+approve, how have the terms of those loans changed over the past three months?
+
+      A. Terms for large and middle-market firms (annual sales of $50 million or more):
+
+            a. Maximum size of credit lines
+
+                                                All Respondents     Large Banks       Other Banks
+
+                                                Banks    Percent Banks Percent Banks Percent
+
+              Tightened considerably                 0       0.0       0        0.0     0      0.0
+              Tightened somewhat                     2       3.5       1        3.1     1      4.0
+              Remained basically unchanged          48     84.2       24       75.0    24     96.0
+              Eased somewhat                         7     12.3        7       21.9     0      0.0
+              Eased considerably                     0       0.0       0        0.0     0      0.0
+              Total                                 57    100.0       32      100.0    25    100.0
+b. Maximum maturity of loans or credit lines
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably               0         0.0     0       0.0       0       0.0
+  Tightened somewhat                   1         1.8     0       0.0       1       4.0
+  Remained basically unchanged        42        73.7    19      59.4      23     92.0
+  Eased somewhat                      14        24.6    13      40.6       1       4.0
+  Eased considerably                   0         0.0     0       0.0       0       0.0
+  Total                               57       100.0    32    100.0       25    100.0
+
+c. Costs of credit lines
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably               0         0.0     0       0.0       0       0.0
+  Tightened somewhat                   2         3.5     2       6.3       0       0.0
+  Remained basically unchanged        38        66.7    18      56.3      20     80.0
+  Eased somewhat                      17        29.8    12      37.5       5     20.0
+  Eased considerably                   0         0.0     0       0.0       0       0.0
+  Total                               57       100.0    32    100.0       25    100.0
+
+d. Spreads of loan rates over your bank's cost of funds (wider spreads=tightened, narrower
+spreads=eased)
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably               0         0.0     0       0.0       0       0.0
+  Tightened somewhat                   4         7.0     2       6.3       2       8.0
+  Remained basically unchanged        22        38.6     8      25.0      14     56.0
+  Eased somewhat                      29        50.9    20      62.5       9     36.0
+  Eased considerably                   2         3.5     2       6.3       0       0.0
+  Total                               57       100.0    32    100.0       25    100.0
+e. Premiums charged on riskier loans
+
+                                    All Respondents   Large Banks    Other Banks
+
+                                    Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably                0       0.0     0      0.0     0      0.0
+  Tightened somewhat                    4       7.0     0      0.0     4     16.0
+  Remained basically unchanged         45     78.9     25     78.1    20     80.0
+  Eased somewhat                        8     14.0      7     21.9     1      4.0
+  Eased considerably                    0       0.0     0      0.0     0      0.0
+  Total                                57    100.0     32    100.0    25    100.0
+
+f. Loan covenants
+
+                                    All Respondents   Large Banks    Other Banks
+
+                                    Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably                1       1.8     0      0.0     1      4.0
+  Tightened somewhat                    3       5.3     1      3.1     2      8.0
+  Remained basically unchanged         44     77.2     23     71.9    21     84.0
+  Eased somewhat                        9     15.8      8     25.0     1      4.0
+  Eased considerably                    0       0.0     0      0.0     0      0.0
+  Total                                57    100.0     32    100.0    25    100.0
+
+g. Collateralization requirements
+
+                                    All Respondents   Large Banks    Other Banks
+
+                                    Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably                0       0.0     0      0.0     0      0.0
+  Tightened somewhat                    4       7.0     1      3.1     3     12.0
+  Remained basically unchanged         51     89.5     30     93.8    21     84.0
+  Eased somewhat                        2       3.5     1      3.1     1      4.0
+  Eased considerably                    0       0.0     0      0.0     0      0.0
+  Total                                57    100.0     32    100.0    25    100.0
+B. Terms for small firms (annual sales of less than $50 million):
+
+      a. Maximum size of credit lines
+
+                                          All Respondents    Large Banks        Other Banks
+
+                                          Banks    Percent Banks Percent Banks Percent
+
+        Tightened considerably                 0       0.0          0     0.0     0      0.0
+        Tightened somewhat                     2       3.7          1     3.4     1      4.0
+        Remained basically unchanged         50       92.6     26        89.7    24     96.0
+        Eased somewhat                         2       3.7          2     6.9     0      0.0
+        Eased considerably                     0       0.0          0     0.0     0      0.0
+        Total                                54      100.0     29       100.0    25    100.0
+
+      b. Maximum maturity of loans or credit lines
+
+                                          All Respondents    Large Banks        Other Banks
+
+                                          Banks    Percent Banks Percent Banks Percent
+
+        Tightened considerably                 0       0.0          0     0.0     0      0.0
+        Tightened somewhat                     2       3.7          1     3.4     1      4.0
+        Remained basically unchanged         47       87.0     24        82.8    23     92.0
+        Eased somewhat                         5       9.3          4    13.8     1      4.0
+        Eased considerably                     0       0.0          0     0.0     0      0.0
+        Total                                54      100.0     29       100.0    25    100.0
+
+      c. Costs of credit lines
+
+                                          All Respondents    Large Banks        Other Banks
+
+                                          Banks    Percent Banks Percent Banks Percent
+
+        Tightened considerably                 0       0.0          0     0.0     0      0.0
+        Tightened somewhat                     2       3.7          1     3.4     1      4.0
+        Remained basically unchanged         41       75.9     20        69.0    21     84.0
+        Eased somewhat                       11       20.4          8    27.6     3     12.0
+        Eased considerably                     0       0.0          0     0.0     0      0.0
+        Total                                54      100.0     29       100.0    25    100.0
+d. Spreads of loan rates over your bank's cost of funds (wider spreads=tightened, narrower
+spreads=eased)
+
+                                   All Respondents    Large Banks       Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+  Tightened considerably                0      0.0       0       0.0       0       0.0
+  Tightened somewhat                    5      9.3       2       6.9       3     12.0
+  Remained basically unchanged         28     51.9      14      48.3      14     56.0
+  Eased somewhat                       21     38.9      13      44.8       8     32.0
+  Eased considerably                    0      0.0       0       0.0       0       0.0
+  Total                                54    100.0      29    100.0       25    100.0
+
+e. Premiums charged on riskier loans
+
+                                   All Respondents    Large Banks       Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+  Tightened considerably                0      0.0       0       0.0       0       0.0
+  Tightened somewhat                    6     11.1       2       6.9       4     16.0
+  Remained basically unchanged         47     87.0      26      89.7      21     84.0
+  Eased somewhat                        1      1.9       1       3.4       0       0.0
+  Eased considerably                    0      0.0       0       0.0       0       0.0
+  Total                                54    100.0      29    100.0       25    100.0
+
+f. Loan covenants
+
+                                   All Respondents    Large Banks       Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+  Tightened considerably                1      1.9       0       0.0       1       4.0
+  Tightened somewhat                    2      3.7       1       3.4       1       4.0
+  Remained basically unchanged         49     90.7      26      89.7      23     92.0
+  Eased somewhat                        2      3.7       2       6.9       0       0.0
+  Eased considerably                    0      0.0       0       0.0       0       0.0
+  Total                                54    100.0      29    100.0       25    100.0
+            g. Collateralization requirements
+
+                                                 All Respondents            Large Banks             Other Banks
+
+                                                 Banks     Percent Banks Percent Banks Percent
+
+              Tightened considerably                  0           0.0         0           0.0         0           0.0
+              Tightened somewhat                      3           5.6         1           3.4         2           8.0
+              Remained basically unchanged           51          94.4        28          96.6        23          92.0
+              Eased somewhat                          0           0.0         0           0.0         0           0.0
+              Eased considerably                      0           0.0         0           0.0         0           0.0
+              Total                                  54      100.0           29      100.0           25      100.0
+
+3. If your bank has tightened or eased its credit standards or its terms for C&I loans or credit lines over the past
+three months (as described in questions 1 and 2), how important have been the following possible reasons for the
+change?
+
+      A. Possible reasons for tightening credit standards or loan terms:
+
+            a. Deterioration in your bank's current or expected capital position
+
+                                           All Respondents         Large Banks             Other Banks
+
+                                           Banks     Percent Banks Percent Banks Percent
+
+                    Not important                9        75.0          5         71.4          4         80.0
+                    Somewhat important           3        25.0          2         28.6          1         20.0
+                    Very important               0         0.0          0          0.0          0          0.0
+                    Total                       12    100.0             7     100.0             5     100.0
+
+            b. Less favorable or more uncertain economic outlook
+
+                                           All Respondents         Large Banks             Other Banks
+
+                                           Banks     Percent Banks Percent Banks Percent
+
+                    Not important                3        25.0          2         28.6          1         20.0
+                    Somewhat important           8        66.7          4         57.1          4         80.0
+                    Very important               1         8.3          1         14.3          0          0.0
+                    Total                       12    100.0             7     100.0             5     100.0
+c. Worsening of industry-specific problems (please specify industries)
+
+                                All Respondents   Large Banks      Other Banks
+
+                                Banks   Percent Banks Percent Banks Percent
+
+       Not important                5     41.7      3      42.9          2    40.0
+       Somewhat important           7     58.3      4      57.1          3    60.0
+       Very important               0       0.0     0       0.0          0     0.0
+       Total                       12    100.0      7    100.0           5   100.0
+
+d. Less aggressive competition from other banks or nonbank lenders (other financial intermediaries
+or the capital markets)
+
+                                All Respondents   Large Banks      Other Banks
+
+                                Banks   Percent Banks Percent Banks Percent
+
+       Not important                9     75.0      5      71.4          4    80.0
+       Somewhat important           3     25.0      2      28.6          1    20.0
+       Very important               0       0.0     0       0.0          0     0.0
+       Total                       12    100.0      7    100.0           5   100.0
+
+e. Reduced tolerance for risk
+
+                                All Respondents   Large Banks      Other Banks
+
+                                Banks   Percent Banks Percent Banks Percent
+
+       Not important                4     33.3      3      42.9          1    20.0
+       Somewhat important           5     41.7      2      28.6          3    60.0
+       Very important               3     25.0      2      28.6          1    20.0
+       Total                       12    100.0      7    100.0           5   100.0
+f. Decreased liquidity in the secondary market for these loans
+
+                               All Respondents     Large Banks       Other Banks
+
+                               Banks   Percent Banks Percent Banks Percent
+
+       Not important               7      58.3        5       71.4       2    40.0
+       Somewhat important          3      25.0        1       14.3       2    40.0
+       Very important              2      16.7        1       14.3       1    20.0
+       Total                      12     100.0        7    100.0         5   100.0
+
+g. Increase in defaults by borrowers in public debt markets
+
+                               All Respondents     Large Banks       Other Banks
+
+                               Banks   Percent Banks Percent Banks Percent
+
+       Not important               8      66.7        5       71.4       3    60.0
+       Somewhat important          4      33.3        2       28.6       2    40.0
+       Very important              0       0.0        0        0.0       0     0.0
+       Total                      12     100.0        7    100.0         5   100.0
+
+h. Deterioration in your bank's current or expected liquidity position
+
+                               All Respondents     Large Banks       Other Banks
+
+                               Banks   Percent Banks Percent Banks Percent
+
+       Not important              11      91.7        6       85.7       5   100.0
+       Somewhat important          1       8.3        1       14.3       0     0.0
+       Very important              0       0.0        0        0.0       0     0.0
+       Total                      12     100.0        7    100.0         5   100.0
+      i. Increased concerns about the effects of legislative changes, supervisory actions, or changes in
+      accounting standards
+
+                                     All Respondents     Large Banks       Other Banks
+
+                                     Banks    Percent Banks Percent Banks Percent
+
+             Not important                6     46.2        3     42.9        3     50.0
+             Somewhat important           6     46.2        3     42.9        3     50.0
+             Very important               1      7.7        1     14.3        0       0.0
+             Total                      13     100.0        7    100.0        6    100.0
+
+B. Possible reasons for easing credit standards or loan terms:
+
+      a. Improvement in your bank's current or expected capital position
+
+                                     All Respondents     Large Banks       Other Banks
+
+                                     Banks    Percent Banks Percent Banks Percent
+
+             Not important              26      86.7      18      81.8        8    100.0
+             Somewhat important           3     10.0        3     13.6        0       0.0
+             Very important               1      3.3        1       4.5       0       0.0
+             Total                      30     100.0      22     100.0        8    100.0
+
+      b. More favorable or less uncertain economic outlook
+
+                                     All Respondents     Large Banks       Other Banks
+
+                                     Banks    Percent Banks Percent Banks Percent
+
+             Not important                6     20.0        4     18.2        2     25.0
+             Somewhat important         22      73.3      17      77.3        5     62.5
+             Very important               2      6.7        1       4.5       1     12.5
+             Total                      30     100.0      22     100.0        8    100.0
+c. Improvement in industry-specific problems (please specify industries)
+
+                                  All Respondents   Large Banks    Other Banks
+
+                                  Banks   Percent Banks Percent Banks Percent
+
+       Not important                 23     76.7     17     77.3      6     75.0
+       Somewhat important             6     20.0      4     18.2      2     25.0
+       Very important                 1       3.3     1      4.5      0      0.0
+       Total                         30    100.0     22    100.0      8    100.0
+
+d. More aggressive competition from other banks or nonbank lenders (other financial intermediaries
+or the capital markets)
+
+                                  All Respondents   Large Banks    Other Banks
+
+                                  Banks   Percent Banks Percent Banks Percent
+
+       Not important                  2       6.7     1      4.5      1     12.5
+       Somewhat important            14     46.7     11     50.0      3     37.5
+       Very important                14     46.7     10     45.5      4     50.0
+       Total                         30    100.0     22    100.0      8    100.0
+
+e. Increased tolerance for risk
+
+                                  All Respondents   Large Banks    Other Banks
+
+                                  Banks   Percent Banks Percent Banks Percent
+
+       Not important                 22     73.3     14     63.6      8    100.0
+       Somewhat important             8     26.7      8     36.4      0      0.0
+       Very important                 0       0.0     0      0.0      0      0.0
+       Total                         30    100.0     22    100.0      8    100.0
+f. Increased liquidity in the secondary market for these loans
+
+                              All Respondents     Large Banks          Other Banks
+
+                               Banks   Percent Banks Percent Banks Percent
+
+       Not important              24      80.0      17      77.3         7     87.5
+       Somewhat important          4      13.3        4     18.2         0      0.0
+       Very important              2       6.7        1          4.5     1     12.5
+       Total                      30     100.0      22     100.0         8    100.0
+
+g. Reduction in defaults by borrowers in public debt markets
+
+                              All Respondents     Large Banks          Other Banks
+
+                               Banks   Percent Banks Percent Banks Percent
+
+       Not important              21      72.4      14      66.7         7     87.5
+       Somewhat important          8      27.6        7     33.3         1     12.5
+       Very important              0       0.0        0          0.0     0      0.0
+       Total                      29     100.0      21     100.0         8    100.0
+
+h. Improvement in your bank's current or expected liquidity position
+
+                              All Respondents     Large Banks          Other Banks
+
+                               Banks   Percent Banks Percent Banks Percent
+
+       Not important              27      87.1      19      86.4         8     88.9
+       Somewhat important          1       3.2        0          0.0     1     11.1
+       Very important              3       9.7        3     13.6         0      0.0
+       Total                      31     100.0      22     100.0         9    100.0
+            i. Reduced concerns about the effects of legislative changes, supervisory actions, or changes in
+            accounting standards
+
+                                           All Respondents    Large Banks       Other Banks
+
+                                           Banks    Percent Banks Percent Banks Percent
+
+                   Not important              25      86.2      18      85.7       7      87.5
+                   Somewhat important          4      13.8       3      14.3       1      12.5
+                   Very important              0       0.0       0       0.0       0       0.0
+                   Total                      29     100.0      21    100.0        8    100.0
+
+4. Apart from normal seasonal variation, how has demand for C&I loans changed over the past three months?
+(Please consider only funds actually disbursed as opposed to requests for new or increased lines of credit.)
+
+      A. Demand for C&I loans from large and middle-market firms (annual sales of $50 million or more):
+
+                                           All Respondents    Large Banks       Other Banks
+
+                                           Banks    Percent Banks Percent Banks Percent
+
+                  Substantially stronger        1      1.8        1      3.1       0       0.0
+                  Moderately stronger         19      33.3      16      50.0       3      12.0
+                  About the same              33      57.9      15      46.9      18      72.0
+                  Moderately weaker             3      5.3        0      0.0       3      12.0
+                  Substantially weaker          1      1.8        0      0.0       1       4.0
+                  Total                       57     100.0      32     100.0      25     100.0
+
+      B. Demand for C&I loans from small firms (annual sales of less than $50 million):
+
+                                           All Respondents    Large Banks       Other Banks
+
+                                           Banks    Percent Banks Percent Banks Percent
+
+                  Substantially stronger        0      0.0        0      0.0       0       0.0
+                  Moderately stronger           7     13.0        4     13.8       3      12.0
+                  About the same              43      79.6      25      86.2      18      72.0
+                  Moderately weaker             3      5.6        0      0.0       3      12.0
+                  Substantially weaker          1      1.9        0      0.0       1       4.0
+                  Total                       54     100.0      29     100.0      25     100.0
+5. If demand for C&I loans has strengthened or weakened over the past three months (as described in question
+4), how important have been the following possible reasons for the change?
+
+      A. If stronger loan demand (answer 1 or 2 to question 4A or 4B), possible reasons:
+
+            a. Customer inventory financing needs increased
+
+                                          All Respondents     Large Banks      Other Banks
+
+                                          Banks   Percent Banks Percent Banks Percent
+
+                   Not important             12      54.5      10       55.6      2        50.0
+                   Somewhat important        10      45.5       8       44.4      2        50.0
+                   Very important             0       0.0       0        0.0      0         0.0
+                   Total                     22     100.0      18    100.0        4    100.0
+
+            b. Customer accounts receivable financing needs increased
+
+                                          All Respondents     Large Banks      Other Banks
+
+                                          Banks   Percent Banks Percent Banks Percent
+
+                   Not important             12      54.5      10       55.6      2        50.0
+                   Somewhat important        10      45.5       8       44.4      2        50.0
+                   Very important             0       0.0       0        0.0      0         0.0
+                   Total                     22     100.0      18    100.0        4    100.0
+
+            c. Customer investment in plant or equipment increased
+
+                                          All Respondents     Large Banks      Other Banks
+
+                                          Banks   Percent Banks Percent Banks Percent
+
+                   Not important             12      54.5      11       61.1      1        25.0
+                   Somewhat important        10      45.5       7       38.9      3        75.0
+                   Very important             0       0.0       0        0.0      0         0.0
+                   Total                     22     100.0      18    100.0        4    100.0
+d. Customer internally generated funds decreased
+
+                             All Respondents       Large Banks      Other Banks
+
+                             Banks    Percent Banks Percent Banks Percent
+
+      Not important             18      81.8        14     77.8       4    100.0
+      Somewhat important          4     18.2         4     22.2       0      0.0
+      Very important              0      0.0         0        0.0     0      0.0
+      Total                     22     100.0        18    100.0       4    100.0
+
+e. Customer merger or acquisition financing needs increased
+
+                             All Respondents       Large Banks      Other Banks
+
+                             Banks    Percent Banks Percent Banks Percent
+
+      Not important               5     22.7         3     16.7       2     50.0
+      Somewhat important        11      50.0         9     50.0       2     50.0
+      Very important              6     27.3         6     33.3       0      0.0
+      Total                     22     100.0        18    100.0       4    100.0
+
+f. Customer borrowing shifted to your bank from other bank or nonbank sources because these other
+sources became less attractive
+
+                             All Respondents       Large Banks      Other Banks
+
+                             Banks    Percent Banks Percent Banks Percent
+
+      Not important             10      47.6         8     47.1       2     50.0
+      Somewhat important          9     42.9         7     41.2       2     50.0
+      Very important              2      9.5         2     11.8       0      0.0
+      Total                     21     100.0        17    100.0       4    100.0
+B. If weaker loan demand (answer 4 or 5 to question 4A or 4B), possible reasons:
+
+      a. Customer inventory financing needs decreased
+
+                                   All Respondents      Large Banks     Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+             Not important              0       0.0       0       --       0         0.0
+             Somewhat important         3     75.0        0       --       3        75.0
+             Very important             1     25.0        0       --       1        25.0
+             Total                      4    100.0        0       --       4       100.0
+
+      b. Customer accounts receivable financing needs decreased
+
+                                   All Respondents      Large Banks     Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+             Not important              0       0.0       0       --       0         0.0
+             Somewhat important         3     75.0        0       --       3        75.0
+             Very important             1     25.0        0       --       1        25.0
+             Total                      4    100.0        0       --       4       100.0
+
+      c. Customer investment in plant or equipment decreased
+
+                                   All Respondents      Large Banks     Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+             Not important              0       0.0       0       --       0         0.0
+             Somewhat important         2     50.0        0       --       2        50.0
+             Very important             2     50.0        0       --       2        50.0
+             Total                      4    100.0        0       --       4       100.0
+d. Customer internally generated funds increased
+
+                             All Respondents       Large Banks     Other Banks
+
+                             Banks    Percent Banks Percent Banks Percent
+
+      Not important               2     50.0         0        --     2     50.0
+      Somewhat important          2     50.0         0        --     2     50.0
+      Very important              0      0.0         0        --     0      0.0
+      Total                       4    100.0         0        --     4    100.0
+
+e. Customer merger or acquisition financing needs decreased
+
+                             All Respondents       Large Banks     Other Banks
+
+                             Banks    Percent Banks Percent Banks Percent
+
+      Not important               3     75.0         0        --     3     75.0
+      Somewhat important          0      0.0         0        --     0      0.0
+      Very important              1     25.0         0        --     1     25.0
+      Total                       4    100.0         0        --     4    100.0
+
+f. Customer borrowing shifted from your bank to other bank or nonbank credit sources because these
+other sources became more attractive
+
+                             All Respondents       Large Banks     Other Banks
+
+                             Banks    Percent Banks Percent Banks Percent
+
+      Not important               3     75.0         0        --     3     75.0
+      Somewhat important          1     25.0         0        --     1     25.0
+      Very important              0      0.0         0        --     0      0.0
+      Total                       4    100.0         0        --     4    100.0
+6. At your bank, how has the number of inquiries from potential business borrowers regarding the availability
+and terms of new credit lines or increases in existing lines changed over the past three months? (Please consider
+only inquiries for additional or increased C&I lines as opposed to the refinancing of existing loans.)
+
+                                                          All Respondents     Large Banks       Other Banks
+
+                                                          Banks    Percent Banks Percent Banks Percent
+
+    The number of inquiries has increased substantially        1       1.8       1       3.1       0       0.0
+    The number of inquiries has increased moderately          23      40.4      18      56.3       5      20.0
+    The number of inquiries has stayed about the same         31      54.4      13      40.6      18      72.0
+    The number of inquiries has decreased moderately           1       1.8       0       0.0       1       4.0
+    The number of inquiries has decreased substantially        1       1.8       0       0.0       1       4.0
+    Total                                                     57    100.0       32    100.0       25    100.0
+Questions 7-8 ask about commercial real estate (CRE) loans at your bank, including construction and land
+development loans and loans secured by nonfarm nonresidential real estate. Question 7 deals with changes in
+your bank's standards over the past three months. Question 8 deals with changes in demand. If your bank's
+lending standards or terms have not changed over the relevant period, please report them as unchanged even if
+they are either restrictive or accommodative relative to longer-term norms. If your bank's standards or terms
+have tightened or eased over the relevant period, please so report them regardless of how they stand relative to
+longer-term norms. Also, please report changes in enforcement of existing standards as changes in standards.
+
+7. Over the past three months, how have your bank's credit standards for approving applications for CRE loans
+changed?
+
+                                                All Respondents             Large Banks              Other Banks
+
+                                                Banks     Percent Banks Percent Banks Percent
+
+              Tightened considerably                 0           0.0          0           0.0          0           0.0
+              Tightened somewhat                     6          10.5          2           6.3          4          16.0
+              Remained basically unchanged          45          78.9         25          78.1         20          80.0
+              Eased somewhat                         5           8.8          4          12.5          1           4.0
+              Eased considerably                     1           1.8          1           3.1          0           0.0
+              Total                                 57      100.0            32      100.0            25      100.0
+
+8. Apart from normal seasonal variation, how has demand for CRE loans changed over the past three months?
+
+                                            All Respondents        Large Banks              Other Banks
+
+                                            Banks   Percent Banks Percent Banks Percent
+
+                   Substantially stronger       2         3.5           2          6.3           0          0.0
+                   Moderately stronger         14        24.6          12         37.5           2          8.0
+                   About the same              32        56.1          16         50.0          16         64.0
+                   Moderately weaker            7        12.3           2          6.3           5         20.0
+                   Substantially weaker         2         3.5           0          0.0           2          8.0
+                   Total                       57    100.0             32      100.0            25      100.0
+Question 9 focuses on changes in your bank's policies on CRE loans over the past year. If your bank's lending
+policies have not changed over the past year, please report them as unchanged even if they are either restrictive
+or accommodative relative to longer-term norms. If your bank's policies have tightened or eased over the past
+year, please report these changes regardless of how your bank's policies stand relative to longer-term norms.
+
+9. Over the past year, how has your bank changed the following policies on CRE loans?
+
+            a. Maximum loan size
+
+                                                All Respondents    Large Banks       Other Banks
+
+                                                Banks   Percent Banks Percent Banks Percent
+
+              Tightened considerably                1       1.8       1       3.1       0       0.0
+              Tightened somewhat                   13      22.8       7      21.9       6      24.0
+              Remained basically unchanged         38      66.7      20      62.5      18      72.0
+              Eased somewhat                        5       8.8       4      12.5       1       4.0
+              Eased considerably                    0       0.0       0       0.0       0       0.0
+              Total                                57     100.0      32     100.0      25     100.0
+
+            b. Maximum loan maturity
+
+                                                All Respondents    Large Banks       Other Banks
+
+                                                Banks   Percent Banks Percent Banks Percent
+
+              Tightened considerably                2       3.5       2       6.3       0       0.0
+              Tightened somewhat                    8      14.0       2       6.3       6      24.0
+              Remained basically unchanged         39      68.4      22      68.8      17      68.0
+              Eased somewhat                        8      14.0       6      18.8       2       8.0
+              Eased considerably                    0       0.0       0       0.0       0       0.0
+              Total                                57     100.0      32     100.0      25     100.0
+c. Spreads of loan rates over your bank's cost of funds (wider spreads=tightened, narrower
+spreads=eased)
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks      Percent Banks Percent Banks Percent
+
+  Tightened considerably                  1      1.8     0       0.0       1       4.0
+  Tightened somewhat                     12     21.1     8      25.0       4     16.0
+  Remained basically unchanged           33     57.9    15      46.9      18     72.0
+  Eased somewhat                         10     17.5     8      25.0       2       8.0
+  Eased considerably                      1      1.8     1       3.1       0       0.0
+  Total                                  57    100.0    32    100.0       25    100.0
+
+d. Loan-to-value ratios
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks      Percent Banks Percent Banks Percent
+
+  Tightened considerably                  2      3.5     1       3.1       1       4.0
+  Tightened somewhat                     22     38.6     9      28.1      13     52.0
+  Remained basically unchanged           32     56.1    21      65.6      11     44.0
+  Eased somewhat                          1      1.8     1       3.1       0       0.0
+  Eased considerably                      0      0.0     0       0.0       0       0.0
+  Total                                  57    100.0    32    100.0       25    100.0
+
+e. Requirements for take-out financing
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks      Percent Banks Percent Banks Percent
+
+  Tightened considerably                  0      0.0     0       0.0       0       0.0
+  Tightened somewhat                      3      5.3     0       0.0       3     12.0
+  Remained basically unchanged           54     94.7    32    100.0       22     88.0
+  Eased somewhat                          0      0.0     0       0.0       0       0.0
+  Eased considerably                      0      0.0     0       0.0       0       0.0
+  Total                                  57    100.0    32    100.0       25    100.0
+f. Debt-service coverage ratios
+
+                                  All Respondents   Large Banks    Other Banks
+
+                                  Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably              1       1.8     1      3.1     0      0.0
+  Tightened somewhat                 18     31.6      8     25.0    10     40.0
+  Remained basically unchanged       34     59.6     19     59.4    15     60.0
+  Eased somewhat                      4       7.0     4     12.5     0      0.0
+  Eased considerably                  0       0.0     0      0.0     0      0.0
+  Total                              57    100.0     32    100.0    25    100.0
+Questions 10-11 ask about three categories of residential mortgage loans at your bank—prime residential
+mortgages, nontraditional residential mortgages, and subprime residential mortgages. Question 10 deals with
+changes in your bank's credit standards for loans in each of these categories over the past three months.
+Question 11 deals with changes in demand for loans in each of these categories over the same period. If your
+bank's credit standards have not changed over the relevant period, please report them as unchanged even if the
+standards are either restrictive or accommodative relative to longer-term norms. If your bank's credit standards
+have tightened or eased over the relevant period, please so report them regardless of how they stand relative to
+longer-term norms. Also, please report changes in enforcement of existing standards as changes in standards.
+
+For the purposes of this survey, please use the following definitions of these loan categories (note that the loan
+categories are not mutually exclusive) and include first-lien loans only:
+
+      The prime category of residential mortgages includes loans made to borrowers that typically had
+       relatively strong, well-documented credit histories, relatively high credit scores, and relatively low debt-
+       to-income ratios at the time of origination. This would include fully amortizing loans that have a fixed
+       rate, a standard adjustable rate, or a common hybrid adjustable rate—those for which the interest rate is
+       initially fixed for a multi-year period and subsequently adjusts more frequently.
+
+      The nontraditional category of residential mortgages includes, but is not limited to, adjustable-rate
+       mortgages with multiple payment options, interest-only mortgages, and ``Alt-A'' products such as
+       mortgages with limited income verification and mortgages secured by non-owner-occupied properties.
+       (Please exclude standard adjustable-rate mortgages and common hybrid adjustable-rate mortgages.)
+
+      The subprime category of residential mortgages typically includes loans made to borrowers that displayed
+       one or more of the following characteristics at the time of origination: weakened credit histories that
+       include payment delinquencies, chargeoffs, judgments, and/or bankruptcies; reduced repayment capacity
+       as measured by credit scores or debt-to-income ratios; or incomplete credit histories.
+
+10. Over the past three months, how have your bank's credit standards for approving applications from
+individuals for mortgage loans to purchase homes changed?
+
+       A. Credit standards on mortgage loans that your bank categorizes as prime residential mortgages have:
+
+                                                 All Respondents     Large Banks       Other Banks
+
+                                                 Banks    Percent Banks Percent Banks Percent
+
+               Tightened considerably                 0       0.0       0       0.0       0       0.0
+               Tightened somewhat                     2       3.7       1       3.3       1       4.2
+               Remained basically unchanged          51      94.4      28      93.3      23      95.8
+               Eased somewhat                         1       1.9       1       3.3       0       0.0
+               Eased considerably                     0       0.0       0       0.0       0       0.0
+               Total                                 54    100.0       30     100.0      24     100.0
+
+             For this question, 1 respondent answered “My bank does not originate prime residential mortgages.”
+      B. Credit standards on mortgage loans that your bank categorizes as nontraditional residential mortgages
+      have:
+
+                                                All Respondents             Large Banks              Other Banks
+
+                                                Banks     Percent Banks Percent Banks Percent
+
+              Tightened considerably                 1           4.3          0           0.0          1          25.0
+              Tightened somewhat                     2           8.7          2          10.5          0           0.0
+              Remained basically unchanged          20          87.0         17          89.5          3          75.0
+              Eased somewhat                         0           0.0          0           0.0          0           0.0
+              Eased considerably                     0           0.0          0           0.0          0           0.0
+              Total                                 23      100.0            19      100.0             4      100.0
+
+            For this question, 32 respondents answered “My bank does not originate nontraditional residential
+            mortgages.”
+
+      C. Credit standards on mortgage loans that your bank categorizes as subprime residential mortgages have:
+
+            Responses are not reported when the number of respondents is 3 or fewer.
+
+11. Apart from normal seasonal variation, how has demand for mortgages to purchase homes changed over the
+past three months? (Please consider only new originations as opposed to the refinancing of existing mortgages.)
+
+      A. Demand for mortgages that your bank categorizes as prime residential mortgages was:
+
+                                            All Respondents        Large Banks              Other Banks
+
+                                            Banks   Percent Banks Percent Banks Percent
+
+                   Substantially stronger       2         3.7           1          3.3           1          4.2
+                   Moderately stronger          2         3.7           1          3.3           1          4.2
+                   About the same              33        61.1          20         66.7          13         54.2
+                   Moderately weaker           15        27.8           7         23.3           8         33.3
+                   Substantially weaker         2         3.7           1          3.3           1          4.2
+                   Total                       54    100.0             30      100.0            24      100.0
+
+            For this question, 1 respondent answered “My bank does not originate prime residential mortgages.”
+B. Demand for mortgages that your bank categorizes as nontraditional residential mortgages was:
+
+                                     All Respondents   Large Banks       Other Banks
+
+                                     Banks   Percent Banks Percent Banks Percent
+
+            Substantially stronger       0       0.0      0       0.0       0      0.0
+            Moderately stronger          0       0.0      0       0.0       0      0.0
+            About the same              20     87.0      17      89.5       3     75.0
+            Moderately weaker            3     13.0       2      10.5       1     25.0
+            Substantially weaker         0       0.0      0       0.0       0      0.0
+            Total                       23    100.0      19    100.0        4    100.0
+
+      For this question, 32 respondents answered “My bank does not originate nontraditional residential
+      mortgages.”
+
+C. Demand for mortgages that your bank categorizes as subprime residential mortgages was:
+
+      Responses are not reported when the number of respondents is 3 or fewer.
+Questions 12-13 ask about revolving home equity lines of credit at your bank. Question 12 deals with changes
+in your bank's credit standards over the past three months. Question 13 deals with changes in demand. If your
+bank's credit standards have not changed over the relevant period, please report them as unchanged even if they
+are either restrictive or accommodative relative to longer-term norms. If your bank's credit standards have
+tightened or eased over the relevant period, please so report them regardless of how they stand relative to
+longer-term norms. Also, please report changes in enforcement of existing standards as changes in standards.
+
+12. Over the past three months, how have your bank's credit standards for approving applications for revolving
+home equity lines of credit changed?
+
+                                                All Respondents             Large Banks              Other Banks
+
+                                                Banks     Percent Banks Percent Banks Percent
+
+              Tightened considerably                 0           0.0          0           0.0          0           0.0
+              Tightened somewhat                     5           9.1          2           6.7          3          12.0
+              Remained basically unchanged          47          85.5         26          86.7         21          84.0
+              Eased somewhat                         3           5.5          2           6.7          1           4.0
+              Eased considerably                     0           0.0          0           0.0          0           0.0
+              Total                                 55      100.0            30      100.0            25      100.0
+
+13. Apart from normal seasonal variation, how has demand for revolving home equity lines of credit changed
+over the past three months? (Please consider only funds actually disbursed as opposed to requests for new or
+increased lines of credit.)
+
+                                            All Respondents        Large Banks              Other Banks
+
+                                            Banks   Percent Banks Percent Banks Percent
+
+                   Substantially stronger       1         1.8           0          0.0           1          4.0
+                   Moderately stronger          4         7.3           2          6.7           2          8.0
+                   About the same              38        69.1          22         73.3          16         64.0
+                   Moderately weaker           11        20.0           6         20.0           5         20.0
+                   Substantially weaker         1         1.8           0          0.0           1          4.0
+                   Total                       55    100.0             30      100.0            25      100.0
+According to the Federal Reserve's H.8 statistical release, ``Assets and Liabilities of Commercial Banks in the
+United States,'' closed-end one-to-four family residential real estate loans on banks' books have increased
+steadily since August 2010. Question 14 asks about the possible reasons for this recent increase in closed-end
+residential real estate loans. Question 15 asks about how holdings of residential real estate loans at your bank
+are expected to change in the first half of 2011.
+
+14. If your bank's holdings of closed-end residential real estate loans have increased since August 2010, how
+important have been the following possible reasons for the increase? (Please disregard any increases in closed-
+end residential real estate loans that may owe to a merger of your bank with another institution. If your bank's
+holdings of closed-end residential real estate loans have not increased since August 2010, please leave this
+question blank.)
+
+            a. Your bank has originated a larger volume of loans that are not eligible to be guaranteed by the
+            Federal Housing Authority (FHA) or do not conform to standards required for sale to the
+            government sponsored enterprises (GSEs), Federal National Mortgage Association and Federal
+            Home Loan Mortgage Corporation (for example, loans above the conforming loan limit or loans on
+            non-owner-occupied properties)
+
+                                           All Respondents    Large Banks        Other Banks
+
+                                           Banks    Percent Banks Percent Banks Percent
+
+                   Not important              17      68.0        9     69.2        8     66.7
+                   Somewhat important           5     20.0        2     15.4        3     25.0
+                   Very important               3     12.0        2     15.4        1       8.3
+                   Total                      25     100.0      13     100.0       12    100.0
+
+            b. Your bank has pursued fewer FHA endorsements leading to securitization or sold fewer loans to
+            the GSEs due to actions they have taken that reduce the profitability of loan sales and securitizations
+            relative to holding loans in portfolio (for example, due to the recent rise in fees charged by the FHA
+            and changes in terms at the GSEs)
+
+                                           All Respondents    Large Banks        Other Banks
+
+                                           Banks    Percent Banks Percent Banks Percent
+
+                   Not important              22      88.0      11      84.6       11     91.7
+                   Somewhat important           3     12.0        2     15.4        1       8.3
+                   Very important               0      0.0        0       0.0       0       0.0
+                   Total                      25     100.0      13     100.0       12    100.0
+c. Your bank has become willing to hold a larger share of its asset portfolio in GSE- or FHA-eligible
+loans, because the risk-adjusted return on such loans has increased relative to other loan or other
+asset classes (please specify)
+
+                              All Respondents     Large Banks       Other Banks
+
+                              Banks    Percent Banks Percent Banks Percent
+
+       Not important              13     48.1        8     53.3        5     41.7
+       Somewhat important          9     33.3        5     33.3        4     33.3
+       Very important              5     18.5        2     13.3        3     25.0
+       Total                      27    100.0       15    100.0       12    100.0
+
+d. Your bank has become more willing to grow its balance sheet by holding GSE- or FHA-eligible
+loans in portfolio for investment purposes
+
+                              All Respondents     Large Banks       Other Banks
+
+                              Banks    Percent Banks Percent Banks Percent
+
+       Not important               8     30.8        5     35.7        3     25.0
+       Somewhat important          9     34.6        4     28.6        5     41.7
+       Very important              9     34.6        5     35.7        4     33.3
+       Total                      26    100.0       14    100.0       12    100.0
+
+e. As a result of the high level of refinancing in recent months, your bank's originations of GSE-
+eligible loans has exceeded your bank's capacity to process such loans for sale to the GSEs, but these
+loans will eventually be sold or securitized
+
+                              All Respondents     Large Banks       Other Banks
+
+                              Banks    Percent Banks Percent Banks Percent
+
+       Not important              21     80.8       11     78.6       10     83.3
+       Somewhat important          5     19.2        3     21.4        2     16.7
+       Very important              0       0.0       0       0.0       0       0.0
+       Total                      26    100.0       14    100.0       12    100.0
+f. Your bank has increased its repurchases of loans that had previously been originated and sold or
+securitized (include loans repurchased from the GSEs and other MBS investors)
+
+                              All Respondents     Large Banks       Other Banks
+
+                              Banks    Percent Banks Percent Banks Percent
+
+       Not important              23      92.0      11      84.6      12    100.0
+       Somewhat important          1       4.0       1       7.7       0       0.0
+       Very important              1       4.0       1       7.7       0       0.0
+       Total                      25    100.0       13    100.0       12    100.0
+
+g. Demand from the GSEs to purchase conforming loans from your bank has decreased
+
+                              All Respondents     Large Banks       Other Banks
+
+                              Banks    Percent Banks Percent Banks Percent
+
+       Not important              24      96.0      12      92.3      12    100.0
+       Somewhat important          1       4.0       1       7.7       0       0.0
+       Very important              0       0.0       0       0.0       0       0.0
+       Total                      25    100.0       13    100.0       12    100.0
+
+h. Charge-offs or paydowns of your bank's existing closed-end residential real estate loan portfolio
+have decreased
+
+                              All Respondents     Large Banks       Other Banks
+
+                              Banks    Percent Banks Percent Banks Percent
+
+       Not important              21      80.8      10      71.4      11      91.7
+       Somewhat important          4      15.4       3      21.4       1       8.3
+       Very important              1       3.8       1       7.1       0       0.0
+       Total                      26    100.0       14    100.0       12    100.0
+15. Assuming that economic activity progresses in line with consensus forecasts, how does your bank expect its
+holdings of closed-end residential real estate loans to change over the first half of 2011? (Please disregard any
+increases in closed-end residential real estate loans that may owe to a merger of your bank with another
+institution.)
+
+                                                   All Respondents    Large Banks       Other Banks
+
+                                                   Banks   Percent Banks Percent Banks Percent
+
+            Holdings will increase significantly       4       7.7       2       6.7       2       9.1
+            Holdings will increase somewhat           22      42.3      12      40.0      10      45.5
+            Holdings will stay about the same         19      36.5      12      40.0       7      31.8
+            Holdings will decrease somewhat            7      13.5       4      13.3       3      13.6
+            Holdings will decrease significantly       0       0.0       0       0.0       0       0.0
+            Total                                     52     100.0      30    100.0       22    100.0
+Questions 16-21 ask about consumer lending at your bank. Question 16 deals with changes in your bank's
+willingness to make consumer loans over the past three months. Questions 17-20 deal with changes in credit
+standards and loan terms over the same period. Question 21 deals with changes in demand for consumer loans
+over the past three months. If your bank's lending policies have not changed over the past three months, please
+report them as unchanged even if the policies are either restrictive or accommodative relative to longer-term
+norms. If your bank's policies have tightened or eased over the past three months, please so report them
+regardless of how they stand relative to longer-term norms. Also, please report changes in enforcement of
+existing policies as changes in policies.
+
+16. Please indicate your bank's willingness to make consumer installment loans now as opposed to three months
+ago.
+
+                                            All Respondents             Large Banks              Other Banks
+
+                                            Banks    Percent Banks Percent Banks Percent
+
+                  Much more willing              0          0.0           0          0.0           0          0.0
+                  Somewhat more willing        11          20.4           7         24.1           4         16.0
+                  About unchanged              43          79.6          22         75.9          21         84.0
+                  Somewhat less willing          0          0.0           0          0.0           0          0.0
+                  Much less willing              0          0.0           0          0.0           0          0.0
+                  Total                        54         100.0          29        100.0          25        100.0
+
+17. Over the past three months, how have your bank's credit standards for approving applications for credit cards
+from individuals or households changed?
+
+                                               All Respondents             Large Banks              Other Banks
+
+                                               Banks       Percent Banks Percent Banks Percent
+
+              Tightened considerably                  0           0.0          0           0.0         0            0.0
+              Tightened somewhat                      1           2.5          1           4.3         0            0.0
+              Remained basically unchanged           34       85.0            17       73.9            17      100.0
+              Eased somewhat                          5       12.5             5       21.7            0            0.0
+              Eased considerably                      0           0.0          0           0.0         0            0.0
+              Total                                  40      100.0            23      100.0            17      100.0
+18. Over the past three months, how have your bank's credit standards for approving applications for consumer
+loans other than credit card loans changed?
+
+                                              All Respondents     Large Banks      Other Banks
+
+                                               Banks   Percent Banks Percent Banks Percent
+
+              Tightened considerably               0       0.0       0      0.0       0       0.0
+              Tightened somewhat                   0       0.0       0      0.0       0       0.0
+              Remained basically unchanged        52      96.3     28      96.6      24     96.0
+              Eased somewhat                       2       3.7       1      3.4       1       4.0
+              Eased considerably                   0       0.0       0      0.0       0       0.0
+              Total                               54    100.0      29     100.0      25    100.0
+
+19. Over the past three months, how has your bank changed the following terms and conditions on new or
+existing credit card accounts for individuals or households?
+
+            a. Credit limits
+
+                                              All Respondents     Large Banks      Other Banks
+
+                                               Banks   Percent Banks Percent Banks Percent
+
+              Tightened considerably               0       0.0       0      0.0       0       0.0
+              Tightened somewhat                   4      10.8       4     18.2       0       0.0
+              Remained basically unchanged        29      78.4     14      63.6      15    100.0
+              Eased somewhat                       4      10.8       4     18.2       0       0.0
+              Eased considerably                   0       0.0       0      0.0       0       0.0
+              Total                               37    100.0      22     100.0      15    100.0
+b. Spreads of interest rates charged on outstanding balances over your bank's cost of funds (wider
+spreads=tightened, narrower spreads=eased)
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+  Tightened considerably                0       0.0       0      0.0        0      0.0
+  Tightened somewhat                    2       5.4       2      9.1        0      0.0
+  Remained basically unchanged         35     94.6       20     90.9      15     100.0
+  Eased somewhat                        0       0.0       0      0.0        0      0.0
+  Eased considerably                    0       0.0       0      0.0        0      0.0
+  Total                                37    100.0       22    100.0      15     100.0
+
+c. Minimum percent of outstanding balances required to be repaid each month
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+  Tightened considerably                0       0.0       0      0.0        0      0.0
+  Tightened somewhat                    2       5.4       2      9.1        0      0.0
+  Remained basically unchanged         35     94.6       20     90.9      15     100.0
+  Eased somewhat                        0       0.0       0      0.0        0      0.0
+  Eased considerably                    0       0.0       0      0.0        0      0.0
+  Total                                37    100.0       22    100.0      15     100.0
+
+d. Minimum required credit score (increased score=tightened, reduced score=eased)
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks    Percent Banks Percent Banks Percent
+
+  Tightened considerably                0       0.0       0      0.0        0      0.0
+  Tightened somewhat                    2       5.4       2      9.1        0      0.0
+  Remained basically unchanged         30     81.1       15     68.2      15     100.0
+  Eased somewhat                        5     13.5        5     22.7        0      0.0
+  Eased considerably                    0       0.0       0      0.0        0      0.0
+  Total                                37    100.0       22    100.0      15     100.0
+           e. The extent to which loans are granted to some customers that do not meet credit scoring
+           thresholds (increased=eased, decreased=tightened)
+
+                                              All Respondents    Large Banks       Other Banks
+
+                                              Banks    Percent Banks Percent Banks Percent
+
+             Tightened considerably                0      0.0       0       0.0       0       0.0
+             Tightened somewhat                    0      0.0       0       0.0       0       0.0
+             Remained basically unchanged        36     100.0      21    100.0       15    100.0
+             Eased somewhat                        0      0.0       0       0.0       0       0.0
+             Eased considerably                    0      0.0       0       0.0       0       0.0
+             Total                               36     100.0      21    100.0       15    100.0
+
+20. Over the past three months, how has your bank changed the following terms and conditions on consumer
+loans other than credit card loans?
+
+           a. Maximum maturity
+
+                                              All Respondents    Large Banks       Other Banks
+
+                                              Banks    Percent Banks Percent Banks Percent
+
+             Tightened considerably                0      0.0       0       0.0       0       0.0
+             Tightened somewhat                    2      3.8       1       3.4       1       4.2
+             Remained basically unchanged        48      90.6      26      89.7      22     91.7
+             Eased somewhat                        2      3.8       2       6.9       0       0.0
+             Eased considerably                    1      1.9       0       0.0       1       4.2
+             Total                               53     100.0      29    100.0       24    100.0
+b. Spreads of loan rates over your bank's cost of funds (wider spreads=tightened, narrower
+spreads=eased)
+
+                                   All Respondents    Large Banks       Other Banks
+
+                                   Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably               0       0.0       0       0.0       0       0.0
+  Tightened somewhat                   3       5.7       1       3.4       2       8.3
+  Remained basically unchanged        42      79.2      23      79.3      19     79.2
+  Eased somewhat                       8      15.1       5      17.2       3     12.5
+  Eased considerably                   0       0.0       0       0.0       0       0.0
+  Total                               53     100.0      29    100.0       24    100.0
+
+c. Minimum required down payment
+
+                                   All Respondents    Large Banks       Other Banks
+
+                                   Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably               0       0.0       0       0.0       0       0.0
+  Tightened somewhat                   1       1.9       0       0.0       1       4.2
+  Remained basically unchanged        51      96.2      28      96.6      23     95.8
+  Eased somewhat                       1       1.9       1       3.4       0       0.0
+  Eased considerably                   0       0.0       0       0.0       0       0.0
+  Total                               53     100.0      29    100.0       24    100.0
+
+d. Minimum required credit score (increased score=tightened, reduced score=eased)
+
+                                   All Respondents    Large Banks       Other Banks
+
+                                   Banks   Percent Banks Percent Banks Percent
+
+  Tightened considerably               0       0.0       0       0.0       0       0.0
+  Tightened somewhat                   3       5.7       1       3.4       2       8.3
+  Remained basically unchanged        49      92.5      27      93.1      22     91.7
+  Eased somewhat                       1       1.9       1       3.4       0       0.0
+  Eased considerably                   0       0.0       0       0.0       0       0.0
+  Total                               53     100.0      29    100.0       24    100.0
+            e. The extent to which loans are granted to some customers that do not meet credit scoring
+            thresholds (increased=eased, decreased=tightened)
+
+                                               All Respondents             Large Banks              Other Banks
+
+                                               Banks     Percent Banks Percent Banks Percent
+
+              Tightened considerably                0           0.0          0           0.0          0           0.0
+              Tightened somewhat                    3           5.7          2           6.9          1           4.2
+              Remained basically unchanged         49          92.5         26          89.7         23          95.8
+              Eased somewhat                        1           1.9          1           3.4          0           0.0
+              Eased considerably                    0           0.0          0           0.0          0           0.0
+              Total                                53      100.0            29      100.0            24      100.0
+
+21. Apart from normal seasonal variation, how has demand for consumer loans of all types changed over the past
+three months?
+
+                                           All Respondents        Large Banks              Other Banks
+
+                                           Banks   Percent Banks Percent Banks Percent
+
+                  Substantially stronger       1         1.9           0          0.0           1          4.0
+                  Moderately stronger          8        14.8           4         13.8           4         16.0
+                  About the same              39        72.2          23         79.3          16         64.0
+                  Moderately weaker            5         9.3           2          6.9           3         12.0
+                  Substantially weaker         1         1.9           0          0.0           1          4.0
+                  Total                       54    100.0             29      100.0            25      100.0
+Question 22 asks about changes in the sizes of credit lines to households and businesses at your bank over the
+past three months. If the sizes of credit lines at your bank have not changed, please report them as unchanged
+even if they are either larger or smaller than longer-term norms. If the sizes of credit lines at your bank have
+increased or decreased, please so report them regardless of whether they are larger or smaller than longer-term
+norms.
+
+22. Over the past three months, how has your bank changed the size of credit lines for existing customers with
+the following types of accounts? Please consider changes made to line sizes during the life of existing credit
+agreements as well as changes made to line sizes upon renewal or renegotiation of existing agreements.
+
+            a. Home equity lines of credit
+
+                                               All Respondents     Large Banks      Other Banks
+
+                                               Banks    Percent Banks Percent Banks Percent
+
+              Increased considerably                1       1.9       1      3.4       0       0.0
+              Increased somewhat                    0       0.0       0      0.0       0       0.0
+              Remained basically unchanged         51     94.4       27     93.1      24      96.0
+              Decreased somewhat                    2       3.7       1      3.4       1       4.0
+              Decreased considerably                0       0.0       0      0.0       0       0.0
+              Total                                54    100.0       29    100.0      25     100.0
+
+            b. Consumer credit card accounts
+
+                                               All Respondents     Large Banks      Other Banks
+
+                                               Banks    Percent Banks Percent Banks Percent
+
+              Increased considerably                0       0.0       0      0.0       0       0.0
+              Increased somewhat                    2       5.4       1      4.5       1       6.7
+              Remained basically unchanged         31     83.8       19     86.4      12      80.0
+              Decreased somewhat                    4     10.8        2      9.1       2      13.3
+              Decreased considerably                0       0.0       0      0.0       0       0.0
+              Total                                37    100.0       22    100.0      15     100.0
+c. Business credit card accounts
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks     Percent Banks Percent Banks Percent
+
+  Increased considerably                0       0.0       0       0.0     0      0.0
+  Increased somewhat                    3       7.7       1       4.2     2     13.3
+  Remained basically unchanged         34      87.2      21      87.5    13     86.7
+  Decreased somewhat                    2       5.1       2       8.3     0      0.0
+  Decreased considerably                0       0.0       0       0.0     0      0.0
+  Total                                39     100.0      24     100.0    15    100.0
+
+d. C&I credit lines (excluding business credit card accounts)
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks     Percent Banks Percent Banks Percent
+
+  Increased considerably                1       1.9       1       3.4     0      0.0
+  Increased somewhat                    4       7.5       2       6.9     2      8.3
+  Remained basically unchanged         45      84.9      24      82.8    21     87.5
+  Decreased somewhat                    3       5.7       2       6.9     1      4.2
+  Decreased considerably                0       0.0       0       0.0     0      0.0
+  Total                                53     100.0      29     100.0    24    100.0
+
+e. Commercial construction lines of credit
+
+                                   All Respondents     Large Banks      Other Banks
+
+                                   Banks     Percent Banks Percent Banks Percent
+
+  Increased considerably                0       0.0       0       0.0     0      0.0
+  Increased somewhat                    1       1.9       1       3.4     0      0.0
+  Remained basically unchanged         39      75.0      21      72.4    18     78.3
+  Decreased somewhat                    7      13.5       5      17.2     2      8.7
+  Decreased considerably                5       9.6       2       6.9     3     13.0
+  Total                                52     100.0      29     100.0    23    100.0
+f. Lines of credit for financial firms
+
+                                     All Respondents   Large Banks    Other Banks
+
+                                     Banks    Percent Banks Percent Banks Percent
+
+  Increased considerably                  0      0.0     0      0.0     0      0.0
+  Increased somewhat                      3      6.5     2      6.9     1      5.9
+  Remained basically unchanged           39     84.8    24     82.8    15     88.2
+  Decreased somewhat                      3      6.5     2      6.9     1      5.9
+  Decreased considerably                  1      2.2     1      3.4     0      0.0
+  Total                                  46    100.0    29    100.0    17    100.0
+In recent quarters, loan delinquencies and charge-offs have declined in some loan classes while stabilizing or
+moving higher in other loan classes. Questions 23-25 ask about your bank's expectations for the behavior of
+these measures of loan quality in 2011. Question 23 asks about C&I loans to large and middle-market firms and
+to small firms. Question 24 asks about CRE loans, and question 25 asks about loans to households.
+
+23. Assuming that economic activity progresses in line with consensus forecasts, what is your outlook for
+delinquencies and chargeoffs on your bank's C&I loans to large and middle-market firms and to small firms in
+2011?
+
+      A. Outlook for loan quality on C&I loans to large and middle-market firms:
+
+                                                              All Respondents   Large Banks    Other Banks
+
+                                                              Banks   Percent Banks Percent Banks Percent
+
+  Loan quality is likely to improve substantially                 5       9.1      4    13.3      1       4.0
+  Loan quality is likely to improve somewhat                     40     72.7     23     76.7     17      68.0
+  Loan quality is likely to stabilize around current levels      10     18.2       3    10.0      7      28.0
+  Loan quality is likely to deteriorate somewhat                  0       0.0      0     0.0      0       0.0
+  Loan quality is likely to deteriorate substantially             0       0.0      0     0.0      0       0.0
+  Total                                                          55    100.0     30    100.0     25     100.0
+
+      B. Outlook for loan quality on C&I loans to small firms:
+
+                                                              All Respondents   Large Banks    Other Banks
+
+                                                              Banks   Percent Banks Percent Banks Percent
+
+  Loan quality is likely to improve substantially                 1       1.9      1     3.6      0       0.0
+  Loan quality is likely to improve somewhat                     37     69.8     20     71.4     17      68.0
+  Loan quality is likely to stabilize around current levels      15     28.3       7    25.0      8      32.0
+  Loan quality is likely to deteriorate somewhat                  0       0.0      0     0.0      0       0.0
+  Loan quality is likely to deteriorate substantially             0       0.0      0     0.0      0       0.0
+  Total                                                          53    100.0     28    100.0     25     100.0
+
+            For this question, 2 respondents answered “My bank does not originate this type of loan.”
+24. Assuming that economic activity progresses in line with consensus forecasts, what is your outlook for
+delinquencies and chargeoffs on your bank's commercial real estate loans in 2011?
+
+                                                              All Respondents   Large Banks     Other Banks
+
+                                                              Banks   Percent Banks Percent Banks Percent
+
+  Loan quality is likely to improve substantially                 3       5.4     3      9.7       0         0.0
+  Loan quality is likely to improve somewhat                     31     55.4     19     61.3      12        48.0
+  Loan quality is likely to stabilize around current levels      19     33.9      8     25.8      11        44.0
+  Loan quality is likely to deteriorate somewhat                  3       5.4     1      3.2       2         8.0
+  Loan quality is likely to deteriorate substantially             0       0.0     0      0.0       0         0.0
+  Total                                                          56    100.0     31    100.0      25    100.0
+25. Assuming that economic activity progresses in line with consensus forecasts, what is your outlook for
+delinquencies and chargeoffs on your bank's loans to households in 2011?
+
+      A. Outlook for loan quality on prime residential mortgage loans:
+
+                                                              All Respondents     Large Banks    Other Banks
+
+                                                              Banks   Percent Banks Percent Banks Percent
+
+  Loan quality is likely to improve substantially                 1       1.8       1      3.3     0         0.0
+  Loan quality is likely to improve somewhat                     25      45.5      16     53.3     9        36.0
+  Loan quality is likely to stabilize around current levels      25      45.5      11     36.7    14        56.0
+  Loan quality is likely to deteriorate somewhat                  4       7.3       2      6.7     2         8.0
+  Loan quality is likely to deteriorate substantially             0       0.0       0      0.0     0         0.0
+  Total                                                          55    100.0       30    100.0    25     100.0
+
+            For this question, 2 respondents answered “My bank does not originate this type of loan.”
+
+      B. Outlook for loan quality on nontraditional residential mortgage loans:
+
+                                                              All Respondents     Large Banks    Other Banks
+
+                                                              Banks   Percent Banks Percent Banks Percent
+
+  Loan quality is likely to improve substantially                 0       0.0       0      0.0     0         0.0
+  Loan quality is likely to improve somewhat                      9      33.3       7     35.0     2        28.6
+  Loan quality is likely to stabilize around current levels      14      51.9       9     45.0     5        71.4
+  Loan quality is likely to deteriorate somewhat                  4      14.8       4     20.0     0         0.0
+  Loan quality is likely to deteriorate substantially             0       0.0       0      0.0     0         0.0
+  Total                                                          27    100.0       20    100.0     7     100.0
+
+            For this question, 29 respondents answered “My bank does not originate this type of loan.”
+   C. Outlook for loan quality on subprime residential mortgage loans:
+
+          Responses are not reported when the number of respondents is 3 or fewer.
+
+   D. Outlook for loan quality on revolving home equity lines of credit:
+
+                                                            All Respondents   Large Banks    Other Banks
+
+                                                            Banks   Percent Banks Percent Banks Percent
+
+Loan quality is likely to improve substantially                 0       0.0     0      0.0      0        0.0
+Loan quality is likely to improve somewhat                     22     40.0     14     46.7      8       32.0
+Loan quality is likely to stabilize around current levels      30     54.5     15     50.0     15       60.0
+Loan quality is likely to deteriorate somewhat                  3       5.5     1      3.3      2        8.0
+Loan quality is likely to deteriorate substantially             0       0.0     0      0.0      0        0.0
+Total                                                          55    100.0     30    100.0     25      100.0
+
+          For this question, 2 respondents answered “My bank does not originate this type of loan.”
+
+   E. Outlook for loan quality on credit card loans:
+
+                                                            All Respondents   Large Banks    Other Banks
+
+                                                            Banks   Percent Banks Percent Banks Percent
+
+Loan quality is likely to improve substantially                 2       5.4     2      9.5      0        0.0
+Loan quality is likely to improve somewhat                     19     51.4     12     57.1      7       43.8
+Loan quality is likely to stabilize around current levels      15     40.5      7     33.3      8       50.0
+Loan quality is likely to deteriorate somewhat                  1       2.7     0      0.0      1        6.3
+Loan quality is likely to deteriorate substantially             0       0.0     0      0.0      0        0.0
+Total                                                          37    100.0     21    100.0     16      100.0
+
+          For this question, 14 respondents answered “My bank does not originate this type of loan.”
+      F. Outlook for loan quality on consumer loans other than credit cards:
+
+                                                              All Respondents   Large Banks       Other Banks
+
+                                                              Banks   Percent Banks Percent Banks Percent
+
+  Loan quality is likely to improve substantially                 1       1.9      1       3.4       0       0.0
+  Loan quality is likely to improve somewhat                     24     45.3      14     48.3       10     41.7
+  Loan quality is likely to stabilize around current levels      27     50.9      13     44.8       14     58.3
+  Loan quality is likely to deteriorate somewhat                  1       1.9      1       3.4       0       0.0
+  Loan quality is likely to deteriorate substantially             0       0.0      0       0.0       0       0.0
+  Total                                                          53    100.0      29    100.0       24    100.0
+
+            For this question, 4 respondents answered “My bank does not originate this type of loan.”
+
+
+1. The sample is selected from among the largest banks in each Federal Reserve District. In the table, large banks
+are defined as those with total domestic assets of $20 billion or more as of September 30, 2010. The combined
+assets of the 32 large banks totaled $6.7 trillion, compared to $7.0 trillion for the entire panel of 57 banks, and
+$10.5 trillion for all domestically chartered, federally insured commercial banks.
+                                                     Table 2
+
+          Senior Loan Officer Opinion Survey on Bank Lending Practices
+     at Selected Branches and Agencies of Foreign Banks in the United States 1
+                                   (Status of policy as of January 2011)
+Questions 1-6 ask about commercial and industrial (C&I) loans at your bank. Questions 1-3 deal with changes
+in your bank's lending policies over the past three months. Questions 4-5 deal with changes in demand for C&I
+loans over the past three months. Question 6 asks about changes in prospective demand for C&I loans at your
+bank, as indicated by the volume of recent inquiries about the availability of new credit lines or increases in
+existing lines. If your bank's lending policies have not changed over the past three months, please report them as
+unchanged even if the policies are either restrictive or accommodative relative to longer-term norms. If your
+bank's policies have tightened or eased over the past three months, please so report them regardless of how they
+stand relative to longer-term norms. Also, please report changes in enforcement of existing policies as changes
+in policies.
+
+1. Over the past three months, how have your bank's credit standards for approving applications for C&I loans or
+credit lines—other than those to be used to finance mergers and acquisitions—changed?
+
+                                                                  All Respondents
+
+                                                                  Banks    Percent
+
+                                Tightened considerably                 0       0.0
+                                Tightened somewhat                     0       0.0
+                                Remained basically unchanged         18      85.7
+                                Eased somewhat                         3     14.3
+                                Eased considerably                     0       0.0
+                                Total                                21     100.0
+2. For applications for C&I loans or credit lines—other than those to be used to finance mergers and
+acquisitions—that your bank currently is willing to approve, how have the terms of those loans changed over the
+past three months?
+
+            a. Maximum size of credit lines
+
+                                                                All Respondents
+
+                                                                Banks    Percent
+
+                               Tightened considerably                0       0.0
+                               Tightened somewhat                    1       4.8
+                               Remained basically unchanged         17     81.0
+                               Eased somewhat                        3     14.3
+                               Eased considerably                    0       0.0
+                               Total                                21    100.0
+
+            b. Maximum maturity of loans or credit lines
+
+                                                                All Respondents
+
+                                                                Banks    Percent
+
+                               Tightened considerably                0       0.0
+                               Tightened somewhat                    0       0.0
+                               Remained basically unchanged         17     85.0
+                               Eased somewhat                        3     15.0
+                               Eased considerably                    0       0.0
+                               Total                                20    100.0
+c. Costs of credit lines
+
+                                                    All Respondents
+
+                                                    Banks    Percent
+
+                     Tightened considerably              0       0.0
+                     Tightened somewhat                  0       0.0
+                     Remained basically unchanged       16      80.0
+                     Eased somewhat                      4      20.0
+                     Eased considerably                  0       0.0
+                     Total                              20    100.0
+
+d. Spreads of loan rates over your bank's cost of funds (wider spreads=tightened, narrower
+spreads=eased)
+
+                                                    All Respondents
+
+                                                    Banks    Percent
+
+                     Tightened considerably              0       0.0
+                     Tightened somewhat                  0       0.0
+                     Remained basically unchanged       13      65.0
+                     Eased somewhat                      7      35.0
+                     Eased considerably                  0       0.0
+                     Total                              20    100.0
+
+e. Premiums charged on riskier loans
+
+                                                    All Respondents
+
+                                                    Banks    Percent
+
+                     Tightened considerably              0       0.0
+                     Tightened somewhat                  0       0.0
+                     Remained basically unchanged       15      75.0
+                     Eased somewhat                      5      25.0
+                     Eased considerably                  0       0.0
+                     Total                              20    100.0
+            f. Loan covenants
+
+                                                                   All Respondents
+
+                                                                   Banks    Percent
+
+                                 Tightened considerably                 0         0.0
+                                 Tightened somewhat                     0         0.0
+                                 Remained basically unchanged          18        85.7
+                                 Eased somewhat                         3        14.3
+                                 Eased considerably                     0         0.0
+                                 Total                                 21    100.0
+
+            g. Collateralization requirements
+
+                                                                   All Respondents
+
+                                                                   Banks    Percent
+
+                                 Tightened considerably                 0         0.0
+                                 Tightened somewhat                     0         0.0
+                                 Remained basically unchanged          21    100.0
+                                 Eased somewhat                         0         0.0
+                                 Eased considerably                     0         0.0
+                                 Total                                 21    100.0
+
+3. If your bank has tightened or eased its credit standards or its terms for C&I loans or credit lines over the past
+three months (as described in questions 1 and 2), how important have been the following possible reasons for the
+change?
+
+      A. Possible reasons for tightening credit standards or loan terms:
+
+            a. Deterioration in your bank's current or expected capital position
+
+                                                              All Respondents
+
+                                                              Banks    Percent
+
+                                      Not important                0        --
+                                      Somewhat important           0        --
+                                      Very important               0        --
+                                      Total                        0        --
+b. Less favorable or more uncertain economic outlook
+
+                                               All Respondents
+
+                                               Banks    Percent
+
+                        Not important               0        --
+                        Somewhat important          0        --
+                        Very important              0        --
+                        Total                       0        --
+
+c. Worsening of industry-specific problems (please specify industries)
+
+                                               All Respondents
+
+                                               Banks    Percent
+
+                        Not important               0        --
+                        Somewhat important          0        --
+                        Very important              0        --
+                        Total                       0        --
+
+d. Less aggressive competition from other banks or nonbank lenders (other financial intermediaries
+or the capital markets)
+
+                                               All Respondents
+
+                                               Banks    Percent
+
+                        Not important               0        --
+                        Somewhat important          0        --
+                        Very important              0        --
+                        Total                       0        --
+e. Reduced tolerance for risk
+
+                                                All Respondents
+
+                                                Banks    Percent
+
+                         Not important               0           --
+                         Somewhat important          0           --
+                         Very important              0           --
+                         Total                       0           --
+
+f. Decreased liquidity in the secondary market for these loans
+
+                                                All Respondents
+
+                                                Banks    Percent
+
+                         Not important               0           --
+                         Somewhat important          0           --
+                         Very important              0           --
+                         Total                       0           --
+
+g. Increase in defaults by borrowers in public debt markets
+
+                                                All Respondents
+
+                                                Banks    Percent
+
+                         Not important               0           --
+                         Somewhat important          0           --
+                         Very important              0           --
+                         Total                       0           --
+      h. Deterioration in your bank's current or expected liquidity position
+
+                                                       All Respondents
+
+                                                       Banks     Percent
+
+                               Not important                0         --
+                               Somewhat important           0         --
+                               Very important               0         --
+                               Total                        0         --
+
+      i. Increased concerns about the potential effects of legislative changes, supervisory actions, or
+      accounting standards
+
+                                                       All Respondents
+
+                                                       Banks     Percent
+
+                               Not important                0         --
+                               Somewhat important           0         --
+                               Very important               0         --
+                               Total                        0         --
+
+B. Possible reasons for easing credit standards or loan terms:
+
+      a. Improvement in your bank's current or expected capital position
+
+                                                       All Respondents
+
+                                                       Banks     Percent
+
+                               Not important                6      75.0
+                               Somewhat important           2      25.0
+                               Very important               0        0.0
+                               Total                        8     100.0
+b. More favorable or less uncertain economic outlook
+
+                                               All Respondents
+
+                                               Banks    Percent
+
+                        Not important               3     37.5
+                        Somewhat important          5     62.5
+                        Very important              0       0.0
+                        Total                       8    100.0
+
+c. Improvement in industry-specific problems (please specify industries)
+
+                                               All Respondents
+
+                                               Banks    Percent
+
+                        Not important               3     37.5
+                        Somewhat important          4     50.0
+                        Very important              1     12.5
+                        Total                       8    100.0
+
+d. More aggressive competition from other banks or nonbank lenders (other financial intermediaries
+or the capital markets)
+
+                                               All Respondents
+
+                                               Banks    Percent
+
+                        Not important               1     11.1
+                        Somewhat important          5     55.6
+                        Very important              3     33.3
+                        Total                       9    100.0
+e. Increased tolerance for risk
+
+                                                 All Respondents
+
+                                                 Banks    Percent
+
+                          Not important               6     75.0
+                          Somewhat important          0          0.0
+                          Very important              2     25.0
+                          Total                       8    100.0
+
+f. Increased liquidity in the secondary market for these loans
+
+                                                 All Respondents
+
+                                                 Banks    Percent
+
+                          Not important               4     50.0
+                          Somewhat important          4     50.0
+                          Very important              0          0.0
+                          Total                       8    100.0
+
+g. Reduction in defaults by borrowers in public debt markets
+
+                                                 All Respondents
+
+                                                 Banks    Percent
+
+                          Not important               6     75.0
+                          Somewhat important          2     25.0
+                          Very important              0          0.0
+                          Total                       8    100.0
+            h. Improvement in your bank's current or expected liquidity position
+
+                                                             All Respondents
+
+                                                             Banks    Percent
+
+                                     Not important               7      87.5
+                                     Somewhat important          0        0.0
+                                     Very important              1      12.5
+                                     Total                       8     100.0
+
+            i. Reduced concerns about the potential effects of legislative changes, supervisory actions, or
+            accounting standards
+
+                                                             All Respondents
+
+                                                             Banks    Percent
+
+                                     Not important               8     100.0
+                                     Somewhat important          0        0.0
+                                     Very important              0        0.0
+                                     Total                       8     100.0
+
+4. Apart from normal seasonal variation, how has demand for C&I loans changed over the past three months?
+(Please consider only funds actually disbursed as opposed to requests for new or increased lines of credit.)
+
+                                                             All Respondents
+
+                                                             Banks    Percent
+
+                                    Substantially stronger        0       0.0
+                                    Moderately stronger           4      19.0
+                                    About the same               15      71.4
+                                    Moderately weaker             2       9.5
+                                    Substantially weaker          0       0.0
+                                    Total                        21     100.0
+5. If demand for C&I loans has strengthened or weakened over the past three months (as described in question
+4), how important have been the following possible reasons for the change?
+
+      A. If stronger loan demand (answer 1 or 2 to question 4), possible reasons:
+
+            a. Customer inventory financing needs increased
+
+                                                            All Respondents
+
+                                                            Banks    Percent
+
+                                     Not important               1      33.3
+                                     Somewhat important          2      66.7
+                                     Very important              0       0.0
+                                     Total                       3    100.0
+
+            b. Customer accounts receivable financing needs increased
+
+                                                            All Respondents
+
+                                                            Banks    Percent
+
+                                     Not important               2      66.7
+                                     Somewhat important          1      33.3
+                                     Very important              0       0.0
+                                     Total                       3    100.0
+
+            c. Customer investment in plant or equipment increased
+
+                                                            All Respondents
+
+                                                            Banks    Percent
+
+                                     Not important               3    100.0
+                                     Somewhat important          0       0.0
+                                     Very important              0       0.0
+                                     Total                       3    100.0
+d. Customer internally generated funds decreased
+
+                                              All Respondents
+
+                                              Banks    Percent
+
+                        Not important              2     66.7
+                        Somewhat important         1     33.3
+                        Very important             0          0.0
+                        Total                      3    100.0
+
+e. Customer merger or acquisition financing needs increased
+
+                                              All Respondents
+
+                                              Banks    Percent
+
+                        Not important              0          0.0
+                        Somewhat important         3    100.0
+                        Very important             0          0.0
+                        Total                      3    100.0
+
+f. Customer borrowing shifted to your bank from other bank or nonbank sources because these other
+sources became less attractive
+
+                                              All Respondents
+
+                                              Banks    Percent
+
+                        Not important              1     33.3
+                        Somewhat important         2     66.7
+                        Very important             0          0.0
+                        Total                      3    100.0
+B. If weaker loan demand (answer 4 or 5 to question 4), possible reasons:
+
+      a. Customer inventory financing needs decreased
+
+                                                     All Respondents
+
+                                                     Banks     Percent
+
+                              Not important               1      50.0
+                              Somewhat important          1      50.0
+                              Very important              0        0.0
+                              Total                       2     100.0
+
+      b. Customer accounts receivable financing needs decreased
+
+                                                     All Respondents
+
+                                                     Banks     Percent
+
+                              Not important               1      50.0
+                              Somewhat important          1      50.0
+                              Very important              0        0.0
+                              Total                       2     100.0
+
+      c. Customer investment in plant or equipment decreased
+
+                                                     All Respondents
+
+                                                     Banks     Percent
+
+                              Not important               1      50.0
+                              Somewhat important          0        0.0
+                              Very important              1      50.0
+                              Total                       2     100.0
+d. Customer internally generated funds increased
+
+                                              All Respondents
+
+                                               Banks   Percent
+
+                        Not important              0       0.0
+                        Somewhat important         1     50.0
+                        Very important             1     50.0
+                        Total                      2    100.0
+
+e. Customer merger or acquisition financing needs decreased
+
+                                              All Respondents
+
+                                               Banks   Percent
+
+                        Not important              0       0.0
+                        Somewhat important         0       0.0
+                        Very important             2    100.0
+                        Total                      2    100.0
+
+f. Customer borrowing shifted from your bank to other bank or nonbank credit sources because these
+other sources became more attractive
+
+                                              All Respondents
+
+                                               Banks   Percent
+
+                        Not important              1     50.0
+                        Somewhat important         0       0.0
+                        Very important             1     50.0
+                        Total                      2    100.0
+6. At your bank, how has the number of inquiries from potential business borrowers regarding the availability
+and terms of new credit lines or increases in existing lines changed over the past three months? (Please consider
+only inquiries for additional or increased C&I lines as opposed to the refinancing of existing loans.)
+
+                                                                            All Respondents
+
+                                                                            Banks    Percent
+
+                      The number of inquiries has increased substantially        0       0.0
+                      The number of inquiries has increased moderately           5      25.0
+                      The number of inquiries has stayed about the same         15      75.0
+                      The number of inquiries has decreased moderately           0       0.0
+                      The number of inquiries has decreased substantially        0       0.0
+                      Total                                                     20    100.0
+Questions 7-8 ask about commercial real estate (CRE) loans at your bank, including construction and land
+development loans and loans secured by nonfarm nonresidential real estate. Question 7 deals with changes in
+your bank's standards over the past three months. Question 8 deals with changes in demand. If your bank's
+lending standards or terms have not changed over the relevant period, please report them as unchanged even if
+they are either restrictive or accommodative relative to longer-term norms. If your bank's standards or terms
+have tightened or eased over the relevant period, please so report them regardless of how they stand relative to
+longer-term norms. Also, please report changes in enforcement of existing standards as changes in standards.
+
+7. Over the past three months, how have your bank's credit standards for approving applications for CRE loans
+changed?
+
+                                                                  All Respondents
+
+                                                                  Banks     Percent
+
+                                Tightened considerably                 1           7.7
+                                Tightened somewhat                     2          15.4
+                                Remained basically unchanged           9          69.2
+                                Eased somewhat                         0           0.0
+                                Eased considerably                     1           7.7
+                                Total                                 13      100.0
+
+8. Apart from normal seasonal variation, how has demand for CRE loans changed over the past three months?
+
+                                                              All Respondents
+
+                                                              Banks   Percent
+
+                                     Substantially stronger       1         7.7
+                                     Moderately stronger          3        23.1
+                                     About the same               8        61.5
+                                     Moderately weaker            1         7.7
+                                     Substantially weaker         0         0.0
+                                     Total                       13    100.0
+Question 9 focuses on changes in your bank's policies on CRE loans over the past year. If your bank's lending
+policies have not changed over the past year, please report them as unchanged even if they are either restrictive
+or accommodative relative to longer-term norms. If your bank's policies have tightened or eased over the past
+year, please report these changes regardless of how your bank's policies stand relative to longer-term norms.
+
+9. Over the past year, how has your bank changed the following policies on CRE loans?
+
+            a. Maximum loan size
+
+                                                                  All Respondents
+
+                                                                  Banks   Percent
+
+                                Tightened considerably                0       0.0
+                                Tightened somewhat                    1       8.3
+                                Remained basically unchanged          5      41.7
+                                Eased somewhat                        5      41.7
+                                Eased considerably                    1       8.3
+                                Total                                12     100.0
+
+            b. Maximum loan maturity
+
+                                                                  All Respondents
+
+                                                                  Banks   Percent
+
+                                Tightened considerably                0       0.0
+                                Tightened somewhat                    0       0.0
+                                Remained basically unchanged         11      91.7
+                                Eased somewhat                        1       8.3
+                                Eased considerably                    0       0.0
+                                Total                                12     100.0
+c. Spreads of loan rates over your bank's cost of funds (wider spreads=tightened, narrower
+spreads=eased)
+
+                                                    All Respondents
+
+                                                    Banks    Percent
+
+                   Tightened considerably                0       0.0
+                   Tightened somewhat                    1       8.3
+                   Remained basically unchanged          8      66.7
+                   Eased somewhat                        3      25.0
+                   Eased considerably                    0       0.0
+                   Total                                12    100.0
+
+d. Loan-to-value ratios
+
+                                                    All Respondents
+
+                                                    Banks    Percent
+
+                   Tightened considerably                1       8.3
+                   Tightened somewhat                    0       0.0
+                   Remained basically unchanged          9      75.0
+                   Eased somewhat                        2      16.7
+                   Eased considerably                    0       0.0
+                   Total                                12    100.0
+
+e. Requirements for take-out financing
+
+                                                    All Respondents
+
+                                                    Banks    Percent
+
+                   Tightened considerably                0       0.0
+                   Tightened somewhat                    1       8.3
+                   Remained basically unchanged         11      91.7
+                   Eased somewhat                        0       0.0
+                   Eased considerably                    0       0.0
+                   Total                                12    100.0
+f. Debt-service coverage ratios
+
+                                                  All Respondents
+
+                                                  Banks   Percent
+
+                   Tightened considerably             0       0.0
+                   Tightened somewhat                 0       0.0
+                   Remained basically unchanged      10     83.3
+                   Eased somewhat                     2     16.7
+                   Eased considerably                 0       0.0
+                   Total                             12    100.0
+10. Over the past three months, how has your bank changed the size of credit lines for existing customers with
+the following types of accounts? Please consider changes made to line sizes during the life of existing credit
+agreements as well as changes made to line sizes upon renewal or renegotiation of existing agreements.
+
+            a. Business credit card accounts
+
+                                                                 All Respondents
+
+                                                                 Banks      Percent
+
+                                Increased considerably                0         0.0
+                                Increased somewhat                    0         0.0
+                                Remained basically unchanged          5      100.0
+                                Decreased somewhat                    0         0.0
+                                Decreased considerably                0         0.0
+                                Total                                 5      100.0
+
+            b. C&I credit lines (excluding business credit card accounts)
+
+                                                                 All Respondents
+
+                                                                 Banks      Percent
+
+                                Increased considerably                0         0.0
+                                Increased somewhat                    5       23.8
+                                Remained basically unchanged         16       76.2
+                                Decreased somewhat                    0         0.0
+                                Decreased considerably                0         0.0
+                                Total                                21      100.0
+c. Commercial construction lines of credit
+
+                                                   All Respondents
+
+                                                   Banks   Percent
+
+                    Increased considerably             0       0.0
+                    Increased somewhat                 0       0.0
+                    Remained basically unchanged       7    100.0
+                    Decreased somewhat                 0       0.0
+                    Decreased considerably             0       0.0
+                    Total                              7    100.0
+
+d. Lines of credit for financial firms
+
+                                                   All Respondents
+
+                                                   Banks   Percent
+
+                    Increased considerably             0       0.0
+                    Increased somewhat                 2     14.3
+                    Remained basically unchanged      12     85.7
+                    Decreased somewhat                 0       0.0
+                    Decreased considerably             0       0.0
+                    Total                             14    100.0
+In recent quarters, loan delinquencies and charge-offs have declined in some loan classes while stabilizing or
+moving higher in other loan classes. Questions 11-12 ask about your bank's expectations for the behavior of
+these measures of loan quality in 2011. Question 11 asks about C&I loans to large and middle-market firms and
+to small firms. Question 12 asks about CRE loans.
+
+11. Assuming that economic activity progresses in line with consensus forecasts, what is your outlook for
+delinquencies and chargeoffs on your bank's C&I loans to large and middle-market firms and to small firms in
+2011?
+
+      A. Outlook for loan quality on C&I loans to large and middle-market firms:
+
+                                                                                All Respondents
+
+                                                                                Banks   Percent
+
+                    Loan quality is likely to improve substantially                 2     10.0
+                    Loan quality is likely to improve somewhat                     15     75.0
+                    Loan quality is likely to stabilize around current levels       3     15.0
+                    Loan quality is likely to deteriorate somewhat                  0       0.0
+                    Loan quality is likely to deteriorate substantially             0       0.0
+                    Total                                                          20    100.0
+
+      B. Outlook for loan quality on C&I loans to small firms:
+
+                                                                                All Respondents
+
+                                                                                Banks   Percent
+
+                    Loan quality is likely to improve substantially                 0       0.0
+                    Loan quality is likely to improve somewhat                      5     71.4
+                    Loan quality is likely to stabilize around current levels       2     28.6
+                    Loan quality is likely to deteriorate somewhat                  0       0.0
+                    Loan quality is likely to deteriorate substantially             0       0.0
+                    Total                                                           7    100.0
+
+            For this question, 6 respondents answered “My bank does not originate this type of loan.”
+12. Assuming that economic activity progresses in line with consensus forecasts, what is your outlook for
+delinquencies and chargeoffs on your bank's commercial real estate loans in 2011?
+
+                                                                                All Respondents
+
+                                                                                Banks   Percent
+
+                    Loan quality is likely to improve substantially                 0       0.0
+                    Loan quality is likely to improve somewhat                      5     45.5
+                    Loan quality is likely to stabilize around current levels       6     54.5
+                    Loan quality is likely to deteriorate somewhat                  0       0.0
+                    Loan quality is likely to deteriorate substantially             0       0.0
+                    Total                                                          11    100.0
+
+            For this question, 3 respondents answered “My bank does not originate this type of loan.”
+
+
+1. As of September 30, 2010, the 22 respondents had combined assets of $1.1 trillion, compared to $2.0 trillion
+for all foreign related banking institutions in the United States. The sample is selected from among the largest
+foreign-related banking institutions in those Federal Reserve Districts where such institutions are common.
+

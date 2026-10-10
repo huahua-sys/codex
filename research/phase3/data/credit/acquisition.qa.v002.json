@@ -1,0 +1,3060 @@
+{
+  "check_count": 534,
+  "checks": [
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_01",
+      "source_path": "research/phase3/data/credit/raw/665ade693fac6529.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_01",
+      "source_path": "research/phase3/data/credit/raw/cc4229887046c224.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_05",
+      "source_path": "research/phase3/data/credit/raw/218335c4dad10de3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_05",
+      "source_path": "research/phase3/data/credit/raw/2e9f532e1fffbc19.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_08",
+      "source_path": "research/phase3/data/credit/raw/2d3253b109e344fb.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_08",
+      "source_path": "research/phase3/data/credit/raw/a116cffd4546dcec.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_11",
+      "source_path": "research/phase3/data/credit/raw/8b0e563fe4510db3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_11",
+      "source_path": "research/phase3/data/credit/raw/7f677bba574870e2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_02",
+      "source_path": "research/phase3/data/credit/raw/24651dc6c54e9bc1.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_02",
+      "source_path": "research/phase3/data/credit/raw/02b222c5fb7fc6bc.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_05",
+      "source_path": "research/phase3/data/credit/raw/fee964692700d50c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_05",
+      "source_path": "research/phase3/data/credit/raw/c7fb28aab3162f98.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_08",
+      "source_path": "research/phase3/data/credit/raw/5d218a2fe473d7fc.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_08",
+      "source_path": "research/phase3/data/credit/raw/1fe811a2f18b7dd2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_11",
+      "source_path": "research/phase3/data/credit/raw/045bc1e6dbdc5f1d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_11",
+      "source_path": "research/phase3/data/credit/raw/49fe9c2ccdf34cca.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_02",
+      "source_path": "research/phase3/data/credit/raw/5842a19da2cd3b69.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_02",
+      "source_path": "research/phase3/data/credit/raw/c2af664e18f08f9f.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_05",
+      "source_path": "research/phase3/data/credit/raw/7130c4c7aa9b461b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_05",
+      "source_path": "research/phase3/data/credit/raw/6ff66d75b3ec9559.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_08",
+      "source_path": "research/phase3/data/credit/raw/8879f74df340e3a8.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_08",
+      "source_path": "research/phase3/data/credit/raw/fd76e5b8df0edfb9.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_11",
+      "source_path": "research/phase3/data/credit/raw/5e03398fbbf1415a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_11",
+      "source_path": "research/phase3/data/credit/raw/fc3e6bf4c4e7f41e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_01",
+      "source_path": "research/phase3/data/credit/raw/804314aa99e6024b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_01",
+      "source_path": "research/phase3/data/credit/raw/c7be39d89b8bf67b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_05",
+      "source_path": "research/phase3/data/credit/raw/5972c8f1a5ebb02c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_05",
+      "source_path": "research/phase3/data/credit/raw/264932976e2a56bd.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_08",
+      "source_path": "research/phase3/data/credit/raw/81ead37bcaf2a73a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_08",
+      "source_path": "research/phase3/data/credit/raw/8f50770f4f6183af.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_10",
+      "source_path": "research/phase3/data/credit/raw/2e16507f856ae1da.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_10",
+      "source_path": "research/phase3/data/credit/raw/899f53ef57e34ee8.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_01",
+      "source_path": "research/phase3/data/credit/raw/00882f19544f3b41.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_01",
+      "source_path": "research/phase3/data/credit/raw/7f9aa2ad3e6888a3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05",
+      "source_path": "research/phase3/data/credit/raw/53f28f93114f9c15.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05",
+      "source_path": "research/phase3/data/credit/raw/318e1763357aa796.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05",
+      "source_path": "research/phase3/data/credit/raw/4082d2766448a368.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05",
+      "source_path": "research/phase3/data/credit/raw/318e1763357aa796.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_07",
+      "source_path": "research/phase3/data/credit/raw/1f0e070dee6f6b8d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_07",
+      "source_path": "research/phase3/data/credit/raw/33080a02083f11b7.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10",
+      "source_path": "research/phase3/data/credit/raw/6781a07cc67d8f64.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10",
+      "source_path": "research/phase3/data/credit/raw/2aa9000c9bff264e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10",
+      "source_path": "research/phase3/data/credit/raw/aeadea5b3b784590.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10",
+      "source_path": "research/phase3/data/credit/raw/2aa9000c9bff264e.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01",
+      "source_path": "research/phase3/data/credit/raw/05c99ab883a7d2e3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01",
+      "source_path": "research/phase3/data/credit/raw/d45f059c78571785.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01",
+      "source_path": "research/phase3/data/credit/raw/5fab0ba463eca9aa.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01",
+      "source_path": "research/phase3/data/credit/raw/d45f059c78571785.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05",
+      "source_path": "research/phase3/data/credit/raw/83e144bfe5c8c7b8.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05",
+      "source_path": "research/phase3/data/credit/raw/e0634a6d727d401b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05",
+      "source_path": "research/phase3/data/credit/raw/42ee1830a1a4b1d9.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05",
+      "source_path": "research/phase3/data/credit/raw/e0634a6d727d401b.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08",
+      "source_path": "research/phase3/data/credit/raw/3796505fef662dd6.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08",
+      "source_path": "research/phase3/data/credit/raw/c4473d8fd0804359.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08",
+      "source_path": "research/phase3/data/credit/raw/9140645914e4085b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08",
+      "source_path": "research/phase3/data/credit/raw/c4473d8fd0804359.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10",
+      "source_path": "research/phase3/data/credit/raw/b79241356f477198.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10",
+      "source_path": "research/phase3/data/credit/raw/80c6f8f56cd6393e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10",
+      "source_path": "research/phase3/data/credit/raw/47d5d0f4840c6c9f.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10",
+      "source_path": "research/phase3/data/credit/raw/80c6f8f56cd6393e.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01",
+      "source_path": "research/phase3/data/credit/raw/450193e374f5b9ea.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01",
+      "source_path": "research/phase3/data/credit/raw/9437ce989e8e7865.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01",
+      "source_path": "research/phase3/data/credit/raw/1e3c42e2cc6dc4c2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01",
+      "source_path": "research/phase3/data/credit/raw/9437ce989e8e7865.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05",
+      "source_path": "research/phase3/data/credit/raw/a4aee7575b8996c2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05",
+      "source_path": "research/phase3/data/credit/raw/83eb844cdb0e471c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05",
+      "source_path": "research/phase3/data/credit/raw/b5232ce02bc4a585.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05",
+      "source_path": "research/phase3/data/credit/raw/83eb844cdb0e471c.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08",
+      "source_path": "research/phase3/data/credit/raw/de60a874b1f138a3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08",
+      "source_path": "research/phase3/data/credit/raw/21ef9d0b7cba481c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08",
+      "source_path": "research/phase3/data/credit/raw/873a02bcefccd560.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08",
+      "source_path": "research/phase3/data/credit/raw/21ef9d0b7cba481c.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10",
+      "source_path": "research/phase3/data/credit/raw/4a992ab041345471.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10",
+      "source_path": "research/phase3/data/credit/raw/4e7542899affe4e4.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10",
+      "source_path": "research/phase3/data/credit/raw/d1f93a08ac45bf07.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10",
+      "source_path": "research/phase3/data/credit/raw/4e7542899affe4e4.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01",
+      "source_path": "research/phase3/data/credit/raw/2241f266e3d4b06c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01",
+      "source_path": "research/phase3/data/credit/raw/85a2d085e24c2ad9.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01",
+      "source_path": "research/phase3/data/credit/raw/f6e9fb3e7031cf56.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01",
+      "source_path": "research/phase3/data/credit/raw/85a2d085e24c2ad9.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_05",
+      "source_path": "research/phase3/data/credit/raw/abba3f73ffa0879e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_05",
+      "source_path": "research/phase3/data/credit/raw/a8e0a2c557ecd041.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08",
+      "source_path": "research/phase3/data/credit/raw/eba64332caa96728.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08",
+      "source_path": "research/phase3/data/credit/raw/3fbd526a97107ed2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08",
+      "source_path": "research/phase3/data/credit/raw/2463d18314f734e5.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08",
+      "source_path": "research/phase3/data/credit/raw/3fbd526a97107ed2.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11",
+      "source_path": "research/phase3/data/credit/raw/8aeca569418cbcd4.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11",
+      "source_path": "research/phase3/data/credit/raw/44cd13ac37dcae3d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11",
+      "source_path": "research/phase3/data/credit/raw/4a11951cc247a2fd.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11",
+      "source_path": "research/phase3/data/credit/raw/44cd13ac37dcae3d.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01",
+      "source_path": "research/phase3/data/credit/raw/532f1a86ad593c15.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01",
+      "source_path": "research/phase3/data/credit/raw/2776765ce95ddecd.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01",
+      "source_path": "research/phase3/data/credit/raw/a55ca49d4c3a1b64.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01",
+      "source_path": "research/phase3/data/credit/raw/2776765ce95ddecd.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05",
+      "source_path": "research/phase3/data/credit/raw/613035edfbee0dbf.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05",
+      "source_path": "research/phase3/data/credit/raw/926b65d07432961e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05",
+      "source_path": "research/phase3/data/credit/raw/90a8e819452a1915.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05",
+      "source_path": "research/phase3/data/credit/raw/926b65d07432961e.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08",
+      "source_path": "research/phase3/data/credit/raw/1d9242f4560ac6f6.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08",
+      "source_path": "research/phase3/data/credit/raw/c0420a3e05c66cd2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08",
+      "source_path": "research/phase3/data/credit/raw/f980811299e933a0.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08",
+      "source_path": "research/phase3/data/credit/raw/c0420a3e05c66cd2.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11",
+      "source_path": "research/phase3/data/credit/raw/a2565f5f5cf71098.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11",
+      "source_path": "research/phase3/data/credit/raw/c3f16a0aac1adff1.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11",
+      "source_path": "research/phase3/data/credit/raw/ad9f371f33a46524.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11",
+      "source_path": "research/phase3/data/credit/raw/c3f16a0aac1adff1.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02",
+      "source_path": "research/phase3/data/credit/raw/57a808a3b1a90ebe.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02",
+      "source_path": "research/phase3/data/credit/raw/f950c314f24e1f4e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02",
+      "source_path": "research/phase3/data/credit/raw/d65994baa1d124ac.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02",
+      "source_path": "research/phase3/data/credit/raw/f950c314f24e1f4e.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05",
+      "source_path": "research/phase3/data/credit/raw/65f4c3756e9f14c2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05",
+      "source_path": "research/phase3/data/credit/raw/498a11ca8e3f90a4.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05",
+      "source_path": "research/phase3/data/credit/raw/a4a30d8ed6254d25.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05",
+      "source_path": "research/phase3/data/credit/raw/498a11ca8e3f90a4.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08",
+      "source_path": "research/phase3/data/credit/raw/c193651cff282f28.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08",
+      "source_path": "research/phase3/data/credit/raw/bfecac5b98f50bb4.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08",
+      "source_path": "research/phase3/data/credit/raw/addcb5ab86491c93.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08",
+      "source_path": "research/phase3/data/credit/raw/bfecac5b98f50bb4.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11",
+      "source_path": "research/phase3/data/credit/raw/efca91c84b84891d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11",
+      "source_path": "research/phase3/data/credit/raw/2650be9aaf222d59.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11",
+      "source_path": "research/phase3/data/credit/raw/5447dd31309cad0c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11",
+      "source_path": "research/phase3/data/credit/raw/2650be9aaf222d59.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02",
+      "source_path": "research/phase3/data/credit/raw/547b7e1b6cec3249.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02",
+      "source_path": "research/phase3/data/credit/raw/3d7c509fcb7c8074.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02",
+      "source_path": "research/phase3/data/credit/raw/c4e8c43489b1b012.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02",
+      "source_path": "research/phase3/data/credit/raw/3d7c509fcb7c8074.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05",
+      "source_path": "research/phase3/data/credit/raw/b7adcd9509a8d218.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05",
+      "source_path": "research/phase3/data/credit/raw/8ed2225203478391.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05",
+      "source_path": "research/phase3/data/credit/raw/4a1eff520f838067.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05",
+      "source_path": "research/phase3/data/credit/raw/8ed2225203478391.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08",
+      "source_path": "research/phase3/data/credit/raw/da73275cc328486d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08",
+      "source_path": "research/phase3/data/credit/raw/71466b6980c946c3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08",
+      "source_path": "research/phase3/data/credit/raw/51fc74060e17da95.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08",
+      "source_path": "research/phase3/data/credit/raw/71466b6980c946c3.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11",
+      "source_path": "research/phase3/data/credit/raw/7076125c3ccafc54.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11",
+      "source_path": "research/phase3/data/credit/raw/09da2b561ee4eafe.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11",
+      "source_path": "research/phase3/data/credit/raw/6754a38e78867fe3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11",
+      "source_path": "research/phase3/data/credit/raw/09da2b561ee4eafe.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02",
+      "source_path": "research/phase3/data/credit/raw/0522218a38166d6a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02",
+      "source_path": "research/phase3/data/credit/raw/4a9afc0baef9d7b1.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02",
+      "source_path": "research/phase3/data/credit/raw/b9fe2d0774fd1f08.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02",
+      "source_path": "research/phase3/data/credit/raw/4a9afc0baef9d7b1.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04",
+      "source_path": "research/phase3/data/credit/raw/4284fbbc837de232.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04",
+      "source_path": "research/phase3/data/credit/raw/2fb0eca9aa8fd9a8.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04",
+      "source_path": "research/phase3/data/credit/raw/cdc38f5c98b9aa99.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04",
+      "source_path": "research/phase3/data/credit/raw/2fb0eca9aa8fd9a8.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08",
+      "source_path": "research/phase3/data/credit/raw/726e81e01e13558d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08",
+      "source_path": "research/phase3/data/credit/raw/aa718288135dd907.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08",
+      "source_path": "research/phase3/data/credit/raw/68e74b35833602ee.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08",
+      "source_path": "research/phase3/data/credit/raw/aa718288135dd907.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11",
+      "source_path": "research/phase3/data/credit/raw/6a9eafcf8d09aa9c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11",
+      "source_path": "research/phase3/data/credit/raw/378eaf0e6f085738.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11",
+      "source_path": "research/phase3/data/credit/raw/f0ffc0d1f8087503.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11",
+      "source_path": "research/phase3/data/credit/raw/378eaf0e6f085738.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01",
+      "source_path": "research/phase3/data/credit/raw/46dc8e0f8f60be85.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01",
+      "source_path": "research/phase3/data/credit/raw/5bff28d5f4db28f6.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01",
+      "source_path": "research/phase3/data/credit/raw/bd2bb851276b8d68.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01",
+      "source_path": "research/phase3/data/credit/raw/5bff28d5f4db28f6.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05",
+      "source_path": "research/phase3/data/credit/raw/3e7fa3291051461b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05",
+      "source_path": "research/phase3/data/credit/raw/147eca63ed1440f7.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05",
+      "source_path": "research/phase3/data/credit/raw/8747f76a950fa045.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05",
+      "source_path": "research/phase3/data/credit/raw/147eca63ed1440f7.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08",
+      "source_path": "research/phase3/data/credit/raw/f4133544281705ab.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08",
+      "source_path": "research/phase3/data/credit/raw/63d1f965f483f8ea.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08",
+      "source_path": "research/phase3/data/credit/raw/49e9268f67e769c9.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08",
+      "source_path": "research/phase3/data/credit/raw/63d1f965f483f8ea.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10",
+      "source_path": "research/phase3/data/credit/raw/50e6d1940de3b83f.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10",
+      "source_path": "research/phase3/data/credit/raw/67e5bd23d618c762.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10",
+      "source_path": "research/phase3/data/credit/raw/3e5cb2752c4dd0ea.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10",
+      "source_path": "research/phase3/data/credit/raw/67e5bd23d618c762.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02",
+      "source_path": "research/phase3/data/credit/raw/d357d35217b965ea.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02",
+      "source_path": "research/phase3/data/credit/raw/2947c2a2d7c1983d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02",
+      "source_path": "research/phase3/data/credit/raw/4fd5de1fd9c86333.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02",
+      "source_path": "research/phase3/data/credit/raw/2947c2a2d7c1983d.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05",
+      "source_path": "research/phase3/data/credit/raw/ad3554627c15c7fe.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05",
+      "source_path": "research/phase3/data/credit/raw/0020243f4ff597a5.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05",
+      "source_path": "research/phase3/data/credit/raw/2bfe08a2258f22d3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05",
+      "source_path": "research/phase3/data/credit/raw/0020243f4ff597a5.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08",
+      "source_path": "research/phase3/data/credit/raw/20efa21fd6cc1a7b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08",
+      "source_path": "research/phase3/data/credit/raw/404701261ffbd394.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08",
+      "source_path": "research/phase3/data/credit/raw/e90fc66018ca9dc1.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08",
+      "source_path": "research/phase3/data/credit/raw/404701261ffbd394.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11",
+      "source_path": "research/phase3/data/credit/raw/212803af985db52b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11",
+      "source_path": "research/phase3/data/credit/raw/a41d6de32360ba88.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11",
+      "source_path": "research/phase3/data/credit/raw/22ea8a2ff4e04fe0.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11",
+      "source_path": "research/phase3/data/credit/raw/a41d6de32360ba88.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02",
+      "source_path": "research/phase3/data/credit/raw/da6e175bf1268d64.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02",
+      "source_path": "research/phase3/data/credit/raw/37febf39c1337564.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02",
+      "source_path": "research/phase3/data/credit/raw/0d6b1b3a55785a71.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02",
+      "source_path": "research/phase3/data/credit/raw/37febf39c1337564.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05",
+      "source_path": "research/phase3/data/credit/raw/785dffe4c9e2607c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05",
+      "source_path": "research/phase3/data/credit/raw/52479199aadd1210.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05",
+      "source_path": "research/phase3/data/credit/raw/37fed62b7b6972ba.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05",
+      "source_path": "research/phase3/data/credit/raw/52479199aadd1210.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08",
+      "source_path": "research/phase3/data/credit/raw/0382bc3fd2d95485.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08",
+      "source_path": "research/phase3/data/credit/raw/5bfc85bd7fcde070.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08",
+      "source_path": "research/phase3/data/credit/raw/fc09111440ef7c3e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08",
+      "source_path": "research/phase3/data/credit/raw/5bfc85bd7fcde070.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11",
+      "source_path": "research/phase3/data/credit/raw/e38bc836e98d4523.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11",
+      "source_path": "research/phase3/data/credit/raw/16f9171c6fbada23.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11",
+      "source_path": "research/phase3/data/credit/raw/f2a7611fe8172a93.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11",
+      "source_path": "research/phase3/data/credit/raw/16f9171c6fbada23.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02",
+      "source_path": "research/phase3/data/credit/raw/e55947b702ef7e5b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02",
+      "source_path": "research/phase3/data/credit/raw/5bd357050046d7ff.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02",
+      "source_path": "research/phase3/data/credit/raw/bbaf69ab26a084a0.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02",
+      "source_path": "research/phase3/data/credit/raw/5bd357050046d7ff.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05",
+      "source_path": "research/phase3/data/credit/raw/7d0572b46defd2ad.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05",
+      "source_path": "research/phase3/data/credit/raw/7dc0beda569852ab.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05",
+      "source_path": "research/phase3/data/credit/raw/6d56395ed91c4c09.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05",
+      "source_path": "research/phase3/data/credit/raw/7dc0beda569852ab.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08",
+      "source_path": "research/phase3/data/credit/raw/e51271efa0fde612.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08",
+      "source_path": "research/phase3/data/credit/raw/8bdac87643689648.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08",
+      "source_path": "research/phase3/data/credit/raw/14534a9607da236e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08",
+      "source_path": "research/phase3/data/credit/raw/8bdac87643689648.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11",
+      "source_path": "research/phase3/data/credit/raw/74f4c11db1636d1e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11",
+      "source_path": "research/phase3/data/credit/raw/bce29ee94a9acecd.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11",
+      "source_path": "research/phase3/data/credit/raw/e2bcc64be7bb3fbf.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11",
+      "source_path": "research/phase3/data/credit/raw/bce29ee94a9acecd.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02",
+      "source_path": "research/phase3/data/credit/raw/861a47a88332a206.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02",
+      "source_path": "research/phase3/data/credit/raw/0bf661b659a59f06.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02",
+      "source_path": "research/phase3/data/credit/raw/faaa89af55113051.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02",
+      "source_path": "research/phase3/data/credit/raw/0bf661b659a59f06.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05",
+      "source_path": "research/phase3/data/credit/raw/7f58107fd5f1a2a3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05",
+      "source_path": "research/phase3/data/credit/raw/8b76bf37a43d4e18.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05",
+      "source_path": "research/phase3/data/credit/raw/47333323bdf24ca4.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05",
+      "source_path": "research/phase3/data/credit/raw/8b76bf37a43d4e18.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08",
+      "source_path": "research/phase3/data/credit/raw/3e5c126b30c27539.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08",
+      "source_path": "research/phase3/data/credit/raw/eb7de58bab1758ce.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08",
+      "source_path": "research/phase3/data/credit/raw/f1b7fad81cf1762d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08",
+      "source_path": "research/phase3/data/credit/raw/eb7de58bab1758ce.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11",
+      "source_path": "research/phase3/data/credit/raw/5fcc1f3dc04b89b4.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11",
+      "source_path": "research/phase3/data/credit/raw/8f33c55badb2fd4a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11",
+      "source_path": "research/phase3/data/credit/raw/8c3c4e536b6b2707.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11",
+      "source_path": "research/phase3/data/credit/raw/8f33c55badb2fd4a.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02",
+      "source_path": "research/phase3/data/credit/raw/ba68045646b4e904.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02",
+      "source_path": "research/phase3/data/credit/raw/bdccf1309e6de875.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02",
+      "source_path": "research/phase3/data/credit/raw/b7d0cbda9c021a0a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02",
+      "source_path": "research/phase3/data/credit/raw/bdccf1309e6de875.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05",
+      "source_path": "research/phase3/data/credit/raw/85ed0c3f14151fc5.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05",
+      "source_path": "research/phase3/data/credit/raw/311c5d8878f22ae8.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05",
+      "source_path": "research/phase3/data/credit/raw/cd5626f91c535ae9.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05",
+      "source_path": "research/phase3/data/credit/raw/311c5d8878f22ae8.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08",
+      "source_path": "research/phase3/data/credit/raw/6add09426ed13c27.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08",
+      "source_path": "research/phase3/data/credit/raw/ac04067951afac26.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08",
+      "source_path": "research/phase3/data/credit/raw/7c9630f94ebe009c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08",
+      "source_path": "research/phase3/data/credit/raw/ac04067951afac26.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10",
+      "source_path": "research/phase3/data/credit/raw/c595bf31e2b49285.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10",
+      "source_path": "research/phase3/data/credit/raw/1883caebca2cba37.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10",
+      "source_path": "research/phase3/data/credit/raw/688813b471899652.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10",
+      "source_path": "research/phase3/data/credit/raw/1883caebca2cba37.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02",
+      "source_path": "research/phase3/data/credit/raw/93c24992b9039024.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02",
+      "source_path": "research/phase3/data/credit/raw/7b0d31bf5bb45859.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02",
+      "source_path": "research/phase3/data/credit/raw/e81cc37a72feea37.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02",
+      "source_path": "research/phase3/data/credit/raw/7b0d31bf5bb45859.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04",
+      "source_path": "research/phase3/data/credit/raw/2a757532237cfb9e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04",
+      "source_path": "research/phase3/data/credit/raw/240f282a116111be.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04",
+      "source_path": "research/phase3/data/credit/raw/ec39692971f6c808.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04",
+      "source_path": "research/phase3/data/credit/raw/240f282a116111be.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07",
+      "source_path": "research/phase3/data/credit/raw/56aeb5753d1fa6fc.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07",
+      "source_path": "research/phase3/data/credit/raw/8e798203f259636f.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07",
+      "source_path": "research/phase3/data/credit/raw/8b5a01394a1e2884.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07",
+      "source_path": "research/phase3/data/credit/raw/8e798203f259636f.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10",
+      "source_path": "research/phase3/data/credit/raw/b5bb71d072d58a70.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10",
+      "source_path": "research/phase3/data/credit/raw/9d7637e18c2645e2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10",
+      "source_path": "research/phase3/data/credit/raw/a40c20c0806da115.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10",
+      "source_path": "research/phase3/data/credit/raw/9d7637e18c2645e2.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01",
+      "source_path": "research/phase3/data/credit/raw/d857b43f6ecf65d2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01",
+      "source_path": "research/phase3/data/credit/raw/3e2dfaf91889970f.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01",
+      "source_path": "research/phase3/data/credit/raw/7514856dfa102ce4.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01",
+      "source_path": "research/phase3/data/credit/raw/3e2dfaf91889970f.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04",
+      "source_path": "research/phase3/data/credit/raw/a7ba929f875b32ad.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04",
+      "source_path": "research/phase3/data/credit/raw/4679e33cc6fb84b5.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04",
+      "source_path": "research/phase3/data/credit/raw/d78d5d16aa9c0f64.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04",
+      "source_path": "research/phase3/data/credit/raw/4679e33cc6fb84b5.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07",
+      "source_path": "research/phase3/data/credit/raw/0090b744add24b62.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07",
+      "source_path": "research/phase3/data/credit/raw/a3ce12c31e0ddb8d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07",
+      "source_path": "research/phase3/data/credit/raw/acb22cc4dd6c6eb6.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07",
+      "source_path": "research/phase3/data/credit/raw/a3ce12c31e0ddb8d.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10",
+      "source_path": "research/phase3/data/credit/raw/7d1d7f5d59d4185d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10",
+      "source_path": "research/phase3/data/credit/raw/0b29adadf72159c8.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10",
+      "source_path": "research/phase3/data/credit/raw/c812be10926fad81.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10",
+      "source_path": "research/phase3/data/credit/raw/0b29adadf72159c8.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01",
+      "source_path": "research/phase3/data/credit/raw/f39f425672edf728.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01",
+      "source_path": "research/phase3/data/credit/raw/f070ef10bc37a17d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01",
+      "source_path": "research/phase3/data/credit/raw/949aa6062d976acc.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01",
+      "source_path": "research/phase3/data/credit/raw/f070ef10bc37a17d.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04",
+      "source_path": "research/phase3/data/credit/raw/d8bbdf94e2b890de.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04",
+      "source_path": "research/phase3/data/credit/raw/fcce26ef37fb3d3a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04",
+      "source_path": "research/phase3/data/credit/raw/42c4aa09965e6097.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04",
+      "source_path": "research/phase3/data/credit/raw/fcce26ef37fb3d3a.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07",
+      "source_path": "research/phase3/data/credit/raw/5930a10eaf62b607.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07",
+      "source_path": "research/phase3/data/credit/raw/6fab1e4a568270a3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07",
+      "source_path": "research/phase3/data/credit/raw/14112913f8f8fbc2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07",
+      "source_path": "research/phase3/data/credit/raw/6fab1e4a568270a3.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10",
+      "source_path": "research/phase3/data/credit/raw/74b28ce71d10e5a8.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10",
+      "source_path": "research/phase3/data/credit/raw/6253d59ba3c19d6a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10",
+      "source_path": "research/phase3/data/credit/raw/a6eaa83f45ef54f0.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10",
+      "source_path": "research/phase3/data/credit/raw/6253d59ba3c19d6a.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01",
+      "source_path": "research/phase3/data/credit/raw/2378e9606c527e6b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01",
+      "source_path": "research/phase3/data/credit/raw/188f46b6162fe602.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01",
+      "source_path": "research/phase3/data/credit/raw/f28eba4699a0cccc.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01",
+      "source_path": "research/phase3/data/credit/raw/188f46b6162fe602.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04",
+      "source_path": "research/phase3/data/credit/raw/c685e0ebb0421b75.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04",
+      "source_path": "research/phase3/data/credit/raw/b462055b85b72cca.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04",
+      "source_path": "research/phase3/data/credit/raw/110d210abf085612.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04",
+      "source_path": "research/phase3/data/credit/raw/b462055b85b72cca.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07",
+      "source_path": "research/phase3/data/credit/raw/5fbdd499e7e5cb3c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07",
+      "source_path": "research/phase3/data/credit/raw/543355699458571d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07",
+      "source_path": "research/phase3/data/credit/raw/382c65f9759ba61a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07",
+      "source_path": "research/phase3/data/credit/raw/543355699458571d.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10",
+      "source_path": "research/phase3/data/credit/raw/8d2b51ad151f42fb.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10",
+      "source_path": "research/phase3/data/credit/raw/050e8d198a70e470.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10",
+      "source_path": "research/phase3/data/credit/raw/63029d32609ec490.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10",
+      "source_path": "research/phase3/data/credit/raw/050e8d198a70e470.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01",
+      "source_path": "research/phase3/data/credit/raw/cdc3fecb59019f2a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01",
+      "source_path": "research/phase3/data/credit/raw/a8f8cfbe30041f93.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01",
+      "source_path": "research/phase3/data/credit/raw/f8f7d1108e7bfd1f.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01",
+      "source_path": "research/phase3/data/credit/raw/a8f8cfbe30041f93.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04",
+      "source_path": "research/phase3/data/credit/raw/c8dd17d70c8f6eaa.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04",
+      "source_path": "research/phase3/data/credit/raw/8cbe85d9f96ac626.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04",
+      "source_path": "research/phase3/data/credit/raw/f8ad38ac666a7fef.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04",
+      "source_path": "research/phase3/data/credit/raw/8cbe85d9f96ac626.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07",
+      "source_path": "research/phase3/data/credit/raw/0ab3d37a12282e84.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07",
+      "source_path": "research/phase3/data/credit/raw/d84d89b3ae24a74e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07",
+      "source_path": "research/phase3/data/credit/raw/043dd8ff6dc5d00b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07",
+      "source_path": "research/phase3/data/credit/raw/d84d89b3ae24a74e.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10",
+      "source_path": "research/phase3/data/credit/raw/0dcd993aa2a2baab.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10",
+      "source_path": "research/phase3/data/credit/raw/083f0cbf461ccb67.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10",
+      "source_path": "research/phase3/data/credit/raw/e9858479a5dd361a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10",
+      "source_path": "research/phase3/data/credit/raw/083f0cbf461ccb67.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01",
+      "source_path": "research/phase3/data/credit/raw/a5fc10d068b9267a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01",
+      "source_path": "research/phase3/data/credit/raw/e82cc71426048f82.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01",
+      "source_path": "research/phase3/data/credit/raw/336ad3a688f3fa78.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01",
+      "source_path": "research/phase3/data/credit/raw/e82cc71426048f82.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04",
+      "source_path": "research/phase3/data/credit/raw/df3527c959317e27.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04",
+      "source_path": "research/phase3/data/credit/raw/b5f51cb4b773e04c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04",
+      "source_path": "research/phase3/data/credit/raw/2edf3fd182d0079e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04",
+      "source_path": "research/phase3/data/credit/raw/b5f51cb4b773e04c.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07",
+      "source_path": "research/phase3/data/credit/raw/7a0380a2a9ba84c2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07",
+      "source_path": "research/phase3/data/credit/raw/4b41852a54378096.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07",
+      "source_path": "research/phase3/data/credit/raw/3f72475c961dd8a2.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07",
+      "source_path": "research/phase3/data/credit/raw/4b41852a54378096.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10",
+      "source_path": "research/phase3/data/credit/raw/6a6fc911a0d35998.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10",
+      "source_path": "research/phase3/data/credit/raw/f40ba3907bea794e.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10",
+      "source_path": "research/phase3/data/credit/raw/05a7f944862f2717.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10",
+      "source_path": "research/phase3/data/credit/raw/f40ba3907bea794e.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01",
+      "source_path": "research/phase3/data/credit/raw/761b68ec85f4fd5c.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01",
+      "source_path": "research/phase3/data/credit/raw/5dc9f5bd18fa4dac.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01",
+      "source_path": "research/phase3/data/credit/raw/dbe94a5956098b69.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04",
+      "source_path": "research/phase3/data/credit/raw/6a8db25f18031a2d.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04",
+      "source_path": "research/phase3/data/credit/raw/88c0b59e60564047.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04",
+      "source_path": "research/phase3/data/credit/raw/69532752988c2a8f.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07",
+      "source_path": "research/phase3/data/credit/raw/88cd933bc911bfb9.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07",
+      "source_path": "research/phase3/data/credit/raw/f2954546327f277b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07",
+      "source_path": "research/phase3/data/credit/raw/abfe6482067fc328.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10",
+      "source_path": "research/phase3/data/credit/raw/30f3f2e88f67b619.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10",
+      "source_path": "research/phase3/data/credit/raw/5dbc772f77308470.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10",
+      "source_path": "research/phase3/data/credit/raw/be1bdc5c3040abd5.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01",
+      "source_path": "research/phase3/data/credit/raw/26f8ac12ab9252f5.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01",
+      "source_path": "research/phase3/data/credit/raw/7aa463c639f8fbf3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01",
+      "source_path": "research/phase3/data/credit/raw/31e7700dd9e8ca56.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04",
+      "source_path": "research/phase3/data/credit/raw/4a6620d728e1bd93.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04",
+      "source_path": "research/phase3/data/credit/raw/fa587469fabd9ef9.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04",
+      "source_path": "research/phase3/data/credit/raw/d12e4c3575f193c5.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07",
+      "source_path": "research/phase3/data/credit/raw/c7b43163584f08dd.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07",
+      "source_path": "research/phase3/data/credit/raw/5c7b553db8ee12b0.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07",
+      "source_path": "research/phase3/data/credit/raw/f4efb437941bcb64.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10",
+      "source_path": "research/phase3/data/credit/raw/bfa6ea1b54017dd3.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10",
+      "source_path": "research/phase3/data/credit/raw/76687896799b3a1b.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10",
+      "source_path": "research/phase3/data/credit/raw/75b42e5be0ec129a.bin"
+    },
+    {
+      "check": "nested_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10",
+      "source_path": "research/phase3/data/credit/raw/76687896799b3a1b.bin"
+    },
+    {
+      "check": "stated_or_bound_not_after_available",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    },
+    {
+      "check": "official_cover_date_and_2pm",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    }
+  ],
+  "effective_sample_assessment": {
+    "n_effective": null,
+    "notes": "Quarterly surveys overlap bank respondents and lending cycle; serial/global regime dependence. Credit records are source releases, not independent investments.",
+    "year_clusters": 22
+  },
+  "failed": 0,
+  "independence": "Same-author source integrity QA; independent parent QA still required.",
+  "published_precision_counts": {
+    "DATE_ONLY_CONSERVATIVE_UPPER_BOUND": 7,
+    "OFFICIAL_RELEASE_STATEMENT_MINUTE": 78,
+    "UNKNOWN": 19
+  },
+  "raw_observations": 104,
+  "status": "PASS"
+}

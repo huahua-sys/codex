@@ -1,0 +1,56 @@
+{
+  "MDD": "same primary gross economic daily-close measure in both sides, not net fixed-allocation MDD",
+  "bootstrap": {
+    "independent_n": null,
+    "replicates": 500,
+    "seed": 20261009,
+    "unit": "joint two-calendar-year blocks"
+  },
+  "credit_interaction": "Original gate remains NOT_RUN_GATE_FAILED; these are single-variable controls, not an alternative credit+drawdown strategy",
+  "equity_classes": [
+    "Broad",
+    "Growth",
+    "Technology",
+    "Semiconductor",
+    "Financials_Banks",
+    "Industrials",
+    "Consumer",
+    "Healthcare",
+    "Energy_Resources",
+    "Utilities"
+  ],
+  "horizons": [
+    "12m",
+    "24m"
+  ],
+  "hypothesis_id": "H-P3-MATCHED-CONTROLS-v001",
+  "matching": "Only quarters with both groups. Difference of equal-asset group means within that exact quarter and stratum, then equal quarters. No outcome used to match. Singleton/no-opposite strata explicitly unavailable.",
+  "multiple_testing": "4 variables x 2 horizons x all fixed strata; exploratory, no promotion based on lucky cell",
+  "new_labels_or_probabilities": 0,
+  "no_threshold_or_period_changes": true,
+  "paired_SPY_residual": "For US equities only SAME_EXECUTION benchmark labels; still not beta/volatility-risk-matched alpha.",
+  "registered_at": "2026-10-09T06:00:08.761833+00:00",
+  "sources": {
+    "research/phase3/analysis/development.lock.v001.json": "07b019be46180ec8bfd35115e3165f2492a34f013816e86af004d98e1a57dbc5",
+    "research/phase3/analysis/holdout.lock.v001.json": "3b56dcf002f4f341437a0b0f34ac336e05c3e99331b72c23b59bdf2fb01a18bc",
+    "research/phase3/features/decision_points.v001.json": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+    "research/phase3/labels/development.v001.json": "5e3e07c0f95fa374e4146545f21faf6950d5c496bf1c7cf34a8825f2d357cd37",
+    "research/phase3/labels/holdout.v001.json": "a3dee7c7c4d83eb1bd0dd845925d532c39080436616f52f14b4ee6b1a8c6bcbd",
+    "scripts/phase3_analyze.py": "cd2e453a8c3c259a6e566dcf2762f9ec2903f65c9f66fd490f049363210afe49",
+    "scripts/phase3_matched_controls.py": "b7bdabc8aac3597154fec8b4dcf3d3fc6f6a2158b48738a393f2fd6bbef39004"
+  },
+  "stage": "EXPLORATORY_FALSIFICATION_AFTER_ALL_MAIN_RESULTS_KNOWN",
+  "strata": "market x currency x economic class x return basis, never across incompatible local returns",
+  "treasury_class": [
+    "IEF",
+    "TLT",
+    "SHY"
+  ],
+  "variables": [
+    "H-P3-TREND",
+    "H-P3-DRAWDOWN",
+    "H-P3-VOL",
+    "H-P3-CREDIT"
+  ],
+  "why": "Raw drawdown mean advantage shrank after date weighting; high-vol24m interval can reflect composition, common regimes or risk premium. Attack by within-quarter class contrasts, no parameter changes."
+}

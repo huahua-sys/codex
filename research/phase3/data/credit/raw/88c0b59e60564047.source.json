@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:39:01.632655+00:00",
+  "content_type": "text/html",
+  "final_url": "https://www.federalreserve.gov/newsevents/2024-may.htm",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos/sloos-202404.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "historical_release_calendar",
+  "source_path": "research/phase3/data/credit/raw/88c0b59e60564047.bin",
+  "source_sha256": "c010dafa83c7a448dc126571975a0012495a269abd0d884224092b25ec530966",
+  "url": "https://www.federalreserve.gov/newsevents/2024-may.htm"
+}

@@ -1,0 +1,284 @@
+{
+  "batch_role": "NEW_LABELS_COMPUTATIONAL_HOLDOUT_NOT_PROSPECTIVE",
+  "cutoff_dates": [
+    "2025-09-30"
+  ],
+  "episodes": [
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-001",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-002",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-003",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-004",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-005",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-006",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-007",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-008",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-009",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-010",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-011",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-012",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-013",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-014",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-015",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-016",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-017",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_RECENT-018",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    }
+  ],
+  "missing_policy": "KEEP_ROW_AND_REPORT_UNRESOLVED_DATA_NO_REPLACEMENT",
+  "round_id": "NIGHT_RECENT",
+  "selection_inspects_outcomes": false,
+  "selection_method": "FIXED_CALENDAR_FULL_GRID",
+  "universe": [
+    {
+      "asset_id": "SPY",
+      "inception_date": "1993-01-29",
+      "market": "US"
+    },
+    {
+      "asset_id": "HSI",
+      "inception_date": "1969-11-24",
+      "market": "HK"
+    },
+    {
+      "asset_id": "N225",
+      "inception_date": "1950-09-07",
+      "market": "JP"
+    },
+    {
+      "asset_id": "XLK",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "SOXX",
+      "inception_date": "2001-07-10",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLF",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLE",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLI",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLY",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLV",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLU",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "QQQ",
+      "inception_date": "1999-03-10",
+      "market": "US"
+    },
+    {
+      "asset_id": "IEF",
+      "inception_date": "2002-07-22",
+      "market": "US"
+    },
+    {
+      "asset_id": "GLD",
+      "inception_date": "2004-11-18",
+      "market": "US"
+    },
+    {
+      "asset_id": "UUP",
+      "inception_date": "2007-02-20",
+      "market": "US"
+    },
+    {
+      "asset_id": "SSE",
+      "inception_date": "1991-07-15",
+      "market": "CN"
+    },
+    {
+      "asset_id": "CSI300",
+      "inception_date": "2005-04-08",
+      "market": "CN"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "inception_date": "2010-06-01",
+      "market": "CN"
+    }
+  ]
+}

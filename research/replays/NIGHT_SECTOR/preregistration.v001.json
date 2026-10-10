@@ -1,0 +1,36 @@
+{
+  "batch_id": "NIGHT_SECTOR",
+  "biases": [
+    "Current historical quote vintage; original corrections unknown",
+    "Rule designed today, not cognitively blind",
+    "Surviving fixed ETF/index universe",
+    "Annual overlapping 24m labels and shared calendar clusters",
+    "No historical valuation, analyst expectations, breadth or security-level fundamentals"
+  ],
+  "cash_assumption": "0% local currency, NOT observed cash; separate USD cash study later",
+  "context_role": "Background only; official releases never change the frozen trend rule.",
+  "cost_bps_roundtrip": 50,
+  "created_at": "2026-10-08T16:17:39.785381+00:00",
+  "new_batch_rejects": "No asset/date parameter branches, no outcome-directed replacement",
+  "next_cycle_evaluation": "Frozen 0.5/0.6 probability baselines; always-up direction; fixed long buyhold; no tuning",
+  "p_up": {
+    "mixed": 0.5,
+    "negative": 0.4,
+    "positive": 0.6
+  },
+  "parameter_search_count": 0,
+  "primary_horizon": "12m",
+  "protocol_sha256": "b50fc16fd7ff7fd5ccc1a1768372d29f05aee89a46b98b491a4cf525bbcfd062",
+  "rule": "R002-TREND-PRIOR-v001",
+  "rule_parameters_changed": false,
+  "secondary_horizons": [
+    "1w",
+    "1m",
+    "3m",
+    "6m",
+    "24m"
+  ],
+  "selection_inspects_outcomes": false,
+  "selection_sha256": "5424f2d88bf6702bbe55ec51bf8763a6f86e04e0ea5073eff003f35f37aa795e",
+  "status": "FROZEN_BEFORE_THIS_BATCH_OUTCOMES"
+}

@@ -1,0 +1,636 @@
+{
+  "all_available_at_unchanged": true,
+  "all_values_unchanged": true,
+  "effective_sample_assessment": {
+    "n_effective": null,
+    "notes": "Quarterly surveys overlap bank respondents and lending cycle; serial/global regime dependence. Credit records are source releases, not independent investments.",
+    "year_clusters": 22
+  },
+  "raw_observations": 104,
+  "records": [
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2000_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2000_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2000_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2000_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2001_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2001_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2001_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2001_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2002_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2002_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2002_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2002_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2003_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2003_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2003_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2003_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2004_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2004_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2004_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2004_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2005_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2005_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2005_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2005_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2006_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2006_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2006_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2006_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2007_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "UNKNOWN",
+      "record_id": "SLOOS_ORIGINAL_2007_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2007_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2007_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2008_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2008_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2008_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2008_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2009_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2009_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2009_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2009_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2010_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2010_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2010_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2010_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2011_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2011_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2011_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2011_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2012_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2012_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2012_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2012_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2013_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2013_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2013_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2013_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2014_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2014_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2014_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2014_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2015_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2015_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2015_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2015_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2016_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2016_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2016_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2016_11",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2017_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2017_05",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2017_08",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2017_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2018_02",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2018_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2018_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2018_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2019_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2019_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2019_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2019_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2020_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2020_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2020_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2020_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2021_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2021_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2021_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2021_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2022_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2022_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2022_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2022_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2023_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2023_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2023_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2023_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "DATE_ONLY_CONSERVATIVE_UPPER_BOUND",
+      "record_id": "SLOOS_ORIGINAL_2024_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "DATE_ONLY_CONSERVATIVE_UPPER_BOUND",
+      "record_id": "SLOOS_ORIGINAL_2024_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "DATE_ONLY_CONSERVATIVE_UPPER_BOUND",
+      "record_id": "SLOOS_ORIGINAL_2024_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "DATE_ONLY_CONSERVATIVE_UPPER_BOUND",
+      "record_id": "SLOOS_ORIGINAL_2024_10",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "DATE_ONLY_CONSERVATIVE_UPPER_BOUND",
+      "record_id": "SLOOS_ORIGINAL_2025_01",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "DATE_ONLY_CONSERVATIVE_UPPER_BOUND",
+      "record_id": "SLOOS_ORIGINAL_2025_04",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "DATE_ONLY_CONSERVATIVE_UPPER_BOUND",
+      "record_id": "SLOOS_ORIGINAL_2025_07",
+      "value_unchanged": true
+    },
+    {
+      "available_at_unchanged": true,
+      "published_at_precision": "OFFICIAL_RELEASE_STATEMENT_MINUTE",
+      "record_id": "SLOOS_ORIGINAL_2025_10",
+      "value_unchanged": true
+    }
+  ]
+}

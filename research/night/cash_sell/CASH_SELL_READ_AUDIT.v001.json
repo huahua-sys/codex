@@ -1,0 +1,13 @@
+{
+  "cycle_id": "NIGHT-CASH-SELL-v001",
+  "first_real_data_read_authorized_at": "2026-10-08T16:31:04.470222+00:00",
+  "lock_sha256": "5aa6db77d7ca6b025ff6450aa5c39e0f0b7eaa95700430958030d31d6b9a0eef",
+  "preregistration_sha256": "356f2465d44e4d1ae3700fed1ad9501ad44dca44471b1bdb187660463dd5116d",
+  "reconstruction_not_old_rescoring": true,
+  "source_bundle_sha256": {
+    "BIL": "47d1a9dc7657afea42f5dbe0d39abff0a3ccb5a1e2d7d466105fcb8983d800eb",
+    "SPY": "b8fd3fcd5434381c8e8c15f81f92e5441b972a7843085e7242c88c97bcf4c874"
+  },
+  "stage_b_ready_path": "research/replays/ROUND_002_V003/run/evaluation_summary.v001.json",
+  "stage_b_ready_sha256": "f025a48997ad9e113ec06bbaf08bf34057176e7de8dcfc289fe0e498f4e765f5"
+}

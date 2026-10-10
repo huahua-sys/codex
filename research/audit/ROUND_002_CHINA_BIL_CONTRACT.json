@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-10-08T16:18:57.049662+00:00",
+  "scope": "provider identifiers/session and schema only; no forward outcomes",
+  "checks": [
+    {
+      "asset_id": "BIL",
+      "status": "PASS_CONTRACT",
+      "symbol": "BIL",
+      "provider_currency": "USD",
+      "provider_timezone": "America/New_York",
+      "provider_quote_type": "ETF",
+      "provider_current_long_name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+      "names_not_used_as_historical_features": true,
+      "first_date": "2007-05-30",
+      "last_date": "2026-10-07",
+      "rows": 4871,
+      "dividend_count": 128,
+      "split_count": 1,
+      "total_return_eligible": true
+    },
+    {
+      "asset_id": "CSI300",
+      "status": "PASS_CONTRACT",
+      "symbol": "000300.SS",
+      "provider_currency": "CNY",
+      "provider_timezone": "Asia/Shanghai",
+      "provider_quote_type": "INDEX",
+      "provider_current_long_name": "CSI 300 Index",
+      "names_not_used_as_historical_features": true,
+      "first_date": "2026-10-08",
+      "last_date": "2026-10-08",
+      "rows": 1,
+      "dividend_count": 0,
+      "split_count": 0,
+      "total_return_eligible": false
+    },
+    {
+      "asset_id": "SSE",
+      "status": "PASS_CONTRACT",
+      "symbol": "000001.SS",
+      "provider_currency": "CNY",
+      "provider_timezone": "Asia/Shanghai",
+      "provider_quote_type": "INDEX",
+      "provider_current_long_name": "SSE Composite Index",
+      "names_not_used_as_historical_features": true,
+      "first_date": "2010-01-04",
+      "last_date": "2026-09-30",
+      "rows": 4063,
+      "dividend_count": 0,
+      "split_count": 0,
+      "total_return_eligible": false
+    },
+    {
+      "asset_id": "CHINEXT",
+      "status": "PASS_CONTRACT",
+      "symbol": "399006.SZ",
+      "provider_currency": "CNY",
+      "provider_timezone": "Asia/Shanghai",
+      "provider_quote_type": "INDEX",
+      "provider_current_long_name": "ChiNext",
+      "names_not_used_as_historical_features": true,
+      "first_date": "2026-10-08",
+      "last_date": "2026-10-08",
+      "rows": 1,
+      "dividend_count": 0,
+      "split_count": 0,
+      "total_return_eligible": false
+    }
+  ]
+}

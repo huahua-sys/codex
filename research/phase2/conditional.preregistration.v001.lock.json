@@ -1,0 +1,16 @@
+{
+  "hash_does_not_prove_historical_blindness": true,
+  "locked_at": "2026-10-09T00:16:32.251774+00:00",
+  "preregistration_sha256": "aece92f58b7e87078d00c7ffa7f196ec27dd1117174131dd7fe56cf4465df023",
+  "source_and_code_sha256": {
+    "data/raw/round_002/market/BIL.canonical.json": "47d1a9dc7657afea42f5dbe0d39abff0a3ccb5a1e2d7d466105fcb8983d800eb",
+    "data/raw/round_002/market/IEF.canonical.json": "a7c4676d7b929d22b5d29687d0c9740c25206aaa5cb507d306a069436e6b17a9",
+    "data/raw/round_002/market/SPY.canonical.json": "b8fd3fcd5434381c8e8c15f81f92e5441b972a7843085e7242c88c97bcf4c874",
+    "data/raw/round_002/official/release_records.json": "c4cb850b6b2450015303cfe0350c2e811315bd6eaa3b2da06c43d595ab35ae93",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "scripts/analyze_cash_and_sell.py": "0c10ac9dbe8077512e0d3b5cd92e840c0c43a5c617d9fcd1a1bdac9604c272d4",
+    "scripts/phase2_benchmarks.py": "f1018fcd6716235693207a1f9f23951e01ba9a9babbca8bf26c37f73e5153f3a",
+    "scripts/phase2_conditional.py": "d31c9251707965698ac8f58338a3fd9fdd9b179c252521e19d157346dbf253f3"
+  },
+  "trusted_external_timestamp": false
+}

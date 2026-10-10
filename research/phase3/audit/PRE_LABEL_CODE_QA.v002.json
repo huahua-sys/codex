@@ -1,0 +1,69 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "explanation": "Pre-label content integrity and engineering checks do not add investment samples. Old43 dates/23years remain dependent.",
+    "n_effective": null
+  },
+  "RAW OBSERVATIONS": {
+    "admin_action_proof_records": 1,
+    "immutable_prior_files_checked": 3366,
+    "old_forecasts": 377,
+    "old_mature12m": 374,
+    "real_new_labels_read": 0
+  },
+  "action_admission_hash_checks": [
+    {
+      "asset_id": "QQQ",
+      "canonical_sha_matches": true,
+      "proof_used_only_admin": true,
+      "source_sha_matches": true
+    }
+  ],
+  "additional_synthetic_checks": {
+    "complete_same_execution_pair_accepted": true,
+    "different_internal_session_sequence_rejected": true,
+    "missing_both_session_count_rejected": true,
+    "missing_both_session_hash_rejected": true
+  },
+  "audit_id": "PHASE3_PRE_LABEL_CODE_QA_V002",
+  "fixed_benchmark_review": "Same-helper single_asset_path comparable net return and comparable net NAV MDD saved separately; residual uses that comparable asset return against same-helper fixed portfolios. Primary label unchanged; entry/exit and complete execution sequence SHA must match; primary grossMDD and fixed netNAVMDD are not treated as equivalent.",
+  "operative_framework_field_equality": {
+    "candidate_principles": true,
+    "industry_specific_rules": true,
+    "live_signal_generation_enabled": true,
+    "price_in_checks": true,
+    "regime_rules": true,
+    "risk_signals": true,
+    "sell_signals": true,
+    "signals_to_monitor": true,
+    "validated_principles": true
+  },
+  "prior_immutable_integrity": {
+    "all_original_CP_EXP_and_A_B_locks_inputs_sources_code_unchanged": true,
+    "authorized_mutable_exceptions": "Root permanent memory documents/framework research counts can be updated under Phase3 user authorization; they were stored separately as mutable_memory_baseline_not_frozen. This does not waive any old StageA/B/locks/input/source/code change.",
+    "changed_or_missing": []
+  },
+  "reviewed_at": "2026-10-09T05:42:06.768557+00:00",
+  "reviewed_code_sha256": {
+    "scripts/phase3_analyze.py": "cd2e453a8c3c259a6e566dcf2762f9ec2903f65c9f66fd490f049363210afe49",
+    "scripts/phase3_panel.py": "5aacbe44af0a22f8f7d40abacb75b1304762a25f200170f94b0e4933d1e2b198"
+  },
+  "scientific_caveats": [
+    "Prior historical paths already exposed, including development outcomes extending into later years.",
+    "Nonoverlap lists are partition-internal and across-asset common-shock dependence remains.",
+    "Group differences are marginal date-equal observations rather than matched alpha or causal effects.",
+    "Gate and interaction share development data; any surviving combination stays exploratory.",
+    "All source prices remain current provider reconstruction, not original historical vendor snapshot; conditional cash dividend reinvestment and survivor limitations remain."
+  ],
+  "status": "PASS_PRE_LABEL_ENGINEERING_WITH_SCIENTIFIC_LIMITATIONS",
+  "supersedes": "ENGINEERING_STATIC_SYNTHETIC_QA.v001.json defensive missing benchmark SHA finding resolved before panel registration",
+  "synthetic_result": {
+    "checks": [
+      "cutoff rejection",
+      "split-neutral wealth and volatility",
+      "same-execution benchmark rejection",
+      "credit publication rejection and no overseas transplant"
+    ],
+    "real_market_labels_read": false,
+    "status": "SYNTHETIC_ENGINEERING_ONLY_PASS"
+  }
+}

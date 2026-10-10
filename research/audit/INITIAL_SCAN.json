@@ -1,0 +1,36 @@
+{
+  "audit_id": "AUD-001",
+  "observed_at": "2026-10-08T07:21:50.316738+00:00",
+  "scope": "/workspace excluding newly generated investment-research-lab; exact attachment file",
+  "external_source_queries": 0,
+  "workspace": {
+    "directories": [
+      "/workspace/.agents",
+      "/workspace/.aws",
+      "/workspace/.codex",
+      "/workspace/.git",
+      "/workspace/library-files",
+      "/workspace/scratch",
+      "/workspace/shared",
+      "/workspace/shared/downloads"
+    ],
+    "files": [],
+    "symlinks": [],
+    "errors": []
+  },
+  "attachment": {
+    "source_id": "SRC-001",
+    "path": "/tmp/codex-remote-attachments/01a11a5d-5dfc-702a-89f7-c4b07b4bb0af/391ce631-62e6-49db-9d97-4fb44511dace/1-Codex_Investment_Research_Lab_Master_Prompt_v3.md",
+    "artifact_type": "instruction_prompt",
+    "size_bytes": 27597,
+    "sha256": "4d165d66b77d021325b9c96909433d044f10b818b8cf74796bfb205c2e0c13bb",
+    "encoding": "UTF-8",
+    "observational_records": 0,
+    "market_coverage": [],
+    "historical_year_coverage": [],
+    "historical_publication_timestamp": null,
+    "point_in_time_eligible": false
+  },
+  "finding": "NO_OBSERVATIONAL_DATA",
+  "metadata_note": "Filesystem timestamps and this audit timestamp are not historical publication evidence."
+}

@@ -1,0 +1,47 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "completed_real_month_clusters": 0,
+    "independent_real_n": null,
+    "notes": [
+      "Appointments and synthetic engineering tests are not historical or forward investment observations.",
+      "Future monthly horizons overlap; seven assets share shocks; no externally witnessed timestamps or scheduler."
+    ]
+  },
+  "RAW OBSERVATIONS": {
+    "frozen_safety_checks": 14,
+    "mature_forward_labels": 0,
+    "old_immutable_files_verified": 3366,
+    "pending_asset_slots": 168,
+    "pending_months": 24,
+    "probability_forecasts": 0,
+    "real_captures": 0,
+    "real_decisions": 0,
+    "synthetic_selftest_checks": 13
+  },
+  "actual_early_capture_rejection_verified_from_locked_evidence": true,
+  "audit_code_sha256": "81576db5242684b5f23723a7dd2b3deb5667c77913c2aa52f3b9ba00ec71d1c2",
+  "audit_id": "PHASE3_FORWARD_V002_FINAL_QA_V008",
+  "features_independent_numpy_parity": {
+    "drawdown252": true,
+    "r252_known_action_wealth": true,
+    "vol252": true,
+    "vol252_prior252_median": true
+  },
+  "limitations": [
+    "Per-market observed sessions use normal clocks rather than full exchange calendars.",
+    "ETF return remains conditional provider-reported ex-date reinvestment, with fixed 50bp assumption.",
+    "No live probability forecasts, trades, calibration evidence, local foreign-market cash or FX comparators.",
+    "Current-retained historical provider history is not an original historical vendor vintage."
+  ],
+  "missing_session_proofs_fail_closed": true,
+  "old_immutable_changed": [],
+  "operative_9_fields_equal_to_phase2": true,
+  "registration_dependency_hashes_verified": 15,
+  "registration_lock_sha256": "734aeea00078b64851683784b15a05e899ae7c71f9df350fa0c5797d030fef10",
+  "reviewed_at": "2026-10-09T15:41:14.219226+00:00",
+  "same_endpoints_different_valid_internal_session_sequences_rejected": true,
+  "script_sha256": "55fc9261a9cbdc6628407cd31c0f8ce83751e9e058cb643d0ac83499d19585b0",
+  "status": "PASS",
+  "strict_505_price_endpoint_504_unknown": true,
+  "v001_preserved_and_not_activated": true
+}

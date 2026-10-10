@@ -1,0 +1,118 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_EARLY-001": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-001.input.v001.json",
+      "sha256": "7c3f055929d322b50b93d8d8d82f8864a7f06b6f15f4c339b50aea6a4f6b76de"
+    },
+    "NIGHT_EARLY-002": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-002.input.v001.json",
+      "sha256": "45504fc84b4fdbe50fc1f3818c7fb7a763b74d6054e841d139d2c0ca2eb871e2"
+    },
+    "NIGHT_EARLY-003": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-003.input.v001.json",
+      "sha256": "a551601985acd885e7e4144e297db02f270135f381617c14dab39f3207b90ad8"
+    },
+    "NIGHT_EARLY-004": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-004.input.v001.json",
+      "sha256": "59ef4c8a84c9321fdeb9a1eb8e01c5357e9eb1a47a5957e37e204edb39042b8a"
+    },
+    "NIGHT_EARLY-005": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-005.input.v001.json",
+      "sha256": "5283282aa5c88f8d03bc8ec9dbcc567d15410f999d4f121cb2a1b8d9b17a26fa"
+    },
+    "NIGHT_EARLY-006": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-006.input.v001.json",
+      "sha256": "8deb366fc58a3dae0e1064f415a8672f80cc519300c76debab6249e5c0eebb7a"
+    },
+    "NIGHT_EARLY-007": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-007.input.v001.json",
+      "sha256": "ac373db859eda12cbd8b8d1ba7f9a80a3f1c72ac43c0a19e2b09e49b05ebd0e6"
+    },
+    "NIGHT_EARLY-008": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-008.input.v001.json",
+      "sha256": "5f7006ee81616d12624df425a657e943aebcbe3869a07230d38358a053300cb5"
+    },
+    "NIGHT_EARLY-009": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-009.input.v001.json",
+      "sha256": "4a94b908ca3ad4b036166e61543f29ca4ca0cd332cc68ade480111f7c0ac7818"
+    },
+    "NIGHT_EARLY-010": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-010.input.v001.json",
+      "sha256": "7062aa6013d68fe4ac345405fad3ea1d9dc6596848abb5d810210a1dda711a53"
+    },
+    "NIGHT_EARLY-011": {
+      "cutoff_at": "2003-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-011.input.v001.json",
+      "sha256": "42a896ab2ccf80d1dff0812c11d0ca803820c64cb2e07a22a9155b6db907ae83"
+    },
+    "NIGHT_EARLY-012": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-012.input.v001.json",
+      "sha256": "62e8f12a9bff4db520c15d4fde7282436e2d0aa11a93265052fc1e880da87ec0"
+    },
+    "NIGHT_EARLY-013": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-013.input.v001.json",
+      "sha256": "ec5f49f8af1f68293e0da8de509224d0a37b81a583439af73ce5cb5716c561e2"
+    },
+    "NIGHT_EARLY-014": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-014.input.v001.json",
+      "sha256": "83b5a120197556672449cd7d6bf67f4d8666649f7b6f123e023eaf6150dae27b"
+    },
+    "NIGHT_EARLY-015": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-015.input.v001.json",
+      "sha256": "879e5500be1fdf82436ea65c35517b7aaf321cc76fcfb8ddd44b627bbeb6f898"
+    },
+    "NIGHT_EARLY-016": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-016.input.v001.json",
+      "sha256": "c641c8d6ee84ae5314afd88e95fa38704d855642149af438faa150b6279dafa0"
+    },
+    "NIGHT_EARLY-017": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-017.input.v001.json",
+      "sha256": "e4373c8cd645afb6d656617012140a4e609c42a61a57754c92c3891af8677ba3"
+    },
+    "NIGHT_EARLY-018": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-018.input.v001.json",
+      "sha256": "5aaf0d758d943cd3ec27ff3ee50591b8440aa1ca81dd8d29608872e414762daa"
+    },
+    "NIGHT_EARLY-019": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-019.input.v001.json",
+      "sha256": "3e4317518c80340134c8108d166cd5561d2be234cedd3b5f0cc50129721b36d1"
+    },
+    "NIGHT_EARLY-020": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-020.input.v001.json",
+      "sha256": "e5e08eaf61a31a776b7a4ba03732c5fd4f8acd583acea06f067affd2ffdc0860"
+    },
+    "NIGHT_EARLY-021": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-021.input.v001.json",
+      "sha256": "30d86fd9782c2223a0b6b868d306ce723844c26ce7a333fc5bcfb20ecfe9a39e"
+    },
+    "NIGHT_EARLY-022": {
+      "cutoff_at": "2004-09-30T23:59:59+00:00",
+      "path": "NIGHT_EARLY-022.input.v001.json",
+      "sha256": "b9cc7475d6aef3dd70cdba74c8015b6e630b37da900b0eae47c7ed97b691ab7b"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "6db9e3cca07f5e8948c3492bd7c95433d65391b6ec0ec9dcf5270406c3e1177a",
+  "source_bundle_sha256": "13f24d9a62719fdc99e18361012ba96644653120682a3e5ba925389069bc026d"
+}

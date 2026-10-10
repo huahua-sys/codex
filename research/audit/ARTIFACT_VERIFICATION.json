@@ -1,0 +1,261 @@
+{
+  "observed_at": "2026-10-08T07:34:49.836811+00:00",
+  "scope": "ROUND_001 initialization: artifact completeness, source provenance and internal consistency only; no empirical investment validation. Fixed zero empirical counts do not apply to later rounds.",
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "required_artifacts",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "json_parse",
+      "passed": true,
+      "detail": [
+        "CURRENT_FRAMEWORK.json",
+        "data/manifests/SOURCE_MANIFEST.json",
+        "research/audit/INITIAL_SCAN.json"
+      ]
+    },
+    {
+      "check": "framework_required_fields",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "no_unearned_validated_principles",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "no_unregistered_active_hypotheses",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "live_signals_disabled",
+      "passed": true,
+      "detail": false
+    },
+    {
+      "check": "no_untested_operational_signals",
+      "passed": true,
+      "detail": [
+        "regime_rules",
+        "industry_specific_rules",
+        "signals_to_monitor",
+        "sell_signals",
+        "risk_signals",
+        "price_in_checks"
+      ]
+    },
+    {
+      "check": "candidate_records",
+      "passed": true,
+      "detail": [
+        "CP-001",
+        "CP-002",
+        "CP-003",
+        "CP-004",
+        "CP-005",
+        "CP-006",
+        "CP-007",
+        "CP-008",
+        "CP-009",
+        "CP-010",
+        "CP-011",
+        "CP-012",
+        "CP-013",
+        "CP-014",
+        "CP-015"
+      ]
+    },
+    {
+      "check": "experiment_records",
+      "passed": true,
+      "detail": [
+        "EXP-001",
+        "EXP-002",
+        "EXP-003",
+        "EXP-004",
+        "EXP-005",
+        "EXP-006",
+        "EXP-007",
+        "EXP-008",
+        "EXP-009",
+        "EXP-010",
+        "EXP-011",
+        "EXP-012",
+        "EXP-013",
+        "EXP-014",
+        "EXP-015"
+      ]
+    },
+    {
+      "check": "framework_candidate_count",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "check": "framework_candidate_ids",
+      "passed": true,
+      "detail": [
+        "CP-007",
+        "CP-012",
+        "CP-001",
+        "CP-002",
+        "CP-011",
+        "CP-005",
+        "CP-004",
+        "CP-003",
+        "CP-009",
+        "CP-014",
+        "CP-006",
+        "CP-013",
+        "CP-010",
+        "CP-008",
+        "CP-015"
+      ]
+    },
+    {
+      "check": "all_candidates_untested",
+      "passed": true,
+      "detail": "Zero evidence and explicit origin required"
+    },
+    {
+      "check": "candidate_ranking_unique",
+      "passed": true,
+      "detail": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "check": "heuristic_scores_recompute",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "heuristic_tie_break_order",
+      "passed": true,
+      "detail": [
+        "CP-007",
+        "CP-012",
+        "CP-001",
+        "CP-002",
+        "CP-011",
+        "CP-005",
+        "CP-004",
+        "CP-003",
+        "CP-009",
+        "CP-014",
+        "CP-006",
+        "CP-013",
+        "CP-010",
+        "CP-008",
+        "CP-015"
+      ]
+    },
+    {
+      "check": "registry_hypotheses_15",
+      "passed": true,
+      "detail": [
+        "H-001",
+        "H-002",
+        "H-003",
+        "H-004",
+        "H-005",
+        "H-006",
+        "H-007",
+        "H-008",
+        "H-009",
+        "H-010",
+        "H-011",
+        "H-012",
+        "H-013",
+        "H-014",
+        "H-015"
+      ]
+    },
+    {
+      "check": "candidate_framework_paths",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "empirical_counts_zero",
+      "passed": true,
+      "detail": {
+        "empirical_sources": 0,
+        "completed_replays": 0,
+        "locked_predictions": 0,
+        "revealed_outcomes": 0,
+        "completed_statistical_experiments": 0,
+        "replay_discovered_candidates": 0,
+        "proposed_candidate_designs": 15,
+        "experiment_designs": 15,
+        "validated_principles": 0
+      }
+    },
+    {
+      "check": "round_is_blocked",
+      "passed": true,
+      "detail": {
+        "id": "ROUND_001",
+        "date": "2026-10-08",
+        "status": "BLOCKED_DATA_REQUIRED",
+        "ex_ante_judgment_locked": false,
+        "future_labels_revealed": false,
+        "actual_outcome": null,
+        "calibration_result": null,
+        "record_path": "research/replays/ROUND_001_BLOCKED.md",
+        "execution_boundary": "STOP_AFTER_INITIAL_AUDIT_INFRASTRUCTURE_DESIGN_AND_VERIFICATION"
+      }
+    },
+    {
+      "check": "instruction_source_hash",
+      "passed": true,
+      "detail": "4d165d66b77d021325b9c96909433d044f10b818b8cf74796bfb205c2e0c13bb"
+    },
+    {
+      "check": "initial_workspace_empty",
+      "passed": true,
+      "detail": "Pre-existing workspace contains no observed files or scan errors"
+    },
+    {
+      "check": "prompt_not_empirical_source",
+      "passed": true,
+      "detail": "Generated artifacts are not historical observations"
+    },
+    {
+      "check": "local_markdown_links",
+      "passed": true,
+      "detail": {
+        "checked": 267,
+        "broken": []
+      }
+    },
+    {
+      "check": "fenced_json_valid",
+      "passed": true,
+      "detail": {
+        "checked": 8,
+        "invalid": []
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,564 @@
+{
+  "asset_id": "XLV",
+  "biggest_unknown": "缺少盈利、估值、信用初值和可验证政策执行；趋势延续与反转均可能发生。",
+  "cash_alternative_return": 0.0,
+  "cash_alternative_status": "ASSUMPTION_NOT_OBSERVED_CASH_RETURN",
+  "confidence": "D",
+  "context_state": {
+    "Breadth": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Capital Actions": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Credit": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Earnings": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Industry": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Inflation": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Liquidity": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Macro": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "News": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Policy": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Rates": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Sentiment": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Trend": {
+      "evidence_record_ids": [
+        "YAHOO_CHART_XLV:PRICE:2007-09-28",
+        "YAHOO_CHART_XLV:PRICE:2007-06-29",
+        "YAHOO_CHART_XLV:PRICE:2006-09-27"
+      ],
+      "status": "KNOWN_AT_T",
+      "value": "POSITIVE_TREND"
+    },
+    "Valuation": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    }
+  },
+  "cost_bps_roundtrip": 50.0,
+  "created_at": "2026-10-08T16:18:56.248081+00:00",
+  "currency": "USD",
+  "cutoff_at": "2007-09-30T23:59:59+00:00",
+  "cutoff_timezone": "UTC",
+  "decision": "HYPOTHETICAL_LONG",
+  "direction": "Bull",
+  "episode_id": "NIGHT_SECTOR_V002-023",
+  "execution_rule": "first available session OPEN strictly after cutoff; exit OPEN after N complete sessions; N=5/21/63/126/252/504; no interim rebalance",
+  "exposure": 1,
+  "features": {
+    "actions_used": [
+      "YAHOO_CHART_XLV:DIVIDEND:2002-03-15",
+      "YAHOO_CHART_XLV:DIVIDEND:2002-06-21",
+      "YAHOO_CHART_XLV:DIVIDEND:2002-09-20",
+      "YAHOO_CHART_XLV:DIVIDEND:2002-12-20",
+      "YAHOO_CHART_XLV:DIVIDEND:2003-03-21",
+      "YAHOO_CHART_XLV:DIVIDEND:2003-06-20",
+      "YAHOO_CHART_XLV:DIVIDEND:2003-09-19",
+      "YAHOO_CHART_XLV:DIVIDEND:2003-12-19",
+      "YAHOO_CHART_XLV:DIVIDEND:2004-03-19",
+      "YAHOO_CHART_XLV:DIVIDEND:2004-06-18",
+      "YAHOO_CHART_XLV:DIVIDEND:2004-09-17",
+      "YAHOO_CHART_XLV:DIVIDEND:2004-12-17",
+      "YAHOO_CHART_XLV:DIVIDEND:2005-03-18",
+      "YAHOO_CHART_XLV:DIVIDEND:2005-06-17",
+      "YAHOO_CHART_XLV:DIVIDEND:2005-09-16",
+      "YAHOO_CHART_XLV:DIVIDEND:2005-12-16",
+      "YAHOO_CHART_XLV:DIVIDEND:2006-03-17",
+      "YAHOO_CHART_XLV:DIVIDEND:2006-06-16",
+      "YAHOO_CHART_XLV:DIVIDEND:2006-09-15",
+      "YAHOO_CHART_XLV:DIVIDEND:2006-12-15",
+      "YAHOO_CHART_XLV:DIVIDEND:2007-03-16",
+      "YAHOO_CHART_XLV:DIVIDEND:2007-06-15",
+      "YAHOO_CHART_XLV:DIVIDEND:2007-09-21"
+    ],
+    "annual_volatility_252": 0.10924066937262997,
+    "evidence_record_ids": [
+      "YAHOO_CHART_XLV:PRICE:2007-09-28",
+      "YAHOO_CHART_XLV:PRICE:2007-06-29",
+      "YAHOO_CHART_XLV:PRICE:2006-09-27"
+    ],
+    "formula": "known-action wealth ratios; sample stdev(last252 daily simple returns)*sqrt(252)",
+    "price_rows": 1446,
+    "r252": 0.0839169423441748,
+    "r63": 0.004606347182392279
+  },
+  "fitted": false,
+  "frozen_rule": {
+    "baseline_interpretation": "constant fair-coin and unfitted equity-upward-prior; no selection by outcome",
+    "cash_return_default": 0.0,
+    "cash_status": "ASSUMPTION_NOT_OBSERVED_CASH_RETURN",
+    "confidence": "D",
+    "cost_bps_roundtrip_default": 50.0,
+    "date_asset_specific_logic": false,
+    "features": [
+      "known_action_total_return_63_sessions",
+      "known_action_total_return_252_sessions",
+      "past_252_session_annualized_volatility"
+    ],
+    "fitted": false,
+    "horizon_sessions": {
+      "12m": 252,
+      "1m": 21,
+      "1w": 5,
+      "24m": 504,
+      "3m": 63,
+      "6m": 126
+    },
+    "id": "R002-TREND-PRIOR-v001",
+    "minimum_past_returns": 252,
+    "mixed": {
+      "exposure": 0,
+      "p_up": 0.5,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "scenarios": [
+        0.3,
+        0.4,
+        0.3
+      ]
+    },
+    "model_payoff_vol_multiplier": 1.0,
+    "negative": {
+      "exposure": 0,
+      "p_up": 0.4,
+      "p_up_range": [
+        0.25,
+        0.55
+      ],
+      "scenarios": [
+        0.4,
+        0.4,
+        0.2
+      ]
+    },
+    "parameter_searches": 0,
+    "positive": {
+      "exposure": 1,
+      "p_up": 0.6,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "scenarios": [
+        0.2,
+        0.4,
+        0.4
+      ]
+    },
+    "primary_horizon": "12m",
+    "probability_baselines": [
+      0.5,
+      0.6
+    ],
+    "scenario_band_vol_multiplier": 0.5,
+    "scenario_probability_half_width": 0.15
+  },
+  "fx_return": null,
+  "horizons": {
+    "12m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.021848133874525996,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.054620334686314984,
+      "scenario_threshold_upper": 0.054620334686314984,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.10924066937262997,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.10924066937262997,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 252,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "1m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.006307012986874282,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.015767532467185704,
+      "scenario_threshold_upper": 0.015767532467185704,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.03153506493437141,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.03153506493437141,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 21,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "1w": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.003077507216988979,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.007693768042472447,
+      "scenario_threshold_upper": 0.007693768042472447,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.015387536084944893,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.015387536084944893,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 5,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "24m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.0308979272378977,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.07724481809474425,
+      "scenario_threshold_upper": 0.07724481809474425,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.1544896361894885,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.1544896361894885,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 504,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "3m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.010924066937262998,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.027310167343157492,
+      "scenario_threshold_upper": 0.027310167343157492,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.054620334686314984,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.054620334686314984,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 63,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "6m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.01544896361894885,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.038622409047372123,
+      "scenario_threshold_upper": 0.038622409047372123,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.07724481809474425,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.07724481809474425,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 126,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    }
+  },
+  "implementation_sha256": {
+    "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+    "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+    "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+  },
+  "information_set": "KNOWN_AT_T_ONLY",
+  "input_manifest_sha256": "ea4ea9079f7522068eaa785cc43cb254ed093b9f14efe5d97d8dc716ea1bb584",
+  "input_quality": {
+    "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+    "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+    "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+    "price_basis": "UNADJUSTED",
+    "return_basis": "TOTAL_RETURN",
+    "tradability": "EXCHANGE_TRADED_ETF"
+  },
+  "input_sha256": "d6d1a6b02f80b276522d792d79fc763d8623415b7cf34bbc3b02440e2747e427",
+  "kill_thesis": [
+    "每周复核；若最近63或252个完整已公开时段总回报不再同时为正，则原趋势买入理由失效。",
+    "若数据来源、公司行动、时间证据或可交易性被否定，则暂停，不以未来结果重写原判断。"
+  ],
+  "kill_thesis_execution": "DIAGNOSTIC_ONLY_THIS_ROUND_FIXED_HOLDING_NO_DYNAMIC_EXIT_LABEL",
+  "market": "US",
+  "missing_features_not_imputed": true,
+  "model_memory_contamination": "NO_PER_EPISODE_LLM_JUDGMENT_RULE_DESIGNED_IN_2026_WITH_PRIOR_KNOWLEDGE_POSSIBLE",
+  "negative_evidence": [
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    }
+  ],
+  "next_review_at": "2007-10-07T23:59:59+00:00",
+  "positive_evidence": [
+    {
+      "evidence_record_ids": [
+        "YAHOO_CHART_XLV:PRICE:2007-06-29",
+        "YAHOO_CHART_XLV:PRICE:2007-09-28"
+      ],
+      "statement": "63-session历史已知行动经济总回报=0.004606",
+      "type": "OBSERVED_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [
+        "YAHOO_CHART_XLV:PRICE:2006-09-27",
+        "YAHOO_CHART_XLV:PRICE:2007-09-28"
+      ],
+      "statement": "252-session历史已知行动经济总回报=0.083917",
+      "type": "OBSERVED_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "可靠正面证据不足；不得用故事补足。",
+      "type": "NO_ADDITIONAL_POSITIVE_EVIDENCE"
+    }
+  ],
+  "preregistration_sha256": "efb9611554901bf489972f19aa15208347fa42f413ec3a7cba838b1a1e600297",
+  "price_in_assessment": "UNKNOWN: only lagged market behavior observed; no historical valuation/expectation source, cannot identify expectations already reflected",
+  "record_type": "prediction_ex_ante",
+  "regime": "POSITIVE_TREND",
+  "replay_type": "EXPLORATORY_RULE_BASED_MASKED_REPLAY",
+  "reporting_currency": "USD",
+  "research_stage": "EXPLORATORY",
+  "return_basis": "TOTAL_RETURN",
+  "round_id": "ROUND_002",
+  "rule_id": "R002-TREND-PRIOR-v001",
+  "rule_sha256": "3f45039c4376334501be3e177bab113cc65d7f4b3296f9c6b2e82e66a57b5729",
+  "selection_sha256": "85cec2b51e610d2f09a6bcccbad8b4539d00fb0cd848239ff4290c547bc8555c",
+  "separation": "SEPARATION_LOGICAL_ONLY",
+  "status": "EX_ANTE_LOCKED",
+  "tradability": "EXCHANGE_TRADED_ETF"
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "research/phase3/forward_v002/ENGINEERING_SAFETY.v002.json": "eae42da85301f520402d1139849560f820c8e3bfc9579678a3b3cac5dc868ff3",
+    "research/phase3/forward_v002/REGISTRATION.lock.v002.json": "734aeea00078b64851683784b15a05e899ae7c71f9df350fa0c5797d030fef10",
+    "scripts/phase3_forward_v002.py": "55fc9261a9cbdc6628407cd31c0f8ce83751e9e058cb643d0ac83499d19585b0"
+  },
+  "locked_at": "2026-10-09T15:35:45.910402+00:00"
+}

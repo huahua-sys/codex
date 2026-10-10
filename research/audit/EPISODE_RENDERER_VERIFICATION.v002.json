@@ -1,0 +1,84 @@
+{
+  "attribution": "UNRESOLVED_MECHANISM",
+  "batches": [
+    {
+      "batch_id": "ROUND_002_V003",
+      "insufficient_history": 0,
+      "manifest_sha256": "3c132b10504d87876d0bc2529a9d2ccf2dac08f21366efd88f1ccde51ff6edf0",
+      "mature_12m": 24,
+      "report_records": 24,
+      "valid_forecasts": 24
+    },
+    {
+      "batch_id": "NIGHT_XTIME_V003",
+      "insufficient_history": 0,
+      "manifest_sha256": "8f3da112dc0b5f2278fcb09672a97b0b55e0c34d75e5be3f5deca35e08760546",
+      "mature_12m": 36,
+      "report_records": 36,
+      "valid_forecasts": 36
+    },
+    {
+      "batch_id": "NIGHT_SECTOR_V002",
+      "insufficient_history": 20,
+      "manifest_sha256": "e0378fe350d6fdd8478d8e1964f88896297da77920823f55f01ec59081860e4f",
+      "mature_12m": 140,
+      "report_records": 160,
+      "valid_forecasts": 140
+    },
+    {
+      "batch_id": "NIGHT_XASSET",
+      "insufficient_history": 0,
+      "manifest_sha256": "34dca03cfc8a775c1ea0df44f8023c3283e9f3534ef382c2d1709e1d9ca7115c",
+      "mature_12m": 68,
+      "report_records": 68,
+      "valid_forecasts": 68
+    },
+    {
+      "batch_id": "NIGHT_ASHARE",
+      "insufficient_history": 28,
+      "manifest_sha256": "804d180ba8dc8fc426590ecdef53e56d67eebe4586554c7126d529609a2abd25",
+      "mature_12m": 14,
+      "report_records": 42,
+      "valid_forecasts": 14
+    }
+  ],
+  "checks": [
+    "source_A_hash_matches_label_and_report_manifest",
+    "all_report_hashes_match_manifest",
+    "all_six_horizon_tables_present",
+    "all_artifact_links_exist",
+    "all_insufficient_history_reports_explicitly_excluded_from_scoring"
+  ],
+  "distinct_cutoff_dates": 20,
+  "excluded_batches": [
+    "ROUND_002",
+    "NIGHT_XTIME",
+    "ROUND_002_V002",
+    "NIGHT_XTIME_V002",
+    "NIGHT_SECTOR"
+  ],
+  "mature_by_horizon": {
+    "12m": 282,
+    "1m": 282,
+    "1w": 282,
+    "24m": 279,
+    "3m": 282,
+    "6m": 282
+  },
+  "predictions_modified": false,
+  "record_type": "episode_renderer_verification",
+  "renderer_sha256": "24a455fe46ed9f0fe75984204f990fef1b08832d489835351d8b8537eb8b1300",
+  "renderer_version": "episode-review-v002",
+  "synthetic_checks": [
+    "valid_vs_insufficient_history_counting",
+    "insufficient_history_does_not_count_as_forecast_or_completed_replay",
+    "valid_forecast_missing_B_identity_rejected",
+    "stage_A_immutable",
+    "deterministic_rerun"
+  ],
+  "synthetic_is_investment_evidence": false,
+  "total_insufficient_history": 48,
+  "total_mature_12m": 282,
+  "total_report_records": 330,
+  "total_valid_forecasts": 282
+}

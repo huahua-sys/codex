@@ -1,0 +1,10 @@
+{
+  "episode_id": "NIGHT_RECENT-001",
+  "evaluator_version": "0.2.0",
+  "horizons": {},
+  "lock_sha256": "4ecf5b96cc543c8e53f5f7860fbd3f27fef2c4f486f53611bd08f7de2c90af91",
+  "prediction_sha256": "1c8a3d0aee535719457d0490c6465ef22d5c436db91f0052778dbc59a22b5a91",
+  "reason": "exante_history_insufficient",
+  "source_bundle_sha256": "5bbaa29371e0d9623563b545d12facf055f787d7e926b510024f325155754855",
+  "status": "UNRESOLVED_DATA"
+}

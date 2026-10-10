@@ -1,0 +1,80 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "explanation": "QA recalculations are not additional samples/tests of investment hypotheses. All slices reuse correlated dates/assets and overlapping returns; later partition only one two-year calendar block.",
+    "n_effective": null
+  },
+  "RAW OBSERVATIONS": {
+    "independent_primary_and_group_block_intervals": 510,
+    "independent_scalar_checks": 1316210,
+    "locked_comparison_slots": 10272,
+    "new_investment_tests": 0
+  },
+  "audit_id": "PHASE3_INDEPENDENT_STATISTICAL_QA_V006",
+  "code_sha256": "18a3cae21667c8c33fc167ebe192e187ff550cb6856df1deeb7d9e0f034d364b",
+  "errors": [],
+  "method": [
+    "All group sizes, mean/median/winrate/quantiles and gross MDD distributions independently recomputed.",
+    "All same-execution benchmark residual group distributions and marginal date-equal group differences recomputed.",
+    "Principal ALL/asset/market/industry/era 12m/24m intervals recomputed from fixed-seed joint two-year blocks.",
+    "Credit two-decade gate independently verifies sign reversal; interaction remains NOT_RUN_GATE_FAILED.",
+    "No replacement, tuning, filtering or independent-N inference from the QA count."
+  ],
+  "partitions": [
+    {
+      "comparison_slots": 5136,
+      "eligible_mature12m": 1929,
+      "interaction_gate": {
+        "evidence": [
+          {
+            "date_clusters": 23,
+            "decade": "2000-2009",
+            "difference": -0.0849717009416984,
+            "group0_dates": 13,
+            "group1_dates": 10
+          },
+          {
+            "date_clusters": 40,
+            "decade": "2010-2019",
+            "difference": 0.013700206556619354,
+            "group0_dates": 31,
+            "group1_dates": 9
+          }
+        ],
+        "gate_threshold_changed": false,
+        "hypothesis_id": "H-P3-DD-CREDIT",
+        "status": "NOT_RUN_GATE_FAILED"
+      },
+      "partition": "development",
+      "selected": 2496
+    },
+    {
+      "comparison_slots": 5136,
+      "eligible_mature12m": 158,
+      "interaction_gate": {
+        "evidence": [
+          {
+            "date_clusters": 23,
+            "decade": "2000-2009",
+            "difference": -0.0849717009416984,
+            "group0_dates": 13,
+            "group1_dates": 10
+          },
+          {
+            "date_clusters": 40,
+            "decade": "2010-2019",
+            "difference": 0.013700206556619354,
+            "group0_dates": 31,
+            "group1_dates": 9
+          }
+        ],
+        "gate_threshold_changed": false,
+        "hypothesis_id": "H-P3-DD-CREDIT",
+        "status": "NOT_RUN_GATE_FAILED"
+      },
+      "partition": "holdout",
+      "selected": 208
+    }
+  ],
+  "reviewed_at": "2026-10-09T06:06:41.433754+00:00",
+  "status": "PASS"
+}

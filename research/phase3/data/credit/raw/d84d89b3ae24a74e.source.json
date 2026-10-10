@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:39:57.640294+00:00",
+  "content_type": "application/pdf",
+  "final_url": "https://www.federalreserve.gov/data/documents/sloos-202207-full-report.pdf",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos/sloos-202207.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_full_report_cover",
+  "source_path": "research/phase3/data/credit/raw/d84d89b3ae24a74e.bin",
+  "source_sha256": "4e62e04cd680244024951013c1f392a0e7f8e72711181b9471e80f41118411af",
+  "url": "https://www.federalreserve.gov/data/documents/sloos-202207-full-report.pdf"
+}

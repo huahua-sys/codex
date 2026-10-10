@@ -1,0 +1,11 @@
+{
+  "code_sha256": "cd2e453a8c3c259a6e566dcf2762f9ec2903f65c9f66fd490f049363210afe49",
+  "development_lock_sha256": "07b019be46180ec8bfd35115e3165f2492a34f013816e86af004d98e1a57dbc5",
+  "files": {
+    "research/phase3/analysis/holdout.comparisons.v001.csv": "4338b6f505ff109adda5de1e44d8d23a834dec7a2b33a5ffc8f66e09e1caa212",
+    "research/phase3/analysis/holdout.negative_controls.v001.csv": "d91a7a8bcccb18e4f08744f4e392b110a6f15719787b8ce0a0bf4e81b296601c",
+    "research/phase3/analysis/holdout.results.v001.json": "24c5aa74ada1541a9192d4707aca5fff738e4f47a0fda0498aa97132a7ca378b"
+  },
+  "locked_at": "2026-10-09T05:56:10.178841+00:00",
+  "status": "SINGLE_LATER_LABEL_REVEAL_COMPLETED"
+}

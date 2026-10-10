@@ -1,0 +1,21 @@
+{
+  "record_type": "synthetic_engineering_verification",
+  "evidence_class": "NOT_INVESTMENT_EVIDENCE",
+  "supersedes": "ENGINEERING_VERIFICATION.v001.json",
+  "run_at": "2026-10-08T08:32:37.277466+00:00",
+  "command": "python -m unittest discover -s tests -p test_round_002.py -v",
+  "exit_code": 0,
+  "test_count": 11,
+  "stdout": "",
+  "stderr": "test_all_locks_required_before_future_read (test_round_002.ReplayEngineering.test_all_locks_required_before_future_read) ... ok\ntest_calendar_selection_has_no_outcome_interface (test_round_002.ReplayEngineering.test_calendar_selection_has_no_outcome_interface) ... ok\ntest_execution_uses_next_open_and_excludes_exit_session_future_extrema (test_round_002.ReplayEngineering.test_execution_uses_next_open_and_excludes_exit_session_future_extrema) ... ok\ntest_future_record_rejected_even_if_observed_period_earlier (test_round_002.ReplayEngineering.test_future_record_rejected_even_if_observed_period_earlier) ... ok\ntest_missing_outcome_not_zero_and_unknown_actions_not_total_return (test_round_002.ReplayEngineering.test_missing_outcome_not_zero_and_unknown_actions_not_total_return) ... ok\ntest_nonprice_publication_cannot_be_backdated (test_round_002.ReplayEngineering.test_nonprice_publication_cannot_be_backdated) ... ok\ntest_outcome_duplicate_actions_and_foreign_asset_rejected (test_round_002.ReplayEngineering.test_outcome_duplicate_actions_and_foreign_asset_rejected) ... ok\ntest_price_cutoff_filter_and_uncertain_quarantine (test_round_002.ReplayEngineering.test_price_cutoff_filter_and_uncertain_quarantine) ... ok\ntest_stage_a_subprocess_guard_and_brier_baselines (test_round_002.ReplayEngineering.test_stage_a_subprocess_guard_and_brier_baselines) ... ok\ntest_total_return_split_and_dividend_entry_and_exit (test_round_002.ReplayEngineering.test_total_return_split_and_dividend_entry_and_exit) ... ok\ntest_write_once_repeat_verifies_and_tampering_blocks_labels (test_round_002.ReplayEngineering.test_write_once_repeat_verifies_and_tampering_blocks_labels) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.146s\n\nOK\n",
+  "source_sha256": {
+    "lab/schema.py": "34cbb3622d580c0f378276809f86c7f304f6145341e2f5d8249b0cc47508732a",
+    "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+    "lab/evaluate.py": "a31e5469270e1ec10c0f81ae42d29d31d06f94d6be3ef0f791269c748909df51",
+    "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+    "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7",
+    "scripts/import_dataset.py": "df6c3f52d23a860c781e6be8a7a78c365ea07a4dc8756cfd89d2f67421244712",
+    "tests/test_round_002.py": "86e2395272d34955565f7d3751237a2d179cf273476655028014e2de7cb68490"
+  },
+  "synthetic_episode_count_in_empirical_registry": 0
+}

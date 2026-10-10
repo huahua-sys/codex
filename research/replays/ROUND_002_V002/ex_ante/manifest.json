@@ -1,0 +1,128 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "ROUND_002_V002-001": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-001.input.v001.json",
+      "sha256": "171b02f4deb9389dc9d7655aa896502bfe6880835dac90d7fc7ba42a2aded74e"
+    },
+    "ROUND_002_V002-002": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-002.input.v001.json",
+      "sha256": "95bc3a9f49c7f7ce4ec82b9f4ff95c95d97fe86802fc7ce70fab162b6c03c1ce"
+    },
+    "ROUND_002_V002-003": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-003.input.v001.json",
+      "sha256": "cfc18f03048776465dafe3397c6df473ed2326b4d5c2c0df11ddc508d58c6687"
+    },
+    "ROUND_002_V002-004": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-004.input.v001.json",
+      "sha256": "6955ba270e89b3ba28ec3660544804e92f30d777be6fb46d59adf2ca1f8767c7"
+    },
+    "ROUND_002_V002-005": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-005.input.v001.json",
+      "sha256": "5f77fff577a812bdad50aea1f748393c61db273367e1e31c6253bbcddd176baa"
+    },
+    "ROUND_002_V002-006": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-006.input.v001.json",
+      "sha256": "10bd19b0a182bfe7863c7d0119a9057b364dbbace130d584f6b625f4562184a3"
+    },
+    "ROUND_002_V002-007": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-007.input.v001.json",
+      "sha256": "5e47a3273ee7f022595a1aec988170aa88fca0a99d583916da078ceee8424e43"
+    },
+    "ROUND_002_V002-008": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-008.input.v001.json",
+      "sha256": "4d4c085df6553d995d79fcaa85b852d2fef25bbde1b14409038b8f2b578239eb"
+    },
+    "ROUND_002_V002-009": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-009.input.v001.json",
+      "sha256": "7b669eb0048a2e44eb2b9af7c9cf7905ecb8e317280128d5e5264cecbbf1a205"
+    },
+    "ROUND_002_V002-010": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-010.input.v001.json",
+      "sha256": "22301de29ed281f0138b4840352eeae9f22142b4ce5ec013bfd1cadf85765004"
+    },
+    "ROUND_002_V002-011": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-011.input.v001.json",
+      "sha256": "5b64d205cd3d12855e628fdb26426d289355519733433eff30e7a1c3d28556e5"
+    },
+    "ROUND_002_V002-012": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-012.input.v001.json",
+      "sha256": "84a359fda207fe2d6cece4584207b73897b15b9ca3be889121fae1131d131072"
+    },
+    "ROUND_002_V002-013": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-013.input.v001.json",
+      "sha256": "2febf8f54002162ea2bfa08434140c3befd1b8168fdc1a9ee968d49dfa6ead45"
+    },
+    "ROUND_002_V002-014": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-014.input.v001.json",
+      "sha256": "ba5d515accf6d6f83b89826c52431817c46b8d1091f31595e6f930dc07e52490"
+    },
+    "ROUND_002_V002-015": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-015.input.v001.json",
+      "sha256": "1c6be58dce0ef1b8f4f3a31bdd75242c8f83239cd201f00eb330aad9a5db3c43"
+    },
+    "ROUND_002_V002-016": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-016.input.v001.json",
+      "sha256": "280b60f6333c21b6adf5fef108ef2e5637d620fdcec62b888aaebfc992821d8b"
+    },
+    "ROUND_002_V002-017": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-017.input.v001.json",
+      "sha256": "1b0e66fe8e66d69918b886eb890b46d6f481b35c69bff32bfc18327ab58da28a"
+    },
+    "ROUND_002_V002-018": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-018.input.v001.json",
+      "sha256": "32cbe1dcda736f0c42ba0f61a7e00f12025a50289cd97c502b0e14c6376b18e6"
+    },
+    "ROUND_002_V002-019": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-019.input.v001.json",
+      "sha256": "e15d29544afdd2ed17783ae5eae14645573bedbf548392dd00e4f4b7ccae3247"
+    },
+    "ROUND_002_V002-020": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-020.input.v001.json",
+      "sha256": "6a8d20b321660c5b7c2b5fc7e6dd49c7f054e2635c0b51009d2cc68b3769b4d3"
+    },
+    "ROUND_002_V002-021": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-021.input.v001.json",
+      "sha256": "e274ad817ac5bb096a70547966163c516fce4fec3259c4b31f255af10b6a7415"
+    },
+    "ROUND_002_V002-022": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-022.input.v001.json",
+      "sha256": "647f8780e1fc259606c47158e1c09c028336ae1f98e2f8990d3ebf895a2d6e06"
+    },
+    "ROUND_002_V002-023": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-023.input.v001.json",
+      "sha256": "c85740d7f9e7df30b8dacaa95a670772038c40263f993e840659638b1aea09b2"
+    },
+    "ROUND_002_V002-024": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "ROUND_002_V002-024.input.v001.json",
+      "sha256": "d78a2a805d6ee38981baf3662c54e2ebf7c8cbc0b0841bd790302c60824adc0f"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "a6933c67ccdee13080437da2ac113a4d14d696c9501fbbfae0a47b9a77fc121f",
+  "source_bundle_sha256": "074e2f2a8d92b067751fe5cebc93b3a8ef760a491df01b958adc30f0eb163fe0"
+}

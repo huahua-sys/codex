@@ -1,0 +1,88 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "effective_independent_n": null,
+    "explanation": "Protocol pre-registration does not establish independence. Shared dates/years, markets, sectors, global shocks, long horizon overlap and prior full-path exposure must be retained."
+  },
+  "RAW OBSERVATIONS": {
+    "frozen_file_hash_checks": 3,
+    "new_observations_reviewed": 0,
+    "planned_deep_grid": 273,
+    "planned_panel_grid": 2704
+  },
+  "audit_id": "PHASE3_PROTOCOL_QA_V001",
+  "caveats": [
+    {
+      "description": "DAX ^GDAXI is ordinarily a performance index with embedded dividend reinvestment. Provider source proof and distinct return_basis needed; do not describe all foreign indices as ex-dividend PRICE_ONLY or compare index variants as directly tradable total return.",
+      "id": "DAX_RETURN_BASIS",
+      "severity": "DATA_DEFINITION"
+    },
+    {
+      "description": "SLOOS bank C&I loan-standards net-tightening is credit supply sentiment/terms, not direct credit spread, default/refinancing, solvency or complete crisis classifier.",
+      "id": "CREDIT_PROXY_SCOPE",
+      "severity": "SCIENTIFIC_LIMIT"
+    },
+    {
+      "description": "Economically motivated interaction requires a predeclared single-variable sign gate; because tested gate and interaction share historical data, a surviving interaction is exploratory and conditional-on-selection, not independent confirmatory validation.",
+      "id": "GATED_INTERACTION_SELECTION",
+      "severity": "SCIENTIFIC_LIMIT"
+    },
+    {
+      "description": "Calendar decades are cross-time labels, not observed rate/inflation/credit regimes. Missing historical releases must remain UNKNOWN; price-only panel cannot establish macro-state transferability.",
+      "id": "REGIME_IDENTIFICATION",
+      "severity": "SCIENTIFIC_LIMIT"
+    },
+    {
+      "description": "All three local content hashes match; no external historical timestamp or cognitive blindness is claimed.",
+      "id": "LOCAL_LOCK_TRUST",
+      "severity": "SCIENTIFIC_LIMIT"
+    }
+  ],
+  "design_checks": {
+    "complete_fixed_years": true,
+    "credit_combination_gate_fixed": true,
+    "cutoff_preserves_observed_bar_availability": true,
+    "fixed_quarters": true,
+    "future_live_decision_not_yet_occurred": true,
+    "later_holdout_is_label_only_with_exposure": true,
+    "no_operational_promotion": true,
+    "no_parameter_optimization": true,
+    "planned_raw_cells_2704": true,
+    "primary_12m_and_six_horizons": true,
+    "prior_path_exposure_declared": true,
+    "unique_assets": true
+  },
+  "followup_checks_required": [
+    "Whole 2704 selection grid and missingness retained",
+    "All feature packets available_at<=cutoff and feature lock precedes label calculation",
+    "No new code changes after source/code locks except separately versioned amendments",
+    "Independent r252/drawdown/vol computations and original SLOOS release dates/values",
+    "Entry strictly after cutoff, horizon sessions and action entitlement semantics correct",
+    "Benchmark alignment same entry/exit and currency",
+    "≤2023 result lock precedes later label release",
+    "Old immutable baseline hashes remain unchanged",
+    "Reports preserve RAW OBSERVATIONS and EFFECTIVE SAMPLE ASSESSMENT, negative controls, all denominators and no source exhaustion overclaim"
+  ],
+  "protocol_hash_checks": [
+    {
+      "expected": "440f23d764e99fb4e772d2a92c7fe1c8e236be4c6887944fac499fd6da2b4e3c",
+      "matches": true,
+      "observed": "440f23d764e99fb4e772d2a92c7fe1c8e236be4c6887944fac499fd6da2b4e3c",
+      "path": "SAMPLE_EXPANSION_PROTOCOL.md"
+    },
+    {
+      "expected": "f50ddd476244ed877649d3a1f217fc8d6ed26c964cee308502da5ebb8a00c87f",
+      "matches": true,
+      "observed": "f50ddd476244ed877649d3a1f217fc8d6ed26c964cee308502da5ebb8a00c87f",
+      "path": "research/phase3/audit/PRIOR_STATE.v001.json"
+    },
+    {
+      "expected": "95d5f2ccbf6fa7fe0e0c5a4036022db62fee498951279ef3a3044e1fb8334a7f",
+      "matches": true,
+      "observed": "95d5f2ccbf6fa7fe0e0c5a4036022db62fee498951279ef3a3044e1fb8334a7f",
+      "path": "research/phase3/design.v001.json"
+    }
+  ],
+  "reviewed_at": "2026-10-09T05:29:02.100424+00:00",
+  "scope": "Independent protocol review only; no new source price paths, features or outcome labels read",
+  "status": "PASS_WITH_DATA_DEFINITION_CAVEATS"
+}

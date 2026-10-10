@@ -1,0 +1,21 @@
+{
+  "files": {
+    "SAMPLE_EXPANSION_PROTOCOL.md": "440f23d764e99fb4e772d2a92c7fe1c8e236be4c6887944fac499fd6da2b4e3c",
+    "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "research/phase3/H-P3-VOL-ENDPOINT-v001.json": "5f9461849195bcba0568ae5b729f9ae35ca5a21af721580dd704a553a56bfc91",
+    "research/phase3/H-P3-VOL-ENDPOINT-v001.lock.json": "f9683b70dedb7db083d2e539b84a37d30a57949f3c8a0531287155023118a290",
+    "research/phase3/PROTOCOL.lock.v001.json": "13d666307eef55086fd802c4628d6669a1d51ccc1d02dc8e19afe91577cbf92b",
+    "research/phase3/audit/PRIOR_OPERATIVE_FRAMEWORK.v001.json": "55806c0036d781ae7a95583602646de246b8c9a6e3b21c665aedf6dedfc6d860",
+    "research/phase3/design.v001.json": "95d5f2ccbf6fa7fe0e0c5a4036022db62fee498951279ef3a3044e1fb8334a7f",
+    "research/phase3/forward/REGISTRATION.lock.v001.json": "c8d8e31663413b91440668184d6803d91ce67722b3ff5f660baee1ac48ccd27e",
+    "research/phase3/forward/REGISTRATION.v001.json": "2fff69deb738c04adee7d46110b4b2535cb251deaee8fb76f112aa903557e815",
+    "research/phase3/forward_v002/CORRECTION.md": "3cc7be654683425b5c3688097afc24473cc620a73728e917f598dc5b01d0251a",
+    "research/phase3/forward_v002/REGISTRATION.v002.json": "2b32dacafb7463cbb5c1f7d71d5969e2a620b9607a304bebe9f07199e5193e96",
+    "scripts/phase3_forward.py": "de3f6363514a1c1fd09f0e4b051e74c26d07757befe2fd73657f1834438d60b3",
+    "scripts/phase3_forward_v002.py": "55fc9261a9cbdc6628407cd31c0f8ce83751e9e058cb643d0ac83499d19585b0",
+    "scripts/phase3_panel.py": "c77528294f35da77b3da9b726947322b02deaed2139afce372773775b9dfa8ea"
+  },
+  "locked_at": "2026-10-09T15:34:55.698156+00:00",
+  "scope": "Appointments/policy locked; pending appointments contain no decision or forecast"
+}

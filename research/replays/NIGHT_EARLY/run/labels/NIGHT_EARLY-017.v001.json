@@ -1,0 +1,10 @@
+{
+  "episode_id": "NIGHT_EARLY-017",
+  "evaluator_version": "0.2.0",
+  "horizons": {},
+  "lock_sha256": "d87cbe52d57a933b8e623da08c5fa07d0e60800aa3789c4e15dbc10fc4e9b915",
+  "prediction_sha256": "1dc8e49c5eebeaada00f0fc1161a023df64a12660cc66be4540e1cdde01d285b",
+  "reason": "exante_history_insufficient",
+  "source_bundle_sha256": "13f24d9a62719fdc99e18361012ba96644653120682a3e5ba925389069bc026d",
+  "status": "UNRESOLVED_DATA"
+}

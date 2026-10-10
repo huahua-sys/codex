@@ -1,0 +1,554 @@
+                                                                  DIVISION OF MONETARY AFFAIRS
+
+
+
+
+For release at 2:00 p.m. ET                                       August 4, 2025
+
+
+
+
+TO:    HEADS OF RESEARCH AT ALL FEDERAL RESERVE BANKS
+
+
+
+
+       Enclosed for distribution to respondents is a national summary of the July 2025
+Senior Loan Officer Opinion Survey on Bank Lending Practices.
+
+
+
+
+Enclosures:
+
+July 2025 Senior Loan Officer Opinion Survey on Bank Lending Practices
+
+
+
+
+This document is available on the Federal Reserve Board’s web site
+(http://www.federalreserve.gov/econresdata/statisticsdata.htm)
+The July 2025 Senior Loan Officer Opinion Survey on Bank Lending Practices
+
+The July 2025 Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS)
+addressed changes in the standards and terms on, and demand for, bank loans to businesses and
+households over the past three months, which generally correspond to the second quarter of
+2025.1
+Regarding loans to businesses over the second quarter, survey respondents reported, on balance,
+tighter lending standards and weaker demand for commercial and industrial (C&I) loans to firms
+of all sizes.2 Furthermore, banks generally reported tighter standards and weaker demand for
+commercial real estate (CRE) loans.
+For loans to households, banks reported basically unchanged lending standards and weaker
+demand for residential mortgage loans, on balance. In addition, banks reported tighter lending
+standards and stronger demand for home equity lines of credit (HELOCs). For consumer loans,
+standards tightened for credit card loans and remained basically unchanged for auto and other
+consumer loans. Meanwhile, demand weakened for credit card and other consumer loans and
+strengthened for auto loans.
+The July SLOOS included a set of special questions inquiring about the current level of lending
+standards relative to the midpoint of the range over which banks’ standards have varied since
+2005. Banks reported that, on balance, levels of standards are currently on the tighter end of the
+range for all loan categories. Compared with the July 2024 survey, banks reported easier levels
+of standards for most loan categories except residential real estate (RRE) loans, for which levels
+of standards were comparable with July 2024.
+
+Lending to Businesses
+(Table 1, questions 1–12; table 2, questions 1–8)
+Questions on commercial and industrial lending. Over the second quarter, modest net shares
+of banks reported having tightened standards on C&I loans to firms of all sizes. 3 Meanwhile,
+         1
+           Responses were received from 65 domestic banks and 19 U.S. branches and agencies of foreign banks.
+Respondent banks received the survey on June 18, 2025, and responses were due by July 2, 2025. Unless otherwise
+indicated, this summary refers to the responses of domestic banks.
+         2
+           Large and middle-market firms are defined as firms with annual sales of $50 million or more, and small
+firms are those with annual sales of less than $50 million.
+         3
+           For questions that ask about lending standards or terms, “net fraction” (or “net percentage”) refers to the
+fraction of banks that reported having tightened (“tightened considerably” or “tightened somewhat”) minus the
+fraction of banks that reported having eased (“eased considerably” or “eased somewhat”). For questions that ask
+about loan demand, this term refers to the fraction of banks that reported stronger demand (“substantially stronger”
+or “moderately stronger”) minus the fraction of banks that reported weaker demand (“substantially weaker” or
+“moderately weaker”). For this summary, when standards, terms, or demand are said to have “remained basically
+unchanged,” the net percentage of respondent banks that reported either tighter or easier standards or terms, or
+stronger or weaker demand, is greater than or equal to 0 and less than or equal to 5 percent; “modest” refers to net
+percentages greater than 5 and less than or equal to 10 percent; “moderate” refers to net percentages greater than
+10 and less than or equal to 20 percent; “significant” refers to net percentages greater than 20 and less than
+50 percent; and “major” refers to net percentages greater than or equal to 50 percent.
+banks reported having left most queried terms unchanged for C&I loans to large and middle-
+market firms while most terms for C&I loans to small firms tightened. 4 Modest net shares of
+banks reported tighter collateralization requirements and higher premiums charged on riskier
+loans to firms of all sizes. In addition, modest net shares of banks reported having tightened the
+maximum size of credit lines, maximum maturities, and covenants on C&I loans to small firms.
+The remaining C&I loan terms were basically unchanged, on net, with the exception of a modest
+net share of banks that reported narrower loan rate spreads for loans to large and middle-market
+firms. Meanwhile, modest net shares of foreign banks reported having tightened standards and
+most terms for C&I loans.5
+Among banks that reported tighter standards and terms for C&I loans, major net shares cited a
+less favorable or more uncertain economic outlook; increased concerns about the effects of
+legislative changes, supervisory actions, or changes in accounting standards; and the worsening
+of industry-specific problems as important reasons for doing so. 6
+Regarding demand for C&I loans over the second quarter, significant net shares of banks
+reported weaker demand from firms of all sizes. In addition, a moderate net share of banks
+reported a decrease in the number of inquiries from potential borrowers regarding the availability
+and terms of new credit lines or increases in existing lines. In contrast, a modest net share of
+foreign banks reported stronger demand for C&I loans.
+The most frequently cited reasons for weaker demand, reported by major net shares of banks,
+were lower customer investment in plant or equipment as well as decreased customer financing
+needs for merger or acquisition and inventory.7
+Questions on commercial real estate lending. Over the second quarter, moderate and modest
+net shares of banks reported tighter standards for loans secured by nonfarm nonresidential
+properties and construction and land development loans, respectively, while standards for loans
+secured by multifamily properties remained basically unchanged on net. While large banks
+
+
+
+
+         4
+            Lending standards characterize banks’ policies for approving applications for a certain loan category.
+Conditional on approving loan applications, lending terms describe banks’ conditions included in loan contracts,
+such as those listed for C&I loans under question 2 to both domestic and foreign banks and those listed for credit
+card, auto, and other consumer loans under questions 21–23 to domestic banks. Thus, standards reflect the extensive
+margin of lending, while terms reflect the intensive margin of lending. With respect to C&I loans, banks were asked
+about the costs, maximum size, and maximum maturity of credit lines; spreads of loan rates over the bank’s cost of
+funds; premiums charged on riskier loans; terms on loan covenants; collateralization requirements; and the use of
+interest rate floors.
+          5
+            As exceptions, foreign banks reported having eased the use of interest rate floors and loan covenants
+while leaving collateralization requirements and loan rate spreads basically unchanged over the second quarter.
+          6
+            In addition, among banks that reported tighter standards and terms for C&I loans, a significant net share
+cited reduced risk tolerance as important.
+          7
+            Significant net shares of banks also cited customers’ decreased accounts receivable financing needs, lower
+precautionary demand for cash and liquidity, higher internally generated funds, and alternative sources for
+borrowing as important reasons for weaker demand.
+reported easier standards across CRE loan types, other banks reported tighter standards on such
+loans.8 In addition, a modest net share of foreign banks reported tighter standards on CRE loans.
+Regarding demand for CRE loans, moderate net shares of banks reported weaker demand for
+construction and land development loans and loans secured by nonfarm nonresidential
+properties, while demand was basically unchanged for loans secured by multifamily properties.
+These responses were mixed across bank size categories, as large banks reported stronger
+demand and other banks reported weaker demand for all CRE loan types over the second quarter.
+Meanwhile, a moderate net share of foreign banks reported stronger demand for CRE loans.
+
+Lending to Households
+(Table 1, questions 13–26)
+Questions on residential real estate lending. Banks reported having left standards basically
+unchanged over the second quarter across all types of residential mortgage loans. 9 A modest net
+share of banks reported having tightened standards for HELOCs.
+Meanwhile, banks reported weaker demand, on balance, for most RRE loan categories over the
+second quarter.10 A significant net share of banks reported weaker demand for non-QM non-
+jumbo mortgages, and moderate net shares of banks reported weaker demand for subprime,
+government, non-QM jumbo, and QM non-jumbo non-GSE-eligible mortgages. Additionally, a
+modest net share of banks reported weaker demand for GSE-eligible mortgages. 11 In contrast, a
+moderate net share of banks reported stronger demand for HELOCs.
+Questions on consumer lending. Over the second quarter, a moderate net share of banks
+reported having tightened standards on credit card loans, while standards were basically
+unchanged for auto and other consumer loans. Banks also reported having tightened most
+queried terms on credit card loans. In particular, modest net shares of banks reported higher
+
+         8
+            Large banks are defined as those with total domestic assets of $100 billion or more as of March 31, 2025.
+Other banks are defined as those with total domestic assets of less than $100 billion as of March 31, 2025.
+          9
+            The seven categories of residential home-purchase loans that banks are asked to consider are government-
+sponsored enterprise (GSE)-eligible, government, qualified mortgage (QM) non-jumbo non-GSE-eligible, QM
+jumbo, non-QM jumbo, non-QM non-jumbo, and subprime. See the survey results tables that follow this summary
+for a description of each of these loan categories. The definition of a QM was introduced in the 2013 Mortgage
+Rules under the Truth in Lending Act (12 C.F.R. pt. 1026.32, Regulation Z). The standard for a QM excludes
+mortgages with loan characteristics such as negative amortization, balloon and interest-only payment schedules,
+terms exceeding 30 years, alt-A or no documentation, and total points and fees that exceed 3 percent of the loan
+amount. For more information on the ability to repay (ATR) and QM standards under Regulation Z, see Consumer
+Financial Protection Bureau, “Ability-to-Repay/Qualified Mortgage Rule,” webpage,
+https://www.consumerfinance.gov/rules-policy/final-rules/ability-to-pay-qualified-mortgage-rule. In addition, a loan
+is required to meet certain price-based thresholds included in the General QM loan definition, which are outlined in
+the Summary of the Final Rule; see Consumer Financial Protection Bureau (2020), “Qualified Mortgage Definition
+under the Truth in Lending Act (Regulation Z): General QM Loan Definition,” final rule (Docket No. CFPB-2020-
+0020), Federal Register, vol. 85 (December 29), pp. 86308–09, https://www.federalregister.gov/d/2020-27567/p-17.
+          10
+             The lone exception for residential mortgages was QM jumbo loans, for which demand was basically
+unchanged on net.
+          11
+             On balance, large banks reported stronger demand for most RRE loan categories over the second quarter
+while other banks reported weaker demand across most RRE loan categories.
+minimum credit score requirements, tighter credit limits, and a lower extent to which loans are
+granted to customers that do not meet credit scoring thresholds. 12 In contrast, most queried terms
+for auto loans and all queried terms for other consumer loans remained basically unchanged on
+net.13
+Regarding demand for consumer loans over the second quarter, moderate and modest net shares
+of banks reported weaker demand for credit card and other consumer loans, respectively, while a
+modest net share of banks reported stronger demand for auto loans.
+
+Special Questions on Current Level of Banks’ Lending Standards
+(Table 1, question 27; table 2, question 9)
+As with all July surveys since 2011, the July 2025 survey included a set of special questions that
+asked respondents to describe the current levels of lending standards at their bank. Specifically,
+respondents were asked to consider the range over which their lending standards have varied
+since 2005 and to report where the level of standards currently is relative to the midpoint of that
+range.
+For C&I loans, banks reported levels of standards that were near the midpoints of their historical
+ranges for syndicated or club loans to investment-grade firms and non-syndicated loans to large
+and middle-market firms, but tighter than the midpoints for syndicated or club loans to below-
+investment-grade firms, loans to small firms, and loans to very small firms. 14 Though banks
+reported standards that were tighter than the midpoints of their historical ranges for most C&I
+categories, responses to the July SLOOS indicate that standards have eased for most C&I loan
+types from a year ago, when the net shares of banks that reported standards to be on the tighter
+end of the range were higher.15
+For CRE loans, major net shares of banks reported that lending standards were on the tighter
+ends of their ranges for nonfarm nonresidential loans and construction and land development
+loans, while a significant net share reported a relatively tight level of standards for multifamily
+loans. These net shares of banks that reported standards to be on the tighter end are, however,
+lower than those reporting tight standards in the July 2023 and 2024 surveys. Similarly,
+
+
+
+          12
+             Banks were asked about changes in credit limits (credit card accounts only), maximum maturity (auto
+loans and other consumer loans only), loan rate spreads over costs of funds, the minimum percent of outstanding
+balances required to be repaid each month (credit card accounts only), minimum required down payment (auto loans
+and other consumer loans only), the minimum required credit score, and the extent to which loans are granted to
+borrowers not meeting credit scoring thresholds.
+          13
+             As an exception, a modest net share of banks reported narrower interest rate spreads for auto loans.
+          14
+             A significant net share of banks reported that standards for syndicated or club loans to below-investment-
+grade firms were tighter, on net, than the midpoints of their ranges, while moderate and modest net shares reported
+so for non-syndicated loans to small firms and loans to very small firms, respectively.
+          15
+             Among foreign bank respondents, C&I loan standards were reported to be easier, on net, than the
+midpoints of their historical ranges for syndicated or club loans to investment grade firms and non-syndicated loans
+to large and middle-market firms, but on the tighter ends of their historical ranges for syndicated or club loans to
+below-investment-grade firms and non-syndicated loans to small firms.
+significant net shares of foreign banks reported that standards were on the tighter ends of their
+historical ranges for all categories of CRE loans.
+Regarding RRE loans, significant net shares of banks reported that lending standards were on the
+tighter ends of their ranges for all RRE loan categories. The net shares of banks reporting that
+levels were at the tighter ends of their ranges in the July 2025 survey were similar to those in the
+July 2024 survey reporting tight standards for residential mortgage loans, but modestly lower
+than those for HELOCs.
+Regarding consumer loans, standards, on net, were on the tighter ends of their historical ranges
+for all consumer loan categories. Significant net shares of banks reported standards on the
+tighter ends of their ranges for subprime credit card loans, subprime auto loans, and other
+consumer loans, while moderate net shares of banks reported standards on the tighter ends of
+their ranges for prime credit card and auto loans. Compared with the July 2024 survey, lower net
+shares of banks reported standards on the tighter ends of their ranges for subprime credit card
+and auto loans, while similar net shares of banks reported relatively tight levels of standards for
+the remaining consumer loan categories.
+Overall, responses to the July 2024 and 2025 surveys indicate that banks’ lending standards have
+eased since 2024 for most loan categories, though they remained tight relative to their historical
+ranges.
+This document was prepared by Luke Morgan, with the assistance of Jack Keane, Adrian
+Balderamos, and David Glancy, Division of Monetary Affairs, Board of Governors of the
+Federal Reserve System.
+                   Measures of Supply and Demand for Commercial and Industrial Loans,
+                                      by Size of Firm Seeking Loan
+     Net Percent of Domestic Respondents Tightening Standards for Commercial and Industrial Loans
+                                                                                                      Net percent
+                                                                                                                    100
+                                                                                                       Apr.
+                      Loans to large and middle-market firms                                           survey
+                      Loans to small firms                                                                           80
+
+                                                                                                                     60
+
+                                                                                                                     40
+
+                                                                                                                     20
+
+                                                                                                                     0
+
+                                                                                                                    -20
+
+                                                                                                                    -40
+               1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+
+
+
+     Net Percent of Domestic Respondents Increasing Spreads of Loan Rates over Bank’s Cost of Funds
+                                                                                                      Net percent
+                                                                                                                    100
+                      Loans to large and middle-market firms                                           Apr.
+                                                                                                                    80
+                      Loans to small firms                                                             survey
+                                                                                                                    60
+
+                                                                                                                    40
+
+                                                                                                                    20
+
+                                                                                                                     0
+
+                                                                                                                    -20
+
+                                                                                                                    -40
+
+                                                                                                                    -60
+
+                                                                                                                    -80
+               1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+
+
+
+     Net Percent of Domestic Respondents Reporting Stronger Demand for Commercial and Industrial Loans
+                                                                                                      Net percent
+                                                                                                                    80
+                      Loans to large and middle-market firms                                           Apr.
+                                                                                                                    60
+                      Loans to small firms                                                             survey
+                                                                                                                    40
+
+                                                                                                                    20
+
+                                                                                                                     0
+
+                                                                                                                    -20
+
+                                                                                                                    -40
+
+                                                                                                                    -60
+
+                                                                                                                    -80
+               1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+
+
+
+Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+                       Measures of Supply and Demand for Commercial Real Estate Loans
+
+
+     Net Percent of Domestic Respondents Tightening Standards for Commercial Real Estate Loans
+                                                                                                                                                       Net percent
+                                                                                                                                                                      100
+                                                                                                                                                        Apr.
+                                                                                                                                                        survey
+                              All commercial real estate loans                                                                                                        80
+                              Construction and land development
+                              Nonfarm nonresidential
+                              Multifamily
+                                                                                                                                                                      60
+
+
+
+                                                                                                                                                                      40
+
+
+
+                                                                                                                                                                      20
+
+
+
+                                                                                                                                                                       0
+
+
+
+                                                                                                                                                                      -20
+
+
+
+                                                                                                                                                                      -40
+               1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+
+     Net Percent of Domestic Respondents Reporting Stronger Demand for Commercial Real Estate Loans
+                                                                                                                                                       Net percent
+                                                                                                                                                                      100
+                            All commercial real estate loans
+                            Construction and land development
+                            Nonfarm nonresidential                                                                                                      Apr.           80
+                            Multifamily                                                                                                                 survey
+
+                                                                                                                                                                       60
+
+
+                                                                                                                                                                       40
+
+
+                                                                                                                                                                       20
+
+
+                                                                                                                                                                       0
+
+
+                                                                                                                                                                      -20
+
+
+                                                                                                                                                                      -40
+
+
+                                                                                                                                                                      -60
+
+
+                                                                                                                                                                      -80
+
+
+                                                                                                                                                                      -100
+               1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+
+
+
+Note: For data starting in 2013:Q4, changes in demand for construction and land development, nonfarm nonresidential, and multifamily loans are reported separately.
+Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+                             Measures of Supply and Demand for Residential Mortgage Loans
+
+
+        Net Percent of Domestic Respondents Tightening Standards for Residential Mortgage Loans
+        Net percent                                                                                                                                    Net percent
+ 100                                                                                                                                                                 100
+
+                       All residential mortgage loans                                                    GSE                                                Apr.
+                       Prime                                                                             Government                                         survey
+  80                   Nontraditional                                                                    QM non-jumbo non-GSE                                            80
+                       Subprime                                                                          QM jumbo
+                                                                                                         Non-QM jumbo
+                                                                                                         Non-QM non-jumbo
+                                                                                                         Subprime
+  60                                                                                                                                                                     60
+
+
+
+  40                                                                                                                                                                     40
+
+
+
+  20                                                                                                                                                                     20
+
+
+
+    0                                                                                                                                                                    0
+
+
+
+  -20                                                                                                                                                                -20
+
+
+
+  -40                                                                                                                                                                -40
+
+
+         1990         1994       1998       2002        2006        2010       2014           2015        2017        2019        2021       2023        2025
+
+
+        Net Percent of Domestic Respondents Reporting Stronger Demand for Residential Mortgage Loans
+        Net percent                                                                                                                                    Net percent
+  80                                                                                                                                                                     80
+                                                   All residential mortgage loans
+                                                   Prime
+                                                   Nontraditional
+  60                                               Subprime                                                                                                 Apr.         60
+                                                                                                                                                            survey
+
+  40                                                                                                                                                                     40
+
+
+  20                                                                                                                                                                     20
+
+
+    0                                                                                                                                                                     0
+
+
+  -20                                                                                                                                                                    -20
+
+
+  -40                                                                                                                                                                    -40
+                                                                                                         GSE
+                                                                                                         Government
+                                                                                                         QM non-jumbo non-GSE
+  -60                                                                                                    QM jumbo                                                        -60
+                                                                                                         Non-QM jumbo
+                                                                                                         Non-QM non-jumbo
+  -80                                                                                                    Subprime                                                        -80
+
+
+-100                                                                                                                                                                 -100
+
+         1990         1994       1998       2002        2006        2010       2014           2015        2017        2019        2021       2023        2025
+
+
+
+  Note: QM is qualified mortgage; GSE is government-sponsored enterprise. For data starting in 2007:Q2, changes in standards and demand for prime, nontraditional, and
+subprime mortgage loans are reported separately. For data starting in 2015:Q1, changes in standards and demand were expanded into the following 7 categories:
+GSE-eligible, government, QM non-jumbo non-GSE-eligible, QM jumbo, non-QM jumbo, non-QM non-jumbo, and subprime. Series are set to zero when the number of
+respondents is 3 or fewer.
+  Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+                                   Measures of Supply and Demand for Consumer Loans
+
+
+     Net Percent of Domestic Respondents Tightening Standards for Consumer Loans
+                                                                                                                                                      Net percent
+                                                                                                                                                                     100
+                                                                                                                                                        Apr.          80
+                                                                                                                                                        survey
+                                                                                                                                                                      60
+                                                                                                                                                                      40
+                                                                                                                                                                      20
+                                                                                                                                                                      0
+
+                        Non-credit-card (auto and other)                                                                                                             -20
+                        Credit card                                                                                                                                  -40
+                        Auto
+                        Other consumer                                                                                                                               -60
+                                                                                                                                                                     -80
+                                                                                                                                                                     -100
+           1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+       Note: For data starting in 2011:Q2, changes in standards for auto loans and consumer loans excluding credit card and auto loans are reported separately. In
+     2011:Q2 only, new and used auto loans are reported separately and equally weighted to calculate the auto loans series.
+
+
+     Net Percent of Domestic Respondents Reporting Increased Willingness to Make Consumer Installment Loans
+                                                                                                                                                      Net percent
+                                                                                                                                                                     60
+                                                                                                                                                        Apr.
+                                                                                                                                                        survey       40
+
+
+                                                                                                                                                                     20
+
+
+                                                                                                                                                                      0
+
+
+                                                                                                                                                                     -20
+
+
+                                                                                                                                                                     -40
+
+
+                                                                                                                                                                     -60
+           1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+
+
+
+
+     Net Percent of Domestic Respondents Reporting Stronger Demand for Consumer Loans
+                                                                                                                                                      Net percent
+                                                                                                                                                                     80
+                        All consumer loans
+                        Credit card                                                                                                                     Apr.
+                        Auto                                                                                                                                         60
+                                                                                                                                                        survey
+                        Other consumer
+                                                                                                                                                                     40
+
+                                                                                                                                                                     20
+
+                                                                                                                                                                      0
+
+                                                                                                                                                                     -20
+
+                                                                                                                                                                     -40
+
+                                                                                                                                                                     -60
+
+                                                                                                                                                                     -80
+           1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025
+       Note: For data starting in 2011:Q2, changes in demand for credit card loans, auto loans, and consumer loans excluding credit card and auto loans are
+     reported separately.
+
+
+
+Source: Federal Reserve Board, Senior Loan Officer Opinion Survey on Bank Lending Practices.
+

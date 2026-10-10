@@ -1,0 +1,29 @@
+{
+  "scope": "core metadata/session/OHLC contract; no outcomes calculated",
+  "checks": [
+    {
+      "asset_id": "SPY",
+      "status": "PASS",
+      "rows": 6231,
+      "actions": 100,
+      "raw_hash_pass": true,
+      "canonical_hash_pass": true
+    },
+    {
+      "asset_id": "HSI",
+      "status": "PASS",
+      "rows": 6104,
+      "actions": 0,
+      "raw_hash_pass": true,
+      "canonical_hash_pass": true
+    },
+    {
+      "asset_id": "N225",
+      "status": "PASS",
+      "rows": 6060,
+      "actions": 0,
+      "raw_hash_pass": true,
+      "canonical_hash_pass": true
+    }
+  ]
+}

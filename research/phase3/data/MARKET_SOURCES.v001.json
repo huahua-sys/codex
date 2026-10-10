@@ -1,0 +1,3497 @@
+{
+  "completed_at": "2026-10-09T05:31:01.533667+00:00",
+  "scope": "Current provider history, not original market vintages; provider corrections and surviving instruments remain biases",
+  "sources": {
+    "BIL": {
+      "asset_id": "BIL",
+      "canonical_path": "research/phase3/data/market/BIL.canonical.json",
+      "canonical_sha256": "65edb739fcb4a76fb562042027eec4f42e73867986bfeb7ecd42330abe26c770",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "BIL",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 128,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2007-05-30",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "2007-05-25",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "ordinary_split_evidence": {
+          "date": "2017-11-30",
+          "does_not_verify_every_dividend_amount": true,
+          "legal_date_vs_trading_unit_date": "Issuer financial highlights report Nov29 reverse split; issuer-authored wire says post-split trading effective Nov30",
+          "legal_execution_date": "2017-11-29",
+          "original_wire_url": "https://www.businesswire.com/news/home/20171115005810/en/",
+          "provider_date_ratio_match": true,
+          "ratio": 0.5,
+          "review_method": "Issuer-authored wire republication and fund financial-highlights mirror reviewed via web tool; original wire inaccessible; no raw primary bytes archived here",
+          "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+          "second_source_url": "https://www.feib.com.tw/upload/wealthmanagement/pdf/ETFs/Y444.pdf",
+          "source_quality": "ISSUER_AUTHORED_WIRE_REPUBLICATION_AND_ISSUER_FINANCIAL_HIGHLIGHTS_MIRROR",
+          "source_url": "https://www.streetinsider.com/Press%2BReleases/State%2BStreet%2BGlobal%2BAdvisors%2BAnnounces%2BETF%2BShare%2BSplits/13511071.html"
+        },
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Cash_1_3m",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/BIL.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:53 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:54.918631+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 4872,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_BIL",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "95acaece909f1dba045c7904451d9391e1a1ecb516e409ecff05374aa3f1dcca",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/BIL?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "BIL",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Cash_1_3m"
+      },
+      "requested_at": "2026-10-09T05:30:53.193432+00:00",
+      "source_id": "YAHOO_CHART_BIL",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/BIL?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "BIL"
+    },
+    "CHINEXT": {
+      "asset_id": "CHINEXT",
+      "canonical_path": "research/phase3/data/market/CHINEXT.canonical.json",
+      "canonical_sha256": "cfa7ad010a93ef5403215c2467b7ab30aa7c1502d999ae86266418432e3284fe",
+      "error": "No valid complete daily rows",
+      "error_type": "ValueError",
+      "fallback": "FIXED_EXISTING_SOURCE_NO_DATE_EXTENSION",
+      "requested_at": "2026-10-09T05:30:58.127543+00:00",
+      "source_id": "YAHOO_CHART_CHINEXT",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/399006.SZ?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "FAILED",
+      "symbol": "399006.SZ"
+    },
+    "CSI300": {
+      "asset_id": "CSI300",
+      "canonical_path": "research/phase3/data/market/CSI300.canonical.json",
+      "canonical_sha256": "59e06e6ed64657dffbfcb44e238366e3d0dbb07c7b01a437c3492558151ab950",
+      "error": "No valid complete daily rows",
+      "error_type": "ValueError",
+      "fallback": "FIXED_EXISTING_SOURCE_NO_DATE_EXTENSION",
+      "requested_at": "2026-10-09T05:30:58.103827+00:00",
+      "source_id": "YAHOO_CHART_CSI300",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/000300.SS?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "FAILED",
+      "symbol": "000300.SS"
+    },
+    "DAX": {
+      "asset_id": "DAX",
+      "canonical_path": "research/phase3/data/market/DAX.canonical.json",
+      "canonical_sha256": "9e71e0fe186d0924291b56e3e355aaa2df358a1fd80718aa35238b16c23d71e0",
+      "metadata": {
+        "action_coverage": "NOT_APPLICABLE_PRICE_INDEX",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "DAX",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "EUR",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 0,
+        "execution_eligibility": "NONTRADEABLE_INDEX_BENCHMARK_ONLY",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "NOT_USED_FOR_HISTORICAL_ADMISSION",
+        "instrument_type": "INDEX",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "DE",
+        "native_level_basis": "INDEX_PERFORMANCE_EMBEDDED_DIVIDENDS",
+        "native_level_evidence": {
+          "provider_longName": "DAX P",
+          "provider_shortName": "DAX                           P",
+          "provider_symbol": "^GDAXI",
+          "scope": "Provider-labelled native index; not a separate investible return or historic constituent archive"
+        },
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Broad",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/DAX.yahoo.raw.json",
+        "rejected_rows": [
+          {
+            "date": "2000-04-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-04-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-16",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-03-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-04-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-04-18",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-04-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-12-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-03-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-03-28",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2015-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-06-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-10-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-10-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-05-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          }
+        ],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:59 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:31:01.136077+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6798,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_DAX",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "9e6f73fcc103e97aa81f4e466e3aef795000b41fa61522d6b569136c2b9f77d3",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGDAXI?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "^GDAXI",
+        "timezone": "Europe/Berlin",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_OR_NOT_APPLICABLE",
+        "underlying": "Broad"
+      },
+      "requested_at": "2026-10-09T05:30:58.609851+00:00",
+      "source_id": "YAHOO_CHART_DAX",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGDAXI?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "^GDAXI"
+    },
+    "DBC": {
+      "asset_id": "DBC",
+      "canonical_path": "research/phase3/data/market/DBC.canonical.json",
+      "canonical_sha256": "3ca0aed76f8ccb2da86c9d36c968608a1890e3a3ea1844d943215b627afd09be",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "DBC",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 9,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2006-02-06",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "NOT_USED_FOR_HISTORICAL_ADMISSION",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Resource_Futures",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/DBC.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:56 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:57.368442+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 5201,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_DBC",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "b2738d836ffe67226c96712b1104dd3b83b03c4e61c768c67b05da27aa3578e3",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/DBC?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "DBC",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Resource_Futures"
+      },
+      "requested_at": "2026-10-09T05:30:55.358645+00:00",
+      "source_id": "YAHOO_CHART_DBC",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/DBC?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "DBC"
+    },
+    "FTSE": {
+      "asset_id": "FTSE",
+      "canonical_path": "research/phase3/data/market/FTSE.canonical.json",
+      "canonical_sha256": "5a444fec02c970ce5d885825d6ac68560521584fb483bc1bdd8795011455db99",
+      "metadata": {
+        "action_coverage": "NOT_APPLICABLE_PRICE_INDEX",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "FTSE",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "GBP",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 0,
+        "execution_eligibility": "NONTRADEABLE_INDEX_BENCHMARK_ONLY",
+        "first_date": "2000-01-04",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "NOT_USED_FOR_HISTORICAL_ADMISSION",
+        "instrument_type": "INDEX",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "UK",
+        "native_level_basis": "INDEX_PRICE_LEVEL",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Broad",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/FTSE.yahoo.raw.json",
+        "rejected_rows": [
+          {
+            "date": "2000-04-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-04-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-08-28",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-16",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-28",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-08-27",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-03-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-04-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-06-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-06-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-08-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-04-18",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-04-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-08-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-08-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-12-27",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-12-28",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-03-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-03-28",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-08-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-12-27",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2011-04-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2020-12-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          }
+        ],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:59 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:31:00.183521+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6762,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_FTSE",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "3ee2fae7a8b1dc1ca0ae52666164c35e3caad46347142d09b297b845662c9bf6",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTSE?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "^FTSE",
+        "timezone": "Europe/London",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_OR_NOT_APPLICABLE",
+        "underlying": "Broad"
+      },
+      "requested_at": "2026-10-09T05:30:59.269849+00:00",
+      "source_id": "YAHOO_CHART_FTSE",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTSE?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "^FTSE"
+    },
+    "GLD": {
+      "asset_id": "GLD",
+      "canonical_path": "research/phase3/data/market/GLD.canonical.json",
+      "canonical_sha256": "ff2fdaf4d80e0a2e020ea39a9d9a6830ca9b71d8082266f032dbd474b8c50d5e",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "GLD",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 0,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2004-11-18",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "2004-11-18",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Gold",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/GLD.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:53 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:55.385033+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 5506,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_GLD",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "8471ff83a57ff339ac63ffa524ffe3b7f384ccb1156614b9b0e4e132e9301f2f",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "GLD",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Gold"
+      },
+      "requested_at": "2026-10-09T05:30:53.216411+00:00",
+      "source_id": "YAHOO_CHART_GLD",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "GLD"
+    },
+    "HSI": {
+      "asset_id": "HSI",
+      "canonical_path": "research/phase3/data/market/HSI.canonical.json",
+      "canonical_sha256": "94c7fcff8f95a25c1e76b07d98fb1dd218512b9c3ba8f44bb213f14ca9683567",
+      "metadata": {
+        "action_coverage": "NOT_APPLICABLE_PRICE_INDEX",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "HSI",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "HKD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 0,
+        "execution_eligibility": "NONTRADEABLE_INDEX_BENCHMARK_ONLY",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1969-11-24",
+        "instrument_type": "INDEX",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "HK",
+        "native_level_basis": "INDEX_PRICE_LEVEL",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Broad",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/HSI.yahoo.raw.json",
+        "rejected_rows": [
+          {
+            "date": "2000-02-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-04-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-04-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-04-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-06-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-09-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-16",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-06-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-07-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-07-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-07-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-14",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-03-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-04-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-04-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-07-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-14",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-02-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-04-18",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-04-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-06-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-07-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-09-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-06-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-07-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-09-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-12-27",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2008-08-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2008-08-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2011-12-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2011-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2013-08-14",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2016-08-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2016-10-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-08-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          }
+        ],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:56 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:57.747573+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6595,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_HSI",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "56be7adde2d1b85397cfdaf4defd8751f6e079946cea34c88a160e379c158c68",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EHSI?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "^HSI",
+        "timezone": "Asia/Hong_Kong",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_OR_NOT_APPLICABLE",
+        "underlying": "Broad"
+      },
+      "requested_at": "2026-10-09T05:30:55.728557+00:00",
+      "source_id": "YAHOO_CHART_HSI",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EHSI?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "^HSI"
+    },
+    "IEF": {
+      "asset_id": "IEF",
+      "canonical_path": "research/phase3/data/market/IEF.canonical.json",
+      "canonical_sha256": "4f8fc780a43a998b088deacd083dc93f469094da5aad67abe5ebc5577d4c026b",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "IEF",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 291,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2002-07-30",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "2002-07-22",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Treasury_7_10y",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/IEF.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:50 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:51.938169+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6088,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_IEF",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "6784ee932022a49e6cd02ce4e77d73070087119c570bce2f596cc868e20d953c",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/IEF?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "IEF",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Treasury_7_10y"
+      },
+      "requested_at": "2026-10-09T05:30:50.087471+00:00",
+      "source_id": "YAHOO_CHART_IEF",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/IEF?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "IEF"
+    },
+    "KBE": {
+      "asset_id": "KBE",
+      "canonical_path": "research/phase3/data/market/KBE.canonical.json",
+      "canonical_sha256": "0f086dbb7c7dd80c50d8b3c6f8527a22a14e2022c12b49a77ee1190b36dc60d4",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "KBE",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 84,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2005-11-15",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "NOT_USED_FOR_HISTORICAL_ADMISSION",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Financials_Banks",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/KBE.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:48 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:49.690776+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 5256,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_KBE",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "ffca85e63fb8c67ea480bff9efe2c8bc8fcabfef7247b423304471c16a5589fd",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/KBE?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "KBE",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Financials_Banks"
+      },
+      "requested_at": "2026-10-09T05:30:46.913718+00:00",
+      "source_id": "YAHOO_CHART_KBE",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/KBE?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "KBE"
+    },
+    "N225": {
+      "asset_id": "N225",
+      "canonical_path": "research/phase3/data/market/N225.canonical.json",
+      "canonical_sha256": "bc201537f0c5f8bdda6040c999c614015e315ce6d5258bd71dad95788a8061b7",
+      "metadata": {
+        "action_coverage": "NOT_APPLICABLE_PRICE_INDEX",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "N225",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "JPY",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 0,
+        "execution_eligibility": "NONTRADEABLE_INDEX_BENCHMARK_ONLY",
+        "first_date": "2000-01-04",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1950-09-07",
+        "instrument_type": "INDEX",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "JP",
+        "native_level_basis": "INDEX_PRICE_LEVEL",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Broad",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/N225.yahoo.raw.json",
+        "rejected_rows": [
+          {
+            "date": "2000-01-10",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-03-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-07-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-09-15",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-11-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-11-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-02-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-03-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-04-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-07-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-09-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-11-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-14",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-03-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-04-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-09-16",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-09-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-14",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-11-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-03-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-04-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-07-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-09-15",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-09-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-10-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-11-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-11-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-04-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-07-19",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-09-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-09-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-11-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-11-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-12-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-01-10",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-03-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-04-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-07-18",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-09-19",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-09-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-10-10",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-11-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-11-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-12-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-01-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-01-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-03-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-07-17",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-09-18",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-10-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-11-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2006-11-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2009-09-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-07-17",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-08-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-09-18",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-10-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-11-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2017-11-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-01-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-01-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-02-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-03-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-04-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-09-17",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-09-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-10-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-11-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-12-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2018-12-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2026-10-09",
+            "reason": "INCOMPLETE_CURRENT_SESSION"
+          }
+        ],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:56 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:57.256759+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6555,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_N225",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "455032c449b8ab95014f8499568e9579fdb29eedb326448e359dc747d5cfc8a9",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "^N225",
+        "timezone": "Asia/Tokyo",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_OR_NOT_APPLICABLE",
+        "underlying": "Broad"
+      },
+      "requested_at": "2026-10-09T05:30:55.819128+00:00",
+      "source_id": "YAHOO_CHART_N225",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "^N225"
+    },
+    "QQQ": {
+      "asset_id": "QQQ",
+      "canonical_path": "research/phase3/data/market/QQQ.canonical.json",
+      "canonical_sha256": "c6cda7871e55dc511e61654ddc99915326ae56ac3629159f1a66ea65a6663aa9",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "QQQ",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 90,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "UNKNOWN_SPLIT_QUARANTINE",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1999-03-10",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Growth",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/QQQ.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:44 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:46.457084+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_QQQ",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "18be1f838eaecfbbc938a1f3275dc683ebaf8884caea27d571afb2d781521eee",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": true,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "QQQ",
+        "timezone": "America/New_York",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_OR_NOT_APPLICABLE",
+        "underlying": "Growth"
+      },
+      "requested_at": "2026-10-09T05:30:43.586791+00:00",
+      "source_id": "YAHOO_CHART_QQQ",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "QQQ"
+    },
+    "SHY": {
+      "asset_id": "SHY",
+      "canonical_path": "research/phase3/data/market/SHY.canonical.json",
+      "canonical_sha256": "7316b13e954192c26732373c5bf63efe91b7b5aac4ac079b5b9a7468ea310844",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "SHY",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 290,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2002-07-30",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "NOT_USED_FOR_HISTORICAL_ADMISSION",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Treasury_1_3y",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/SHY.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:53 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:55.079545+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6088,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_SHY",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "059d0408fddc87131d6b1983ef4d81a24c90fea25818359b9ecc21ea25f75e7a",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/SHY?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "SHY",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Treasury_1_3y"
+      },
+      "requested_at": "2026-10-09T05:30:53.024495+00:00",
+      "source_id": "YAHOO_CHART_SHY",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/SHY?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "SHY"
+    },
+    "SOXX": {
+      "asset_id": "SOXX",
+      "canonical_path": "research/phase3/data/market/SOXX.canonical.json",
+      "canonical_sha256": "02d386db94bcc736ab240e6ee95c831595bad7ba7c7ba25e1ce7b7be061b7f7b",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "SOXX",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 78,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2001-07-13",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "2001-07-10",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "ordinary_split_evidence": {
+          "date": "2024-03-07",
+          "does_not_verify_every_dividend_amount": true,
+          "provider_date_ratio_match": true,
+          "ratio": 3.0,
+          "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+          "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+          "second_source_url": "https://www.ishares.com/us/literature/tax-information/form-8937-ishares-semiconductor-etf-3-6-2024.pdf",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312523298660/d611816d497.htm"
+        },
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Semiconductor",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/SOXX.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:44 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:45.553732+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6347,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_SOXX",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "4b9f808ab13737e96a8e20f086822762c9f341636e9f0fb5809ce23969a5a890",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "SOXX",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Semiconductor"
+      },
+      "requested_at": "2026-10-09T05:30:43.588522+00:00",
+      "source_id": "YAHOO_CHART_SOXX",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "SOXX"
+    },
+    "SPY": {
+      "asset_id": "SPY",
+      "canonical_path": "research/phase3/data/market/SPY.canonical.json",
+      "canonical_sha256": "bb20ccc9046375b171b1c6da2cb6e8a3046dba19ac4eda650ffbdca322853c3c",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "SPY",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 108,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1993-01-29",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Broad",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/SPY.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:44 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:46.037804+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_SPY",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "e61c28ce70f16ad86953c99b86a4fa1e0ae8700cb935be8695fa9d5293d951b9",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "SPY",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Broad"
+      },
+      "requested_at": "2026-10-09T05:30:43.586360+00:00",
+      "source_id": "YAHOO_CHART_SPY",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "SPY"
+    },
+    "SSE": {
+      "asset_id": "SSE",
+      "canonical_path": "research/phase3/data/market/SSE.canonical.json",
+      "canonical_sha256": "6174060335feae19fe73f62fd0772d3da8b76eef84b076f9f51bad8f1388e65f",
+      "metadata": {
+        "action_coverage": "NOT_APPLICABLE_PRICE_INDEX",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "SSE",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "CNY",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 0,
+        "execution_eligibility": "NONTRADEABLE_INDEX_BENCHMARK_ONLY",
+        "first_date": "2000-01-04",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1991-07-15",
+        "instrument_type": "INDEX",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "CN",
+        "native_level_basis": "INDEX_PRICE_LEVEL",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Broad",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/SSE.yahoo.raw.json",
+        "rejected_rows": [
+          {
+            "date": "2000-01-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-10",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-10-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2000-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-01-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-02-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-02-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-05-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2001-10-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-12",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-13",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-14",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-15",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-18",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-19",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-02-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-05-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-09-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2002-10-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-01-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-02-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-02-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-02-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-02-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-02-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-03-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-05-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-10-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-10-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-10-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2003-10-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-19",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-21",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-22",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-23",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-26",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-27",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-01-28",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-05-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-01",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2004-10-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-01-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-08",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-10",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-11",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-14",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-02-15",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-05-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-10-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-10-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-10-05",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-10-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2005-10-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2007-05-03",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2007-05-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2010-06-15",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2010-12-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2014-12-25",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          }
+        ],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:58 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:59.134728+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6477,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_SSE",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "cb69b3ce3001cc16bf42b01499ed659f84ce61653f9eb1e5b743b10fc44b5c81",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/000001.SS?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "000001.SS",
+        "timezone": "Asia/Shanghai",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_OR_NOT_APPLICABLE",
+        "underlying": "Broad"
+      },
+      "requested_at": "2026-10-09T05:30:57.386535+00:00",
+      "source_id": "YAHOO_CHART_SSE",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/000001.SS?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "000001.SS"
+    },
+    "STOXX50E": {
+      "asset_id": "STOXX50E",
+      "canonical_path": "research/phase3/data/market/STOXX50E.canonical.json",
+      "canonical_sha256": "360947f410f95d0af372aecea05a56236277896a358df8027aa3d448e9c31efd",
+      "metadata": {
+        "action_coverage": "NOT_APPLICABLE_PRICE_INDEX",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "STOXX50E",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "EUR",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 0,
+        "execution_eligibility": "NONTRADEABLE_INDEX_BENCHMARK_ONLY",
+        "first_date": "2007-03-30",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "NOT_USED_FOR_HISTORICAL_ADMISSION",
+        "instrument_type": "INDEX",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "EU",
+        "native_level_basis": "INDEX_PRICE_LEVEL",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Broad",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/STOXX50E.yahoo.raw.json",
+        "rejected_rows": [
+          {
+            "date": "2007-05-09",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2008-03-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2008-07-04",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2008-10-27",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2009-02-16",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2009-09-07",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2011-05-30",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2011-05-31",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2011-11-24",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2012-02-20",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2013-09-02",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2014-02-17",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2014-12-29",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          },
+          {
+            "date": "2015-01-06",
+            "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+          }
+        ],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:58 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:31:00.152091+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 4895,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_STOXX50E",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "03d1cde5915c9d6d107997cb35ce2df21b59e8e570bdcdde270b22077c9f7ac9",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESTOXX50E?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "^STOXX50E",
+        "timezone": "Europe/Paris",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_OR_NOT_APPLICABLE",
+        "underlying": "Broad"
+      },
+      "requested_at": "2026-10-09T05:30:58.329441+00:00",
+      "source_id": "YAHOO_CHART_STOXX50E",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESTOXX50E?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "^STOXX50E"
+    },
+    "TLT": {
+      "asset_id": "TLT",
+      "canonical_path": "research/phase3/data/market/TLT.canonical.json",
+      "canonical_sha256": "16fc6a8558ced3c0e7df709d869f7c9d6b0db5853343e8a71442a220ac47608a",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "TLT",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 289,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2002-07-30",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "2002-07-22",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Treasury_20y",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/TLT.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:52 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:54.310656+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6088,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_TLT",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "c7fc6cba02ebbc4867262cd5e7d16f2793d7dfbf1a837f76c6c81a2e3da5ae16",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/TLT?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "TLT",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Treasury_20y"
+      },
+      "requested_at": "2026-10-09T05:30:51.798054+00:00",
+      "source_id": "YAHOO_CHART_TLT",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/TLT?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "TLT"
+    },
+    "UUP": {
+      "asset_id": "UUP",
+      "canonical_path": "research/phase3/data/market/UUP.canonical.json",
+      "canonical_sha256": "210100ebd66bd709f6e1fc93a0d70285dc97ad6a133bfd8f1e0114ddb3967ca9",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "UUP",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 9,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2007-03-01",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "2007-02-20",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "USD_Proxy",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/UUP.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:55 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:56.988820+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 4934,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_UUP",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "4db80affdb98b73578eca877421b5f99fb3486612daf87dc7f1273669f7cbc99",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/UUP?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "UUP",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "USD_Proxy"
+      },
+      "requested_at": "2026-10-09T05:30:54.670660+00:00",
+      "source_id": "YAHOO_CHART_UUP",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/UUP?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "UUP"
+    },
+    "XLE": {
+      "asset_id": "XLE",
+      "canonical_path": "research/phase3/data/market/XLE.canonical.json",
+      "canonical_sha256": "bb6e25659e11f8698590a09e31f39c1bcd24acb49d256e9c4e451f4f02cef5de",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "XLE",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 108,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1998-12-16",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "ordinary_split_evidence": {
+          "date": "2025-12-05",
+          "does_not_verify_every_dividend_amount": true,
+          "provider_date_ratio_match": true,
+          "ratio": 2.0,
+          "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+          "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+          "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx"
+        },
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Energy_Resources",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/XLE.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:50 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:51.394003+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_XLE",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "d7704e958f132791cf6d6c12d8ddd508c241c1a71af37fa5def83f8b90c46080",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLE?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "XLE",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Energy_Resources"
+      },
+      "requested_at": "2026-10-09T05:30:49.714236+00:00",
+      "source_id": "YAHOO_CHART_XLE",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLE?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "XLE"
+    },
+    "XLF": {
+      "asset_id": "XLF",
+      "canonical_path": "research/phase3/data/market/XLF.canonical.json",
+      "canonical_sha256": "c379c9581eb1f3a8bd8be659bf42d67727008a32ec3f388e60489c9f6c5a0297",
+      "metadata": {
+        "action_coverage": "INCOMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "XLF",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "data_eligibility": "DATA_REQUIRED_XLF_SPINOFF_RECONCILIATION",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 107,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "UNKNOWN_SPLIT_QUARANTINE",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1998-12-16",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment",
+          "All XLF rows quarantined; unsupported spin-off reconciliation is not a normal split"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Financials_Quarantined",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNRESOLVED_SPINOFF_ADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/XLF.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:47 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:48.574261+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_XLF",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "4416346a83febd547f5ec71fc7ce65be7cfa5ad8f8a6e399773f96c29b7e6f6c",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLF?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": true,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "XLF",
+        "timezone": "America/New_York",
+        "total_return_eligible": false,
+        "total_return_validation": "NOT_APPROVED_XLF_IN_KIND_SPINOFF",
+        "underlying": "Financials_Quarantined",
+        "unsupported_corporate_action": {
+          "event": "XLRE in-kind distribution, not a normal split",
+          "ex_date_reference": "2016-09-19",
+          "primary_source_url": "https://www.sec.gov/Archives/edgar/data/1064641/000119312516699787/d246445d497.htm",
+          "publication_time_status": "NOT_USED_AS_PIT_SIGNAL_DOCUMENT_DATE_IS_NOT_FILING_TIME",
+          "scope": "Entire XLF bundle excluded until reconstruction and allocation are independently reconciled; earlier historical values may be back-adjusted"
+        }
+      },
+      "requested_at": "2026-10-09T05:30:46.228312+00:00",
+      "source_id": "YAHOO_CHART_XLF",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLF?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "XLF"
+    },
+    "XLI": {
+      "asset_id": "XLI",
+      "canonical_path": "research/phase3/data/market/XLI.canonical.json",
+      "canonical_sha256": "c02f844e071f89961f53bb1c72d91c544ae3e4b160e21ffa3bcf9fbac6387cd5",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "XLI",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 106,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1998-12-16",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Industrials",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/XLI.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:47 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:48.877092+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_XLI",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "086785eb26c4d5b25ba1f27c28e56dacfffe3da7a1a7539af56e318fc79ef03e",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLI?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "XLI",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Industrials"
+      },
+      "requested_at": "2026-10-09T05:30:47.039196+00:00",
+      "source_id": "YAHOO_CHART_XLI",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLI?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "XLI"
+    },
+    "XLK": {
+      "asset_id": "XLK",
+      "canonical_path": "research/phase3/data/market/XLK.canonical.json",
+      "canonical_sha256": "65ebc4f165bc27bb24dcaedde46c336edb504e5aecce57f9fe6c6b35c498129d",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "XLK",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 84,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1998-12-16",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "ordinary_split_evidence": {
+          "date": "2025-12-05",
+          "does_not_verify_every_dividend_amount": true,
+          "provider_date_ratio_match": true,
+          "ratio": 2.0,
+          "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+          "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+          "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx"
+        },
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Technology",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/XLK.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:44 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:45.781244+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_XLK",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "68ca3c967cfbc3bde94f1eef0e522fa97a95268e7f8b828e17697439365a95e9",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLK?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "XLK",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Technology"
+      },
+      "requested_at": "2026-10-09T05:30:43.587596+00:00",
+      "source_id": "YAHOO_CHART_XLK",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLK?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "XLK"
+    },
+    "XLU": {
+      "asset_id": "XLU",
+      "canonical_path": "research/phase3/data/market/XLU.canonical.json",
+      "canonical_sha256": "64b578e5b45bcd6c6c5bfb09a49cab6db144c60647e16a22db929eeb0118229c",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "XLU",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 108,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1998-12-16",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "ordinary_split_evidence": {
+          "date": "2025-12-05",
+          "does_not_verify_every_dividend_amount": true,
+          "provider_date_ratio_match": true,
+          "ratio": 2.0,
+          "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+          "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+          "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx"
+        },
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Utilities",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/XLU.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:50 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:52.087375+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_XLU",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "23d2e5b2cb34103a75bfe7738f295e516bc2d28e169cb03ec26c268282a1c40a",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLU?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "XLU",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Utilities"
+      },
+      "requested_at": "2026-10-09T05:30:49.996582+00:00",
+      "source_id": "YAHOO_CHART_XLU",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLU?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "XLU"
+    },
+    "XLV": {
+      "asset_id": "XLV",
+      "canonical_path": "research/phase3/data/market/XLV.canonical.json",
+      "canonical_sha256": "e64074fc1a57c418df0d88bfa6a88b6ef577c81b14f911726c41b71190572e71",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "XLV",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 105,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1998-12-16",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": true,
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Healthcare",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/XLV.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:50 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:51.977807+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_XLV",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "766ff3fc3d191fe75d3096e90dbc0f865b6d2cd3198c01ab8e6941a5ee523c0c",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLV?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 0,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "XLV",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Healthcare"
+      },
+      "requested_at": "2026-10-09T05:30:49.347285+00:00",
+      "source_id": "YAHOO_CHART_XLV",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLV?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "XLV"
+    },
+    "XLY": {
+      "asset_id": "XLY",
+      "canonical_path": "research/phase3/data/market/XLY.canonical.json",
+      "canonical_sha256": "262b1d72659cdceb3c6d2a744f24358066770ef57e3721b95ecda81bd48021d0",
+      "metadata": {
+        "action_coverage": "COMPLETE",
+        "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+        "adjclose_used": false,
+        "asset_id": "XLY",
+        "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+        "currency": "USD",
+        "dividend_amounts_independently_reconciled": false,
+        "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+        "dividend_count": 107,
+        "execution_eligibility": "SIMULATED_NEXT_OBSERVED_NORMAL_SESSION_OPEN",
+        "first_date": "2000-01-03",
+        "historical_action_admission": "NO_SPECIAL_ACTION_FLAGGED_PROVIDER_CONDITIONAL",
+        "historical_publication_timestamps_verified": false,
+        "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+        "inception_reference_date": "1998-12-16",
+        "instrument_type": "ETF",
+        "last_date": "2026-10-08",
+        "latest_metadata_used_as_historical_feature": false,
+        "limitations": [
+          "No original historical vendor snapshot",
+          "No dividend payment dates; exdate reinvestment convention only",
+          "No security-level constituents or breadth",
+          "No historical costs, bid-ask, halts or FX execution",
+          "Index level is price return only and not a directly executable investment"
+        ],
+        "market": "US",
+        "native_level_basis": "ETF_PROVIDER_ACTION_ECONOMIC_RETURN",
+        "no_splits_in_analysis_interval_confirmed": false,
+        "ordinary_split_evidence": {
+          "date": "2025-12-05",
+          "does_not_verify_every_dividend_amount": true,
+          "provider_date_ratio_match": true,
+          "ratio": 2.0,
+          "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+          "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+          "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx"
+        },
+        "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+        "panel_industry": "Consumer",
+        "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+        "price_basis": "UNADJUSTED",
+        "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+        "price_reconstruction_verified_against_exchange_archive": false,
+        "raw_path": "research/phase3/data/market/XLY.yahoo.raw.json",
+        "rejected_rows": [],
+        "response_headers": {
+          "content-type": "application/json;charset=utf-8",
+          "date": "Fri, 09 Oct 2026 05:30:47 GMT"
+        },
+        "retrieved_at": "2026-10-09T05:30:49.133615+00:00",
+        "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+        "row_count": 6732,
+        "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+        "source_id": "YAHOO_CHART_XLY",
+        "source_price_basis": "SPLIT_NORMALIZED",
+        "source_sha256": "5f9275dddef92b6a2d030e9e251db0d7d3b90037b5d5ed9be8ef6f20a2e67646",
+        "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLY?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+        "split_action_validation_required": false,
+        "split_count": 1,
+        "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+        "symbol": "XLY",
+        "timezone": "America/New_York",
+        "total_return_eligible": true,
+        "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+        "underlying": "Consumer"
+      },
+      "requested_at": "2026-10-09T05:30:47.171144+00:00",
+      "source_id": "YAHOO_CHART_XLY",
+      "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/XLY?period1=946684800&period2=1791504000&interval=1d&events=div%2Csplits",
+      "status": "SUCCESS",
+      "symbol": "XLY"
+    }
+  }
+}

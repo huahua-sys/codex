@@ -1,0 +1,13 @@
+{
+  "development_analysis_lock": {
+    "locked_at": "2026-10-09T05:52:13.908669+00:00",
+    "path": "research/phase3/analysis/development.lock.v001.json",
+    "sha256": "07b019be46180ec8bfd35115e3165f2492a34f013816e86af004d98e1a57dbc5"
+  },
+  "feature_sha256": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+  "label_sha256": "a3dee7c7c4d83eb1bd0dd845925d532c39080436616f52f14b4ee6b1a8c6bcbd",
+  "locked_at": "2026-10-09T05:54:06.051109+00:00",
+  "partition": "holdout",
+  "registration_sha256": "b507566e01e0cd32b63af7ec239aa39ab93c27bc2db300b0892994175a730c8b",
+  "status": "FUTURE_LABELS_REVEALED_AFTER_FEATURE_LOCK"
+}

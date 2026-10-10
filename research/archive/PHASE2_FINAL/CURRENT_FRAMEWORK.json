@@ -1,0 +1,883 @@
+{
+  "framework_version": "0.3.0-phase2-research",
+  "last_updated": "2026-10-09T00:25:21.175356+00:00",
+  "framework_status": "INSUFFICIENT_EVIDENCE",
+  "data_status": "LIMITED_REAL_QUOTES_ORIGINAL_RELEASES_AND_TWO_ORIGINAL_FILINGS",
+  "live_signal_generation_enabled": false,
+  "validated_principles": [],
+  "candidate_principles": [
+    {
+      "id": "CP-007",
+      "hypothesis_id": "H-007",
+      "experiment_id": "EXP-007",
+      "title": "信用恶化是否应优先触发风险减仓或 WAIT",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-007.md",
+      "experiment_path": "research/experiments/EXP-007.md",
+      "research_priority_rank": 1,
+      "heuristic_priority_score": 19,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 5,
+        "data_burden": 3,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-012",
+      "hypothesis_id": "H-012",
+      "experiment_id": "EXP-012",
+      "title": "通胀下行时久期优势是否受期限溢价约束",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-012.md",
+      "experiment_path": "research/experiments/EXP-012.md",
+      "research_priority_rank": 2,
+      "heuristic_priority_score": 18,
+      "heuristic_priority_components": {
+        "research_value": 4,
+        "falsifiability": 5,
+        "data_burden": 2,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-001",
+      "hypothesis_id": "H-001",
+      "experiment_id": "EXP-001",
+      "title": "盈利上修的持续性是否在价格尚未充分反映时有效",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-001.md",
+      "experiment_path": "research/experiments/EXP-001.md",
+      "research_priority_rank": 3,
+      "heuristic_priority_score": 17,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 5,
+        "data_burden": 4,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-002",
+      "hypothesis_id": "H-002",
+      "experiment_id": "EXP-002",
+      "title": "从账面盈利到可分配自由现金流的转化",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-002.md",
+      "experiment_path": "research/experiments/EXP-002.md",
+      "research_priority_rank": 4,
+      "heuristic_priority_score": 16,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 4,
+        "data_burden": 3,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-011",
+      "hypothesis_id": "H-011",
+      "experiment_id": "EXP-011",
+      "title": "实际利率下降时黄金是否比股票表达更有效",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-011.md",
+      "experiment_path": "research/experiments/EXP-011.md",
+      "research_priority_rank": 5,
+      "heuristic_priority_score": 15,
+      "heuristic_priority_components": {
+        "research_value": 4,
+        "falsifiability": 4,
+        "data_burden": 2,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-005",
+      "hypothesis_id": "H-005",
+      "experiment_id": "EXP-005",
+      "title": "半导体去库存何时能传递到利润与股价",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-005.md",
+      "experiment_path": "research/experiments/EXP-005.md",
+      "research_priority_rank": 6,
+      "heuristic_priority_score": 14,
+      "heuristic_priority_components": {
+        "research_value": 4,
+        "falsifiability": 5,
+        "data_burden": 4,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-004",
+      "hypothesis_id": "H-004",
+      "experiment_id": "EXP-004",
+      "title": "好产业在过高隐含增长下是否应 WAIT",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-004.md",
+      "experiment_path": "research/experiments/EXP-004.md",
+      "research_priority_rank": 7,
+      "heuristic_priority_score": 14,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 4,
+        "data_burden": 3,
+        "compute_cost": 1,
+        "overfit_risk": 3
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-003",
+      "hypothesis_id": "H-003",
+      "experiment_id": "EXP-003",
+      "title": "需求繁荣中的供给扩张是否构成卖出信号",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-003.md",
+      "experiment_path": "research/experiments/EXP-003.md",
+      "research_priority_rank": 8,
+      "heuristic_priority_score": 13,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 4,
+        "data_burden": 4,
+        "compute_cost": 2,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-009",
+      "hypothesis_id": "H-009",
+      "experiment_id": "EXP-009",
+      "title": "资源供给约束是否能转化为生产商股东回报",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-009.md",
+      "experiment_path": "research/experiments/EXP-009.md",
+      "research_priority_rank": 9,
+      "heuristic_priority_score": 12,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 4,
+        "data_burden": 4,
+        "compute_cost": 1,
+        "overfit_risk": 3
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-014",
+      "hypothesis_id": "H-014",
+      "experiment_id": "EXP-014",
+      "title": "资本分配的真实执行是否优于回购和增持表态",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-014.md",
+      "experiment_path": "research/experiments/EXP-014.md",
+      "research_priority_rank": 10,
+      "heuristic_priority_score": 11,
+      "heuristic_priority_components": {
+        "research_value": 3,
+        "falsifiability": 5,
+        "data_burden": 4,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-006",
+      "hypothesis_id": "H-006",
+      "experiment_id": "EXP-006",
+      "title": "政策执行是否比政策表态提供更多投资信息",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-006.md",
+      "experiment_path": "research/experiments/EXP-006.md",
+      "research_priority_rank": 11,
+      "heuristic_priority_score": 11,
+      "heuristic_priority_components": {
+        "research_value": 4,
+        "falsifiability": 4,
+        "data_burden": 4,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-013",
+      "hypothesis_id": "H-013",
+      "experiment_id": "EXP-013",
+      "title": "电力负荷增长是否通过监管回报和融资传给股东",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-013.md",
+      "experiment_path": "research/experiments/EXP-013.md",
+      "research_priority_rank": 12,
+      "heuristic_priority_score": 11,
+      "heuristic_priority_components": {
+        "research_value": 4,
+        "falsifiability": 4,
+        "data_burden": 4,
+        "compute_cost": 1,
+        "overfit_risk": 2
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-010",
+      "hypothesis_id": "H-010",
+      "experiment_id": "EXP-010",
+      "title": "高 ROIC 的再投资是否在稀释后创造股东价值",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-010.md",
+      "experiment_path": "research/experiments/EXP-010.md",
+      "research_priority_rank": 13,
+      "heuristic_priority_score": 11,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 4,
+        "data_burden": 4,
+        "compute_cost": 2,
+        "overfit_risk": 3
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-008",
+      "hypothesis_id": "H-008",
+      "experiment_id": "EXP-008",
+      "title": "强制卖出后的反弹是否依赖资产负债表未受损",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-008.md",
+      "experiment_path": "research/experiments/EXP-008.md",
+      "research_priority_rank": 14,
+      "heuristic_priority_score": 7,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 4,
+        "data_burden": 5,
+        "compute_cost": 2,
+        "overfit_risk": 4
+      },
+      "actionable_investment_rule": false
+    },
+    {
+      "id": "CP-015",
+      "hypothesis_id": "H-015",
+      "experiment_id": "EXP-015",
+      "title": "技术渗透率增长能否穿透算力成本和竞争转为现金",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "research_mode": "EXPLORATORY_DESIGN_ONLY",
+      "discovery_origin": "MASTER_PROMPT_DERIVED_UNTESTED",
+      "empirical_evidence_count": 0,
+      "tested_episodes": 0,
+      "confidence": "UNASSESSED",
+      "mechanism_label": "PLAUSIBLE MECHANISM",
+      "causal_evidence": "NONE",
+      "statistical_stability": "NOT_TESTED",
+      "formal_preregistration_status": "PENDING_ACTUAL_SOURCES_CUTOFFS_AND_SAMPLES",
+      "record_path": "research/candidate_principles/CP-015.md",
+      "experiment_path": "research/experiments/EXP-015.md",
+      "research_priority_rank": 15,
+      "heuristic_priority_score": 4,
+      "heuristic_priority_components": {
+        "research_value": 5,
+        "falsifiability": 3,
+        "data_burden": 5,
+        "compute_cost": 2,
+        "overfit_risk": 4
+      },
+      "actionable_investment_rule": false
+    }
+  ],
+  "active_hypotheses": [],
+  "proposed_hypotheses": [
+    {
+      "id": "H-007",
+      "candidate_id": "CP-007",
+      "experiment_id": "EXP-007",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-012",
+      "candidate_id": "CP-012",
+      "experiment_id": "EXP-012",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-001",
+      "candidate_id": "CP-001",
+      "experiment_id": "EXP-001",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-002",
+      "candidate_id": "CP-002",
+      "experiment_id": "EXP-002",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-011",
+      "candidate_id": "CP-011",
+      "experiment_id": "EXP-011",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-005",
+      "candidate_id": "CP-005",
+      "experiment_id": "EXP-005",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-004",
+      "candidate_id": "CP-004",
+      "experiment_id": "EXP-004",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-003",
+      "candidate_id": "CP-003",
+      "experiment_id": "EXP-003",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-009",
+      "candidate_id": "CP-009",
+      "experiment_id": "EXP-009",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-014",
+      "candidate_id": "CP-014",
+      "experiment_id": "EXP-014",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-006",
+      "candidate_id": "CP-006",
+      "experiment_id": "EXP-006",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-013",
+      "candidate_id": "CP-013",
+      "experiment_id": "EXP-013",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-010",
+      "candidate_id": "CP-010",
+      "experiment_id": "EXP-010",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-008",
+      "candidate_id": "CP-008",
+      "experiment_id": "EXP-008",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    },
+    {
+      "id": "H-015",
+      "candidate_id": "CP-015",
+      "experiment_id": "EXP-015",
+      "status": "PROPOSED_DATA_REQUIRED",
+      "formal_preregistration_status": "PENDING"
+    }
+  ],
+  "known_failure_modes": [
+    {
+      "id": "FM-001",
+      "type": "OBSERVED_DATA_BLOCKER",
+      "description": "没有历史观测和结果标签，无法执行真实回放或统计验证。",
+      "evidence_path": "research/audit/INITIAL_SCAN.json"
+    },
+    {
+      "id": "FM-002",
+      "type": "METHODOLOGICAL_RISK",
+      "description": "模型可能记得历史结果；文件遮蔽不能证明真实盲性。",
+      "empirically_measured_in_this_project": false
+    },
+    {
+      "id": "FM-003",
+      "type": "POTENTIAL_BIAS_DATA_UNAVAILABLE",
+      "description": "历史证券池与退市覆盖缺失；无法评估幸存者及样本选择偏差。",
+      "empirically_measured_in_this_project": false
+    },
+    {
+      "id": "FM-004",
+      "type": "POTENTIAL_LEAKAGE_DATA_UNAVAILABLE",
+      "description": "新闻/财报发布日期、修订和宏观vintage未提供；不能确认当时可得性。",
+      "empirically_measured_in_this_project": false
+    },
+    {
+      "id": "FM-005",
+      "type": "METHODOLOGICAL_RISK",
+      "description": "多重检验、重复使用holdout、事后筛参数或horizon可制造虚假优势。",
+      "empirically_measured_in_this_project": false
+    }
+  ],
+  "regime_rules": [],
+  "industry_specific_rules": [],
+  "signals_to_monitor": [],
+  "sell_signals": [],
+  "risk_signals": [],
+  "price_in_checks": [],
+  "open_questions": [
+    {
+      "id": "OQ-001",
+      "question": "第一个可核验 PIT 的最小数据包在哪里？",
+      "status": "PARTLY_RESOLVED",
+      "data_required": "历史证券池、价格 / 基准 / 现金、至少一类原始披露及时间证据",
+      "current_evidence": "Small real source package exists; strict full quote vintage and wider initial publication coverage remain incomplete."
+    },
+    {
+      "id": "OQ-002",
+      "question": "公告 / 新闻何时首次公开、何时可交易？",
+      "status": "PARTLY_RESOLVED",
+      "data_required": "精确时间、时区、available_at、交易日历和版本",
+      "current_evidence": "Small real source package exists; strict full quote vintage and wider initial publication coverage remain incomplete."
+    },
+    {
+      "id": "OQ-003",
+      "question": "数据是否含退市公司及历史成分？",
+      "status": "OPEN",
+      "data_required": "实体历史、终止现金流、历史 universe"
+    },
+    {
+      "id": "OQ-004",
+      "question": "如何降低模型历史记忆污染？",
+      "status": "OPEN",
+      "data_required": "标记 masked replay；独立评估者、留出样本、未来预登记"
+    },
+    {
+      "id": "OQ-005",
+      "question": "市场已计入多少盈利增长和消息？",
+      "status": "OPEN",
+      "data_required": "同期估值、当时一致预期、公告前趋势、独立 Price-In 对照"
+    },
+    {
+      "id": "OQ-006",
+      "question": "哪些行业与 regime 改变信号效果？",
+      "status": "OPEN",
+      "data_required": "当时可识别行业特征与宏观初值；预先定义分组"
+    },
+    {
+      "id": "OQ-007",
+      "question": "收益是否来自风险溢价而非错误定价？",
+      "status": "OPEN",
+      "data_required": "风险 / 行业匹配、信用、波动与尾部损失比较"
+    },
+    {
+      "id": "OQ-008",
+      "question": "WAIT、卖出及跨资产表达是否改善期望值？",
+      "status": "PARTIALLY_TESTED_NO_GENERIC_TIMING_EDGE",
+      "data_required": "现金 / 短债基准、费用、相关性、退出及买入规则",
+      "current_evidence": "Actual BIL +50/50+60/40+70/30 residuals; thesis/valuation sell untested."
+    },
+    {
+      "id": "OQ-009",
+      "question": "怎样定义成功、无结果及漏掉赢家？",
+      "status": "FROZEN_OUTCOME_PROXY_DEFINITION",
+      "data_required": "数据就绪后、读标签前冻结期限、基准、阈值及敏感区间",
+      "current_evidence": "Frozen p_up/scenario rules do not identify highest ex-ante utility."
+    },
+    {
+      "id": "OQ-010",
+      "question": "样本是否足以支持概率校准？",
+      "status": "OPEN",
+      "data_required": "独立已锁定预测、固定事件定义、到期结果与区间"
+    }
+  ],
+  "data_limitations": [
+    {
+      "id": "DL-001",
+      "status": "LIMITED_RECONSTRUCTED_DATA",
+      "description": "价格/公司行动/现金已部分取得；原vendor vintage、真实spread/impact/税/FX/支付日与交易日历未全核。"
+    },
+    {
+      "id": "DL-002",
+      "status": "PARTIALLY_VERIFIED_PUBLICATION",
+      "description": "16官方原release及两原filing accepted保守可用性已核；不是完整当时资讯；陈旧公告与未知发布时间严格分开。"
+    },
+    {
+      "id": "DL-003",
+      "status": "DATA_REQUIRED",
+      "description": "仍为当前存续工具样本；退市、历史成分/行业mandate与历史证券池缺失。"
+    },
+    {
+      "id": "DL-004",
+      "status": "PARTIAL_MARKET_AND_MACRO_COVERAGE",
+      "description": "金融XLF分拆隔离，CSI300/CHINEXT无历史；宏观每年9月小包，信用/预期/估值/当地macro及连续randomdate条件缺失。"
+    },
+    {
+      "id": "DL-005",
+      "status": "INSUFFICIENT_EVIDENCE",
+      "description": "374价格标签不验证原15财务/信用机制；C1N2且FRAGILE、C2N1、randomdateplaceboN0，不能晋升原则。"
+    }
+  ],
+  "recent_changes": [
+    {
+      "id": "CHG-001",
+      "date": "2026-10-08",
+      "change": "完成初始资料审计；原工作区0文件，唯一附件为指令。"
+    },
+    {
+      "id": "CHG-002",
+      "date": "2026-10-08",
+      "change": "建立研究宪章、PIT合同、模板、案例系统与长期记忆。"
+    },
+    {
+      "id": "CHG-003",
+      "date": "2026-10-08",
+      "change": "首轮真实历史回放因缺数据登记阻塞，未写预测或标签。"
+    },
+    {
+      "id": "CHG-004",
+      "date": "2026-10-08",
+      "change": "建立15个提示词衍生待检验候选及15个实验方案。"
+    },
+    {
+      "id": "CHG-005",
+      "date": "2026-10-08",
+      "change": "保存透明启发式排序和数据优先路线图，无市场规律晋升。"
+    },
+    {
+      "id": "CHG-006",
+      "date": "2026-10-08",
+      "change": "完成独立档案复核并修正自身哈希、出处保留及买入/SELL/WAIT标签协议；未增加市场证据。"
+    },
+    {
+      "id": "CHG-007",
+      "date": "2026-10-08",
+      "change": "用户授权公开历史数据和连续夜间循环，保留旧框架/候选，原24例抽样已锁、真实结果尚未计算。"
+    }
+  ],
+  "research_counts": {
+    "empirical_sources": 34,
+    "empirical_sources_unit": "16 admitted market asset files +16 original releases +2 original filing packages",
+    "completed_replays": 374,
+    "completed_replays_definition": "masked reconstructed episodes with mature primary12m; not certified original quote vintages",
+    "locked_predictions": 377,
+    "revealed_outcomes": 374,
+    "revealed_outcomes_definition": "primary12m mature; secondary24m mature359",
+    "completed_statistical_experiments": 4,
+    "experiment_count_definition": "exploratory study families: frozen trend, cash/sell allocation residuals, C1, C2; not independent confirmations",
+    "replay_discovered_candidates": 0,
+    "proposed_candidate_designs": 15,
+    "experiment_designs": 15,
+    "validated_principles": 0,
+    "phase2_blocked_question_registrations": 8,
+    "phase2_conditional_designs": 2,
+    "phase2_new_replays": 0,
+    "phase2_new_predictions": 0,
+    "selection_records": 430,
+    "insufficient_history": 53,
+    "pending_12m": 3,
+    "pending_24m": 18,
+    "date_clusters": 43,
+    "calendar_years": 23,
+    "independent_n": null
+  },
+  "current_round": {
+    "id": "ROUND_002",
+    "status": "COMPLETE_NO_ESTABLISHED_EDGE",
+    "mode": "PHASE2_CONDITIONAL_EDGE",
+    "original_grid_cases": 24,
+    "previous_round_record": "research/replays/ROUND_001_BLOCKED.md",
+    "selection_design_path": "research/replays/ROUND_002/selection_design.v001.json",
+    "ex_ante_judgment_locked": true,
+    "future_labels_revealed": true,
+    "actual_outcome": "NO_EVIDENCE_OF_GENERIC_TIMING_EDGE_NO_CONDITIONAL_EDGE_ESTABLISHED",
+    "calibration_result": "DESCRIPTIVE_UNCALIBRATED_PRIORS_NO_NEW_FORECASTS",
+    "valid_selection_rows": 430,
+    "mature_12m_rows": 374,
+    "shared_date_clusters": 43
+  },
+  "phase_status": {
+    "phase_0": "COMPLETE",
+    "phase_1": "COMPLETE",
+    "phase_2": "MASKED_RULE_REPLAY_EXECUTED",
+    "phase_3": "EXPLORATORY_COUNTEREXAMPLES_AND_CALIBRATION",
+    "phase_4": "ORIGINAL_15_UNTESTED_NO_NEW_PRINCIPLE",
+    "phase_5": "INDEPENDENT_BATCHES_NOT_PROSPECTIVE"
+  },
+  "priority_method": {
+    "purpose": "RESEARCH_QUEUE_HEURISTIC_ONLY",
+    "formula": "3*research_value + 3*falsifiability - 2*data_burden - compute_cost - 2*overfit_risk",
+    "dimension_scale": "subjective ordinal 1..5",
+    "tie_break_order": [
+      "falsifiability descending",
+      "data_burden ascending",
+      "compute_cost ascending",
+      "overfit_risk ascending",
+      "candidate ID ascending"
+    ],
+    "data_readiness_is_hard_gate": true,
+    "interpretation": "不是胜率、效果、预期收益、置信度或交易优先级。"
+  },
+  "research_protocol_paths": {
+    "constitution": "RESEARCH_CONSTITUTION.md",
+    "point_in_time": "research/protocols/DATA_CONTRACT.md",
+    "historical_replay": "research/protocols/HISTORICAL_REPLAY.md",
+    "statistical_validation": "research/protocols/STATISTICAL_VALIDATION.md",
+    "industry_frameworks_unvalidated": "research/protocols/INDUSTRY_FRAMEWORKS.md",
+    "decision_framework_unvalidated": "research/protocols/DECISION_FRAMEWORK.md",
+    "night_research": "research/protocols/NIGHT_RESEARCH_OPERATING_PROTOCOL.md",
+    "night_cohorts": "research/protocols/NIGHT_COHORTS_PROTOCOL.v001.md"
+  },
+  "documents": {
+    "inventory": "DATA_INVENTORY.md",
+    "audit": "PROJECT_AUDIT.md",
+    "hypothesis_registry": "HYPOTHESIS_REGISTRY.md",
+    "candidate_index": "CANDIDATE_PRINCIPLES.md",
+    "research_ledger": "RESEARCH_LEDGER.md",
+    "prediction_ledger": "PREDICTION_LEDGER.md",
+    "episode_index": "EPISODE_INDEX.md",
+    "investment_philosophy": "INVESTMENT_PHILOSOPHY.md",
+    "failed_hypotheses": "FAILED_HYPOTHESES.md",
+    "open_questions": "OPEN_QUESTIONS.md",
+    "roadmap": "RESEARCH_ROADMAP.md",
+    "latest_status": "research/status/LATEST.md",
+    "changelog": "CHANGELOG.md",
+    "independent_review": "research/audit/INDEPENDENT_REVIEW.md",
+    "artifact_verification": "research/audit/ARTIFACT_VERIFICATION.json",
+    "phase2_report": "CONDITIONAL_EDGE_REPORT.md",
+    "night_report": "NIGHT_RESEARCH_REPORT.md",
+    "error_taxonomy": "ERROR_TAXONOMY.md",
+    "surviving_candidates": "SURVIVING_CANDIDATES.md"
+  },
+  "operational_use_note": "未经验证的候选只能排研究队列；监控AI必须检查status和data_status，不能将候选自动用作交易信号。空信号数组不表示无市场风险，只表示本项目尚未验证。",
+  "research_execution": {
+    "latest_checkpoint": "research/checkpoints/PHASE2_FINAL.v002.json",
+    "valid_batches": [
+      "ROUND_002_V003",
+      "NIGHT_XTIME_V003",
+      "NIGHT_SECTOR_V002",
+      "NIGHT_XASSET",
+      "NIGHT_ASHARE",
+      "NIGHT_EARLY",
+      "NIGHT_RECENT",
+      "NIGHT_CALENDAR_CONTROL"
+    ],
+    "strict_quote_vintage_certified": false,
+    "prospective_blind_test": false,
+    "invalid_metadata_pilot_locks": 120,
+    "operational_framework_changed": false,
+    "new_principles": [],
+    "phase2_counts": {
+      "selection_rows": 430,
+      "valid_predictions": 377,
+      "mature_12m": 374,
+      "pending_12m": 3,
+      "mature_24m": 359,
+      "pending_24m": 18,
+      "insufficient_history": 53,
+      "date_clusters": 43,
+      "calendar_years": 23,
+      "independent_n": null,
+      "new_phase2_replays": 0,
+      "new_phase2_predictions": 0
+    },
+    "phase2_conditions": {
+      "Q-P2-C1": "FRAGILE",
+      "Q-P2-C2": "INSUFFICIENT_INDEPENDENT_REGIMES"
+    },
+    "phase2_placebo_random_date_status": "PLACEBO_NOT_EVALUABLE",
+    "risk_observation": {
+      "id": "RRC-001",
+      "confidence": "D",
+      "incremental_protection_established": false
+    }
+  },
+  "round001_snapshot": {
+    "research_counts": {
+      "empirical_sources": 0,
+      "completed_replays": 0,
+      "locked_predictions": 0,
+      "revealed_outcomes": 0,
+      "completed_statistical_experiments": 0,
+      "replay_discovered_candidates": 0,
+      "proposed_candidate_designs": 15,
+      "experiment_designs": 15,
+      "validated_principles": 0
+    },
+    "data_limitations": [
+      {
+        "id": "DL-001",
+        "status": "DATA REQUIRED",
+        "description": "历史价格、公司行动、基准、现金/短债、成本与可交易性未提供。"
+      },
+      {
+        "id": "DL-002",
+        "status": "POINT-IN-TIME DATA REQUIRED",
+        "description": "首次公开时间、时区、available_at、当时版本和来源证据未提供。"
+      },
+      {
+        "id": "DL-003",
+        "status": "DATA REQUIRED",
+        "description": "历史证券池、退市公司、成分与资产ID变更未提供。"
+      },
+      {
+        "id": "DL-004",
+        "status": "DATA REQUIRED",
+        "description": "基金、黄金、债券与宏观历史观察未提供。"
+      },
+      {
+        "id": "DL-005",
+        "status": "INSUFFICIENT EVIDENCE",
+        "description": "主提示词及生成研究文件不是观测来源，候选不构成投资证据。"
+      }
+    ]
+  }
+}

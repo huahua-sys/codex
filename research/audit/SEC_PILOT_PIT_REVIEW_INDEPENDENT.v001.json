@@ -1,0 +1,297 @@
+{
+  "audit_id": "SEC_PILOT_INDEPENDENT_QA_V001",
+  "reviewed_at": "2026-10-09T00:12:14.762761+00:00",
+  "sources_manifest_sha256": "1a7316400744b17116461ddccd4f34a85718c7c7796962bd074314d700104296",
+  "review_sha256": "f300ba036ef3c23b4275aeafca88f7e3b0d847cd1230a56f4dda03f779bd34c7",
+  "status": "PASS_NARROW_ORIGINAL_FACT_EXTRACTION",
+  "issues": [],
+  "original_filing_count": 2,
+  "verified_original_fact_count": 8,
+  "additional_replay_episodes": 0,
+  "investment_hypotheses_tested": 0,
+  "checks": [
+    {
+      "record_id": "MSFT:0001193125-16-662209:SalesRevenueNet:2016-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "{http://fasb.org/us-gaap/2016-01-31}SalesRevenueNet",
+          "name": null,
+          "context_id": "eol_PE8528----1610-K0009_STD_366_20160630_0",
+          "unitref": "iso4217_USD",
+          "format": null,
+          "scale": "0",
+          "sign": null,
+          "numeric_text": "85320000000",
+          "namespace": "http://fasb.org/us-gaap/2016-01-31",
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    },
+    {
+      "record_id": "MSFT:0001193125-16-662209:NetIncomeLoss:2016-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "{http://fasb.org/us-gaap/2016-01-31}NetIncomeLoss",
+          "name": null,
+          "context_id": "eol_PE8528----1610-K0009_STD_366_20160630_0",
+          "unitref": "iso4217_USD",
+          "format": null,
+          "scale": "0",
+          "sign": null,
+          "numeric_text": "16798000000",
+          "namespace": "http://fasb.org/us-gaap/2016-01-31",
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    },
+    {
+      "record_id": "MSFT:0001193125-16-662209:OperatingIncomeLoss:2016-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "{http://fasb.org/us-gaap/2016-01-31}OperatingIncomeLoss",
+          "name": null,
+          "context_id": "eol_PE8528----1610-K0009_STD_366_20160630_0",
+          "unitref": "iso4217_USD",
+          "format": null,
+          "scale": "0",
+          "sign": null,
+          "numeric_text": "20182000000",
+          "namespace": "http://fasb.org/us-gaap/2016-01-31",
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    },
+    {
+      "record_id": "MSFT:0001193125-16-662209:PaymentsToAcquirePropertyPlantAndEquipment:2016-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "{http://fasb.org/us-gaap/2016-01-31}PaymentsToAcquirePropertyPlantAndEquipment",
+          "name": null,
+          "context_id": "eol_PE8528----1610-K0009_STD_366_20160630_0",
+          "unitref": "iso4217_USD",
+          "format": null,
+          "scale": "0",
+          "sign": null,
+          "numeric_text": "8343000000",
+          "namespace": "http://fasb.org/us-gaap/2016-01-31",
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    },
+    {
+      "record_id": "MSFT:0000950170-23-035122:RevenueFromContractWithCustomerExcludingAssessedTax:2023-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "211,915",
+          "namespace": null,
+          "nil": null
+        },
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "211,915",
+          "namespace": null,
+          "nil": null
+        },
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "211,915",
+          "namespace": null,
+          "nil": null
+        },
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "211,915",
+          "namespace": null,
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    },
+    {
+      "record_id": "MSFT:0000950170-23-035122:NetIncomeLoss:2023-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:NetIncomeLoss",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "72,361",
+          "namespace": null,
+          "nil": null
+        },
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:NetIncomeLoss",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "72,361",
+          "namespace": null,
+          "nil": null
+        },
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:NetIncomeLoss",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "72,361",
+          "namespace": null,
+          "nil": null
+        },
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:NetIncomeLoss",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "72,361",
+          "namespace": null,
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    },
+    {
+      "record_id": "MSFT:0000950170-23-035122:OperatingIncomeLoss:2023-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:OperatingIncomeLoss",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "88,523",
+          "namespace": null,
+          "nil": null
+        },
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:OperatingIncomeLoss",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "88,523",
+          "namespace": null,
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    },
+    {
+      "record_id": "MSFT:0000950170-23-035122:PaymentsToAcquirePropertyPlantAndEquipment:2023-06-30",
+      "namespace_format_nil_check": true,
+      "period_to_publication_to_available_to_cutoff_check": true,
+      "selected_raw_fact_nodes": [
+        {
+          "tag": "ix:nonfraction",
+          "name": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "context_id": "C_da7a1266-ce2b-41b7-83ff-bb6e03dc1fa5",
+          "unitref": "U_USD",
+          "format": "ixt:num-dot-decimal",
+          "scale": "6",
+          "sign": null,
+          "numeric_text": "28,107",
+          "namespace": null,
+          "nil": null
+        }
+      ],
+      "status": "VERIFIED"
+    }
+  ],
+  "accepted_publication_semantics": "Original EDGAR index accepted timestamp corroborated by submissions; conservative next-local-calendar-day midnight is available_at. Earliest earnings release is not established. This is suitable for Sep 30 cutoffs, not exact announcement-event trading.",
+  "companyfacts_role": "Today API used only as first-original-accession locator and same-accession cross-check; later accessions/recasts permanently quarantined",
+  "later_recast_locator_values": [
+    {
+      "concept": "NetIncomeLoss",
+      "observed_period_end": "2016-06-30",
+      "original_value": 16798000000,
+      "later_locator_value": 20539000000,
+      "later_accession": "0001564590-18-019062",
+      "later_filed": "2018-08-03",
+      "status": "KNOWN_ONLY_AFTER_T_LOCATOR_NOT_ORIGINAL_DOCUMENT_VERIFIED",
+      "not_used_in_replay": true
+    },
+    {
+      "concept": "OperatingIncomeLoss",
+      "observed_period_end": "2016-06-30",
+      "original_value": 20182000000,
+      "later_locator_value": 26078000000,
+      "later_accession": "0001564590-18-019062",
+      "later_filed": "2018-08-03",
+      "status": "KNOWN_ONLY_AFTER_T_LOCATOR_NOT_ORIGINAL_DOCUMENT_VERIFIED",
+      "not_used_in_replay": true
+    }
+  ],
+  "reuse_contract": [
+    "Every future record must retain original accession, form, source bytes/hash, concept namespace, units, non-dimensional consolidated context, exact start/end, raw numeric text, scale/sign/format, accepted evidence, availability convention, accounting basis and revision relationship",
+    "Fail closed if context/entity/units/format/accepted time/source integrity ambiguous; do not reuse broad parser to admit unsupported transformations",
+    "Same-period original versus later accession is distinct vintage; do not silently substitute latest values",
+    "2016 SalesRevenueNet and 2023 RevenueFromContractWithCustomerExcludingAssessedTax differ in revenue/accounting definitions; no naive longitudinal growth inference",
+    "PaymentsToAcquirePropertyPlantAndEquipment is cash PP&E purchases, excludes commitments and finance leases; cannot proxy total AI spend or growth quality",
+    "ROIC, FCF, earnings quality, earnings revisions, credit, valuation, price-in require additional dated facts/denominators/expectation evidence"
+  ],
+  "scientific_limits": [
+    "Single surviving issuer, two annually sampled original filings; no cross-industry or cross-market inference",
+    "8 verified facts are not 8 observations of a trading effect",
+    "No prices, outcomes or new predictions were accessed for this SEC pilot",
+    "No original earnings-release time, analyst consensus vintage or independent revision panel",
+    "Current archived official bytes are accession-specific disclosure evidence; hashes are local integrity, not independently witnessed download-time stamps"
+  ]
+}

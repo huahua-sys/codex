@@ -1,0 +1,1673 @@
+{
+  "batch_role": "NEW_LABELS_COMPUTATIONAL_HOLDOUT_NOT_PROSPECTIVE",
+  "cutoff_dates": [
+    "2005-09-30",
+    "2006-09-30",
+    "2007-09-30",
+    "2008-09-30",
+    "2009-09-30",
+    "2010-09-30",
+    "2011-09-30",
+    "2012-09-30",
+    "2013-09-30",
+    "2014-09-30",
+    "2015-09-30",
+    "2016-09-30",
+    "2017-09-30",
+    "2018-09-30",
+    "2019-09-30",
+    "2020-09-30",
+    "2021-09-30",
+    "2022-09-30",
+    "2023-09-30",
+    "2024-09-30"
+  ],
+  "episodes": [
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-001",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-002",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-003",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-004",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-005",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-006",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-007",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-008",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-009",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-010",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-011",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-012",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-013",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-014",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-015",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-016",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-017",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-018",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-019",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-020",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-021",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-022",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-023",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-024",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-025",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-026",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-027",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-028",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-029",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-030",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-031",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-032",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-033",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-034",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-035",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-036",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-037",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-038",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-039",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-040",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-041",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-042",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-043",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-044",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-045",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-046",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-047",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-048",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-049",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-050",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-051",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-052",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-053",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-054",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-055",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-056",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-057",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-058",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-059",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-060",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-061",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-062",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-063",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-064",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-065",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-066",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-067",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-068",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-069",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-070",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-071",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-072",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-073",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-074",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-075",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-076",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-077",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-078",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-079",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-080",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-081",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-082",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-083",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-084",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-085",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-086",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-087",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-088",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-089",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-090",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-091",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-092",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-093",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-094",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-095",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-096",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-097",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-098",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-099",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-100",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-101",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-102",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-103",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-104",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-105",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-106",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-107",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-108",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-109",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-110",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-111",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-112",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-113",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-114",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-115",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-116",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-117",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-118",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-119",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-120",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-121",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-122",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-123",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-124",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-125",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-126",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-127",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-128",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-129",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-130",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-131",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-132",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-133",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-134",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-135",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-136",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-137",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-138",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-139",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-140",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-141",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-142",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-143",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-144",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-145",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-146",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-147",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-148",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-149",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-150",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-151",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-152",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SOXX",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-153",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLE",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-154",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLF",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-155",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLI",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-156",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLK",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-157",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLU",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-158",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLV",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-159",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "XLY",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_SECTOR-160",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    }
+  ],
+  "missing_policy": "KEEP_ROW_AND_REPORT_UNRESOLVED_DATA_NO_REPLACEMENT",
+  "round_id": "NIGHT_SECTOR",
+  "selection_inspects_outcomes": false,
+  "selection_method": "FIXED_CALENDAR_FULL_GRID",
+  "universe": [
+    {
+      "asset_id": "XLK",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "SOXX",
+      "inception_date": "2001-07-10",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLF",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLE",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLI",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLY",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLV",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    },
+    {
+      "asset_id": "XLU",
+      "inception_date": "1998-12-16",
+      "market": "US"
+    }
+  ]
+}

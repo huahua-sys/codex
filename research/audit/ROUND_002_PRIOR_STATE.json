@@ -1,0 +1,228 @@
+{
+  "captured_at": "2026-10-08T08:23:27.417756+00:00",
+  "prior_round": "ROUND_001",
+  "new_round": "ROUND_002",
+  "reason": "Preserve existing memory before append/update; no framework rebuild.",
+  "files": [
+    {
+      "path": "RESEARCH_CONSTITUTION.md",
+      "archived_path": "research/archive/ROUND_001/RESEARCH_CONSTITUTION.md",
+      "sha256": "f96f7935f4cb525bf9c563c12afdc9d2e1391a2d0a14f7d29f2a4cced7948ead"
+    },
+    {
+      "path": "PROJECT_AUDIT.md",
+      "archived_path": "research/archive/ROUND_001/PROJECT_AUDIT.md",
+      "sha256": "91d9b5dd3b9c10a7b1b1e68170e42f879fd7b2630d193957b7859a5c8046cb81"
+    },
+    {
+      "path": "DATA_INVENTORY.md",
+      "archived_path": "research/archive/ROUND_001/DATA_INVENTORY.md",
+      "sha256": "acd77e55c375d5601fe04ccd25ffa0906707605de946431d3acf49dd80b6a27c"
+    },
+    {
+      "path": "HYPOTHESIS_REGISTRY.md",
+      "archived_path": "research/archive/ROUND_001/HYPOTHESIS_REGISTRY.md",
+      "sha256": "91af5d7727a54139b0f682e0c8914f3855fd28fc4db60ad982efa37e4334a019"
+    },
+    {
+      "path": "RESEARCH_LEDGER.md",
+      "archived_path": "research/archive/ROUND_001/RESEARCH_LEDGER.md",
+      "sha256": "dec437576f3531c32c02cd4e698402c9212ad9882579bee9061a2be0c86a1fc2"
+    },
+    {
+      "path": "CANDIDATE_PRINCIPLES.md",
+      "archived_path": "research/archive/ROUND_001/CANDIDATE_PRINCIPLES.md",
+      "sha256": "cc0f72580da7ff31c1f22ef9d67389f815f253aa80aaf69311f3afbf86a63d89"
+    },
+    {
+      "path": "OPEN_QUESTIONS.md",
+      "archived_path": "research/archive/ROUND_001/OPEN_QUESTIONS.md",
+      "sha256": "ddddaf31b9d5d8b8f215c4c551500d7a7938fea7a82d6ee45777ed2f5c418b4d"
+    },
+    {
+      "path": "CURRENT_FRAMEWORK.json",
+      "archived_path": "research/archive/ROUND_001/CURRENT_FRAMEWORK.json",
+      "sha256": "d4fe949d009d4aa317a0bedbe47aa7da2689de2edf1a295b504e7c0366ca507c"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "archived_path": "research/archive/ROUND_001/CHANGELOG.md",
+      "sha256": "a3ba2fdfe00f2f8bfa4117c61d67f8793c41b2f6dd2eabbf24199a8cec87ea46"
+    },
+    {
+      "path": "EPISODE_INDEX.md",
+      "archived_path": "research/archive/ROUND_001/EPISODE_INDEX.md",
+      "sha256": "b5f69d59d78bc56b1dddd306cfb287feb2ca228d55332e1d358f0d6b54f4f0b9"
+    },
+    {
+      "path": "PREDICTION_LEDGER.md",
+      "archived_path": "research/archive/ROUND_001/PREDICTION_LEDGER.md",
+      "sha256": "e5a242dd5763e1cf06097583ad8eb786cc62ce0ffe15247c5209b2515e82219b"
+    },
+    {
+      "path": "README.md",
+      "archived_path": "research/archive/ROUND_001/README.md",
+      "sha256": "a5729364e45a3037e2609ae8a59f2aa5b3ef4bca615d5b7035474bd75d7149ad"
+    },
+    {
+      "path": "AGENTS.md",
+      "archived_path": "research/archive/ROUND_001/AGENTS.md",
+      "sha256": "2a93a3a725bce77906991f9f3c44ca9eaf11ba07b3152140862600911900e6de"
+    },
+    {
+      "path": "research/status/LATEST.md",
+      "archived_path": "research/archive/ROUND_001/research/status/LATEST.md",
+      "sha256": "fe58a733ffad97b5ca34d5e6d9210841aa4bf4d9dedbd0a345e7904e0ced11f4"
+    },
+    {
+      "path": "research/candidate_principles/CP-001.md",
+      "sha256": "7dbebf25cf88530b9db25428e2426396258b7460e092f28d8dee000471b6c1e3",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-002.md",
+      "sha256": "1201972f3f4533fba197f0921260e9bb96538deba3d51462f8650cbb8ca2778f",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-003.md",
+      "sha256": "526c17271a24facfee08efa85db7a69a32aec344bc5cc3e130258cf2d497c4cb",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-004.md",
+      "sha256": "5f3d8186e1e07b3645819858279b3361e2564b4229e78d070cd8344e35a0d8ca",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-005.md",
+      "sha256": "efb957abc7f03dc6b61a6233c249b7fde441970e3e54a0f9f00a7e2275527c76",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-006.md",
+      "sha256": "b33a0150d484861b370d017ec1994bf09c95930edbc1d41b419dd799403b369c",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-007.md",
+      "sha256": "9f04605294ecde162ec6c53352319b016af352e23d6ffcc2a1a9ef6812a1eb70",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-008.md",
+      "sha256": "fb99a2f4c1e42656998464d80c99e747e03c80dcf5ab2fc89a6b89f4d49bf715",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-009.md",
+      "sha256": "a34ed7a551bbd58d2ee050cb355cbdede16804aa3c3e2636e908a3cfcce9b903",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-010.md",
+      "sha256": "bc639d79fbd119ce38f025fc5bf823011a79b0d8bb7cc54f9c960982691ae41f",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-011.md",
+      "sha256": "8099823dd2dc3abf182c602e8612037f22e92e528524e67b764060236e0b40ff",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-012.md",
+      "sha256": "0c89b9005206c00535aed2342804894b32f31ece104a058e296048d7573724c1",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-013.md",
+      "sha256": "883e3a2eb7fcf3052d467c928093d35293f2748286856c8a4d05d295ea52d0c5",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-014.md",
+      "sha256": "3bd63c44907fdf3bc7729c96ec5682cb14ade8e13890d100416fbda11c1c472f",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/candidate_principles/CP-015.md",
+      "sha256": "9f73f73b3cfb44644e5c5940b5d810c4b6160535e7e46f435e909e74fb780f33",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-001.md",
+      "sha256": "020ea346e0fd434e89a4133f10cb50192808a849a5ac15b065f0a09668f07139",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-002.md",
+      "sha256": "174029a99f0d91c65ea69b7962428ff45a4135d31bb178297701bfbc118eb859",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-003.md",
+      "sha256": "2d10fdeda5e90a372ebcdff6fb9d73de5349eac1ac2059bcf3bb3b602e0062c2",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-004.md",
+      "sha256": "ab89fe622c176431c720fb6ed397f1ae1e54a0945f03277d8179b357cdd77af2",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-005.md",
+      "sha256": "bd1ca9f18b9cb9b50ea62f61fb07e19e31cd7e0d9fc00b080ffed5fef2fee73f",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-006.md",
+      "sha256": "640aea287b7e6926420690cfc6b1be1f6e96146439df08f0ba626a340949027b",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-007.md",
+      "sha256": "b8e6dec95f7c039660467856e255b2eb4f327759ffb6ae1eaed87d3aa40944e6",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-008.md",
+      "sha256": "f6a53c78e24e07d58dff1e5aabc0cd9876ea20a12bfbaacb428a9983989030f2",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-009.md",
+      "sha256": "e2e771ce5e438f6fbb7530463073c258642b313acd9fa7b82e43d6b908e19ea5",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-010.md",
+      "sha256": "df3ffa2b951ad47279bc9c9a13b60af836f14fb50abed5e8a6cea165bbf06ac9",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-011.md",
+      "sha256": "1594d47caf171b518b2f66f1cae4f611b5939c1e157061b3d6da50d882d31a85",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-012.md",
+      "sha256": "6cc4448827727feb586b8d4795c83f8a201ef1428cbf2d9a058d94f38640a660",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-013.md",
+      "sha256": "abd0de54944aeb4c64339ce7fd6c5651c6005651a1a515d0c97a86a3b3f6a7a3",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-014.md",
+      "sha256": "071e5e2a69a1fd71b28a5f068cfb83edcfbcc1de6077ab8c212040ce5420b0c5",
+      "preserve_unchanged": true
+    },
+    {
+      "path": "research/experiments/EXP-015.md",
+      "sha256": "5115e04113b46fd6d5d3d5f79679f4b086d3c82160e5e7db895af7cc106e7b32",
+      "preserve_unchanged": true
+    }
+  ]
+}

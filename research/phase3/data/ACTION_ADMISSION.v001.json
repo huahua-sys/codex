@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "asset_id": "QQQ",
+      "canonical_sha256": "c6cda7871e55dc511e61654ddc99915326ae56ac3629159f1a66ea65a6663aa9",
+      "eligibility_override": "ALLOW_ORDINARY_SPLIT_RECONSTRUCTED_UNITS_AND_PROVIDER_CONDITIONAL_TR",
+      "event": "ORDINARY_TWO_FOR_ONE_SPLIT",
+      "every_dividend_reconciled": false,
+      "new_labels_read_before_reconciliation": false,
+      "ratio": 2.0,
+      "registered_at": "2026-10-09T05:34:56.892082+00:00",
+      "scope": "ADMIN_DATA_UNIT_RECONCILIATION_ONLY_NOT_PIT_NEWS_OR_FEATURE",
+      "source_path": "research/phase3/data/action_proof/QQQ2000issuerwire.html",
+      "source_quality": "NASDAQ_AUTHORED_RELEASE_REPUBLICATION_NOT_ORIGINAL_ISSUER_HOST",
+      "source_sha256": "733ddf0d164686bd2970b3498e959cf60bd6e5b32cf14ee815be546a6dea0918",
+      "source_url": "https://mondovisione.com/media-and-resources/news/nasdaq100-index-tracking-stock-celebrates-stellar-first-year-2011124/",
+      "trading_effective_date": "2000-03-20"
+    }
+  ]
+}

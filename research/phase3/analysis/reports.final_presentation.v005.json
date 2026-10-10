@@ -1,0 +1,14 @@
+{
+  "n_effective": null,
+  "new_experiments": 0,
+  "new_report_sha256": {
+    "CROSS_TIME_VALIDATION.md": "783b435fc0d98e310d3992c4ef320fa9fee2ba9d28aab0e3bc03df77e7f3b24e",
+    "EFFECTIVE_SAMPLE_REPORT.md": "d36d628b5875dae8daf89d7e5f1c47844c1c35c1845d721373887c238740d139",
+    "EXPANDED_PANEL_REPORT.md": "e1264ffe9aedbef995679bc95b7eb3bd5c24544bef4ea995da2ccc7fd09f9064",
+    "MULTIPLE_TESTING_LEDGER.md": "b325c00dde2ed2707c3cc6c864d23c80af748e23196b9f5f07cf91384a760796"
+  },
+  "prior_cross_report_sha256": "a3ff768bf8cab58e5d9e5433401c32b7e3e2f0ae9573b50fd793cf3f8f4bc3b5",
+  "raw_observations": 2704,
+  "reason": "Render under4block era interval as unreliable; existing numeric values remain in locked result JSON",
+  "written_at": "2026-10-09T15:32:34.244207+00:00"
+}

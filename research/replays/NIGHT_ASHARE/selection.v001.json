@@ -1,0 +1,462 @@
+{
+  "batch_role": "NEW_LABELS_COMPUTATIONAL_HOLDOUT_NOT_PROSPECTIVE",
+  "cutoff_dates": [
+    "2011-09-30",
+    "2012-09-30",
+    "2013-09-30",
+    "2014-09-30",
+    "2015-09-30",
+    "2016-09-30",
+    "2017-09-30",
+    "2018-09-30",
+    "2019-09-30",
+    "2020-09-30",
+    "2021-09-30",
+    "2022-09-30",
+    "2023-09-30",
+    "2024-09-30"
+  ],
+  "episodes": [
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-001",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-002",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-003",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-004",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-005",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-006",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-007",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-008",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-009",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-010",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-011",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-012",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-013",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-014",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-015",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-016",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-017",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-018",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-019",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-020",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-021",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-022",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-023",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-024",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-025",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-026",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-027",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-028",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-029",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-030",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-031",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-032",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-033",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-034",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-035",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-036",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-037",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-038",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-039",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-040",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "CSI300",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-041",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SSE",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_ASHARE-042",
+      "market": "CN",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    }
+  ],
+  "missing_policy": "KEEP_ROW_AND_REPORT_UNRESOLVED_DATA_NO_REPLACEMENT",
+  "round_id": "NIGHT_ASHARE",
+  "selection_inspects_outcomes": false,
+  "selection_method": "FIXED_CALENDAR_FULL_GRID",
+  "universe": [
+    {
+      "asset_id": "SSE",
+      "inception_date": "1991-07-15",
+      "market": "CN"
+    },
+    {
+      "asset_id": "CSI300",
+      "inception_date": "2005-04-08",
+      "market": "CN"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "inception_date": "2010-06-01",
+      "market": "CN"
+    }
+  ]
+}

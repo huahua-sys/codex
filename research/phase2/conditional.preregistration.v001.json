@@ -1,0 +1,437 @@
+{
+  "design": {
+    "annual_policy_direction": "current September FOMC lower bound minus previous calendar year September FOMC lower bound; never current-meeting rate change; 2016 UNKNOWN",
+    "benchmarks": [
+      "ALWAYS_SPY",
+      "ALWAYS_BIL",
+      "ALWAYS_IEF",
+      "FIXED_50_50_SPY_BIL",
+      "FIXED_60_40_SPY_IEF",
+      "FIXED_70_30_SPY_IEF"
+    ],
+    "conditions": {
+      "Q-P2-C1": {
+        "endpoint": "IEF-minus-BIL net return; IEF MDD/MAE and lower residual observations descriptive",
+        "if": "original headline CPI yoy >= 3.0 AND current September Fed target lower bound > prior annual September target lower bound",
+        "mechanism": "inflation-linked tightening creates duration repricing and policy-path risk relative to short bills",
+        "not_identified": "term premium, starting yield, expected policy path, price-in, growth and future inflation are unobserved",
+        "primary_prediction": "12m IEF net minus BIL net is negative and weaker than non-signal observations",
+        "strong_local_counterexample": "signal followed by nonnegative 12m IEF-minus-BIL",
+        "unknown_policy_direction": "signal null, not false"
+      },
+      "Q-P2-C2": {
+        "if": "original headline CPI yoy >= 3.0 AND current Fed target upper bound <= 0.5",
+        "mechanism": "a high observed inflation / near-zero policy gap can put pressure on future policy normalization",
+        "primary_prediction": "next calendar year September original FOMC target lower bound increases by >= 0.5 percentage points",
+        "secondary_description": "same-start SPY/IEF returns and residuals; correct policy prediction is not price alpha",
+        "unknown_future_policy": "2023 next annual original release missing; label null; no new download or imputation"
+      }
+    },
+    "confidence_ceiling": "D for this study",
+    "cost_per_leg_bps": 25.0,
+    "decision": "n<5 signal years or fewer than two independently evidenced macro regimes => INSUFFICIENT_INDEPENDENT_REGIMES regardless attractive mean; observed sign contradictions retained",
+    "feature_publication_gate": "VERIFIED original archive, published_at <= available_at <= T; source HTML SHA must match",
+    "freshness_days": 45,
+    "horizons": {
+      "12m": 252,
+      "1m": 21,
+      "1w": 5,
+      "24m": 504,
+      "3m": 63,
+      "6m": 126
+    },
+    "independent_regimes": "unknown: 2021-2023 inflation/policy cycle cannot count as three independent regimes",
+    "label_accounting": "shared phase2_benchmarks.evaluate_cutoff: SPY/IEF/BIL common observed next-open; exit OPEN after N full sessions; qualified ex-date dividend reinvestment",
+    "limitations": [
+      "original official releases retrieved today, not external trusted archives",
+      "current corrected/backfilled quote vintages",
+      "provider-reported dividends only; ex-date reinvestment is an economic convention",
+      "BIL split administrative reconstruction",
+      "surviving USD ETF sample",
+      "normal-session clock/half-day/halts not exhaustively verified",
+      "assumed trading costs; taxes/FX unavailable",
+      "eight date clusters, overlapping horizons, unknown independent N",
+      "adaptive hypothesis choice and historical model memory",
+      "no valuation, credit, expectations, term premium or fundamental records"
+    ],
+    "new_rule_predictions": 0,
+    "parameter_searches": 0,
+    "perturbations": {
+      "date_shift_calendar_days": [
+        -5,
+        0,
+        5
+      ],
+      "design": "one factor at a time with primary unchanged; every version saved, no choosing best",
+      "headline_cpi_threshold_pct": [
+        2.5,
+        3.0,
+        3.5
+      ],
+      "holding_sessions": [
+        231,
+        252,
+        273
+      ],
+      "market_industry": "NOT_IDENTIFIED: US policy/inflation not transplanted to HK/JP or company-sector fundamentals"
+    },
+    "placebos": {
+      "inference": "null distributions descriptive only; tiny signal N prohibits statistical p-value or significance claim",
+      "paired_label_shuffle": "permute whole-year paired asset outcome vectors and future-policy labels across 8 date clusters",
+      "random_dates": "one uniform Monday-Friday date per calendar year; reapply true publication/freshness gate, keep unavailable conditions null; eight controls only",
+      "random_holdings": "each repetition draws each annual year holding from fixed 126/252/504 session set; no selection of best horizon",
+      "random_signals": "permute whole-year condition masks including null across 8 date clusters; no independent ETF shuffle",
+      "repetitions": 200,
+      "seed": 20261009
+    },
+    "primary_horizon": "12m",
+    "prior_historical_knowledge_and_old_rule_outcomes_known": true,
+    "purpose": "finite falsification of two economic mechanisms, not a trading strategy",
+    "research_mode": "ADAPTIVE_EXPLORATORY_NOT_INDEPENDENT_BLIND_CONFIRMATION",
+    "residual": "paired arithmetic net-return differences; not regression alpha or causal effect",
+    "risk_metrics": "daily close wealth plus terminal open MDD, MAE, MFE; lowest observations and q10 residual descriptive, not estimated population tails",
+    "sample": {
+      "cutoff": "09-30T23:59:59+00:00",
+      "date_clusters": 8,
+      "outcome_selection": false,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "secondary_horizons": [
+      "1w",
+      "1m",
+      "3m",
+      "6m",
+      "24m"
+    ],
+    "study_id": "PHASE2-CONDITIONAL-v001",
+    "units": "CPI yoy and Fed target bounds are percent numbers (5.25 means 5.25 percent), delta in percentage points"
+  },
+  "honesty": "Official collection and old trend-rule outcomes already inspected; adaptive exploration only. No new price labels computed before this version lock.",
+  "normalized_KNOWN_AT_T_fields": [
+    {
+      "annual_direction_status": "UNKNOWN",
+      "annual_september_lower_delta_pp": null,
+      "condition_C1": null,
+      "condition_C2": false,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 1.1,
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "fed_lower_pct": 0.25,
+      "fed_upper_pct": 0.5,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2016-09-21T18:00:00+00:00",
+          "published_at": "2016-09-21T18:00:00+00:00",
+          "record_id": "FED-FOMC-20160921",
+          "source_sha256": "0bebf6c102bbcfb675dd0b6d19b2240ee139c1696c9e1887becbdbd8e38668a5",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm",
+          "vintage_id": "FED-FOMC-20160921-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2016-09-16T12:30:00+00:00",
+          "published_at": "2016-09-16T12:30:00+00:00",
+          "record_id": "BLS-CPI-09162016",
+          "source_sha256": "3513e92aecf1a6f26c526446a86daf725563de87894f1f3c5f0d4d20d5df53e5",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09162016.htm",
+          "vintage_id": "BLS-CPI-09162016-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": null
+      }
+    },
+    {
+      "annual_direction_status": "RISING",
+      "annual_september_lower_delta_pp": 0.75,
+      "condition_C1": false,
+      "condition_C2": false,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 1.9,
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "fed_lower_pct": 1.0,
+      "fed_upper_pct": 1.25,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2017-09-20T18:00:00+00:00",
+          "published_at": "2017-09-20T18:00:00+00:00",
+          "record_id": "FED-FOMC-20170920",
+          "source_sha256": "a5b332ca9b50a293d0870d0524c1bd41b2903061b1a5159b266cb7c7ad5725a4",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm",
+          "vintage_id": "FED-FOMC-20170920-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2017-09-14T12:30:00+00:00",
+          "published_at": "2017-09-14T12:30:00+00:00",
+          "record_id": "BLS-CPI-09142017",
+          "source_sha256": "4e2a80a000cd0e136c14f83cad82d3d95a19ac32c993d455137d81693e3737d3",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09142017.htm",
+          "vintage_id": "BLS-CPI-09142017-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": {
+          "available_at": "2016-09-21T18:00:00+00:00",
+          "published_at": "2016-09-21T18:00:00+00:00",
+          "record_id": "FED-FOMC-20160921",
+          "source_sha256": "0bebf6c102bbcfb675dd0b6d19b2240ee139c1696c9e1887becbdbd8e38668a5",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm",
+          "vintage_id": "FED-FOMC-20160921-ORIGINAL_ARCHIVED_RELEASE"
+        }
+      }
+    },
+    {
+      "annual_direction_status": "RISING",
+      "annual_september_lower_delta_pp": 1.0,
+      "condition_C1": false,
+      "condition_C2": false,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 2.7,
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "fed_lower_pct": 2.0,
+      "fed_upper_pct": 2.25,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2018-09-26T18:00:00+00:00",
+          "published_at": "2018-09-26T18:00:00+00:00",
+          "record_id": "FED-FOMC-20180926",
+          "source_sha256": "37533edf7069b3e3cc0ba747c9f5929c416f828cb6aaa14b10fe831c37d1aed1",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180926a.htm",
+          "vintage_id": "FED-FOMC-20180926-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2018-09-13T12:30:00+00:00",
+          "published_at": "2018-09-13T12:30:00+00:00",
+          "record_id": "BLS-CPI-09132018",
+          "source_sha256": "efe61134ef1c50a1f9d4362749820f6e257493cc79de2eab58c68338f278bcdd",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09132018.htm",
+          "vintage_id": "BLS-CPI-09132018-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": {
+          "available_at": "2017-09-20T18:00:00+00:00",
+          "published_at": "2017-09-20T18:00:00+00:00",
+          "record_id": "FED-FOMC-20170920",
+          "source_sha256": "a5b332ca9b50a293d0870d0524c1bd41b2903061b1a5159b266cb7c7ad5725a4",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm",
+          "vintage_id": "FED-FOMC-20170920-ORIGINAL_ARCHIVED_RELEASE"
+        }
+      }
+    },
+    {
+      "annual_direction_status": "FALLING",
+      "annual_september_lower_delta_pp": -0.25,
+      "condition_C1": false,
+      "condition_C2": false,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 1.7,
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "fed_lower_pct": 1.75,
+      "fed_upper_pct": 2.0,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2019-09-18T18:00:00+00:00",
+          "published_at": "2019-09-18T18:00:00+00:00",
+          "record_id": "FED-FOMC-20190918",
+          "source_sha256": "dbcee2b5787bc8844f330e18fd8351650b25c49db1277568ee3c326c87abcf20",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190918a.htm",
+          "vintage_id": "FED-FOMC-20190918-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2019-09-12T12:30:00+00:00",
+          "published_at": "2019-09-12T12:30:00+00:00",
+          "record_id": "BLS-CPI-09122019",
+          "source_sha256": "735ade9d8b196215e30130252dd063c1170eb640c2a87cb391338451d0494200",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09122019.htm",
+          "vintage_id": "BLS-CPI-09122019-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": {
+          "available_at": "2018-09-26T18:00:00+00:00",
+          "published_at": "2018-09-26T18:00:00+00:00",
+          "record_id": "FED-FOMC-20180926",
+          "source_sha256": "37533edf7069b3e3cc0ba747c9f5929c416f828cb6aaa14b10fe831c37d1aed1",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180926a.htm",
+          "vintage_id": "FED-FOMC-20180926-ORIGINAL_ARCHIVED_RELEASE"
+        }
+      }
+    },
+    {
+      "annual_direction_status": "FALLING",
+      "annual_september_lower_delta_pp": -1.75,
+      "condition_C1": false,
+      "condition_C2": false,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 1.3,
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "fed_lower_pct": 0.0,
+      "fed_upper_pct": 0.25,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2020-09-16T18:00:00+00:00",
+          "published_at": "2020-09-16T18:00:00+00:00",
+          "record_id": "FED-FOMC-20200916",
+          "source_sha256": "8b45272fa0a85a2f099f7383806dd7325110c677392ec498e99f2cfbd0ee648a",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200916a.htm",
+          "vintage_id": "FED-FOMC-20200916-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2020-09-11T12:30:00+00:00",
+          "published_at": "2020-09-11T12:30:00+00:00",
+          "record_id": "BLS-CPI-09112020",
+          "source_sha256": "84106828c3bf392ebdfc42c13eb809610618ed9e04f8cbc4956bd00df55f0155",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09112020.htm",
+          "vintage_id": "BLS-CPI-09112020-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": {
+          "available_at": "2019-09-18T18:00:00+00:00",
+          "published_at": "2019-09-18T18:00:00+00:00",
+          "record_id": "FED-FOMC-20190918",
+          "source_sha256": "dbcee2b5787bc8844f330e18fd8351650b25c49db1277568ee3c326c87abcf20",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190918a.htm",
+          "vintage_id": "FED-FOMC-20190918-ORIGINAL_ARCHIVED_RELEASE"
+        }
+      }
+    },
+    {
+      "annual_direction_status": "UNCHANGED",
+      "annual_september_lower_delta_pp": 0.0,
+      "condition_C1": false,
+      "condition_C2": true,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 5.3,
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "fed_lower_pct": 0.0,
+      "fed_upper_pct": 0.25,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2021-09-22T18:00:00+00:00",
+          "published_at": "2021-09-22T18:00:00+00:00",
+          "record_id": "FED-FOMC-20210922",
+          "source_sha256": "255c168c85a5f07886490e9104178159a1a5a421e1fee76591c675c5d06a8141",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm",
+          "vintage_id": "FED-FOMC-20210922-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2021-09-14T12:30:00+00:00",
+          "published_at": "2021-09-14T12:30:00+00:00",
+          "record_id": "BLS-CPI-09142021",
+          "source_sha256": "48f57344a9f457b40295444a531fb2888ddc8ab4414a20feaca8355f4d963c89",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09142021.htm",
+          "vintage_id": "BLS-CPI-09142021-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": {
+          "available_at": "2020-09-16T18:00:00+00:00",
+          "published_at": "2020-09-16T18:00:00+00:00",
+          "record_id": "FED-FOMC-20200916",
+          "source_sha256": "8b45272fa0a85a2f099f7383806dd7325110c677392ec498e99f2cfbd0ee648a",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200916a.htm",
+          "vintage_id": "FED-FOMC-20200916-ORIGINAL_ARCHIVED_RELEASE"
+        }
+      }
+    },
+    {
+      "annual_direction_status": "RISING",
+      "annual_september_lower_delta_pp": 3.0,
+      "condition_C1": true,
+      "condition_C2": false,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 8.3,
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "fed_lower_pct": 3.0,
+      "fed_upper_pct": 3.25,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2022-09-21T18:00:00+00:00",
+          "published_at": "2022-09-21T18:00:00+00:00",
+          "record_id": "FED-FOMC-20220921",
+          "source_sha256": "a8f975178a115c5e3bd67648104f88b33150f9fe3d1d0d930a8b7e193ee8fba7",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+          "vintage_id": "FED-FOMC-20220921-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2022-09-13T12:30:00+00:00",
+          "published_at": "2022-09-13T12:30:00+00:00",
+          "record_id": "BLS-CPI-09132022",
+          "source_sha256": "0fe793a6526f424fa85619b4283e172f0ae143ae94162f1a1910b968be1b97c3",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09132022.htm",
+          "vintage_id": "BLS-CPI-09132022-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": {
+          "available_at": "2021-09-22T18:00:00+00:00",
+          "published_at": "2021-09-22T18:00:00+00:00",
+          "record_id": "FED-FOMC-20210922",
+          "source_sha256": "255c168c85a5f07886490e9104178159a1a5a421e1fee76591c675c5d06a8141",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm",
+          "vintage_id": "FED-FOMC-20210922-ORIGINAL_ARCHIVED_RELEASE"
+        }
+      }
+    },
+    {
+      "annual_direction_status": "RISING",
+      "annual_september_lower_delta_pp": 2.25,
+      "condition_C1": true,
+      "condition_C2": false,
+      "cpi_threshold_pct": 3.0,
+      "cpi_yoy_pct": 3.7,
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "fed_lower_pct": 5.25,
+      "fed_upper_pct": 5.5,
+      "freshness_policy": "45 days for current releases; exact prior-year annual FOMC comparator intentionally older",
+      "no_current_meeting_rate_change_claim": true,
+      "source_proofs": {
+        "current_fomc": {
+          "available_at": "2023-09-20T18:00:00+00:00",
+          "published_at": "2023-09-20T18:00:00+00:00",
+          "record_id": "FED-FOMC-20230920",
+          "source_sha256": "f53a6917285fd737482cec3826c682a23a420706255ad4339a3e197ceecd0252",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230920a.htm",
+          "vintage_id": "FED-FOMC-20230920-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "first_cpi": {
+          "available_at": "2023-09-13T12:30:00+00:00",
+          "published_at": "2023-09-13T12:30:00+00:00",
+          "record_id": "BLS-CPI-09132023",
+          "source_sha256": "83a7380d4e81463a3266935617ac086f8edc5f2ef3b9fee826bd2b521eaccf49",
+          "source_url": "https://www.bls.gov/news.release/archives/cpi_09132023.htm",
+          "vintage_id": "BLS-CPI-09132023-ORIGINAL_ARCHIVED_RELEASE"
+        },
+        "prior_annual_september_fomc": {
+          "available_at": "2022-09-21T18:00:00+00:00",
+          "published_at": "2022-09-21T18:00:00+00:00",
+          "record_id": "FED-FOMC-20220921",
+          "source_sha256": "a8f975178a115c5e3bd67648104f88b33150f9fe3d1d0d930a8b7e193ee8fba7",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+          "vintage_id": "FED-FOMC-20220921-ORIGINAL_ARCHIVED_RELEASE"
+        }
+      }
+    }
+  ],
+  "registered_at": "2026-10-09T00:16:32.232271+00:00",
+  "source_and_code_sha256": {
+    "data/raw/round_002/market/BIL.canonical.json": "47d1a9dc7657afea42f5dbe0d39abff0a3ccb5a1e2d7d466105fcb8983d800eb",
+    "data/raw/round_002/market/IEF.canonical.json": "a7c4676d7b929d22b5d29687d0c9740c25206aaa5cb507d306a069436e6b17a9",
+    "data/raw/round_002/market/SPY.canonical.json": "b8fd3fcd5434381c8e8c15f81f92e5441b972a7843085e7242c88c97bcf4c874",
+    "data/raw/round_002/official/release_records.json": "c4cb850b6b2450015303cfe0350c2e811315bd6eaa3b2da06c43d595ab35ae93",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "scripts/analyze_cash_and_sell.py": "0c10ac9dbe8077512e0d3b5cd92e840c0c43a5c617d9fcd1a1bdac9604c272d4",
+    "scripts/phase2_benchmarks.py": "f1018fcd6716235693207a1f9f23951e01ba9a9babbca8bf26c37f73e5153f3a",
+    "scripts/phase2_conditional.py": "d31c9251707965698ac8f58338a3fd9fdd9b179c252521e19d157346dbf253f3"
+  }
+}

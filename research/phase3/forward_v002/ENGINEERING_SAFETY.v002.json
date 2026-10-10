@@ -1,0 +1,35 @@
+{
+  "actual_early_capture_rejection": {
+    "actual_at": "2026-10-09T15:35:45.910094+00:00",
+    "decision_directory_existed_before": false,
+    "decision_directory_exists_after": false,
+    "error": "PENDING_OR_MISSED_DECISION: actual UTC time must be month-end weekday after US16:00 close or within next 3 calendar days",
+    "network_path_calls": 0,
+    "rejected_before_network_and_decision_directory_creation": true,
+    "requested_month": "2026-10"
+  },
+  "checks": {
+    "504_keeps_other_features_relative_vol_unknown": true,
+    "append_only_overwrite_rejected_hash_preserved": true,
+    "before_month_end_rejected": true,
+    "complete_session_sha_benchmark_fail_closed": true,
+    "early_month_end_rejected": true,
+    "incomplete_session_excluded": true,
+    "missed_window_rejected": true,
+    "ordinary_split_without_independent_admission_quarantined": true,
+    "parent_v001_registration_and_sources_unchanged": true,
+    "permitted_real_capture_window": true,
+    "post_actual_cutoff_retention_rejected": true,
+    "same_endpoints_valid_distinct_internal_dates_rejected": true,
+    "simple_returns_last252_peak_full_505_parity_with_frozen_panel": true,
+    "winter_us_close_not_early": true
+  },
+  "created_at": "2026-10-09T15:35:45.910242+00:00",
+  "data_kind": "SYNTHETIC_ONLY_NOT_INVESTMENT_EVIDENCE",
+  "effective_real_sample": 0,
+  "new_script_sha256": "55fc9261a9cbdc6628407cd31c0f8ce83751e9e058cb643d0ac83499d19585b0",
+  "parent_script_sha256": "de3f6363514a1c1fd09f0e4b051e74c26d07757befe2fd73657f1834438d60b3",
+  "raw_real_observations": 0,
+  "registration_lock_sha256": "734aeea00078b64851683784b15a05e899ae7c71f9df350fa0c5797d030fef10",
+  "status": "ENGINEERING_SAFETY_PASS"
+}

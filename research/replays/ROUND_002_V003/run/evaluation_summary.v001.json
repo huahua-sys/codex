@@ -1,0 +1,374 @@
+{
+  "date_cluster_count": 8,
+  "effective_independent_sample_warning": "Same date market episodes share shocks; long horizons overlap; count date clusters, not 24 independent bets",
+  "episode_count": 24,
+  "horizons": {
+    "12m": {
+      "always_up_direction_accuracy": 0.7083333333333334,
+      "calibration_bins": [
+        {
+          "actual_up_fraction": 0.7142857142857143,
+          "bin": [
+            0.0,
+            0.45
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.4,
+          "n": 7,
+          "naive_wilson_95_interval": [
+            0.35892909014821267,
+            0.9177828342909844
+          ]
+        },
+        {
+          "actual_up_fraction": 0.8,
+          "bin": [
+            0.45,
+            0.55
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.5,
+          "n": 5,
+          "naive_wilson_95_interval": [
+            0.3755282641185388,
+            0.9637768390302125
+          ]
+        },
+        {
+          "actual_up_fraction": 0.6666666666666666,
+          "bin": [
+            0.55,
+            1.0
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.6,
+          "n": 12,
+          "naive_wilson_95_interval": [
+            0.3906175873976139,
+            0.8618821601026385
+          ]
+        }
+      ],
+      "calibration_conclusion": "INSUFFICIENT_INDEPENDENT_SAMPLE",
+      "constant_05_brier": 0.25,
+      "constant_06_brier": 0.21833333333333335,
+      "direction_accuracy": 0.5263157894736842,
+      "downside_avoidance_fraction": 0.5163648924283274,
+      "mean_brier_score": 0.25375,
+      "mean_hypothetical_decision_return": 0.038160761092907794,
+      "mean_model_expected_value": 0.0038332071651533996,
+      "mean_realized_net_label": 0.08536825946239578,
+      "mean_scenario_brier_score": 0.6891666666666668,
+      "n_direction_scored": 19,
+      "n_mature": 24,
+      "n_unresolved_or_pending": 0,
+      "upside_capture_ratio": 0.45800656047004823
+    },
+    "1m": {
+      "always_up_direction_accuracy": 0.5,
+      "calibration_bins": [
+        {
+          "actual_up_fraction": 0.5714285714285714,
+          "bin": [
+            0.0,
+            0.45
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.4,
+          "n": 7,
+          "naive_wilson_95_interval": [
+            0.2504542304090258,
+            0.8417830777373732
+          ]
+        },
+        {
+          "actual_up_fraction": 0.6,
+          "bin": [
+            0.45,
+            0.55
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.5,
+          "n": 5,
+          "naive_wilson_95_interval": [
+            0.23071993220883708,
+            0.8823817688407467
+          ]
+        },
+        {
+          "actual_up_fraction": 0.4166666666666667,
+          "bin": [
+            0.55,
+            1.0
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.6,
+          "n": 12,
+          "naive_wilson_95_interval": [
+            0.19325746190524656,
+            0.6804926643446272
+          ]
+        }
+      ],
+      "calibration_conclusion": "INSUFFICIENT_INDEPENDENT_SAMPLE",
+      "constant_05_brier": 0.25,
+      "constant_06_brier": 0.26,
+      "direction_accuracy": 0.42105263157894735,
+      "downside_avoidance_fraction": 0.4588142093706082,
+      "mean_brier_score": 0.2704166666666667,
+      "mean_hypothetical_decision_return": -0.005386079703192419,
+      "mean_model_expected_value": 0.0011065515943304584,
+      "mean_realized_net_label": -0.0036135193961560064,
+      "mean_scenario_brier_score": 0.6975000000000001,
+      "n_direction_scored": 19,
+      "n_mature": 24,
+      "n_unresolved_or_pending": 0,
+      "upside_capture_ratio": 0.3805706969044444
+    },
+    "1w": {
+      "always_up_direction_accuracy": 0.5833333333333334,
+      "calibration_bins": [
+        {
+          "actual_up_fraction": 0.7142857142857143,
+          "bin": [
+            0.0,
+            0.45
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.4,
+          "n": 7,
+          "naive_wilson_95_interval": [
+            0.35892909014821267,
+            0.9177828342909844
+          ]
+        },
+        {
+          "actual_up_fraction": 0.4,
+          "bin": [
+            0.45,
+            0.55
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.5,
+          "n": 5,
+          "naive_wilson_95_interval": [
+            0.1176182311592533,
+            0.769280067791163
+          ]
+        },
+        {
+          "actual_up_fraction": 0.5833333333333334,
+          "bin": [
+            0.55,
+            1.0
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.6,
+          "n": 12,
+          "naive_wilson_95_interval": [
+            0.3195073356553728,
+            0.8067425380947535
+          ]
+        }
+      ],
+      "calibration_conclusion": "INSUFFICIENT_INDEPENDENT_SAMPLE",
+      "constant_05_brier": 0.25,
+      "constant_06_brier": 0.24333333333333332,
+      "direction_accuracy": 0.47368421052631576,
+      "downside_avoidance_fraction": 0.49629268181148045,
+      "mean_brier_score": 0.26208333333333333,
+      "mean_hypothetical_decision_return": -0.001841432995398934,
+      "mean_model_expected_value": 0.0005399418908142051,
+      "mean_realized_net_label": -0.0035454414171892054,
+      "mean_scenario_brier_score": 0.6641666666666667,
+      "n_direction_scored": 19,
+      "n_mature": 24,
+      "n_unresolved_or_pending": 0,
+      "upside_capture_ratio": 0.49596315106812705
+    },
+    "24m": {
+      "always_up_direction_accuracy": 0.75,
+      "calibration_bins": [
+        {
+          "actual_up_fraction": 0.5714285714285714,
+          "bin": [
+            0.0,
+            0.45
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.4,
+          "n": 7,
+          "naive_wilson_95_interval": [
+            0.2504542304090258,
+            0.8417830777373732
+          ]
+        },
+        {
+          "actual_up_fraction": 0.8,
+          "bin": [
+            0.45,
+            0.55
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.5,
+          "n": 5,
+          "naive_wilson_95_interval": [
+            0.3755282641185388,
+            0.9637768390302125
+          ]
+        },
+        {
+          "actual_up_fraction": 0.8333333333333334,
+          "bin": [
+            0.55,
+            1.0
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.6,
+          "n": 12,
+          "naive_wilson_95_interval": [
+            0.5519636426153274,
+            0.9530358523851776
+          ]
+        }
+      ],
+      "calibration_conclusion": "INSUFFICIENT_INDEPENDENT_SAMPLE",
+      "constant_05_brier": 0.25,
+      "constant_06_brier": 0.21000000000000005,
+      "direction_accuracy": 0.6842105263157895,
+      "downside_avoidance_fraction": 0.8939338540547016,
+      "mean_brier_score": 0.22875,
+      "mean_hypothetical_decision_return": 0.07123414918429861,
+      "mean_model_expected_value": 0.005420973560345662,
+      "mean_realized_net_label": 0.19052673362360953,
+      "mean_scenario_brier_score": 0.6641666666666667,
+      "n_direction_scored": 19,
+      "n_mature": 24,
+      "n_unresolved_or_pending": 0,
+      "upside_capture_ratio": 0.3312135380425595
+    },
+    "3m": {
+      "always_up_direction_accuracy": 0.6666666666666666,
+      "calibration_bins": [
+        {
+          "actual_up_fraction": 0.5714285714285714,
+          "bin": [
+            0.0,
+            0.45
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.4,
+          "n": 7,
+          "naive_wilson_95_interval": [
+            0.2504542304090258,
+            0.8417830777373732
+          ]
+        },
+        {
+          "actual_up_fraction": 0.8,
+          "bin": [
+            0.45,
+            0.55
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.5,
+          "n": 5,
+          "naive_wilson_95_interval": [
+            0.3755282641185388,
+            0.9637768390302125
+          ]
+        },
+        {
+          "actual_up_fraction": 0.6666666666666666,
+          "bin": [
+            0.55,
+            1.0
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.6,
+          "n": 12,
+          "naive_wilson_95_interval": [
+            0.3906175873976139,
+            0.8618821601026385
+          ]
+        }
+      ],
+      "calibration_conclusion": "INSUFFICIENT_INDEPENDENT_SAMPLE",
+      "constant_05_brier": 0.25,
+      "constant_06_brier": 0.22666666666666668,
+      "direction_accuracy": 0.5789473684210527,
+      "downside_avoidance_fraction": 0.3359410144586433,
+      "mean_brier_score": 0.2454166666666667,
+      "mean_hypothetical_decision_return": 0.016158411190635744,
+      "mean_model_expected_value": 0.0019166035825766998,
+      "mean_realized_net_label": 0.043770988556213995,
+      "mean_scenario_brier_score": 0.6975000000000001,
+      "n_direction_scored": 19,
+      "n_mature": 24,
+      "n_unresolved_or_pending": 0,
+      "upside_capture_ratio": 0.47791857316269526
+    },
+    "6m": {
+      "always_up_direction_accuracy": 0.6666666666666666,
+      "calibration_bins": [
+        {
+          "actual_up_fraction": 0.7142857142857143,
+          "bin": [
+            0.0,
+            0.45
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.4,
+          "n": 7,
+          "naive_wilson_95_interval": [
+            0.35892909014821267,
+            0.9177828342909844
+          ]
+        },
+        {
+          "actual_up_fraction": 0.6,
+          "bin": [
+            0.45,
+            0.55
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.5,
+          "n": 5,
+          "naive_wilson_95_interval": [
+            0.23071993220883708,
+            0.8823817688407467
+          ]
+        },
+        {
+          "actual_up_fraction": 0.6666666666666666,
+          "bin": [
+            0.55,
+            1.0
+          ],
+          "interval_limitation": "dependent overlapping observations; interval understates uncertainty",
+          "mean_predicted_probability": 0.6,
+          "n": 12,
+          "naive_wilson_95_interval": [
+            0.3906175873976139,
+            0.8618821601026385
+          ]
+        }
+      ],
+      "calibration_conclusion": "INSUFFICIENT_INDEPENDENT_SAMPLE",
+      "constant_05_brier": 0.25,
+      "constant_06_brier": 0.22666666666666668,
+      "direction_accuracy": 0.5263157894736842,
+      "downside_avoidance_fraction": 0.5189588676679011,
+      "mean_brier_score": 0.25375,
+      "mean_hypothetical_decision_return": 0.017984928335901804,
+      "mean_model_expected_value": 0.002710486780172831,
+      "mean_realized_net_label": 0.0537795591080139,
+      "mean_scenario_brier_score": 0.7141666666666667,
+      "n_direction_scored": 19,
+      "n_mature": 24,
+      "n_unresolved_or_pending": 0,
+      "upside_capture_ratio": 0.3880365652544353
+    }
+  },
+  "status": "DESCRIPTIVE_SMALL_DEPENDENT_SAMPLE_NOT_CONFIRMATORY"
+}

@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:38:35.467569+00:00",
+  "content_type": "application/pdf",
+  "final_url": "https://www.federalreserve.gov/data/documents/sloos-201804-fullreport.pdf",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos/sloos-201804.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_full_report_cover",
+  "source_path": "research/phase3/data/credit/raw/240f282a116111be.bin",
+  "source_sha256": "52bf47d507adacb9c4a83b5c50577bd5aa3a0fa98da6603ff7f7712fe415ac18",
+  "url": "https://www.federalreserve.gov/data/documents/sloos-201804-fullreport.pdf"
+}

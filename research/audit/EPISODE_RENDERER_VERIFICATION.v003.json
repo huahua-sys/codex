@@ -1,0 +1,236 @@
+{
+  "attribution": "UNRESOLVED_MECHANISM",
+  "batches": [
+    {
+      "batch_id": "ROUND_002_V003",
+      "insufficient_history": 0,
+      "manifest_sha256": "3c132b10504d87876d0bc2529a9d2ccf2dac08f21366efd88f1ccde51ff6edf0",
+      "mature_by_horizon": {
+        "12m": 24,
+        "1m": 24,
+        "1w": 24,
+        "24m": 24,
+        "3m": 24,
+        "6m": 24
+      },
+      "pending_by_horizon": {
+        "12m": 0,
+        "1m": 0,
+        "1w": 0,
+        "24m": 0,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 24,
+      "valid_forecasts": 24
+    },
+    {
+      "batch_id": "NIGHT_XTIME_V003",
+      "insufficient_history": 0,
+      "manifest_sha256": "8f3da112dc0b5f2278fcb09672a97b0b55e0c34d75e5be3f5deca35e08760546",
+      "mature_by_horizon": {
+        "12m": 36,
+        "1m": 36,
+        "1w": 36,
+        "24m": 34,
+        "3m": 36,
+        "6m": 36
+      },
+      "pending_by_horizon": {
+        "12m": 0,
+        "1m": 0,
+        "1w": 0,
+        "24m": 2,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 36,
+      "valid_forecasts": 36
+    },
+    {
+      "batch_id": "NIGHT_SECTOR_V002",
+      "insufficient_history": 20,
+      "manifest_sha256": "e0378fe350d6fdd8478d8e1964f88896297da77920823f55f01ec59081860e4f",
+      "mature_by_horizon": {
+        "12m": 140,
+        "1m": 140,
+        "1w": 140,
+        "24m": 140,
+        "3m": 140,
+        "6m": 140
+      },
+      "pending_by_horizon": {
+        "12m": 0,
+        "1m": 0,
+        "1w": 0,
+        "24m": 0,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 160,
+      "valid_forecasts": 140
+    },
+    {
+      "batch_id": "NIGHT_XASSET",
+      "insufficient_history": 0,
+      "manifest_sha256": "34dca03cfc8a775c1ea0df44f8023c3283e9f3534ef382c2d1709e1d9ca7115c",
+      "mature_by_horizon": {
+        "12m": 68,
+        "1m": 68,
+        "1w": 68,
+        "24m": 68,
+        "3m": 68,
+        "6m": 68
+      },
+      "pending_by_horizon": {
+        "12m": 0,
+        "1m": 0,
+        "1w": 0,
+        "24m": 0,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 68,
+      "valid_forecasts": 68
+    },
+    {
+      "batch_id": "NIGHT_ASHARE",
+      "insufficient_history": 28,
+      "manifest_sha256": "804d180ba8dc8fc426590ecdef53e56d67eebe4586554c7126d529609a2abd25",
+      "mature_by_horizon": {
+        "12m": 14,
+        "1m": 14,
+        "1w": 14,
+        "24m": 13,
+        "3m": 14,
+        "6m": 14
+      },
+      "pending_by_horizon": {
+        "12m": 0,
+        "1m": 0,
+        "1w": 0,
+        "24m": 1,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 42,
+      "valid_forecasts": 14
+    },
+    {
+      "batch_id": "NIGHT_EARLY",
+      "insufficient_history": 2,
+      "manifest_sha256": "38cc41f09e77d06aab67d58a2c4fce6e72e271561b9572b624207623cf2f0a60",
+      "mature_by_horizon": {
+        "12m": 20,
+        "1m": 20,
+        "1w": 20,
+        "24m": 20,
+        "3m": 20,
+        "6m": 20
+      },
+      "pending_by_horizon": {
+        "12m": 0,
+        "1m": 0,
+        "1w": 0,
+        "24m": 0,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 22,
+      "valid_forecasts": 20
+    },
+    {
+      "batch_id": "NIGHT_RECENT",
+      "insufficient_history": 3,
+      "manifest_sha256": "68c38fc73f64dd54190c38cae933dd139016dd73d16c9afe052ade87e3c888f9",
+      "mature_by_horizon": {
+        "12m": 12,
+        "1m": 15,
+        "1w": 15,
+        "24m": 0,
+        "3m": 15,
+        "6m": 15
+      },
+      "pending_by_horizon": {
+        "12m": 3,
+        "1m": 0,
+        "1w": 0,
+        "24m": 15,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 18,
+      "valid_forecasts": 15
+    },
+    {
+      "batch_id": "NIGHT_CALENDAR_CONTROL",
+      "insufficient_history": 0,
+      "manifest_sha256": "7632aebebeb88d263d1587e64e456f11b3fcb8154ab0230847561603d6ed8a51",
+      "mature_by_horizon": {
+        "12m": 60,
+        "1m": 60,
+        "1w": 60,
+        "24m": 60,
+        "3m": 60,
+        "6m": 60
+      },
+      "pending_by_horizon": {
+        "12m": 0,
+        "1m": 0,
+        "1w": 0,
+        "24m": 0,
+        "3m": 0,
+        "6m": 0
+      },
+      "report_records": 60,
+      "valid_forecasts": 60
+    }
+  ],
+  "checks": [
+    "source_A_JSON_and_Markdown_hashes_match_external_locks",
+    "lock_hash_matches_B_report_manifest_and_all-lock_sentinel",
+    "B_hash_matches_report_manifest",
+    "all_report_hashes_match_manifest",
+    "all_six_horizon_tables_present",
+    "all_artifact_links_exist",
+    "all_insufficient_history_reports_explicitly_excluded_from_scoring",
+    "pending_returns_are_null_never_zero"
+  ],
+  "date_cluster_warning": "43 dates are not 43 independent economic regimes: calendar controls share years and overlapping labels; market and industry rows share shocks",
+  "distinct_cutoff_dates": 43,
+  "distinct_cutoff_years": 23,
+  "excluded_batches": [
+    "ROUND_002",
+    "NIGHT_XTIME",
+    "ROUND_002_V002",
+    "NIGHT_XTIME_V002",
+    "NIGHT_SECTOR"
+  ],
+  "horizon_convention": "12m=252 complete observed trading sessions; calendar year elapsed alone does not establish maturity",
+  "mature_by_horizon": {
+    "12m": 374,
+    "1m": 377,
+    "1w": 377,
+    "24m": 359,
+    "3m": 377,
+    "6m": 377
+  },
+  "pending_12m": 3,
+  "pending_by_horizon": {
+    "12m": 3,
+    "1m": 0,
+    "1w": 0,
+    "24m": 18,
+    "3m": 0,
+    "6m": 0
+  },
+  "predictions_modified": false,
+  "record_type": "episode_renderer_verification",
+  "renderer_sha256": "24a455fe46ed9f0fe75984204f990fef1b08832d489835351d8b8537eb8b1300",
+  "renderer_version": "episode-review-v002",
+  "synthetic_investment_evidence": false,
+  "total_insufficient_history": 53,
+  "total_mature_12m": 374,
+  "total_report_records": 430,
+  "total_valid_forecasts": 377
+}

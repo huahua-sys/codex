@@ -1,0 +1,152 @@
+{
+  "design": {
+    "accounting": {
+      "dividends": "entitlement to shares held before ex-date; retained after selling at ex-date open; reinvested at that session close in current portfolio asset; exit-open receivable added to terminal value",
+      "entry_exdate": "new purchase does not receive that day's distribution",
+      "fund_fees": "already embedded in ETF market performance; do not subtract a second annual expense ratio",
+      "payment_dates": "unknown; ex-date reinvestment is an economic convention, not proved executable cash availability",
+      "prices": "audited canonical UNADJUSTED economic units; no Adj Close",
+      "splits": "ordinary verified split changes held share count before ex-date distribution/trade; future split proof is admin only",
+      "switch_day_dividend": "kept as receivable until close, not available to buy the new asset at open",
+      "tax_fx": "no taxes or FX; USD instruments only"
+    },
+    "assets": [
+      "SPY",
+      "BIL"
+    ],
+    "benchmarks": [
+      "ALWAYS_SPY",
+      "ALWAYS_BIL",
+      "FIXED_ENTRY_CHOICE",
+      "FIXED_50_50_BUY_HOLD"
+    ],
+    "cash_interval_diagnostics": {
+      "aggregation": "counts and descriptive mean relative-return gaps; intervals/horizons overlap, not independent events",
+      "avoided_loss": "during each BIL interval, gross SPY return <0 AND BIL return > SPY return",
+      "missed_rally": "during each BIL interval, gross SPY matched-open economic return > gross BIL matched-open economic return"
+    },
+    "confidence": "D",
+    "costs": {
+      "dividend_reinvestment_fee": 0.0,
+      "fixed_sensitivity_per_order_leg_bps": 5.0,
+      "fixed_sensitivity_roundtrip_bps": 10.0,
+      "formula": "buy shares=free_cash/(open*(1+leg_cost)); sale cash=shares*open*(1-leg_cost); every switch pays both legs",
+      "gross": "zero trading costs only; embedded fund expense remains",
+      "primary_buy_sell_roundtrip_bps": 50.0,
+      "primary_per_order_leg_bps": 25.0,
+      "selection_by_cost_result": false
+    },
+    "currency": "USD",
+    "cycle_id": "NIGHT-CASH-SELL-v001",
+    "execution": {
+      "entry": "first common observed SPY/BIL session OPEN strictly after annual cutoff",
+      "exit": "OPEN after N complete common observed sessions, same for every benchmark",
+      "holdings": "100pct SPY or 100pct BIL, unlevered; no discretionary override",
+      "switch": "first common observed session OPEN strictly after Friday review",
+      "timing": "NO_SAME_CLOSE_FILL_NO_INTRAWEEK_PRICE_TRIGGER"
+    },
+    "fixed_mix": {
+      "drawdown": "calculated from summed daily wealth path, never average the two drawdowns",
+      "initial_weights": {
+        "BIL": 0.5,
+        "SPY": 0.5
+      },
+      "purpose": "negative control for merely reducing equity exposure, no optimized weight",
+      "rebalance": "NONE",
+      "wealth": "0.5*same-timing SPY wealth + 0.5*same-timing BIL wealth; each component pays identical entry/exit leg cost"
+    },
+    "horizon_sessions": {
+      "12m": 252,
+      "1m": 21,
+      "1w": 5,
+      "24m": 504,
+      "3m": 63,
+      "6m": 126
+    },
+    "inference": "DESCRIPTIVE_ONLY_NO_HYPOTHESIS_PROMOTION",
+    "limitations": [
+      "BIL is a traded short Treasury ETF, not risk-free cash; bid-ask, premium/discount and fund risks remain",
+      "Current provider historical vintages can be corrected; archived quote vintages unavailable",
+      "Daily OHLC/normal-session clocks cannot verify halts, half days, intraday ordering or execution slippage",
+      "Provider dividend amounts not all independently reconciled; economic ex-date reinvestment only",
+      "Fixed 50bp primary and 10bp sensitivity are assumptions, not estimated historical costs",
+      "Annual and 24m horizon observations overlap; report date clusters rather than independent-bet claims",
+      "Rule designed in 2026 with historical prior knowledge; no causal evidence, strategy optimization or robust-pattern claim",
+      "Do not modify or reinterpret original 24 Stage A predictions or original zero-cash scoring"
+    ],
+    "metrics": [
+      "gross_return",
+      "net_return",
+      "excess_vs_ALWAYS_SPY",
+      "excess_vs_ALWAYS_BIL",
+      "excess_vs_FIXED_ENTRY_CHOICE",
+      "excess_vs_FIXED_50_50_BUY_HOLD",
+      "close_path_max_drawdown",
+      "switch_count",
+      "order_count",
+      "turnover_sum_notional_over_preorder_NAV",
+      "BIL_segment_missed_rallies",
+      "BIL_segment_avoided_losses",
+      "SPY_and_BIL_holding_sessions"
+    ],
+    "missingness": "keep each annual-cutoff/horizon record; PENDING_HORIZON or UNRESOLVED_DATA, never replace with 0",
+    "parameter_searches": 0,
+    "primary_horizons": [
+      "12m",
+      "24m"
+    ],
+    "replay_claim": "NOT_TRUE_BLIND_NOT_OLD_PREDICTION_RESCORING",
+    "research_mode": "EXPLORATORY_RETROSPECTIVE_WALK_FORWARD_MECHANICS",
+    "review": {
+      "action_gate": "available_at <= review_at AND date <= last_known_price_date",
+      "at": "23:59:59+00:00",
+      "conservative_vendor_lag": "preserved; Friday close normally becomes available Saturday 00:00 America/New_York, so Friday UTC review can use Thursday close",
+      "price_gate": "available_at <= review_at AND session_close_at <= review_at",
+      "weekday": "Friday"
+    },
+    "selection": {
+      "cutoff_time": "23:59:59+00:00",
+      "month_day": "09-30",
+      "outcome_inspection_for_selection": false,
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "signal": {
+      "future_metadata_or_action_announcements": "NEVER_SIGNAL_INPUT",
+      "insufficient_history": "KEEP_UNRESOLVED_NO_CASH_FALLBACK",
+      "lookbacks": [
+        63,
+        252
+      ],
+      "minimum_prices": 253,
+      "rule": "SPY past known-action economic wealth ratios BOTH > 0 => SPY; otherwise BIL",
+      "thresholds": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "implementation_sha256": {
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "scripts/analyze_cash_and_sell.py": "0c10ac9dbe8077512e0d3b5cd92e840c0c43a5c617d9fcd1a1bdac9604c272d4"
+  },
+  "real_future_prices_read_by_this_cycle_before_registration": false,
+  "registered_at": "2026-10-08T16:30:42.589788+00:00"
+}

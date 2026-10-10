@@ -1,0 +1,23 @@
+{
+  "episode_id": "NIGHT_XTIME-011",
+  "hash_is_not_trusted_timestamp": true,
+  "implementation_sha256": {
+    "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+    "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+    "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+  },
+  "input_manifest_sha256": "4ff3e45280535ec457155c4c4919abffd2a3cfc0654c4e92fe13a2ed50b4cabf",
+  "input_path": "NIGHT_XTIME-011.input.v001.json",
+  "input_sha256": "cf8a0280d35132ccf9f6e8f12b25800a1bc0bd6992795f5ef2dcebac6e07ecbe",
+  "locked_at": "2026-10-08T16:12:56.540911+00:00",
+  "operator": "deterministic-python-stage-a",
+  "prediction_markdown_sha256": "3211c76edcda186615882a34024d21a6749658c8f50dd27ba5ac07ef94290ee7",
+  "prediction_sha256": "4771e2b17b1b9c2f9db5cbebfe9f60d86e9f1659dfead75b7403eab1ccb41988",
+  "preregistration_sha256": "1353f8ae9fc0136e11d966ac47821858cf7451eedfebf78aea0a6c3f6f40592f",
+  "rule_id": "R002-TREND-PRIOR-v001",
+  "selection_sha256": "a4f568529322e34d68a19efad469c84e798eaad47f87edf6e5358190e76801d3",
+  "separation": "SEPARATION_LOGICAL_ONLY",
+  "status": "EX_ANTE_LOCKED"
+}

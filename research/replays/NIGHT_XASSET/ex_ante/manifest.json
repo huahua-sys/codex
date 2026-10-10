@@ -1,0 +1,348 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_XASSET-001": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-001.input.v001.json",
+      "sha256": "16fcff551438f61f770ccc11329c862a7a7fc575271e8e125f44a628fb2ab9dc"
+    },
+    "NIGHT_XASSET-002": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-002.input.v001.json",
+      "sha256": "906de4e78f2805d742706f49a4ed4c9ea50d80a40591402c246759e010d3651a"
+    },
+    "NIGHT_XASSET-003": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-003.input.v001.json",
+      "sha256": "d8929a3a3402b06133c243f9f744a6b03afd3700529fbb2153a87e0c41797eb3"
+    },
+    "NIGHT_XASSET-004": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-004.input.v001.json",
+      "sha256": "8caee0307364554adf395ff8568852923ddd35c3f483d69b094d4070d05bbccc"
+    },
+    "NIGHT_XASSET-005": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-005.input.v001.json",
+      "sha256": "8eddd7a3c9cbe1ced1a4a1210dcaa615b5d9ec20a92a16600dde0eb0e456b1c5"
+    },
+    "NIGHT_XASSET-006": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-006.input.v001.json",
+      "sha256": "101f124f5de229b00fdcf3599efbbbefcc0af53cd5eba2ccc7d9681cad645d4a"
+    },
+    "NIGHT_XASSET-007": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-007.input.v001.json",
+      "sha256": "2025dd155fe99232b625b2563c1346cbd4e7005a8a59d924024f4fff9bf98043"
+    },
+    "NIGHT_XASSET-008": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-008.input.v001.json",
+      "sha256": "ccbd81f51a91687635c50c199d2ec6757abf638b58eece0b42a34acd4198e984"
+    },
+    "NIGHT_XASSET-009": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-009.input.v001.json",
+      "sha256": "e3a3f02b6200cbec5ecea2171fe68db83dd8567323258f54804f60de42d71c94"
+    },
+    "NIGHT_XASSET-010": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-010.input.v001.json",
+      "sha256": "b3fdb2c74dffb127cccbb876b8b860f7b0c429e9dee8d381eac4518291e82e5c"
+    },
+    "NIGHT_XASSET-011": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-011.input.v001.json",
+      "sha256": "1cd5b6765f13129141f07a787bc815efb5c885b72dfae66135e6e9b64a5e9fab"
+    },
+    "NIGHT_XASSET-012": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-012.input.v001.json",
+      "sha256": "954b05fe14fcdc4578797b601b651183febef42ec56fd575ceb3eff7604652bd"
+    },
+    "NIGHT_XASSET-013": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-013.input.v001.json",
+      "sha256": "88b21ded878428d6323f44ffc70aee5b5bb279664c58b2acd8a34916c3e73313"
+    },
+    "NIGHT_XASSET-014": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-014.input.v001.json",
+      "sha256": "bec1d2c46a7d4146f64adf9e8cba4f02d7932490a7fdf30c2361b06aebc59dca"
+    },
+    "NIGHT_XASSET-015": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-015.input.v001.json",
+      "sha256": "130001d80bf76f16829c349a57d762cff4d78ff1928040bef784ef436bf0c78d"
+    },
+    "NIGHT_XASSET-016": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-016.input.v001.json",
+      "sha256": "08bbd654ef20dec0f202932a8ee5e3d165dc70c994ac6de0a47edb7a445fe609"
+    },
+    "NIGHT_XASSET-017": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-017.input.v001.json",
+      "sha256": "d665aa992b94dc018d83838a7e37d3754a7079940171a41328f10ae4eec1a1df"
+    },
+    "NIGHT_XASSET-018": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-018.input.v001.json",
+      "sha256": "06c4ab71539d4dc4d3500c3efcbe8c6cc32bd7c313082d37f8224fde92697a78"
+    },
+    "NIGHT_XASSET-019": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-019.input.v001.json",
+      "sha256": "aedc41dbe0428f3682b84896a743e24b686f3ce01635e63812ac52fe1834bc7a"
+    },
+    "NIGHT_XASSET-020": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-020.input.v001.json",
+      "sha256": "f6d391d082c965af45f1a9f82bd6e9448bf703fabd5e8aa89238e0c39f1a26b6"
+    },
+    "NIGHT_XASSET-021": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-021.input.v001.json",
+      "sha256": "c156aaa013003f83ac44ce76a47bbae609c636a5219219cf2aaa4a3a3dc24cbc"
+    },
+    "NIGHT_XASSET-022": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-022.input.v001.json",
+      "sha256": "2369f7d5b211c78902563428d1b1ce105d38ebba8ed6ea21eed3997d3d863451"
+    },
+    "NIGHT_XASSET-023": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-023.input.v001.json",
+      "sha256": "ff1b86aa96dccbc11903a9cab51bea319598f7b8212afe6b02688ce58d878121"
+    },
+    "NIGHT_XASSET-024": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-024.input.v001.json",
+      "sha256": "2e1b4aca650418d5becdc1cad73396af7153afbd51a47bee51bb358a2ede7892"
+    },
+    "NIGHT_XASSET-025": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-025.input.v001.json",
+      "sha256": "a468355a88c859d557aa6a0818e525abd44d9bebb63501c6b33cea5e6c08fdbe"
+    },
+    "NIGHT_XASSET-026": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-026.input.v001.json",
+      "sha256": "7bdb217afe421cfd094a7d481f158b2b7e05d4ddbd3bf3c97aba8aae3772cd8f"
+    },
+    "NIGHT_XASSET-027": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-027.input.v001.json",
+      "sha256": "1646614c696931ff4f8658da143e92429426f72f2623e752afee6fb805e4573b"
+    },
+    "NIGHT_XASSET-028": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-028.input.v001.json",
+      "sha256": "139f8c8881bce0336aa9db909dbd881eddf15d49fefcd62803a77c835c2b299e"
+    },
+    "NIGHT_XASSET-029": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-029.input.v001.json",
+      "sha256": "7bd32339a21c0f30cc7927760d24a7437fe234e2dc77411e830c31ad5402cb44"
+    },
+    "NIGHT_XASSET-030": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-030.input.v001.json",
+      "sha256": "d7dbc1c053cb5afc4c1aa03642784731e04e1ca10f5f1dc483b6d2e4b4c3246b"
+    },
+    "NIGHT_XASSET-031": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-031.input.v001.json",
+      "sha256": "b94a62be206ebb5aaffc2db6b9aecb8873f3b2164743056507fadb7993442dc9"
+    },
+    "NIGHT_XASSET-032": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-032.input.v001.json",
+      "sha256": "c70b0ad99168c1328059d4d9c1f3b9364c0773ce6482b4c0ad38089ca6e3eff5"
+    },
+    "NIGHT_XASSET-033": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-033.input.v001.json",
+      "sha256": "1ec12e1d448eef5cd6cee482915b45e5a7da10f35a5bf635fe7f65638fa22562"
+    },
+    "NIGHT_XASSET-034": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-034.input.v001.json",
+      "sha256": "0f1e7fcc81676b0d4c6183a33116c0610da526d35fc01cacf7f1a5947e022ee2"
+    },
+    "NIGHT_XASSET-035": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-035.input.v001.json",
+      "sha256": "548746204c58835760ab8c4b38e00efd0bc70bfd7e7c9ad3f1b0ac4012a39c48"
+    },
+    "NIGHT_XASSET-036": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-036.input.v001.json",
+      "sha256": "8714c5131aee1f219608d8270975c04bb9cbe3eca49d8c4dd08398d49a6a4eff"
+    },
+    "NIGHT_XASSET-037": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-037.input.v001.json",
+      "sha256": "f569c9ae4cc7a5aa02134123564d040985d8621be61fde0d766de7554bed8b7c"
+    },
+    "NIGHT_XASSET-038": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-038.input.v001.json",
+      "sha256": "83564b70ec19175dec422694b151cc00f3f2bb8173bf5aa61cb3191398e2a1b1"
+    },
+    "NIGHT_XASSET-039": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-039.input.v001.json",
+      "sha256": "35e9ecd3f64a84a9525edc54e2df95b2678b2821790cbf44efd5d14204fc6a93"
+    },
+    "NIGHT_XASSET-040": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-040.input.v001.json",
+      "sha256": "52afeeb45aae9bea60e7be96d08146f0d54359a42f404403c17d0d3a10c43545"
+    },
+    "NIGHT_XASSET-041": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-041.input.v001.json",
+      "sha256": "9efa5017927057c8f5fac36afd21dd0d92e3d66947392882ade9018f37da79f6"
+    },
+    "NIGHT_XASSET-042": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-042.input.v001.json",
+      "sha256": "52183e65badd0198f2f7d2f80d7dc7b5148f24933bff85fb19aad5942e0f3e4d"
+    },
+    "NIGHT_XASSET-043": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-043.input.v001.json",
+      "sha256": "8e697806669439b9b38c93889addde7b68518923e5daf1a1a8868131785b9e8a"
+    },
+    "NIGHT_XASSET-044": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-044.input.v001.json",
+      "sha256": "15842fda2ecada5a4f7095c75a8902b1a142c5bd11a55278c40ebe5d98f06c3d"
+    },
+    "NIGHT_XASSET-045": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-045.input.v001.json",
+      "sha256": "0fbd68e4824e1d24f535ae02cb933fb9210ab05a9c27339d176fab4aec559f60"
+    },
+    "NIGHT_XASSET-046": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-046.input.v001.json",
+      "sha256": "6c40a4d75ca820886e23f864a05dba2627d59de2d037905510dd4607c5d394a1"
+    },
+    "NIGHT_XASSET-047": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-047.input.v001.json",
+      "sha256": "d71af8e8c87004ee7fe59f2abb5719ddcba91e96b6f19de126ad7da1116db999"
+    },
+    "NIGHT_XASSET-048": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-048.input.v001.json",
+      "sha256": "dcc901a176b36eaee8dd39a6fc020a8fb6b4900bb4aef8708d29cf687e086e22"
+    },
+    "NIGHT_XASSET-049": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-049.input.v001.json",
+      "sha256": "8d824ee6574dd67a5f0bba342d6c88a447206a36b7e6facf2b260dce4aa83bf8"
+    },
+    "NIGHT_XASSET-050": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-050.input.v001.json",
+      "sha256": "70ebd12f3e44f5573cd64981d24bf8445821c339e9f649de61e430d4ab1a1541"
+    },
+    "NIGHT_XASSET-051": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-051.input.v001.json",
+      "sha256": "a050acb20215eaa9e410f311382a012047ba7d9426aa87db19f33f783e36880f"
+    },
+    "NIGHT_XASSET-052": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-052.input.v001.json",
+      "sha256": "d57c23be698dec1d498f173a5adaf6e14d389a74a5024a77d1ecbe9e62ce16f4"
+    },
+    "NIGHT_XASSET-053": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-053.input.v001.json",
+      "sha256": "24bd807f34c114e51441f7fee7dbf44e7685ace1e289a2ce577336c754056d22"
+    },
+    "NIGHT_XASSET-054": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-054.input.v001.json",
+      "sha256": "d4276b53e99328d1293778212cf4dc3fb0087ec6082165160f3cb5509e111a6b"
+    },
+    "NIGHT_XASSET-055": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-055.input.v001.json",
+      "sha256": "54de8c41f4b128d2bf8ce16af63720e3b0c2dc612d9dd4458991e8536a4e9eb3"
+    },
+    "NIGHT_XASSET-056": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-056.input.v001.json",
+      "sha256": "efe1062c553369df15ff5fcd807740f23667e95fbdc7556b04713919d24a4a10"
+    },
+    "NIGHT_XASSET-057": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-057.input.v001.json",
+      "sha256": "befc6384bbe83b24720dd491d4307dde5296b718cc6c553d6b7ce7bb56dcdc62"
+    },
+    "NIGHT_XASSET-058": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-058.input.v001.json",
+      "sha256": "176171362dea9b49ba856ff76a989f0aea2ee43e0a14f5f2f676b96a070be440"
+    },
+    "NIGHT_XASSET-059": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-059.input.v001.json",
+      "sha256": "b996d4a79e6a394ac79955e4d6a4391c27e103a95707439605215adf8b1fea71"
+    },
+    "NIGHT_XASSET-060": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-060.input.v001.json",
+      "sha256": "1132c5b82fb6ece812cd8a4f63386aa501ae36c17e73e0636ce3bdd0705dbc10"
+    },
+    "NIGHT_XASSET-061": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-061.input.v001.json",
+      "sha256": "23903abab8aa23b782b9ca7b2eade5c300c9dc64922afaf059a69836110ae780"
+    },
+    "NIGHT_XASSET-062": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-062.input.v001.json",
+      "sha256": "aa5c0aaa0232d4b99a4b2d445b117702f9d52eea79dd34c15c1c19fe76ce9253"
+    },
+    "NIGHT_XASSET-063": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-063.input.v001.json",
+      "sha256": "578a39bc9e23f8796cb82b54337ebcd9cce53c04bd9dd72119f37bb22622c5f9"
+    },
+    "NIGHT_XASSET-064": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-064.input.v001.json",
+      "sha256": "11a380ac8c1154ba7a56a317ef4862855288cab16f5595fdcfc3936167ed4bc5"
+    },
+    "NIGHT_XASSET-065": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-065.input.v001.json",
+      "sha256": "77d940aee0cd85359483eea15a9a1c7c530b18af047c1dba8b57e40d33b7440e"
+    },
+    "NIGHT_XASSET-066": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-066.input.v001.json",
+      "sha256": "267d209fd781c17c5342952f8708b6d09232ee0d3ec666b0879e7cdeb2e43cd2"
+    },
+    "NIGHT_XASSET-067": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-067.input.v001.json",
+      "sha256": "543e25559e1bd61ff01b14eb29463d13cedbaca5544242fc8f02ab1db15acd43"
+    },
+    "NIGHT_XASSET-068": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XASSET-068.input.v001.json",
+      "sha256": "d9c6458818247971ab685d74111618039467ce61f098691220b0b7deae7aa2d0"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "fb646a4a1a3cd6de70ab652f870918d80b40c8fcdb1d557676d2b388d51f921e",
+  "source_bundle_sha256": "fc9770c976615da777af85832389f904c1388e2ddab29de089ffc48485df4102"
+}

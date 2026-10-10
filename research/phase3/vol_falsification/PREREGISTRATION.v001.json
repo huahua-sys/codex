@@ -1,0 +1,60 @@
+{
+  "alpha_identified": false,
+  "assets": [
+    "SPY",
+    "QQQ",
+    "XLK",
+    "SOXX",
+    "KBE",
+    "XLI",
+    "XLY",
+    "XLV",
+    "XLE",
+    "XLU"
+  ],
+  "bootstrap": "500 fixed-seed 20261009 joint two-calendar-year blocks; descriptive intervals, not multiple-testing corrected",
+  "comparison_slots": 88,
+  "do_not_promote_on_positive_interval": true,
+  "eras": [
+    "ALL",
+    "2000-2009",
+    "2010-2019",
+    "2020-2025"
+  ],
+  "estimand": "Same-quarter equal-asset high-minus-not-high net holding return, then equal quarters. Gross MDD measured consistently.",
+  "horizons": [
+    "12m",
+    "24m"
+  ],
+  "hypothesis_id": "H-P3-VOL-FALSIFICATION-v001",
+  "new_probabilities": 0,
+  "new_samples": 0,
+  "nonoverlap": "ALL assets only: greedily choose earliest both-group quarter whose earliest entry is strictly after latest exit of previously chosen quarter; applies across all US equity rows and both partitions jointly. Keeps actual session endpoint dates. Time gaps/selected subset disclosed, not independent world count.",
+  "nonoverlap_slots": 2,
+  "prior_results_known": true,
+  "purpose": "Attack positive US same-quarter volatility association: sector composition, temporal overlap, era stability. All deletion controls reported; none used to choose assets, thresholds or strategy.",
+  "registered_at": "2026-10-09T15:19:31.956095+00:00",
+  "sources": {
+    "research/phase3/features/decision_points.v001.json": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+    "research/phase3/labels/development.v001.json": "5e3e07c0f95fa374e4146545f21faf6950d5c496bf1c7cf34a8825f2d357cd37",
+    "research/phase3/labels/holdout.v001.json": "a3dee7c7c4d83eb1bd0dd845925d532c39080436616f52f14b4ee6b1a8c6bcbd",
+    "research/phase3/matched/RESULTS.v001.json": "30aafe54a6adf0d4210d70077edea3f1e96f8da3b6fd48f184e1a3fe654f26c3",
+    "scripts/phase3_analyze.py": "cd2e453a8c3c259a6e566dcf2762f9ec2903f65c9f66fd490f049363210afe49",
+    "scripts/phase3_matched_controls.py": "b7bdabc8aac3597154fec8b4dcf3d3fc6f6a2158b48738a393f2fd6bbef39004",
+    "scripts/phase3_vol_falsification.py": "5ebe71a4f9beb65dac3af9bcabfb8ed3988485a786ff0a7fd5cc3f3c0b622e05"
+  },
+  "variable": "H-P3-VOL",
+  "variants": [
+    "ALL",
+    "OMIT_SPY",
+    "OMIT_QQQ",
+    "OMIT_XLK",
+    "OMIT_SOXX",
+    "OMIT_KBE",
+    "OMIT_XLI",
+    "OMIT_XLY",
+    "OMIT_XLV",
+    "OMIT_XLE",
+    "OMIT_XLU"
+  ]
+}

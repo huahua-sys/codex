@@ -1,0 +1,98 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_RECENT-001": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-001.input.v001.json",
+      "sha256": "a93572b5bbf56d0d4dff9a39418dc7f7819f3b75a3529d1c1ac4a4cc12d25a6a"
+    },
+    "NIGHT_RECENT-002": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-002.input.v001.json",
+      "sha256": "e52e7c5e3b16085c869f8bc50871628491f3c1fddfa1232851778f2ca1321b9a"
+    },
+    "NIGHT_RECENT-003": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-003.input.v001.json",
+      "sha256": "41e9009c918f52866e84633b489c72cbc0cfb661e18508eb9c3453962e9f2e35"
+    },
+    "NIGHT_RECENT-004": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-004.input.v001.json",
+      "sha256": "e246340febcbac514559b45ffd1676e5dd7c80ae4a76c24eed3601457cd15b5e"
+    },
+    "NIGHT_RECENT-005": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-005.input.v001.json",
+      "sha256": "db36bbe4f0c576ad699e5334403407b16429b0299fe164fc27c4b19fffb607d0"
+    },
+    "NIGHT_RECENT-006": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-006.input.v001.json",
+      "sha256": "94aaaaef3c9f722682de91dc54dbe6e4fa86285bb97e77bc1cfb30b9bcdf40d7"
+    },
+    "NIGHT_RECENT-007": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-007.input.v001.json",
+      "sha256": "3f518e4b56bea8819f1fae6c25f3cb7fbf8a027775ec5c603459f0de00f8c9f6"
+    },
+    "NIGHT_RECENT-008": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-008.input.v001.json",
+      "sha256": "27081948784c5c35fd1f7f0a7238b2e37b5cd1888d6f91c07e25f2578f8000bc"
+    },
+    "NIGHT_RECENT-009": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-009.input.v001.json",
+      "sha256": "7dd053198c1215eb8751f33eb50144efe0858a3bdc94824510f6cfb73e8bd9ec"
+    },
+    "NIGHT_RECENT-010": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-010.input.v001.json",
+      "sha256": "032628a975b38a2468d87f745b46b4c3e694a9ef049afbfe44fb303c3f3c091d"
+    },
+    "NIGHT_RECENT-011": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-011.input.v001.json",
+      "sha256": "6567cd46680ac0d11a6efaf987c74f8b42de30c633c83b483ef1a7f1cb93197b"
+    },
+    "NIGHT_RECENT-012": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-012.input.v001.json",
+      "sha256": "39ed6f3418b885eba4f2957f2559823cce9014f8b118a25e6ccc7eed41744df6"
+    },
+    "NIGHT_RECENT-013": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-013.input.v001.json",
+      "sha256": "c700677e397406c32d836f7a5b5cbb183fcbdd30edf9471d0704bcbe5c40bfb0"
+    },
+    "NIGHT_RECENT-014": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-014.input.v001.json",
+      "sha256": "069a749c17d6c14a2d9405577a0e42d32787d54b1f4f88b57df3b692bbfe0eb5"
+    },
+    "NIGHT_RECENT-015": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-015.input.v001.json",
+      "sha256": "30c892c1257183e3dd3c65915c99b6ea1b02fc512da9080efd177215c83f406b"
+    },
+    "NIGHT_RECENT-016": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-016.input.v001.json",
+      "sha256": "fc211a5d96153c2293e2e46130d2f3d90d00671c1b732d2aff026b672f1a0cd8"
+    },
+    "NIGHT_RECENT-017": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-017.input.v001.json",
+      "sha256": "e9c5fe4f3d93fe621fabf2565483da7d14eb43d45c955b5a2cfdcb43fd0af565"
+    },
+    "NIGHT_RECENT-018": {
+      "cutoff_at": "2025-09-30T23:59:59+00:00",
+      "path": "NIGHT_RECENT-018.input.v001.json",
+      "sha256": "be10e2bdd2b437f5d804a13145be64d27a6cc310e8494e42d0f4e428f6c53d89"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "bedeb3a1ca4b399e274ff2992f2a511aff09151addc290c4d2dc265019bee035",
+  "source_bundle_sha256": "5bbaa29371e0d9623563b545d12facf055f787d7e926b510024f325155754855"
+}

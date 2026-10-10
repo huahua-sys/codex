@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:30:25.362449+00:00",
+  "content_type": "text/html",
+  "final_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200905/table1.htm",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200905/default.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_table1",
+  "source_path": "research/phase3/data/credit/raw/65f4c3756e9f14c2.bin",
+  "source_sha256": "80a89cf0e74394fc6b0e0d2a66ff17823a0bebd92322d7d0d76d37a15d92ef9b",
+  "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200905/table1.htm"
+}

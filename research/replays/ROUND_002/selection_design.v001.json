@@ -1,0 +1,61 @@
+{
+  "round_id": "ROUND_002",
+  "created_at": "2026-10-08T08:23:27.418230+00:00",
+  "status": "SELECTION_FROZEN_BEFORE_OUTCOME_COMPUTATION",
+  "research_mode": "EXPLORATORY_RULE_BASED_MASKED_REPLAY",
+  "not_prospective_preregistration": true,
+  "selection_method": "FIXED_CALENDAR_CROSS_MARKET_GRID",
+  "cutoffs": [
+    "2016-09-30T23:59:59+00:00",
+    "2017-09-30T23:59:59+00:00",
+    "2018-09-30T23:59:59+00:00",
+    "2019-09-30T23:59:59+00:00",
+    "2020-09-30T23:59:59+00:00",
+    "2021-09-30T23:59:59+00:00",
+    "2022-09-30T23:59:59+00:00",
+    "2023-09-30T23:59:59+00:00"
+  ],
+  "assets": [
+    {
+      "slot": "US",
+      "preferred": "SPY",
+      "fallbacks": []
+    },
+    {
+      "slot": "HK",
+      "preferred": "^HSI",
+      "fallbacks": [
+        "EWH"
+      ]
+    },
+    {
+      "slot": "JP",
+      "preferred": "^N225",
+      "fallbacks": [
+        "EWJ"
+      ]
+    }
+  ],
+  "eligibility": "At least 253 valid pre-cutoff daily observations and documented market/session provenance; original-release context must have published_at<=cutoff. Missing sources recorded, no outcome-based substitutions.",
+  "fallback_rule": "Only source availability, date coverage and quality determine fallback. Explicitly label US-listed proxies versus local index observations; do not mix price-only and ETF total returns without flags.",
+  "primary_horizon": "12m",
+  "secondary_horizons": [
+    "1w",
+    "1m",
+    "3m",
+    "6m",
+    "24m"
+  ],
+  "expected_episodes": 24,
+  "date_clusters": 8,
+  "outcomes_observed_during_selection": false,
+  "result_cohort_quota": "None. Report successful,failed,ordinary,missedwinner,opposite cases after reveal; no cherry-picked replenishment.",
+  "price_vintage_limit": "Current-source historical quote reconstruction is not original timestamped provider archive; corrections possible. Not strict vintage-certified PIT.",
+  "known_biases": [
+    "Benchmark/instrument coverage chosen today; limited surviving benchmarks, not whole stock universe.",
+    "Fixed September date and fixed eight-year interval are arbitrary design choices; not optimized but not a random representative market sample.",
+    "Rule designed now may reflect general prior historical knowledge; cannot establish genuine cognitive blindness.",
+    "Cross-market observations share calendar/global risk; 24 episodes not 24 independent trials.",
+    "24-month outcome windows overlap annual cutoffs."
+  ]
+}

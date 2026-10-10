@@ -1,0 +1,146 @@
+{
+  "checked_at": "2026-10-08T16:15:54.136233+00:00",
+  "sources_are_administrator_only": true,
+  "original_archive_vintage_not_verified": true,
+  "dividends_independently_reconciled": false,
+  "checks": [
+    {
+      "asset_id": "XLK",
+      "rows": 6231,
+      "actions": 85,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 1,
+      "total_return_eligible": true,
+      "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+      "ordinary_split_evidence": {
+        "date": "2025-12-05",
+        "ratio": 2.0,
+        "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx",
+        "provider_date_ratio_match": true,
+        "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+        "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+        "does_not_verify_every_dividend_amount": true
+      },
+      "status": "PASS_CONTRACT"
+    },
+    {
+      "asset_id": "SOXX",
+      "rows": 6231,
+      "actions": 79,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 1,
+      "total_return_eligible": true,
+      "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+      "ordinary_split_evidence": {
+        "date": "2024-03-07",
+        "ratio": 3.0,
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312523298660/d611816d497.htm",
+        "second_source_url": "https://www.ishares.com/us/literature/tax-information/form-8937-ishares-semiconductor-etf-3-6-2024.pdf",
+        "provider_date_ratio_match": true,
+        "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+        "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+        "does_not_verify_every_dividend_amount": true
+      },
+      "status": "PASS_CONTRACT"
+    },
+    {
+      "asset_id": "XLF",
+      "rows": 6231,
+      "actions": 100,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 1,
+      "total_return_eligible": false,
+      "total_return_validation": "NOT_APPROVED_XLF_IN_KIND_SPINOFF",
+      "ordinary_split_evidence": null,
+      "status": "QUARANTINED",
+      "error": "ineligible PIT status: YAHOO_CHART_XLF:PRICE:2002-01-02"
+    },
+    {
+      "asset_id": "XLE",
+      "rows": 6231,
+      "actions": 101,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 1,
+      "total_return_eligible": true,
+      "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+      "ordinary_split_evidence": {
+        "date": "2025-12-05",
+        "ratio": 2.0,
+        "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx",
+        "provider_date_ratio_match": true,
+        "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+        "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+        "does_not_verify_every_dividend_amount": true
+      },
+      "status": "PASS_CONTRACT"
+    },
+    {
+      "asset_id": "XLI",
+      "rows": 6231,
+      "actions": 99,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 0,
+      "total_return_eligible": true,
+      "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+      "ordinary_split_evidence": null,
+      "status": "PASS_CONTRACT"
+    },
+    {
+      "asset_id": "XLY",
+      "rows": 6231,
+      "actions": 100,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 1,
+      "total_return_eligible": true,
+      "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+      "ordinary_split_evidence": {
+        "date": "2025-12-05",
+        "ratio": 2.0,
+        "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx",
+        "provider_date_ratio_match": true,
+        "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+        "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+        "does_not_verify_every_dividend_amount": true
+      },
+      "status": "PASS_CONTRACT"
+    },
+    {
+      "asset_id": "XLV",
+      "rows": 6231,
+      "actions": 100,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 0,
+      "total_return_eligible": true,
+      "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+      "ordinary_split_evidence": null,
+      "status": "PASS_CONTRACT"
+    },
+    {
+      "asset_id": "XLU",
+      "rows": 6231,
+      "actions": 100,
+      "first_date": "2002-01-02",
+      "last_date": "2026-10-07",
+      "split_count": 1,
+      "total_return_eligible": true,
+      "total_return_validation": "CONDITIONAL_PROVIDER_REPORTED_TOTAL_RETURN_EXDATE_REINVESTMENT",
+      "ordinary_split_evidence": {
+        "date": "2025-12-05",
+        "ratio": 2.0,
+        "source_url": "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Investment-Management-Announces-Share-Splits-for-Five-Select-Sector-SPDR-ETFs/default.aspx",
+        "provider_date_ratio_match": true,
+        "review_method": "Primary page content reviewed via web tool; no raw primary bytes archived here",
+        "role": "ADMINISTRATOR_UNIT_RECONSTRUCTION_ONLY_NOT_KNOWN_AT_T_NEWS",
+        "does_not_verify_every_dividend_amount": true
+      },
+      "status": "PASS_CONTRACT"
+    }
+  ]
+}

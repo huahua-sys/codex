@@ -1,0 +1,730 @@
+{
+  "batch_role": "NEW_LABELS_COMPUTATIONAL_HOLDOUT_NOT_PROSPECTIVE",
+  "cutoff_dates": [
+    "2008-09-30",
+    "2009-09-30",
+    "2010-09-30",
+    "2011-09-30",
+    "2012-09-30",
+    "2013-09-30",
+    "2014-09-30",
+    "2015-09-30",
+    "2016-09-30",
+    "2017-09-30",
+    "2018-09-30",
+    "2019-09-30",
+    "2020-09-30",
+    "2021-09-30",
+    "2022-09-30",
+    "2023-09-30",
+    "2024-09-30"
+  ],
+  "episodes": [
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-001",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-002",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-003",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-004",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-005",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-006",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-007",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-008",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-009",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-010",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-011",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-012",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-013",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-014",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-015",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-016",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-017",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-018",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-019",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-020",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-021",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-022",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-023",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-024",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-025",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-026",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-027",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-028",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-029",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-030",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-031",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-032",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-033",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-034",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-035",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-036",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-037",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-038",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-039",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-040",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-041",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-042",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-043",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-044",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-045",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-046",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-047",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-048",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-049",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-050",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-051",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-052",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-053",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-054",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-055",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-056",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-057",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-058",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-059",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-060",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-061",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-062",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-063",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-064",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "GLD",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-065",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "IEF",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-066",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "QQQ",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-067",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "UUP",
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "NIGHT_XASSET-068",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    }
+  ],
+  "missing_policy": "KEEP_ROW_AND_REPORT_UNRESOLVED_DATA_NO_REPLACEMENT",
+  "round_id": "NIGHT_XASSET",
+  "selection_inspects_outcomes": false,
+  "selection_method": "FIXED_CALENDAR_FULL_GRID",
+  "universe": [
+    {
+      "asset_id": "QQQ",
+      "inception_date": "1999-03-10",
+      "market": "US"
+    },
+    {
+      "asset_id": "IEF",
+      "inception_date": "2002-07-22",
+      "market": "US"
+    },
+    {
+      "asset_id": "GLD",
+      "inception_date": "2004-11-18",
+      "market": "US"
+    },
+    {
+      "asset_id": "UUP",
+      "inception_date": "2007-02-20",
+      "market": "US"
+    }
+  ]
+}

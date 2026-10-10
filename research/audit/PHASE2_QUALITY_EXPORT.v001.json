@@ -1,0 +1,47 @@
+{
+  "audit_id": "PHASE2_QUALITY_EXPORT_V001",
+  "reviewed_at": "2026-10-09T00:29:09.495350+00:00",
+  "status": "PASS",
+  "issues": [],
+  "zip_path": "/workspace/outputs/Investment_Research_Lab_Phase2.zip",
+  "zip_bytes": 30446689,
+  "zip_sha256": "3616f26e39ecf909a577a4554c00d8124984599a50b7b47380ef731d4708f0ea",
+  "zip_entries": 2872,
+  "manifest_file_hashes_verified": 2871,
+  "required_review_files_present": 16,
+  "original_large_file_blueprints": 565,
+  "blueprint_kinds": {
+    "INPUT": 552,
+    "ADMIN_BUNDLE": 13
+  },
+  "deduplicated_original_bytes": 1668940377,
+  "all_blueprint_expected_sha_match_original_repo": true,
+  "original_project_file_copies_exact": true,
+  "README_review_entry_and_exact_restore_instructions_checked": true,
+  "no_live_signals_or_principle_promotion": true,
+  "research_rerun_performed": false,
+  "export_contains_audits": [
+    "PHASE2_QUALITY_MEMORY.v001.json",
+    "PHASE2_QUALITY_SCIENTIFIC_REVIEW.v001.md"
+  ],
+  "limitations": [
+    "Portable source-based restoration verifies exact prior file bytes, not historical market vintage or scientific validity",
+    "Restore includes invalid120 pilot artifacts for audit only; these remain excluded and have no StageB labels"
+  ],
+  "independent_restore_verification": {
+    "verified_original_files": 565,
+    "written_files": 0,
+    "network_requests": 0,
+    "immutable_sha256_match": true,
+    "invalid_pilots_are_still_excluded": true,
+    "process_exit_code": 0
+  },
+  "archive_scope": "Independently reviewed pre-final-QA-inclusion v001 ZIP with SHA256 recorded here; final re-export adds this audit only, core source/report/prediction/restoration content unchanged. Final delivery ZIP SHA belongs to outputs/Investment_Research_Lab_Phase2.export_verification.json, outside archive to avoid self-hash cycle.",
+  "input_blueprint_count_scope": {
+    "accepted_cohort_inputs": 430,
+    "excluded_locked_pilot_inputs": 120,
+    "partial_unlocked_sector_attempt_inputs": 2,
+    "total_input_blueprints": 552,
+    "admin_bundle_blueprints": 13
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2026-10-09T06:06:45.080615+00:00",
+  "n_effective": null,
+  "new_experiments": 0,
+  "new_sha256": "5c5effb6e492aba189ddd0c887fb4db23016ea883b45ec8cd6f2b19014e18b98",
+  "prior_sha256": "9dad9bf30caac90287c019bbd277286017e21af08a6ab13a1675942b74c3eda5",
+  "raw_observations": 2704,
+  "reason": "Presentation of existing fixed validation_scope comparisons; no new tests",
+  "report_path": "CROSS_TIME_VALIDATION.md",
+  "source_result_sha256": {
+    "development": "7cb3f83d813789f0a9efda928267b64e8a8dbc87a6cca489bf49898bc54d58ab",
+    "holdout": "24c5aa74ada1541a9192d4707aca5fff738e4f47a0fda0498aa97132a7ca378b"
+  }
+}

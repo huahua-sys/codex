@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-10-09T15:27:03.912849+00:00",
+  "stage": "MAIN_PANEL_COMPLETED_FROM_FROZEN_LOCK_CHAIN",
+  "recording_is_retrospective": true,
+  "operative_fields_unchanged": true,
+  "maturity": {
+    "1w": 2113,
+    "1m": 2113,
+    "3m": 2113,
+    "6m": 2113,
+    "12m": 2087,
+    "24m": 1995
+  },
+  "independent_n": null,
+  "files": {
+    "SAMPLE_EXPANSION_PROTOCOL.md": "440f23d764e99fb4e772d2a92c7fe1c8e236be4c6887944fac499fd6da2b4e3c",
+    "PHASE3_RESEARCH_REPORT.md": "11bdc735e00bdafbeb16bc060957ba7ddfaee3ec2fae57f707870048c59a9701",
+    "PHASE3_SURVIVING_PRINCIPLES.md": "1ae9a90268c0fce1c1a7a67528263ead2ea555dde068d8c76dc3a1040fee25df",
+    "CURRENT_FRAMEWORK.json": "08a728b0bdf4c02675a9e1a28f19037e74393087cda61fefec157180f423fb2c",
+    "RESEARCH_LEDGER.md": "186806157af01e2aedd3b6239a908e0599878fff21e4592a3cf237762723b799",
+    "HYPOTHESIS_REGISTRY.md": "a21bd27afb6818fb31dfad0b36007fc7bf845f8a6d857ed66587df3ba7243511",
+    "FAILED_HYPOTHESES.md": "7f886cc15f61108e0e18ec72bcb19261814a85bf92f68c06f30534dcbb837725",
+    "CANDIDATE_PRINCIPLES.md": "ffd656e80fff75805330bbd56d47402b355cc867c3ed5263df841515d430f621",
+    "OPEN_QUESTIONS.md": "149d40abdd51142eb56753f68f93122d6b2ed3dc30d25af9620221e7545d542b",
+    "PREDICTION_LEDGER.md": "e807d92dc9616b4fd42755bce7c5fbeec29f13d5d0e58e3053a9a049e2e88027",
+    "CHANGELOG.md": "36ad5e8acd1099b7b59e1148fd4871fb0dcf936bab0d600716e2389e94011cfa",
+    "research/status/LATEST.md": "cf2b3fe29c7d20848d83f97daae6881d9fdeabe82bd2ffcc1e1c9a0649337ba8",
+    "research/phase3/features/decision_points.v001.json": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+    "research/phase3/labels/development.v001.json": "5e3e07c0f95fa374e4146545f21faf6950d5c496bf1c7cf34a8825f2d357cd37",
+    "research/phase3/labels/holdout.v001.json": "a3dee7c7c4d83eb1bd0dd845925d532c39080436616f52f14b4ee6b1a8c6bcbd",
+    "research/phase3/analysis/development.lock.v001.json": "07b019be46180ec8bfd35115e3165f2492a34f013816e86af004d98e1a57dbc5",
+    "research/phase3/analysis/holdout.lock.v001.json": "3b56dcf002f4f341437a0b0f34ac336e05c3e99331b72c23b59bdf2fb01a18bc"
+  }
+}

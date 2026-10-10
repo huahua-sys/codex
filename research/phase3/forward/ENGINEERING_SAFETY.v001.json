@@ -1,0 +1,25 @@
+{
+  "actual_capture_attempt": {
+    "actual_date": "2026-10-09",
+    "network_or_decision_directory_created": false,
+    "reason": "PENDING_OR_MISSED_DECISION",
+    "rejected": true
+  },
+  "checked_at": "2026-10-09T05:40:51.033446+00:00",
+  "checks": {
+    "append_only_overwrite_rejected_hash_preserved": true,
+    "before_month_end_rejected": true,
+    "early_month_end_rejected": true,
+    "incomplete_session_excluded": true,
+    "missed_window_rejected": true,
+    "permitted_real_capture_window": true,
+    "winter_us_close_not_early": true
+  },
+  "code_sha256": "de3f6363514a1c1fd09f0e4b051e74c26d07757befe2fd73657f1834438d60b3",
+  "data_kind": "SYNTHETIC_ONLY_NOT_INVESTMENT_EVIDENCE",
+  "effective_real_sample": 0,
+  "raw_real_observations": 0,
+  "readme_sha256": "0aeb11315c970a70b567fb830446865282217f31586d15e2a200b7025bcf5b82",
+  "registration_sha256": "c8d8e31663413b91440668184d6803d91ce67722b3ff5f660baee1ac48ccd27e",
+  "status": "ENGINEERING_SAFETY_PASS"
+}

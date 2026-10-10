@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ROUND_002 Stage A frozen episode input",
+  "type": "object",
+  "required": ["episode_id", "asset_id", "market", "currency", "cutoff_at", "prices", "metadata"],
+  "properties": {
+    "episode_id": {"type": "string"},
+    "asset_id": {"type": "string"},
+    "market": {"type": "string"},
+    "currency": {"type": "string"},
+    "cutoff_at": {"type": "string", "format": "date-time"},
+    "cost_bps_roundtrip": {"type": "number", "minimum": 0},
+    "metadata": {"type": "object", "properties": {
+      "price_basis": {"enum": ["UNADJUSTED", "AS_REPORTED_OHLC_NO_ADJCLOSE"]},
+      "return_basis": {"enum": ["PRICE_ONLY", "TOTAL_RETURN"]},
+      "tradability": {"enum": ["NONTRADABLE_INDEX", "EXCHANGE_TRADED_ETF", "UNVERIFIED"]},
+      "original_vintage_status": {"type": "string"},
+      "no_splits_in_analysis_interval_confirmed": {"type": "boolean"}
+    }},
+    "prices": {"type": "array", "items": {"$ref": "#/$defs/price"}},
+    "actions": {"type": "array", "items": {"$ref": "#/$defs/action"}},
+    "context": {"type": "array", "items": {"$ref": "#/$defs/context"}}
+  },
+  "$defs": {
+    "record": {"type": "object", "required": ["record_id", "available_at", "source_id", "source_sha256", "pit_status"], "properties": {
+      "record_id": {"type": "string"}, "available_at": {"type": "string", "format": "date-time"},
+      "source_id": {"type": "string"}, "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+      "pit_status": {"enum": ["VERIFIED", "VERIFIED_CONSERVATIVE_SESSION_LAG", "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED", "KNOWN_CORPORATE_ACTION_RECONSTRUCTED"]}
+    }},
+    "price": {"allOf": [{"$ref": "#/$defs/record"}, {"type": "object", "required": ["date", "open", "high", "low", "close", "session_open_at", "session_close_at"], "properties": {
+      "date": {"type": "string", "format": "date"}, "open": {"type": "number", "exclusiveMinimum": 0},
+      "high": {"type": "number", "exclusiveMinimum": 0}, "low": {"type": "number", "exclusiveMinimum": 0}, "close": {"type": "number", "exclusiveMinimum": 0},
+      "session_open_at": {"type": "string", "format": "date-time"},
+      "session_close_at": {"type": "string", "format": "date-time"}
+    }}]},
+    "action": {"allOf": [{"$ref": "#/$defs/record"}, {"type": "object", "required": ["date", "action_type"], "properties": {
+      "date": {"type": "string", "format": "date"}, "action_type": {"enum": ["dividend", "split"]}, "amount": {"type": "number", "minimum": 0}, "ratio": {"type": "number", "exclusiveMinimum": 0}
+    }}]},
+    "context": {"allOf": [{"$ref": "#/$defs/record"}, {"type": "object", "required": ["category", "value", "published_at", "availability_evidence"], "properties": {"pit_status": {"enum": ["VERIFIED", "VERIFIED_CONSERVATIVE_SESSION_LAG"]}, "published_at": {"type": "string", "format": "date-time"}, "availability_evidence": {"type": "string"}, "category": {"type": "string"}, "value": {}}}]}
+  }
+}

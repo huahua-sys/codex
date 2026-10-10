@@ -1,0 +1,386 @@
+{
+  "assets": [
+    {
+      "asset_id": "SPY",
+      "currency": "USD",
+      "industry": "Broad",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "SPY",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "QQQ",
+      "currency": "USD",
+      "industry": "Growth",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "QQQ",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "XLK",
+      "currency": "USD",
+      "industry": "Technology",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "XLK",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "SOXX",
+      "currency": "USD",
+      "industry": "Semiconductor",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "SOXX",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "XLF",
+      "currency": "USD",
+      "industry": "Financials_Quarantined",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "XLF",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "KBE",
+      "currency": "USD",
+      "industry": "Financials_Banks",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "KBE",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "XLI",
+      "currency": "USD",
+      "industry": "Industrials",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "XLI",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "XLY",
+      "currency": "USD",
+      "industry": "Consumer",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "XLY",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "XLV",
+      "currency": "USD",
+      "industry": "Healthcare",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "XLV",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "XLE",
+      "currency": "USD",
+      "industry": "Energy_Resources",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "XLE",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "XLU",
+      "currency": "USD",
+      "industry": "Utilities",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "XLU",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "IEF",
+      "currency": "USD",
+      "industry": "Treasury_7_10y",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "IEF",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "TLT",
+      "currency": "USD",
+      "industry": "Treasury_20y",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "TLT",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "SHY",
+      "currency": "USD",
+      "industry": "Treasury_1_3y",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "SHY",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "BIL",
+      "currency": "USD",
+      "industry": "Cash_1_3m",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "BIL",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "GLD",
+      "currency": "USD",
+      "industry": "Gold",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "GLD",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "UUP",
+      "currency": "USD",
+      "industry": "USD_Proxy",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "UUP",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "DBC",
+      "currency": "USD",
+      "industry": "Resource_Futures",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "DBC",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "HSI",
+      "currency": "HKD",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "HK",
+      "symbol": "^HSI",
+      "timezone": "Asia/Hong_Kong"
+    },
+    {
+      "asset_id": "N225",
+      "currency": "JPY",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "JP",
+      "symbol": "^N225",
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "asset_id": "SSE",
+      "currency": "CNY",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "CN",
+      "symbol": "000001.SS",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "asset_id": "CSI300",
+      "currency": "CNY",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "CN",
+      "symbol": "000300.SS",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "asset_id": "CHINEXT",
+      "currency": "CNY",
+      "industry": "Growth",
+      "instrument_type": "INDEX",
+      "market": "CN",
+      "symbol": "399006.SZ",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "asset_id": "STOXX50E",
+      "currency": "EUR",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "EU",
+      "symbol": "^STOXX50E",
+      "timezone": "Europe/Paris"
+    },
+    {
+      "asset_id": "DAX",
+      "currency": "EUR",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "DE",
+      "symbol": "^GDAXI",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "asset_id": "FTSE",
+      "currency": "GBP",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "UK",
+      "symbol": "^FTSE",
+      "timezone": "Europe/London"
+    }
+  ],
+  "block_years": 2,
+  "bootstrap_reps": 500,
+  "bootstrap_seed": 20261009,
+  "cost_roundtrip_bps": 50,
+  "credit_interaction_gate": {
+    "both_groups_required": true,
+    "decades": [
+      [
+        2000,
+        2009
+      ],
+      [
+        2010,
+        2019
+      ]
+    ],
+    "id": "H-P3-DD-CREDIT",
+    "minimum_dates_per_decade": 8,
+    "same_sign_primary_credit_group_difference": true
+  },
+  "credit_original_release_years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "cutoff": "FOLLOWING_LOCAL_DAY_00:00_AFTER_LAST_OBSERVED_QUARTER_SESSION",
+  "deep_broad_assets": [
+    "SPY",
+    "SSE",
+    "HSI",
+    "N225",
+    "STOXX50E"
+  ],
+  "deep_broad_even_years_only": true,
+  "deep_broad_quarter": 4,
+  "deep_industry_assets": [
+    "XLK",
+    "SOXX",
+    "KBE",
+    "XLI",
+    "XLY",
+    "XLV",
+    "XLE",
+    "XLU"
+  ],
+  "deep_industry_quarter": 2,
+  "development_end_year": 2023,
+  "external_trusted_timestamp": false,
+  "feature_comparisons": {
+    "H-P3-CREDIT": "latest original SLOOS C&I large/middle standards net percent>0 vs <=0; US only; maxage180d",
+    "H-P3-DRAWDOWN": "drawdown252<=-0.20 vs >-0.20",
+    "H-P3-TREND": "r252>0 vs <=0",
+    "H-P3-VOL": "vol252>past252 rolling252vol median; minimum504 bars"
+  },
+  "first_live_month_end": "2026-10-30",
+  "fixed_eras": [
+    [
+      2000,
+      2009
+    ],
+    [
+      2010,
+      2019
+    ],
+    [
+      2020,
+      2025
+    ]
+  ],
+  "forward_decision": "NO_RESEARCH_TRADE_BENCHMARK_ONLY_NO_VALIDATED_EDGE",
+  "horizons": {
+    "12m": 252,
+    "1m": 21,
+    "1w": 5,
+    "24m": 504,
+    "3m": 63,
+    "6m": 126
+  },
+  "later_label_holdout_years": [
+    2024,
+    2025
+  ],
+  "old_results_may_be_known": true,
+  "operational_change_permitted": false,
+  "parameter_optimization": false,
+  "primary_horizon": "12m",
+  "quarters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "registered_at": "2026-10-09T05:27:43.123498+00:00",
+  "secondary_horizon": "24m",
+  "source_end_exclusive": "2026-10-09",
+  "source_start": "2000-01-01",
+  "study_id": "PHASE3-ROBUST-SAMPLE-v001",
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ]
+}

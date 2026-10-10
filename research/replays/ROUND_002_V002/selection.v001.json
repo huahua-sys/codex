@@ -1,0 +1,278 @@
+{
+  "batch_role": "NEW_LABELS_COMPUTATIONAL_HOLDOUT_NOT_PROSPECTIVE",
+  "cutoff_dates": [
+    "2016-09-30",
+    "2017-09-30",
+    "2018-09-30",
+    "2019-09-30",
+    "2020-09-30",
+    "2021-09-30",
+    "2022-09-30",
+    "2023-09-30"
+  ],
+  "episodes": [
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-001",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-002",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-003",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-004",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-005",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-006",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-007",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-008",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-009",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-010",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-011",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-012",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-013",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-014",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-015",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-016",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-017",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-018",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-019",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-020",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-021",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "HSI",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-022",
+      "market": "HK",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "N225",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-023",
+      "market": "JP",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    },
+    {
+      "asset_id": "SPY",
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "cutoff_timezone": "UTC",
+      "episode_id": "ROUND_002_V002-024",
+      "market": "US",
+      "sample_role": "EXPLORATORY_FIXED_CALENDAR",
+      "sampling_weight": 1.0,
+      "selection_basis": "calendar_grid_x_frozen_universe"
+    }
+  ],
+  "missing_policy": "KEEP_ROW_AND_REPORT_UNRESOLVED_DATA_NO_REPLACEMENT",
+  "prior_selection_design_sha256": "4d2efbeb35a9ed2cec746ebd7ef2bd36474f0f2b9653a4aff1b08cd487c341d1",
+  "round_id": "ROUND_002_V002",
+  "selection_inspects_outcomes": false,
+  "selection_method": "FIXED_CALENDAR_FULL_GRID",
+  "source_resolution": "Native HSI and N225 accessible; no fallback used.",
+  "universe": [
+    {
+      "asset_id": "SPY",
+      "inception_date": "1993-01-29",
+      "market": "US"
+    },
+    {
+      "asset_id": "HSI",
+      "inception_date": "1969-11-24",
+      "market": "HK"
+    },
+    {
+      "asset_id": "N225",
+      "inception_date": "1950-09-07",
+      "market": "JP"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "bundle_sha256": "fc9770c976615da777af85832389f904c1388e2ddab29de089ffc48485df4102",
+  "canonical_sources": {
+    "GLD": {
+      "path": "data/raw/round_002/market/GLD.canonical.json",
+      "sha256": "3002e58336cf518c211b03b288e0dbdc998810e58ab028f0e326bb10cc02bc9b",
+      "source_sha256": "04a04ebe7505dff9897e263431ec5ff6aef98c8ed25688151ec286ac7bb369cc"
+    },
+    "IEF": {
+      "path": "data/raw/round_002/market/IEF.canonical.json",
+      "sha256": "a7c4676d7b929d22b5d29687d0c9740c25206aaa5cb507d306a069436e6b17a9",
+      "source_sha256": "c390848d92e8b32b3cf30ed63294f7d4ceef61b626c4282405d294a2a7e36504"
+    },
+    "QQQ": {
+      "path": "data/raw/round_002/market/QQQ.canonical.json",
+      "sha256": "a6f0befd07629f4db804dd1769776ce0618ec33d20d66d440b5a568d82925680",
+      "source_sha256": "749edd198478ea19416ec7eb14345123b04e360ca9c3e4d3b853551f4b2b3655"
+    },
+    "UUP": {
+      "path": "data/raw/round_002/market/UUP.canonical.json",
+      "sha256": "cc6f0432216ecd9a8b08a7a43858a3ca705d89f7f1431314fd28cb8894379bb0",
+      "source_sha256": "632f8cd185e767088288ac6d93fb0b3d44f0cfde0c77b59ddcd69b43895593f0"
+    }
+  },
+  "official_records_sha256": "c4cb850b6b2450015303cfe0350c2e811315bd6eaa3b2da06c43d595ab35ae93",
+  "preregistration_sha256": "6aec3a4d18aa85252feee57b3223a5bcdd1d000158977f1deb7de93e5f058dc5",
+  "selection_sha256": "fb646a4a1a3cd6de70ab652f870918d80b40c8fcdb1d557676d2b388d51f921e"
+}

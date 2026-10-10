@@ -1,0 +1,65 @@
+{
+  "audit_id": "PHASE2_QUALITY_BENCHMARK_TAXONOMY_V001",
+  "reviewed_at": "2026-10-09T00:15:22.885692+00:00",
+  "status": "PASS_WITH_SCIENTIFIC_LIMITATIONS",
+  "issues": [],
+  "checks": {
+    "paired_residuals": 9792,
+    "initial_weight_terminal_returns": 1224,
+    "portfolio_path_mdd": 1224,
+    "old_benchmark_parity": 1224,
+    "old_rule_frozen_copy": 1224,
+    "summary_means": 192,
+    "summary_paired_means": 72,
+    "primary_taxonomy_counts": 2
+  },
+  "primary_classifications": {
+    "original_282": {
+      "TRUE_NEGATIVE": 23,
+      "FALSE_NEGATIVE": 39,
+      "TRUE_POSITIVE": 118,
+      "ABSTAIN": 66,
+      "FALSE_POSITIVE": 36
+    },
+    "expanded_374": {
+      "TRUE_NEGATIVE": 27,
+      "FALSE_NEGATIVE": 52,
+      "TRUE_POSITIVE": 156,
+      "ABSTAIN": 89,
+      "FALSE_POSITIVE": 50
+    }
+  },
+  "wait_outcome_proxy_counts": {
+    "original_282": {
+      "CORRECT_NO_TRADE_PROXY": 67,
+      "MISSED_OPPORTUNITY_PROXY": 61
+    },
+    "expanded_374": {
+      "CORRECT_NO_TRADE_PROXY": 84,
+      "MISSED_OPPORTUNITY_PROXY": 84
+    }
+  },
+  "source_hashes": {
+    "scripts/phase2_benchmarks.py": "f1018fcd6716235693207a1f9f23951e01ba9a9babbca8bf26c37f73e5153f3a",
+    "scripts/phase2_error_taxonomy.py": "0b5423ac9b526dd957f829c5a5afb7d15cbc67f21849b262dcd68aed3d14b0d3",
+    "research/phase2/benchmarks.results.v001.json": "c3340697ba996856d87d20a599877f87f49d5e70dc2dafa0671d4fd963242598",
+    "research/phase2/error_taxonomy.summary.v001.json": "d39335439e2e1f933d6a0fc4096b56da19da7086937ec3f92fc3cb4e64a57b26"
+  },
+  "scientific_findings": [
+    "Return edge not established: weekly primary12m mean residual +0.07pp vs50/50SPYBIL with descriptive interval spanning both signs; residual -1.96pp vs60/40SPYIEF and -3.00pp vs70/30SPYIEF",
+    "Weekly shallower MDD than full SPY does not prove downside-prediction information: mean MDD is deeper than fixed50/50SPYBIL and slightly deeper than60/40SPYIEF at primary costs",
+    "Direction TP/FP/TN/FN and WAIT overlay are separate counts; p=.5 remains ABSTAIN",
+    "WAIT outcome class is frozen-vol-band outcome proxy, not exante EV optimum or proof the missed winner was identifiable",
+    "Context-missing prevalence cannot explain error cause when the same fields are missing in correct cases",
+    "Calendar/year or old accessible policy observation does not by itself identify present macro regime; fundamentals/credit/expectations unavailable"
+  ],
+  "limitations": [
+    "Benchmarks use17 US annual start clusters, not102 independent scenarios; horizon labels share future prices,24m overlaps",
+    "Original trend outcomes already known before new comparator design, so exploratory residual research only",
+    "Fixed initial portfolio weights drift; simple period returns are not longitudinal CAGR or rebalanced allocation performance",
+    "USD SPY/IEF/BIL only; BIL proxy not guaranteed cash account yield; IEF 7–10Y duration risk",
+    "Economic exdate dividend reinvestment and current provider vintages, no witnessed original prices",
+    "OLS slope/intercept descriptive, no causal alpha or fitted decision weights",
+    "Missing financial variables do not justify declaring value/earnings/credit irrelevant"
+  ]
+}

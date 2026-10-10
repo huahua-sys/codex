@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:30:48.707648+00:00",
+  "content_type": "text/html",
+  "final_url": "https://www.federalreserve.gov/data/sloos/sloos-202304-table-1.htm",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos/sloos-202304.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_table1",
+  "source_path": "research/phase3/data/credit/raw/df3527c959317e27.bin",
+  "source_sha256": "260348eb4837c244b8f99769a800b22dbf6f71e4e22559fb333292767c439555",
+  "url": "https://www.federalreserve.gov/data/sloos/sloos-202304-table-1.htm"
+}

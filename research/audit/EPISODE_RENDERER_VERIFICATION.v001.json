@@ -1,0 +1,35 @@
+{
+  "causal_attribution": "UNRESOLVED_MECHANISM",
+  "invalid_pilots_rendered": false,
+  "prediction_modified": false,
+  "real_checks": [
+    "A_prediction_and_Markdown_hashes_match_locks",
+    "batch_sentinel_provenance_matches_each_lock",
+    "B_references_original_A_and_lock",
+    "all_local_artifact_links_exist",
+    "all_six_horizons_present"
+  ],
+  "real_reports": [
+    {
+      "batch_id": "ROUND_002_V003",
+      "date_clusters": 8,
+      "episode_count": 24
+    },
+    {
+      "batch_id": "NIGHT_XTIME_V003",
+      "date_clusters": 12,
+      "episode_count": 36
+    }
+  ],
+  "record_type": "engineering_and_artifact_check",
+  "renderer": "scripts/render_episodes.py",
+  "renderer_sha256": "7eea00bb0f94a62bd0a9881e4573a6611ae578bfdc4bc4becd515d22bb489bb2",
+  "synthetic_checks": [
+    "pre_B_refusal",
+    "all_six_horizons_present",
+    "deterministic_repeat",
+    "stage_A_prediction_unchanged",
+    "lock_tampering_rejected"
+  ],
+  "synthetic_is_investment_evidence": false
+}

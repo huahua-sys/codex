@@ -1,0 +1,30 @@
+{
+  "at": "2026-10-09T05:51:37.442750+00:00",
+  "stage": "ALL_A_LOCKED_BEFORE_LATER_REVEAL",
+  "state": {
+    "status": "ALL_A_LOCKED_DEVELOPMENT_LABEL_REVEAL_RUNNING",
+    "selected": 2704,
+    "feature_eligible": 2113,
+    "insufficient_history": 92,
+    "no_source": 395,
+    "excluded_instrument": 104,
+    "deep_selected": 273,
+    "original_credit_releases_raw": 104,
+    "original_credit_releases_admitted": 85,
+    "credit_uncertain": 19,
+    "effective_n": null,
+    "new_probability_forecasts": 0,
+    "operational_framework_changed": false,
+    "feature_sha256": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+    "later_labels_opened": false,
+    "forward_real_decisions": 0
+  },
+  "files": {
+    "research/phase3/features/decision_points.v001.json": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+    "research/phase3/features/decision_points.v001.SHA.lock.json": "5a57dd875b6e068b307e451775c964b2d9148f12dbd3cfcb281bdb10cee8ce06",
+    "research/phase3/panel.registration.v001.json": "b507566e01e0cd32b63af7ec239aa39ab93c27bc2db300b0892994175a730c8b",
+    "research/phase3/data/credit/credit.records.v002.json": "7a9ba70837a5f75f480c61ba56d03a2520ec2be2a5634849843227ad12fbce2e",
+    "CURRENT_FRAMEWORK.json": "a465765e027066e80a2a29424d9eeda9667382131f193a07a4772bc2327249be",
+    "RESEARCH_LEDGER.md": "c5cb08cb762534816af33d2aafebe4aaeed7c4cbac26f6a0cbca3a3fe32eb609"
+  }
+}

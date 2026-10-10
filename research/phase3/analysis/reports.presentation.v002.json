@@ -1,0 +1,25 @@
+{
+  "analysis_inputs_sha256": {
+    "development.results.v001.json": "7cb3f83d813789f0a9efda928267b64e8a8dbc87a6cca489bf49898bc54d58ab",
+    "holdout.results.v001.json": "24c5aa74ada1541a9192d4707aca5fff738e4f47a0fda0498aa97132a7ca378b"
+  },
+  "code_sha256": "ac5b0bc5b1a87ad91558c7a9975e343b7855fd869c63dcda3c32582d23af8258",
+  "created_at": "2026-10-09T06:02:34.817403+00:00",
+  "mode": "PRESENTATION_ONLY_NO_NEW_STATISTICAL_TESTS",
+  "n_effective": null,
+  "new_experiments": 0,
+  "new_report_sha256": {
+    "CROSS_TIME_VALIDATION.md": "9dad9bf30caac90287c019bbd277286017e21af08a6ab13a1675942b74c3eda5",
+    "EFFECTIVE_SAMPLE_REPORT.md": "2c90aa18be507791327c8c6b37099e2d0816bab0a0349bc1085b43f36e867871",
+    "EXPANDED_PANEL_REPORT.md": "453d4775c78e746246c5a89a4985f8f1f8c2a60b5b3be2ed41409221a5b01c88",
+    "MULTIPLE_TESTING_LEDGER.md": "dfa1384e06132bd4d77e0f0e8f32e6bee5f84d742107be7e188a39c9ccc57820"
+  },
+  "old_report_sha256": {
+    "CROSS_TIME_VALIDATION.md": "472b3597cdfa41a2f1f135543e0b02a444528b4ae608c0b6fff49e5611078cb1",
+    "EFFECTIVE_SAMPLE_REPORT.md": "e8ad8b3f19baea0b040aa833e883c87dcc2ee2cccfa2f447e8bb1388932143a1",
+    "EXPANDED_PANEL_REPORT.md": "6d64272ae00f0a7dcece2373e6be6a1f1509841c554c71388624481de63a7f36",
+    "MULTIPLE_TESTING_LEDGER.md": "406991d138ae66e76f81539897d12fcc83e1fb454c2d7107178ca5a6c052a334"
+  },
+  "raw_observations": 2704,
+  "reason": "Full distribution tables, hypothesis scope, methods compatibility and honest degenerate bootstrap display; raw results and locked statistical code unchanged."
+}

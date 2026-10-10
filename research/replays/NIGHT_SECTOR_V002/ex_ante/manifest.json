@@ -1,0 +1,808 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_SECTOR_V002-001": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-001.input.v001.json",
+      "sha256": "d1f0eb3d0f7661d8f0defa44b0fff40858a2eea5b00dc67a3f50c6f09ed94e79"
+    },
+    "NIGHT_SECTOR_V002-002": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-002.input.v001.json",
+      "sha256": "2ec71dd4cc4fa8dd47ff1a624588b43065ee8dccaaf5c641139e894cc9d74826"
+    },
+    "NIGHT_SECTOR_V002-003": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-003.input.v001.json",
+      "sha256": "317f095afdbc5989d736caba537d5a4185eeff0f41c3b0ca00bb525de10410d2"
+    },
+    "NIGHT_SECTOR_V002-004": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-004.input.v001.json",
+      "sha256": "b7b897297c5deb6279e8c651f9fe57a9ad0ae3f64567ad4eea7426920a94d522"
+    },
+    "NIGHT_SECTOR_V002-005": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-005.input.v001.json",
+      "sha256": "16c24d0f74004923638698b953ef4b35cedeb7917aae29289e333f47699c13d4"
+    },
+    "NIGHT_SECTOR_V002-006": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-006.input.v001.json",
+      "sha256": "32ed83e32f245db17f23dfda495fdef5eac04e5001721e05a97431bb6e4051ef"
+    },
+    "NIGHT_SECTOR_V002-007": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-007.input.v001.json",
+      "sha256": "c241db896ed84245f302f63feda2440021506ed0dbda6b15543525309be3a3b4"
+    },
+    "NIGHT_SECTOR_V002-008": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-008.input.v001.json",
+      "sha256": "abefeb4f5a5146b6509d9a98a686cc712b8c368fd37250a346247058c03f9d8b"
+    },
+    "NIGHT_SECTOR_V002-009": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-009.input.v001.json",
+      "sha256": "dee20978067eda37a655e5baedd76edd74a957f0e1771c619220ab33e9c562b2"
+    },
+    "NIGHT_SECTOR_V002-010": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-010.input.v001.json",
+      "sha256": "b4496fdc4771c7333cf8e3d515b6a4a52c91baf28d61c3b67eb09c0d275be4e4"
+    },
+    "NIGHT_SECTOR_V002-011": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-011.input.v001.json",
+      "sha256": "fc379d17836b9117efec9f478836b397d07f46c7de3fd98932e609a114298fd1"
+    },
+    "NIGHT_SECTOR_V002-012": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-012.input.v001.json",
+      "sha256": "3e57bb23d649dc88ca13764821b724a0a6f772f3f0dd92b73b17b276088212bf"
+    },
+    "NIGHT_SECTOR_V002-013": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-013.input.v001.json",
+      "sha256": "8f4d58700a0348bd1cb2dc3fa7a143008daf76a54561504afadf81458bb94aa1"
+    },
+    "NIGHT_SECTOR_V002-014": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-014.input.v001.json",
+      "sha256": "f00e8019371bc104a8018b6dc252a3cfe26365ce4921d016bc09463f1ead7119"
+    },
+    "NIGHT_SECTOR_V002-015": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-015.input.v001.json",
+      "sha256": "c59b9badda89d4382f37d7848ecf479e2659394c65601b12d8d666ec7457f307"
+    },
+    "NIGHT_SECTOR_V002-016": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-016.input.v001.json",
+      "sha256": "80787203a62d23f86814d14f4af3caabffb8356b7b6c18516976853b51695faf"
+    },
+    "NIGHT_SECTOR_V002-017": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-017.input.v001.json",
+      "sha256": "f35a86fc57f6da2f0cdb392e2872d8884c5044b36929605c45dde6a3d7750563"
+    },
+    "NIGHT_SECTOR_V002-018": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-018.input.v001.json",
+      "sha256": "29b4fa9466f5b0e77223a6f8f6a6a9cd61df80f54a8f411f72579f4d00690313"
+    },
+    "NIGHT_SECTOR_V002-019": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-019.input.v001.json",
+      "sha256": "f9fb00cda0fc33b6babce19fe93c56c99f71a3ddbb09e6f436fc01dbbd511381"
+    },
+    "NIGHT_SECTOR_V002-020": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-020.input.v001.json",
+      "sha256": "0d5df4626eec2dcd53e946a08a077c31d711916a46f3f3cc6ab3e7023766681d"
+    },
+    "NIGHT_SECTOR_V002-021": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-021.input.v001.json",
+      "sha256": "40bd9687933bf34396d3634be0e14dabb0f9988f2f8edb87c177d5d8ac5e4bd1"
+    },
+    "NIGHT_SECTOR_V002-022": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-022.input.v001.json",
+      "sha256": "a8a18ac06dda2d1aa189d10474b0f1b7c392c821d70249607c1ddf470ada4fbb"
+    },
+    "NIGHT_SECTOR_V002-023": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-023.input.v001.json",
+      "sha256": "d6d1a6b02f80b276522d792d79fc763d8623415b7cf34bbc3b02440e2747e427"
+    },
+    "NIGHT_SECTOR_V002-024": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-024.input.v001.json",
+      "sha256": "196fd4377fcbec1587f9bf41e248b6e58262cb742d8ed0ae60c68c6c0eeb553a"
+    },
+    "NIGHT_SECTOR_V002-025": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-025.input.v001.json",
+      "sha256": "a71f6e5342c32c719641124e641cf34d220cf407e284435d9956d6f223d26502"
+    },
+    "NIGHT_SECTOR_V002-026": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-026.input.v001.json",
+      "sha256": "d73046902ceb7fae92103260360f5992ea845fefae720a13d4c5a4637c76a0f4"
+    },
+    "NIGHT_SECTOR_V002-027": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-027.input.v001.json",
+      "sha256": "74819a5343ecb1a83e8168931804e6798d612e9f90241d857dde798a7af1dd4c"
+    },
+    "NIGHT_SECTOR_V002-028": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-028.input.v001.json",
+      "sha256": "6c68ebaf67fb1228006ce4a1d3d4e192156fc495cef4a9de630e18e71b2937be"
+    },
+    "NIGHT_SECTOR_V002-029": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-029.input.v001.json",
+      "sha256": "719e82591e0540b4846e11dc0aba5e5c8005332034b2ec881808d9feda6dc3a3"
+    },
+    "NIGHT_SECTOR_V002-030": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-030.input.v001.json",
+      "sha256": "bdd06f3112e385b258ba08bf95e9cffc18cd1645dc81a91469fc990f7c487541"
+    },
+    "NIGHT_SECTOR_V002-031": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-031.input.v001.json",
+      "sha256": "135831fd6eb8ff424d4b4652253b911e0dae23d705ae3f447912af5600877708"
+    },
+    "NIGHT_SECTOR_V002-032": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-032.input.v001.json",
+      "sha256": "b833c3341b7a103fac930100cd046d0718d47dce2b110dbeb25a97b96543aef2"
+    },
+    "NIGHT_SECTOR_V002-033": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-033.input.v001.json",
+      "sha256": "d6abb83a5a44ba30f461080e5b970f3f9d74bc1aa3a00de47aac83de723efb40"
+    },
+    "NIGHT_SECTOR_V002-034": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-034.input.v001.json",
+      "sha256": "a5bd255b7199671793cec5c22ece2c26aaa5672e81fb0b8de95165a2651ec551"
+    },
+    "NIGHT_SECTOR_V002-035": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-035.input.v001.json",
+      "sha256": "5b704dc4eb9ad45960c5ee668d21aec3bb13ec54b5159994008432e97e8b88f8"
+    },
+    "NIGHT_SECTOR_V002-036": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-036.input.v001.json",
+      "sha256": "1f1e367d511e0a62b0301ef8d370d5cf15dc0c0458e3f09d05cf32e5f0dd3bc0"
+    },
+    "NIGHT_SECTOR_V002-037": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-037.input.v001.json",
+      "sha256": "aacb7a9587fafe36f91a8f138f157075e2759af39d26358ff3b4cd994a172937"
+    },
+    "NIGHT_SECTOR_V002-038": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-038.input.v001.json",
+      "sha256": "8159777d2316549b7c06615ddd0c71899b103a0c845dd9c6cbb10fa11f025b1b"
+    },
+    "NIGHT_SECTOR_V002-039": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-039.input.v001.json",
+      "sha256": "3b9ca67fabc8a17efb1f7d46142ac4c66d197089d179ac32e3b28b6a9c523abd"
+    },
+    "NIGHT_SECTOR_V002-040": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-040.input.v001.json",
+      "sha256": "57fe1418c26178040327746e65798e12df2f5e8fcedffa2eac0686a9ea635b2b"
+    },
+    "NIGHT_SECTOR_V002-041": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-041.input.v001.json",
+      "sha256": "d77bb9314a0b29892c6fe3b92d9f633d50da1473c7d0f0335cfe09031aed3b6d"
+    },
+    "NIGHT_SECTOR_V002-042": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-042.input.v001.json",
+      "sha256": "1c6a43214f1668a810dbfb0803b24d23978d96c1311de00b937eb0d68c4f2813"
+    },
+    "NIGHT_SECTOR_V002-043": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-043.input.v001.json",
+      "sha256": "8d4f256884a4a69a8056bf82e66a0493784492c8a6a13bda70e14d004b476bcc"
+    },
+    "NIGHT_SECTOR_V002-044": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-044.input.v001.json",
+      "sha256": "cdfca4441afcb56298d42a5bafd4ab61d8bbb34427a21971c44a98d86baf255b"
+    },
+    "NIGHT_SECTOR_V002-045": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-045.input.v001.json",
+      "sha256": "316ac4173bf26ba7006ae07e5756a1966708fbea2cf65b8145cb8c47860c6037"
+    },
+    "NIGHT_SECTOR_V002-046": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-046.input.v001.json",
+      "sha256": "cdffeffbdff3b614f5fd0c6fb1d69a44a52a29471448d31c7dbca332f65a2e81"
+    },
+    "NIGHT_SECTOR_V002-047": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-047.input.v001.json",
+      "sha256": "f935f59ceb4b392ad0589d06dffd6853ab6fa790d67ff8b7113286523a1ce756"
+    },
+    "NIGHT_SECTOR_V002-048": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-048.input.v001.json",
+      "sha256": "0308ecbd5dbc19e5a26d3a5a56682549e38436eb10105c49edaf97b4e2d93eb2"
+    },
+    "NIGHT_SECTOR_V002-049": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-049.input.v001.json",
+      "sha256": "87086ec71e220449873517fd349c2ce5672c2b17ab357530d629bd7c587cc3d5"
+    },
+    "NIGHT_SECTOR_V002-050": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-050.input.v001.json",
+      "sha256": "23a18cae918e304d237bce75bd6e0d6bc87fdc18da30bd2723079124ed00fd76"
+    },
+    "NIGHT_SECTOR_V002-051": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-051.input.v001.json",
+      "sha256": "818e0ba38138253b42f31d27dced2499784cbd099ece3ee114934094a5031c04"
+    },
+    "NIGHT_SECTOR_V002-052": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-052.input.v001.json",
+      "sha256": "960a498b38bf776e26d1443241230e8ccc5975e5bea3f328ddab37f15f20b848"
+    },
+    "NIGHT_SECTOR_V002-053": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-053.input.v001.json",
+      "sha256": "a6309f32eaa10a30db4653e5d7e769ce774effe72df08fa1fba051fb8bef42fe"
+    },
+    "NIGHT_SECTOR_V002-054": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-054.input.v001.json",
+      "sha256": "4abc96c798de2b4620ae219c3aa91dbe277c93e4070aef1cd5fd9d53e690ef64"
+    },
+    "NIGHT_SECTOR_V002-055": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-055.input.v001.json",
+      "sha256": "fc44f6e0784b54e83259b5460a39b525e38639135805eb667f06f8bf91ebd1b5"
+    },
+    "NIGHT_SECTOR_V002-056": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-056.input.v001.json",
+      "sha256": "803268eb07d7100ea84c1d846fe6e6cc3324847f0e659947ed9774e34fab4d54"
+    },
+    "NIGHT_SECTOR_V002-057": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-057.input.v001.json",
+      "sha256": "a3d9c274749baddafc910f30fb7e55d217e0cffa5c3aa5a6e59441d51524e277"
+    },
+    "NIGHT_SECTOR_V002-058": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-058.input.v001.json",
+      "sha256": "419aa961cfe01cfb02e28d4c70e355d698d932f57abda53482401e493453fb64"
+    },
+    "NIGHT_SECTOR_V002-059": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-059.input.v001.json",
+      "sha256": "5fd89a42d41e7995dbf3c09f2075f7fc499164970241b9963ae408259e0e8d4e"
+    },
+    "NIGHT_SECTOR_V002-060": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-060.input.v001.json",
+      "sha256": "f95d4a9366ee1aa076667b3d0e7ca8178405f5f276e25a749ef84702b48292ef"
+    },
+    "NIGHT_SECTOR_V002-061": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-061.input.v001.json",
+      "sha256": "ca629aaece6d09fab23072d8beb243e1a6c951cc8c1acb9bf1f0eff308d332c6"
+    },
+    "NIGHT_SECTOR_V002-062": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-062.input.v001.json",
+      "sha256": "911149042de6c9eeb17ac244701391dea28d15f1d7d632a48e9440e52b546d78"
+    },
+    "NIGHT_SECTOR_V002-063": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-063.input.v001.json",
+      "sha256": "e36de2fab03cce7a8b99a58da3dabc5860f9fb6a2f3ae87700d91d91cd474bf0"
+    },
+    "NIGHT_SECTOR_V002-064": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-064.input.v001.json",
+      "sha256": "76022df94cd66800b4c025d8c914eb585baf59fe764d8bef37c6f3fe4cd212a9"
+    },
+    "NIGHT_SECTOR_V002-065": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-065.input.v001.json",
+      "sha256": "dbb25b9ce01a7870c76e7e8fa853981eb9583e068c4bdc03d84c1b94667dc5f7"
+    },
+    "NIGHT_SECTOR_V002-066": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-066.input.v001.json",
+      "sha256": "992a814dcd38b544b66961bdc4dcd047a3b83042a474211ac98bb8c0374050a4"
+    },
+    "NIGHT_SECTOR_V002-067": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-067.input.v001.json",
+      "sha256": "c6bb5f135757f3feacf2e1e1847b550f3580d7745b4683233e47c2a3c3684396"
+    },
+    "NIGHT_SECTOR_V002-068": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-068.input.v001.json",
+      "sha256": "84d3938e04311693f76b6b1b4cadbd22ff4470a4bd033e47bbd6e30c13e3bba0"
+    },
+    "NIGHT_SECTOR_V002-069": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-069.input.v001.json",
+      "sha256": "246ca1015c76e7c198d6eb3380a6e1206d95a4eb512a818680fe9b2b4e402060"
+    },
+    "NIGHT_SECTOR_V002-070": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-070.input.v001.json",
+      "sha256": "7580ca1bac6f3f487d1de98f03521c14fc9c410656fb260b213c43e2d4c73645"
+    },
+    "NIGHT_SECTOR_V002-071": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-071.input.v001.json",
+      "sha256": "cc2e36a4035edc71b0302f901be1f18c770484197842f60dde87d9a089c76171"
+    },
+    "NIGHT_SECTOR_V002-072": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-072.input.v001.json",
+      "sha256": "5d996d42633d17eb67c71143ce2a644d6cb60cfea296109b916e36d5c6b391c2"
+    },
+    "NIGHT_SECTOR_V002-073": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-073.input.v001.json",
+      "sha256": "264d0a49d5523f185427289a06517411a4408a267ee8bf5ce8c3283b8632b36d"
+    },
+    "NIGHT_SECTOR_V002-074": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-074.input.v001.json",
+      "sha256": "d72e02006ab9da130579fa95a93a87fb3adc4f2678ea5743e58327937e83074c"
+    },
+    "NIGHT_SECTOR_V002-075": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-075.input.v001.json",
+      "sha256": "90192a2a17fa4246b2035df719e7f52b31ea3447674c33c8ebec98ddb63df8bf"
+    },
+    "NIGHT_SECTOR_V002-076": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-076.input.v001.json",
+      "sha256": "0f63650ad3c1e2306c2da4c79dddbf62417cd5d065d78a7d7cce324651e104bc"
+    },
+    "NIGHT_SECTOR_V002-077": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-077.input.v001.json",
+      "sha256": "0275df67109e1b040094ffcf84becd198e63a1c54b8766a50d86af5815f2e47b"
+    },
+    "NIGHT_SECTOR_V002-078": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-078.input.v001.json",
+      "sha256": "81f39a179c43de541e2cf4d525bfcc057cfef8ad79640c00947a0de6514031c9"
+    },
+    "NIGHT_SECTOR_V002-079": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-079.input.v001.json",
+      "sha256": "c48adcaf4fe0d23245b1f04949b11002ac596e1a433655b2d05f666258d9af97"
+    },
+    "NIGHT_SECTOR_V002-080": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-080.input.v001.json",
+      "sha256": "917027e49a00f91bef526de2c7c1f9b4888252be803830287fa0db063c4c8f73"
+    },
+    "NIGHT_SECTOR_V002-081": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-081.input.v001.json",
+      "sha256": "708df4825b6e80145d9340eb870b0bd4cd9eb23599989b984177744d9eb12bd5"
+    },
+    "NIGHT_SECTOR_V002-082": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-082.input.v001.json",
+      "sha256": "ff3d381a9b821990a1d9dbebc3f182aace520f7db35cba4350e0217bf6621af5"
+    },
+    "NIGHT_SECTOR_V002-083": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-083.input.v001.json",
+      "sha256": "9be1cb1d8c09227fd46926f63f04c2a2d123a71fc9fdde2c8c3590d21b0d5fae"
+    },
+    "NIGHT_SECTOR_V002-084": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-084.input.v001.json",
+      "sha256": "807e7bf6a3fd2e735d8f39606013afe64fad94952364ef749a4a9af98becfc6b"
+    },
+    "NIGHT_SECTOR_V002-085": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-085.input.v001.json",
+      "sha256": "9d0771ad72f10f78d9ce7c5bc38db5ab9de5b2dfa8b35894931190d6ca2a7ddb"
+    },
+    "NIGHT_SECTOR_V002-086": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-086.input.v001.json",
+      "sha256": "4b806c466c3b427502432419cf9af763000871d4fecb38832d492221b2a0232e"
+    },
+    "NIGHT_SECTOR_V002-087": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-087.input.v001.json",
+      "sha256": "628709ed698d2370df2018b759d8a062c4340c6374a1e17a31133f340d869cfb"
+    },
+    "NIGHT_SECTOR_V002-088": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-088.input.v001.json",
+      "sha256": "9aa1f01918c5079d62231db1fecf12285d1802d07656eec8d1aea693a627505e"
+    },
+    "NIGHT_SECTOR_V002-089": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-089.input.v001.json",
+      "sha256": "9c7f453e0fe85a8ce400b5933b7b35e266428ca622f984942f37c4381c42ae18"
+    },
+    "NIGHT_SECTOR_V002-090": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-090.input.v001.json",
+      "sha256": "3d324119f25910326b3a02420deb22a34decb5bc9fcb32eb188aa3101f226fd5"
+    },
+    "NIGHT_SECTOR_V002-091": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-091.input.v001.json",
+      "sha256": "dba57df99c56814e33415d3a23bcaa5401f16fc2c707c029faad861f06e02b1a"
+    },
+    "NIGHT_SECTOR_V002-092": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-092.input.v001.json",
+      "sha256": "15e58e0dc196304efab8d72c70a8c2ccebc0c34fdfae9ae8e8363ea4f3bfc644"
+    },
+    "NIGHT_SECTOR_V002-093": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-093.input.v001.json",
+      "sha256": "9dd71640184ff50ba47bfb4f7b31686cffbfa3862737a4e58247614bca2046d5"
+    },
+    "NIGHT_SECTOR_V002-094": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-094.input.v001.json",
+      "sha256": "0340dd2cf8baba43e374571873dae3a9c7bcd263b37086112e69e35b79b02978"
+    },
+    "NIGHT_SECTOR_V002-095": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-095.input.v001.json",
+      "sha256": "6209231ac4551b41c0dac6851d15215ad2b2c36421b173e14c1c7bd85d8f54f2"
+    },
+    "NIGHT_SECTOR_V002-096": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-096.input.v001.json",
+      "sha256": "0b5b6c1ec47b53f894d32d5463de563137550d64c1a350e03d286360a069e15a"
+    },
+    "NIGHT_SECTOR_V002-097": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-097.input.v001.json",
+      "sha256": "aff8a3eec678c5fd08637a228f5064b4a6c8720a0277a89cdfd37283b88d24d1"
+    },
+    "NIGHT_SECTOR_V002-098": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-098.input.v001.json",
+      "sha256": "8c50be3e903496e302480868d25b89939e1f4ce20e2e94d465d964d3dbbb38c1"
+    },
+    "NIGHT_SECTOR_V002-099": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-099.input.v001.json",
+      "sha256": "3e316ba9e8b48d8e24e1179e315d7a17a113925e09e0d77a7befb2988a167424"
+    },
+    "NIGHT_SECTOR_V002-100": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-100.input.v001.json",
+      "sha256": "3794049f51ec1b7c930bf6d5f50f609ec8d5497f7b085dc9eddaafa9b0ca480e"
+    },
+    "NIGHT_SECTOR_V002-101": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-101.input.v001.json",
+      "sha256": "883f7605cde4bd537f7ef9a278535dcdd16d9ae55a890818a28d8618808b89cd"
+    },
+    "NIGHT_SECTOR_V002-102": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-102.input.v001.json",
+      "sha256": "2f8e036afe796e251f39d3d8de6d616974647665fc55b3191fb68787b6d7ce4c"
+    },
+    "NIGHT_SECTOR_V002-103": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-103.input.v001.json",
+      "sha256": "15477a8d9e2c260eed629232587f0c3a85e05c870ab14849b720bd116367a439"
+    },
+    "NIGHT_SECTOR_V002-104": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-104.input.v001.json",
+      "sha256": "bce0c428225dac297fa5474f28d9a46fa1783dd02e505c4795332241a04d0692"
+    },
+    "NIGHT_SECTOR_V002-105": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-105.input.v001.json",
+      "sha256": "eb5b9bfac46acf266371ac880ce17d9c58d489a7703e16ad431e2196d4c4181b"
+    },
+    "NIGHT_SECTOR_V002-106": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-106.input.v001.json",
+      "sha256": "abbebb5f612f7382e0ebb8380320e8e1cb55ecbab35e70d5a90419c125cdcdcd"
+    },
+    "NIGHT_SECTOR_V002-107": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-107.input.v001.json",
+      "sha256": "98d50e0530705573573247262c328884231cb6a48c11db177550469297413117"
+    },
+    "NIGHT_SECTOR_V002-108": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-108.input.v001.json",
+      "sha256": "45722af489ce0231c0a893f483917f6ae828b9590f646ce020ef8078a9bc130d"
+    },
+    "NIGHT_SECTOR_V002-109": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-109.input.v001.json",
+      "sha256": "97d69a7fcba677a9b8d9f0850d4fa0489d670a0de27c5a68e992d7cd62eeb8a7"
+    },
+    "NIGHT_SECTOR_V002-110": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-110.input.v001.json",
+      "sha256": "0287364599b693d8448f1b4076870858ec49b585efdea5763396f0074ecfd0d8"
+    },
+    "NIGHT_SECTOR_V002-111": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-111.input.v001.json",
+      "sha256": "23810558270993c08ae8a9d9538e76209750c1d9043a7585a4f89f09d7c7712d"
+    },
+    "NIGHT_SECTOR_V002-112": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-112.input.v001.json",
+      "sha256": "7a58e7ba1c578db39f913421cda4e8b1ba85b6596a1c8c054420f8ac41f8508f"
+    },
+    "NIGHT_SECTOR_V002-113": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-113.input.v001.json",
+      "sha256": "b2012e732bbb4756b5f30971487eac730154a4a830b4aa0ea6289aec82b5683d"
+    },
+    "NIGHT_SECTOR_V002-114": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-114.input.v001.json",
+      "sha256": "5a8c6c5774f4e87e31ebd56e9d01578442737ecd1da1998bb38b62d51407a6fa"
+    },
+    "NIGHT_SECTOR_V002-115": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-115.input.v001.json",
+      "sha256": "7142274f02403e49c3a74c9d438bcb7975557b0bbe9c53095bc4bc37f90d9742"
+    },
+    "NIGHT_SECTOR_V002-116": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-116.input.v001.json",
+      "sha256": "a727e9f7c1e3146d2114226f926056ab7a1fa9695dbeb1625c3ad903cbb6a3bb"
+    },
+    "NIGHT_SECTOR_V002-117": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-117.input.v001.json",
+      "sha256": "5ddb2483582f752b08a5b41717b21695b94787799b3ea4c2b8f4d6cc496a89da"
+    },
+    "NIGHT_SECTOR_V002-118": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-118.input.v001.json",
+      "sha256": "d7dd639d8522a837fcf1249e9308d42d5c831e11ec0da96eca90a93d13e2f79b"
+    },
+    "NIGHT_SECTOR_V002-119": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-119.input.v001.json",
+      "sha256": "4cb2d879bc0d5b76c757c6ef944fa12f32fe4e2cf46c2fcf5f0f5f5e34ff62a4"
+    },
+    "NIGHT_SECTOR_V002-120": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-120.input.v001.json",
+      "sha256": "1ea3032eae2b895ffd2f86df841a0918a8e1ce3b74e1fdcbb10e1e3ff23a5239"
+    },
+    "NIGHT_SECTOR_V002-121": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-121.input.v001.json",
+      "sha256": "a2f69b1d54295f3ab954b47f7458b402318852d42f8a460b2e33f35a348d6f05"
+    },
+    "NIGHT_SECTOR_V002-122": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-122.input.v001.json",
+      "sha256": "43452e74aedc93988956ebff13a0a3a90b19829be26611a0f9ffcf4c902ac98a"
+    },
+    "NIGHT_SECTOR_V002-123": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-123.input.v001.json",
+      "sha256": "d235a7c1a8ea43a1406ad0d809082cf4eed3c2508221e4da0810a348917aa7f5"
+    },
+    "NIGHT_SECTOR_V002-124": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-124.input.v001.json",
+      "sha256": "edba9e1c91f08651dd120f50f01b19643c2b463cdda12556882dee0fd3699c22"
+    },
+    "NIGHT_SECTOR_V002-125": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-125.input.v001.json",
+      "sha256": "017699670ad0e6b0a9cb24a902b3afb825e5be1abc45d4c5059a4c6697600e65"
+    },
+    "NIGHT_SECTOR_V002-126": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-126.input.v001.json",
+      "sha256": "34396cd28628c6a9b9143a3e2647a3e9400a782a4c59268355f98f11c7e00b88"
+    },
+    "NIGHT_SECTOR_V002-127": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-127.input.v001.json",
+      "sha256": "6659e4502fbb1515a888046eedbbaf5b590b8a863fe8fb358814b57aaeaed3c9"
+    },
+    "NIGHT_SECTOR_V002-128": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-128.input.v001.json",
+      "sha256": "2fdec0036a451c0ce51e5cd9b6d5b26be5fd50a3ad80358995c78be4c21bfce1"
+    },
+    "NIGHT_SECTOR_V002-129": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-129.input.v001.json",
+      "sha256": "cf4969b0018847e0fee11cabe6f5a1904127887d4cb3ccc6962588c09ffddaec"
+    },
+    "NIGHT_SECTOR_V002-130": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-130.input.v001.json",
+      "sha256": "d0801ef1d0fb635395bb0ef1333f7ec4b9089b9bc3ee7264d486d0efd13a606c"
+    },
+    "NIGHT_SECTOR_V002-131": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-131.input.v001.json",
+      "sha256": "27217cbf183db9cde4e388ec9bb109afc782ca325987639183ae411cca3a1514"
+    },
+    "NIGHT_SECTOR_V002-132": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-132.input.v001.json",
+      "sha256": "4973bb146867df7c678876e8932294d3182e22ef716cf7b4fbc2d7f8f4bc18b0"
+    },
+    "NIGHT_SECTOR_V002-133": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-133.input.v001.json",
+      "sha256": "e934bddef8538d10129eedfae582acf71a5a76005f145562b133db8257a39c69"
+    },
+    "NIGHT_SECTOR_V002-134": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-134.input.v001.json",
+      "sha256": "5e553a771e0494748a2bffef57622ea591ae69a11a45f12689aeb68a66cf1c03"
+    },
+    "NIGHT_SECTOR_V002-135": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-135.input.v001.json",
+      "sha256": "23f22ade911805c8f8440e272660652a089c335ff91a6e34d875ccd0d55f114d"
+    },
+    "NIGHT_SECTOR_V002-136": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-136.input.v001.json",
+      "sha256": "51aadefcf73ed36139735e9b53bfde53811674fcdc2baa8b14de922a93f3fc69"
+    },
+    "NIGHT_SECTOR_V002-137": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-137.input.v001.json",
+      "sha256": "e8355f9d6c697d985cf339205d691a0539f58d418ca2ae725c1f15db4bebb01b"
+    },
+    "NIGHT_SECTOR_V002-138": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-138.input.v001.json",
+      "sha256": "18bda4eb6eb14574c6ac80cdaac9ef871d2f7e35381542697404835c97338912"
+    },
+    "NIGHT_SECTOR_V002-139": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-139.input.v001.json",
+      "sha256": "123f593a7b5a6b392ba84e663130957dab37aa069bf9fea620f45d5197efd248"
+    },
+    "NIGHT_SECTOR_V002-140": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-140.input.v001.json",
+      "sha256": "14f46e148486dfa59901533f306a79994104008784f42e2e79205c7c62aa945d"
+    },
+    "NIGHT_SECTOR_V002-141": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-141.input.v001.json",
+      "sha256": "0a6f290d689d6f64a7d46351c0d667165830c738a2fd3bfc0b422d4acf121050"
+    },
+    "NIGHT_SECTOR_V002-142": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-142.input.v001.json",
+      "sha256": "6840609cd65f913d2889bcc5dd173a8e5288bb1f39e12df1150d2e38e5cbca99"
+    },
+    "NIGHT_SECTOR_V002-143": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-143.input.v001.json",
+      "sha256": "f0e37c0a781f6766bd51ba0d41d18cfb87ce7633960676535c83ca527a9bf841"
+    },
+    "NIGHT_SECTOR_V002-144": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-144.input.v001.json",
+      "sha256": "432a62523a91893e15ef636dff7b7c5ec854683658ab40e2c8abc72bbca2f82f"
+    },
+    "NIGHT_SECTOR_V002-145": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-145.input.v001.json",
+      "sha256": "545f6a891ffbd90bc83663a537a17b43bd315699e951489e57b1bde5ab202556"
+    },
+    "NIGHT_SECTOR_V002-146": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-146.input.v001.json",
+      "sha256": "830faeb703f369556995a9cf6769c5c88112f53f158becbb48ec22a83c8dbbe5"
+    },
+    "NIGHT_SECTOR_V002-147": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-147.input.v001.json",
+      "sha256": "2086be98e4171c51ba2ccfd2c3618df2d7b4389c9ba2fb5ebcadedd82c642200"
+    },
+    "NIGHT_SECTOR_V002-148": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-148.input.v001.json",
+      "sha256": "d33760c5d628f15ec197ead77276e3eed37ace18ef2a0ffb6f4547383124da9b"
+    },
+    "NIGHT_SECTOR_V002-149": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-149.input.v001.json",
+      "sha256": "cbe3e317842d267e8672d7c00775589a4dc3c4b4a66feb72d6d370f1704e8699"
+    },
+    "NIGHT_SECTOR_V002-150": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-150.input.v001.json",
+      "sha256": "9b4c593b870231b3e67c6f6c0032e2a2af1ecc8669a87912dd22f00244ee0460"
+    },
+    "NIGHT_SECTOR_V002-151": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-151.input.v001.json",
+      "sha256": "f7c8eef31e00e0e132f8c143b41d841ac49142c651c7d002f35cd5b0b790d40c"
+    },
+    "NIGHT_SECTOR_V002-152": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-152.input.v001.json",
+      "sha256": "db5afa4bf3bd92d3088b0bd96e00765cc87e5b6dd34fdd011e21de362bad5243"
+    },
+    "NIGHT_SECTOR_V002-153": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-153.input.v001.json",
+      "sha256": "05de442f31df161e262480de292aababc7a7bf1e83f555490f526f49f01b1460"
+    },
+    "NIGHT_SECTOR_V002-154": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-154.input.v001.json",
+      "sha256": "fc79b065aec886f9e9a5f596a9db8c7fe3a6551c148b9e8db8d33a345510caf2"
+    },
+    "NIGHT_SECTOR_V002-155": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-155.input.v001.json",
+      "sha256": "e84623ca88c47077fd9573db1dd8a8460dfeef3de532163c53938d0c55419d41"
+    },
+    "NIGHT_SECTOR_V002-156": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-156.input.v001.json",
+      "sha256": "8f237771faf6ce19ab01667c829057bc43a7152d94da1d555b3ab04f000fe527"
+    },
+    "NIGHT_SECTOR_V002-157": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-157.input.v001.json",
+      "sha256": "e1779a77b6232887e8c632a2d51583b6d1fd65baf448e4bc472c2b4ac83c81b5"
+    },
+    "NIGHT_SECTOR_V002-158": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-158.input.v001.json",
+      "sha256": "8cf6593ab298e4b118256a63c74934cd402381004bd73cf8e8f471d6157a901b"
+    },
+    "NIGHT_SECTOR_V002-159": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-159.input.v001.json",
+      "sha256": "48165c6fe295bbb74b5d08ac433d410ce33f82849be59f678d1a6fa30711c4f9"
+    },
+    "NIGHT_SECTOR_V002-160": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_SECTOR_V002-160.input.v001.json",
+      "sha256": "4a05c341e6f415a4e478b9b961d2bb3185a7a416ecfc9abf02ef1d7b3953e91a"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "85cec2b51e610d2f09a6bcccbad8b4539d00fb0cd848239ff4290c547bc8555c",
+  "source_bundle_sha256": "483bb56ecb53507d11568a5d7543c93cd8f9815b578c003a06bc5f1c9bb8edfd"
+}

@@ -1,0 +1,23 @@
+{
+  "bundle_sha256": "739d644b46063c6ffa74225264f6bd6584dd91699a9bf21cd6b897007b197e47",
+  "canonical_sources": {
+    "HSI": {
+      "path": "data/raw/round_002/market/HSI.canonical.json",
+      "sha256": "42e096fdd5fc62ad94b7c14c70d0975da739d9adbf6fb8cd6440d822df51900b",
+      "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+    },
+    "N225": {
+      "path": "data/raw/round_002/market/N225.canonical.json",
+      "sha256": "9c475cd94ce15f416de9776cfd8e38a244927ce1d477872b8dd9d2d6e53f5f7c",
+      "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+    },
+    "SPY": {
+      "path": "data/raw/round_002/market/SPY.canonical.json",
+      "sha256": "b8fd3fcd5434381c8e8c15f81f92e5441b972a7843085e7242c88c97bcf4c874",
+      "source_sha256": "9421b9839979fc1e004598a92c7a027ab2aade9fa7401aa9c5fde0a00dd57607"
+    }
+  },
+  "official_records_sha256": "c4cb850b6b2450015303cfe0350c2e811315bd6eaa3b2da06c43d595ab35ae93",
+  "preregistration_sha256": "1062e0117f2210c7217f341a433652bff067ab61c9ae3413adc491b3afdd2249",
+  "selection_sha256": "715f200ad4195917131a53e5f5b69633075e1b642aed0b61e33e38082ac3955e"
+}

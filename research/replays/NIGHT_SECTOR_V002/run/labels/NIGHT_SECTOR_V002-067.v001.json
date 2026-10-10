@@ -1,0 +1,10 @@
+{
+  "episode_id": "NIGHT_SECTOR_V002-067",
+  "evaluator_version": "0.2.0",
+  "horizons": {},
+  "lock_sha256": "c86d84533ff817fe8b90892d345e98b31aa29df512a8af7d1ef1afb94257898e",
+  "prediction_sha256": "96be1a501d232c7df73e699bff23f3f727011f2fd2ac791027c88f070f01a7b8",
+  "reason": "exante_history_insufficient",
+  "source_bundle_sha256": "483bb56ecb53507d11568a5d7543c93cd8f9815b578c003a06bc5f1c9bb8edfd",
+  "status": "UNRESOLVED_DATA"
+}

@@ -1,0 +1,10 @@
+{
+  "episode_id": "NIGHT_ASHARE-017",
+  "evaluator_version": "0.2.0",
+  "horizons": {},
+  "lock_sha256": "865366777f49c052e65bfdb067a2ced2a13a377a33e8aaa5435778206f9b074e",
+  "prediction_sha256": "68185974e3ae3ea47829a3ddfcf5230ed2d27951bebd08d2ce3279e0b99ddeb9",
+  "reason": "exante_history_insufficient",
+  "source_bundle_sha256": "b845e59884fab4922997e7bbb9ecc78822f5f8d4b49d8f6e314a49bc0ed0d92b",
+  "status": "UNRESOLVED_DATA"
+}

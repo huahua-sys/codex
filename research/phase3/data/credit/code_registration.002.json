@@ -1,0 +1,11 @@
+{
+  "code_path": "scripts/phase3_credit.py",
+  "code_sha256": "d88dbabdcd088dd46bf7387314037b3071673e61d6a49a7fd037ae98c3599de5",
+  "date_rule": "Original release statement only; local next-day midnight when time not proved.",
+  "design_sha256": "95d5f2ccbf6fa7fe0e0c5a4036022db62fee498951279ef3a3044e1fb8334a7f",
+  "mode": "collect",
+  "numeric_rule": "Exact official net value or exactly derivable from original respondent counts; approximations are UNKNOWN.",
+  "registered_at": "2026-10-09T05:30:11.311276+00:00",
+  "source_scope": "Official SLOOS quarterly releases 2000–2025; maximum 104 release pages; no return data.",
+  "variable": "Domestic banks C&I large/middle-market loan standards net tightening percentage"
+}

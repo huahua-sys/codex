@@ -1,0 +1,22 @@
+{
+  "code_sha256": "a3035f36376837d1c13fc890144a7de05079363d5b2482c4fc8e902b373b4721",
+  "normalization": {
+    "previous_sha256": "bd04ddfd231801bb86eaa4e78f81eda0b8bf3abccf2e2e3d9032884ed85a33f0",
+    "previous_version": "credit.records.v001.json",
+    "reason": "Separate official stated release minute from conservative availability; date-only calendar records retain explicitly typed upper bound. Values, availability, scope, missingness and selection remain identical."
+  },
+  "previous_sha256": "bd04ddfd231801bb86eaa4e78f81eda0b8bf3abccf2e2e3d9032884ed85a33f0",
+  "sha256": "7a9ba70837a5f75f480c61ba56d03a2520ec2be2a5634849843227ad12fbce2e",
+  "summary": {
+    "effective_sample_assessment": {
+      "n_effective": null,
+      "notes": "Quarterly surveys overlap bank respondents and lending cycle; serial/global regime dependence. Credit records are source releases, not independent investments.",
+      "year_clusters": 22
+    },
+    "exact_numeric_tables": 104,
+    "no_outcome_data_read": true,
+    "publication_dates_verified": 85,
+    "raw_observations": 104,
+    "usable_original_releases": 85
+  }
+}

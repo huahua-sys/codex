@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:38:26.150310+00:00",
+  "content_type": "application/pdf",
+  "final_url": "https://www.federalreserve.gov/boarddocs/snloansurvey/201104/fullreport.pdf",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201104/default.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_full_report_cover",
+  "source_path": "research/phase3/data/credit/raw/2fb0eca9aa8fd9a8.bin",
+  "source_sha256": "581c6d07c6fce6db45c1823f3822354a098e02225bfa4310cf4928543a511f21",
+  "url": "https://www.federalreserve.gov/boarddocs/snloansurvey/201104/fullreport.pdf"
+}

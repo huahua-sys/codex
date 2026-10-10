@@ -1,0 +1,49 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "explanation": "Synthetic engineering checks carry no investment evidence and no financial independence count.",
+    "n_effective": null
+  },
+  "RAW OBSERVATIONS": {
+    "new_investment_tests": 0,
+    "real_new_labels_read": 0,
+    "synthetic_bootstrap_row_pairs": 32,
+    "synthetic_deep_cells": 273,
+    "synthetic_feature_cases": 4,
+    "synthetic_grid_cells": 2704
+  },
+  "audit_id": "PHASE3_ENGINEERING_STATIC_SYNTHETIC_QA_V001",
+  "caveats": [
+    "matched() initially did not explicitly reject missing execution_session_dates_sha256 or sessions_held; notified author before panel registration. All generated real labels have these fields, but defensive fix recommended.",
+    "Nonoverlap lists only within each partition; do not sum and claim merged disjoint calendar windows.",
+    "≤2023 outcomes can consume2024/2025 daily paths: later origin-label computation holdout is not fresh future path isolation.",
+    "Group-difference bootstrap is marginal date-equal comparison on potentially different dates, not same-date matched causal/alpha identification.",
+    "SLOOS credit supply proxy cannot distinguish all crisis mechanisms or locally transplant into foreign markets.",
+    "Gated interaction shares development data used to pass gate, so surviving result is exploratory conditional-on-selection."
+  ],
+  "checks": {
+    "benchmark_different_session_sha_rejected": true,
+    "credit_publication_staleness_no_local_transplant": true,
+    "feature_naive_parity_253_prices": true,
+    "feature_naive_parity_504_prices": true,
+    "feature_naive_parity_505_prices": true,
+    "feature_naive_parity_600_prices": true,
+    "full_2704_and_deep273_no_source_synthetic_grid": true,
+    "future_price_rejected": true,
+    "joint_two_year_bootstrap_constant_gap_synthetic": true,
+    "statistics_frozen_code_hash_verified": true,
+    "xlf_quarantine_early_failclosed": true
+  },
+  "created_at": "2026-10-09T05:41:08.893813+00:00",
+  "reviewed_code_sha256": {
+    "scripts/phase3_analyze.py": "cd2e453a8c3c259a6e566dcf2762f9ec2903f65c9f66fd490f049363210afe49",
+    "scripts/phase3_panel.py": "5aacbe44af0a22f8f7d40abacb75b1304762a25f200170f94b0e4933d1e2b198"
+  },
+  "scope": "Static source review and deterministic synthetic rows only; register/features/reveal/run never invoked; no real new historical label or future price row opened",
+  "source_action_notes": [
+    "QQQ eligibility override checks proof source SHA and exact canonical SHA, unique ordinary split effective date and ratio2; administration proof is not a prediction/news feature.",
+    "XLF remains all-period quarantined, overriding other metadata.",
+    "DAX differentiated as INDEX_PERFORMANCE_EMBEDDED_DIVIDENDS.",
+    "Original lab/evaluate.py and fixed benchmark evaluator imported only after all feature locks have been verified."
+  ],
+  "status": "PASS_CORE_ENGINEERING_WITH_REPORTED_DEFENSIVE_AND_SCIENTIFIC_CAVEATS"
+}

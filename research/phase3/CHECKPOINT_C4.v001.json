@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-10-09T15:27:03.912849+00:00",
+  "stage": "TWO_FOLLOWUP_FALSIFICATION_CYCLES_COMPLETED",
+  "comparison_slots": {
+    "matched": 104,
+    "vol_sensitivity": 88,
+    "vol_nonoverlap": 2
+  },
+  "new_decisions": 0,
+  "new_predictions": 0,
+  "new_investment_principles": 0,
+  "nonoperative_candidate": "PAC-P3-001_C",
+  "files": {
+    "research/phase3/matched/PREREGISTRATION.v001.json": "3bf836e2ead03b3bd8ca41522bcdf01b32d3183bdfafb5da03d08e5d204200e5",
+    "research/phase3/matched/RESULTS.v001.json": "30aafe54a6adf0d4210d70077edea3f1e96f8da3b6fd48f184e1a3fe654f26c3",
+    "research/phase3/matched/RESULTS.lock.v001.json": "2cbc07f20a77c27db1e175615329870094d62c7e280a753bf55ccc9af54c474c",
+    "research/phase3/vol_falsification/PREREGISTRATION.v001.json": "ab23396692372fe535938c97c49c6f9e15e964cf1269f0cd4c2bc19dd678e2f6",
+    "research/phase3/vol_falsification/RESULTS.v001.json": "f9e13dd229bc5b08850c4c3e633496750c053c9054125704804f63ac2a38ca82",
+    "research/phase3/vol_falsification/RESULTS.lock.v001.json": "c7e616268fe2bb0562a4b561137201a6d84ba3b94f0f14090d424ee4f50f62ce",
+    "CURRENT_FRAMEWORK.json": "08a728b0bdf4c02675a9e1a28f19037e74393087cda61fefec157180f423fb2c",
+    "RESEARCH_LEDGER.md": "186806157af01e2aedd3b6239a908e0599878fff21e4592a3cf237762723b799"
+  }
+}

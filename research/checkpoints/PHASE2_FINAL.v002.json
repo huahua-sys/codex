@@ -1,0 +1,47 @@
+{
+  "C1": "FRAGILE",
+  "C2": "INSUFFICIENT_INDEPENDENT_REGIMES",
+  "amendment": "Correct stale ROUND001 machine counts/limitations; no new study or operational framework change",
+  "at": "2026-10-09T00:25:21.175356+00:00",
+  "conditional_edge": "NO_CONDITIONAL_EDGE_ESTABLISHED",
+  "counts": {
+    "calendar_years": 23,
+    "date_clusters": 43,
+    "independent_n": null,
+    "insufficient_history": 53,
+    "mature_12m": 374,
+    "mature_24m": 359,
+    "new_phase2_predictions": 0,
+    "new_phase2_replays": 0,
+    "pending_12m": 3,
+    "pending_24m": 18,
+    "selection_rows": 430,
+    "valid_predictions": 377
+  },
+  "current_framework_sha256": "add7c1a57c70fb5c9963abbe92ad0a35acd9602f3bd5eca016259567f50dc7a7",
+  "generic_timing": "NO_EVIDENCE_OF_GENERIC_TIMING_EDGE",
+  "new_candidate_principles": 0,
+  "new_validated_principles": 0,
+  "operational_framework_changed": false,
+  "phase": "PHASE2_CONDITIONAL_EDGE",
+  "previous_checkpoint_sha256": "e74e21e77ee509cff5fe5e58b8a44a3d0102046a6cbf7f6b2c50eca449412376",
+  "prompt_sha256": "315e6a30eaacf7e0aabd82e6ee7c1778ee3fd60d477b4971b4721cab1cc39c9e",
+  "random_date_placebo": "PLACEBO_NOT_EVALUABLE",
+  "report_sha256": {
+    "CONDITIONAL_EDGE_REPORT.md": "a2794298a09c2a4703044486338d88a223ffe064aed10329fbef7dbd0d050672",
+    "ERROR_TAXONOMY.md": "5b8181a05af72311902923d462a36fb0a3b41bf69fcbe6b19168d1fdad6a5bae",
+    "INDUSTRY_SPECIFIC_RULES.md": "0c26edd34451fb04fd42f4a2edcbbc22cc50699868d2ea07b74f4bd3a39c53e5",
+    "NIGHT_RESEARCH_REPORT.md": "bbb31ada7b55503bc3d89360884b74a2e34a438118eca5e3124dd5ce6409342e",
+    "NO_TRADE_FRAMEWORK.md": "40aa66c4e17857632caf9e05ac382526fd69fa500310092ef31f4965e4d9d08a",
+    "PRICE_IN_FRAMEWORK.md": "0328cf7c19d36ee696cb6df1d49be1e4f0bbd3b78a6b5b0593c30aaea3164df2",
+    "REGIME_DEPENDENCE_REPORT.md": "b922ab040f83a2fcb8f81f616b3b1f604375a6884165e4d6b3bd46643779dc0c",
+    "SELL_FRAMEWORK.md": "c5181ec3618d8800252f96e6d12e6fa0962a1c625f2721d4cd7b8e3304aadbb1",
+    "SURVIVING_CANDIDATES.md": "ef4832a81b23ac481c0b7214044ee8c276a7a63a2989bbf4f2dd9c2dbc9d0001"
+  },
+  "risk_observation": {
+    "confidence": "D",
+    "id": "RRC-001",
+    "incremental_protection_established": false
+  },
+  "status": "COMPLETE_NO_ESTABLISHED_EDGE"
+}

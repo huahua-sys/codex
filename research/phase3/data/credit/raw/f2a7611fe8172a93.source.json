@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:30:34.383576+00:00",
+  "content_type": "text/html",
+  "final_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201411/default.htm",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_release",
+  "source_path": "research/phase3/data/credit/raw/f2a7611fe8172a93.bin",
+  "source_sha256": "b39af1003f7fc7bbd386f9706ad586d8e165b0f4a9766f5702960703d0129fab",
+  "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201411/default.htm"
+}

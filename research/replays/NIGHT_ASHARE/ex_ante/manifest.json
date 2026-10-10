@@ -1,0 +1,218 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_ASHARE-001": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-001.input.v001.json",
+      "sha256": "4d98b6b989d266e0842f6721bc6d955c8dd76aa231bfd45966d3c8d8cbee0679"
+    },
+    "NIGHT_ASHARE-002": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-002.input.v001.json",
+      "sha256": "2c7037e970d5a40ff05670f76afd5d25e03e90194dc8cd82bac354392be12ccc"
+    },
+    "NIGHT_ASHARE-003": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-003.input.v001.json",
+      "sha256": "7ac457c88308433cd5b82fdb64e72d3cdef7b897db8fa6b3d50c67bd2f1fe567"
+    },
+    "NIGHT_ASHARE-004": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-004.input.v001.json",
+      "sha256": "bf4c232d69865e893466b9075c1014c2e3b95fba93fe9c1dc4b4cdf0d1c5b42f"
+    },
+    "NIGHT_ASHARE-005": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-005.input.v001.json",
+      "sha256": "aee8e1d0772614d0d1dd266100350cd3ea7da66eb910dfd204400510ac7f248f"
+    },
+    "NIGHT_ASHARE-006": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-006.input.v001.json",
+      "sha256": "e7eaa50309b19257511c207e52a12b489bef7207a72be6982e0f4569a06663be"
+    },
+    "NIGHT_ASHARE-007": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-007.input.v001.json",
+      "sha256": "7835be54465ef6b29adb599317e2065b7c95f00e0bc13dc6239e3f1c1c4dcda1"
+    },
+    "NIGHT_ASHARE-008": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-008.input.v001.json",
+      "sha256": "737cb8f59ad40550e874d784e0e178052c6eeee2cdfdee07d9f7cc8b454a1449"
+    },
+    "NIGHT_ASHARE-009": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-009.input.v001.json",
+      "sha256": "f671461120a874603f72fadd13e9269223ff7916378909bfed4ac0021269eb9b"
+    },
+    "NIGHT_ASHARE-010": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-010.input.v001.json",
+      "sha256": "0b23ca3325b5e74d8f790e7837ba84a90321234fadf06e7f63ad3a98acd8f4b8"
+    },
+    "NIGHT_ASHARE-011": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-011.input.v001.json",
+      "sha256": "f6a1c80f70969522e6b7815da7c5b2856190ce3dfb7a694a09b49f84bbc770f1"
+    },
+    "NIGHT_ASHARE-012": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-012.input.v001.json",
+      "sha256": "ee514798dd929d5165ca49a78782118094b9d143e63da703baafdb06857d0e84"
+    },
+    "NIGHT_ASHARE-013": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-013.input.v001.json",
+      "sha256": "a41bd36debf7e5a96547c8e8209bcaa279de5c32b2333d5771b91c51c35179a0"
+    },
+    "NIGHT_ASHARE-014": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-014.input.v001.json",
+      "sha256": "a8068a5577804e449a24727635b2afd991bd329030634038d0fdd0521ed57853"
+    },
+    "NIGHT_ASHARE-015": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-015.input.v001.json",
+      "sha256": "455303eb991a119fbfcf87d5a31fef8b9c74ba87661a3b15f991cdce756ebf77"
+    },
+    "NIGHT_ASHARE-016": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-016.input.v001.json",
+      "sha256": "a798c3f33082cb5bca4b6ce908a5fc03efd3cbc5ce85ac1e6923f709815525f4"
+    },
+    "NIGHT_ASHARE-017": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-017.input.v001.json",
+      "sha256": "c491fe08a3b6e9edae00312f210dc39f0a7df62eb9007aff679da9f4af8e706b"
+    },
+    "NIGHT_ASHARE-018": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-018.input.v001.json",
+      "sha256": "eb768bb3d5c9897f5408fd5bdfaf3944c77715d81ddaea849fd1808fea8d2dd8"
+    },
+    "NIGHT_ASHARE-019": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-019.input.v001.json",
+      "sha256": "7e8ac2e6445d18ff2c36bc3ff9825aab618a3f7ec27748a74ad9567b1d8c9625"
+    },
+    "NIGHT_ASHARE-020": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-020.input.v001.json",
+      "sha256": "da54b617dfd015f0764563a023b50692cb15af7bb9968e223310985e6ef4c263"
+    },
+    "NIGHT_ASHARE-021": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-021.input.v001.json",
+      "sha256": "73158615960f8739ae61bf19c48839ec64b6fc4c161a5113cd5bd3e1ea9b02db"
+    },
+    "NIGHT_ASHARE-022": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-022.input.v001.json",
+      "sha256": "c92075b92983f094fe07bba0739667393ec1a65a781668c01282c10d49c197c7"
+    },
+    "NIGHT_ASHARE-023": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-023.input.v001.json",
+      "sha256": "671f60be78a682c414e35b4fbc42b30333cc8ece52b4cdb3a45e9fd8e4b5ee27"
+    },
+    "NIGHT_ASHARE-024": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-024.input.v001.json",
+      "sha256": "20d854310e1a88e2cd9473f4f09392404654198ef714dca7d0994d1bf8c7ed92"
+    },
+    "NIGHT_ASHARE-025": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-025.input.v001.json",
+      "sha256": "e8fe4bd578eb2c1bd3a8f806c4895274db0d39b1ab047f18fb17a4b3018633f7"
+    },
+    "NIGHT_ASHARE-026": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-026.input.v001.json",
+      "sha256": "4795fea1cd9e686cc6368403a11c4fbac5a58cb23cb10283595d1eea0b2c3159"
+    },
+    "NIGHT_ASHARE-027": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-027.input.v001.json",
+      "sha256": "a17f950486e57871170fb3836c22773af612dc2d1347dd6db5f7cdee5ad265f6"
+    },
+    "NIGHT_ASHARE-028": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-028.input.v001.json",
+      "sha256": "8d8a3d7c23f522358ccf1c20ea08c0c05610a51d2259909abd190a68b237f647"
+    },
+    "NIGHT_ASHARE-029": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-029.input.v001.json",
+      "sha256": "6343684aa6a45358cb20a36e6029cdf39358f2579c1853d8f976ea1f03273868"
+    },
+    "NIGHT_ASHARE-030": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-030.input.v001.json",
+      "sha256": "99c72362a1f8ea30fa88f578d076dbe6d91ab8cd0d1fdf5da5d3ff1499a4a6ab"
+    },
+    "NIGHT_ASHARE-031": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-031.input.v001.json",
+      "sha256": "3f7b9e462bc8f7811c33b1f0e50dc4a941b95cb4661e972b23bac4ecf99b8149"
+    },
+    "NIGHT_ASHARE-032": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-032.input.v001.json",
+      "sha256": "3a41ad9a2389809b4ca4dca831245476883088b7421f213475d3da3fea230aac"
+    },
+    "NIGHT_ASHARE-033": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-033.input.v001.json",
+      "sha256": "e6db6c547a51cbbdd0633ceebf14e174fd3a09e3de15b3c739657a5d9df1ef0f"
+    },
+    "NIGHT_ASHARE-034": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-034.input.v001.json",
+      "sha256": "0dc0e995dd25cdd6a1cc247b033ee197c1bdd83ab32825c4001f90dd18ce846f"
+    },
+    "NIGHT_ASHARE-035": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-035.input.v001.json",
+      "sha256": "a7d122c28d41e61750e31279800ae45b787ffe6b419f3138e95ce715d7d25a69"
+    },
+    "NIGHT_ASHARE-036": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-036.input.v001.json",
+      "sha256": "235e1f93a5d1112ed6d80940d67779a062660745cfae4c1e1bfee66cb7ca3607"
+    },
+    "NIGHT_ASHARE-037": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-037.input.v001.json",
+      "sha256": "6f081cbddd7f4a3fbda06b8760f4d4573ee4ceb281639e548b184fb0fc4f58b2"
+    },
+    "NIGHT_ASHARE-038": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-038.input.v001.json",
+      "sha256": "a6be2ad78a2ecace16c0a6f5a6e1bb0e4cf78efe07a3543cc9f50f0289b2978a"
+    },
+    "NIGHT_ASHARE-039": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-039.input.v001.json",
+      "sha256": "ae8a22bb96521651886f616091d52535c3e54cd7bc2bb870a173b70cc3dd12b4"
+    },
+    "NIGHT_ASHARE-040": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-040.input.v001.json",
+      "sha256": "cb53fb66489f36790d2b4b937532879edd4163b82613973200efd1e4814e329c"
+    },
+    "NIGHT_ASHARE-041": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-041.input.v001.json",
+      "sha256": "05985ac35f51236ff6bac15a470c12377b4bd31c02c453758d124c0d79285760"
+    },
+    "NIGHT_ASHARE-042": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_ASHARE-042.input.v001.json",
+      "sha256": "cae08b30222557efe6a6be191eb8b9b9accd2f7bb791e09bc02b446f13a1e937"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "adb7e4220dc4eeab724b6c06b51b0aedd33cc519f10d8050f3bcf8184bf17f64",
+  "source_bundle_sha256": "b845e59884fab4922997e7bbb9ecc78822f5f8d4b49d8f6e314a49bc0ed0d92b"
+}

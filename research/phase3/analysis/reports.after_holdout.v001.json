@@ -1,0 +1,18 @@
+{
+  "n_effective": null,
+  "operational_change": false,
+  "raw_observations": 2704,
+  "report_paths": [
+    "EXPANDED_PANEL_REPORT.md",
+    "EFFECTIVE_SAMPLE_REPORT.md",
+    "CROSS_TIME_VALIDATION.md",
+    "MULTIPLE_TESTING_LEDGER.md"
+  ],
+  "report_sha256": {
+    "CROSS_TIME_VALIDATION.md": "472b3597cdfa41a2f1f135543e0b02a444528b4ae608c0b6fff49e5611078cb1",
+    "EFFECTIVE_SAMPLE_REPORT.md": "e8ad8b3f19baea0b040aa833e883c87dcc2ee2cccfa2f447e8bb1388932143a1",
+    "EXPANDED_PANEL_REPORT.md": "6d64272ae00f0a7dcece2373e6be6a1f1509841c554c71388624481de63a7f36",
+    "MULTIPLE_TESTING_LEDGER.md": "406991d138ae66e76f81539897d12fcc83e1fb454c2d7107178ca5a6c052a334"
+  },
+  "research_level": "LEVEL1_DESCRIPTIVE"
+}

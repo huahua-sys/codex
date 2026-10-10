@@ -1,0 +1,52 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "n_effective": null,
+    "notes": [
+      "These controls reuse locked panel rows; no new independent samples or forecasts.",
+      "Same-quarter comparisons reduce common-date composition but do not match beta/sector risk or identify alpha.",
+      "Global nonoverlap rows remain correlated sectors and repeated economic regimes.",
+      "All10 leave-one variants and eras were retained; no preferred universe, threshold or strategy chosen."
+    ]
+  },
+  "RAW OBSERVATIONS": {
+    "leave_one_or_era_slots": 88,
+    "matched_comparison_slots": 104,
+    "scalar_fields": 5382
+  },
+  "all_equals_prior_matched": true,
+  "audit_code_sha256": "958e81458bd88f54f1e8224056706d273a21decd30f673e10559b89d91f2326d",
+  "audit_id": "PHASE3_MATCHED_VOL_INDEPENDENT_QA_V007",
+  "numeric_errors": [],
+  "old_immutable_changed": [],
+  "old_immutable_hash_count": 3366,
+  "operative_fields_equal": {
+    "candidate_principles": true,
+    "industry_specific_rules": true,
+    "live_signal_generation_enabled": true,
+    "price_in_checks": true,
+    "regime_rules": true,
+    "risk_signals": true,
+    "sell_signals": true,
+    "signals_to_monitor": true,
+    "validated_principles": true
+  },
+  "paired_benchmark_definition": "Only US EQUITY same-execution SPY residuals; fixed component net MDD is not mixed with primary gross MDD. Residual is not risk-matched alpha.",
+  "reviewed_at": "2026-10-09T15:33:18.031926+00:00",
+  "status": "PASS",
+  "strict_nonoverlap": [
+    {
+      "horizon": "12m",
+      "independent_n": null,
+      "quarter_count": 14,
+      "raw_asset_rows": 135,
+      "strict_entry_after_previous_max_exit": true
+    },
+    {
+      "horizon": "24m",
+      "independent_n": null,
+      "quarter_count": 10,
+      "raw_asset_rows": 96,
+      "strict_entry_after_previous_max_exit": true
+    }
+  ]
+}

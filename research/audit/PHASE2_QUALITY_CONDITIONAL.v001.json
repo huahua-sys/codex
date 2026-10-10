@@ -1,0 +1,44 @@
+{
+  "audit_id": "PHASE2_QUALITY_CONDITIONAL_V001",
+  "reviewed_at": "2026-10-09T00:18:13.675975+00:00",
+  "status": "PASS_WITH_SCIENTIFIC_LIMITATIONS",
+  "issues": [],
+  "checks": {
+    "official_source_hashes": 16,
+    "feature_values": 816,
+    "feature_source_proofs": 408,
+    "conditional_benchmark_label_parity": 576,
+    "conditional_residuals": 96,
+    "future_policy_labels": 48,
+    "conditional_group_means": 2444,
+    "placebo_summaries": 601
+  },
+  "date_clusters": 8,
+  "horizon_rows": 48,
+  "perturbation_versions": 9,
+  "placebo_classes": {
+    "random_signals": 200,
+    "paired_label_shuffle": 200,
+    "random_dates": 1,
+    "random_holdings": 200
+  },
+  "independent_n": null,
+  "source_hashes": {
+    "scripts/phase2_conditional.py": "d31c9251707965698ac8f58338a3fd9fdd9b179c252521e19d157346dbf253f3",
+    "research/phase2/conditional.results.v001.json": "075f2b21f4934ef843df1e59f61f3941fd23e3278c0f0831c382067281c65339",
+    "research/phase2/conditional.artifact_manifest.v001.json": "fecedd5526d564615d29747d1823ec47b8c3ac1389e8bd4695deab1277fd02ef"
+  },
+  "required_interpretations": [
+    "C1 is FRAGILE and INSUFFICIENT_INDEPENDENT_REGIMES: primary signal-control residual -0.91pp switches +3.75pp with -5calendar-day date shift and +6.76pp at2.5percent CPI anchor; cannot promote or choose favorable perturbation",
+    "C1 2023 is explicit nonnegative IEF-minus-BIL counterexample despite signal; two triggering years are not two independent macro regimes",
+    "C2 single2021 observation predicts later annual target lower increase but provides no policy-probability calibration, causal evidence or return edge",
+    "Eight random-date controls have zero evaluable signal-control statistics; PLACEBO_NOT_EVALUABLE, no support or rejection based on this null test",
+    "Signal/paired-label permutations preserve whole-year cross-asset vectors but do not preserve serial policy-regime structure; descriptive null distributions only",
+    "Random-holding variations are sensitivity using shared existing future prices, not hundreds of new trials of investment edge",
+    "2023 future annual original policy source absent and2016 prior-year policy comparator absent remain null"
+  ],
+  "new_predictions": 0,
+  "new_independent_replays": 0,
+  "parameter_optimization": false,
+  "investment_framework_promotion_supported": false
+}

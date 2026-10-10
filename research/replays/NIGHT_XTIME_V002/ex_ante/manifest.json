@@ -1,0 +1,188 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_XTIME_V002-001": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-001.input.v001.json",
+      "sha256": "867de882925c0dcca47b1dd3ef4089119abffb8dcbdbe757ca5d62b68da31588"
+    },
+    "NIGHT_XTIME_V002-002": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-002.input.v001.json",
+      "sha256": "72dddd40a648e34bf0a7ef7a7590aef0e524cceb46171d7de03f373190d76751"
+    },
+    "NIGHT_XTIME_V002-003": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-003.input.v001.json",
+      "sha256": "4590d637de1189093208ceec07eaeb9946ca6e6bbf9d6fb0eaea99d14457400f"
+    },
+    "NIGHT_XTIME_V002-004": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-004.input.v001.json",
+      "sha256": "3bd9e3cf234115ba9ba902ff09b558466be3fdda23a1c4994f7a6fcd76cf7d5f"
+    },
+    "NIGHT_XTIME_V002-005": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-005.input.v001.json",
+      "sha256": "1e4921e4ec725f4c948f894a1e6daaee7fc2204b871b4c8a402b6d3df6ce3043"
+    },
+    "NIGHT_XTIME_V002-006": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-006.input.v001.json",
+      "sha256": "06cce1e1008d16e2f20e10ced23c989d46ccb944a495065e14ad6f687c33e5bf"
+    },
+    "NIGHT_XTIME_V002-007": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-007.input.v001.json",
+      "sha256": "99d7d5418c6b6b26cbb66d509ecad235cd4a673979ba632ebb68323f06af93e6"
+    },
+    "NIGHT_XTIME_V002-008": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-008.input.v001.json",
+      "sha256": "92ec21c5bc9103ef79b6ee4900bf287f1074e9fa66acd410476f2dce15f9ba98"
+    },
+    "NIGHT_XTIME_V002-009": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-009.input.v001.json",
+      "sha256": "570290041e28fefe6cdd020c84b84b29baf788228ecebbc9ad8b699d12dd1982"
+    },
+    "NIGHT_XTIME_V002-010": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-010.input.v001.json",
+      "sha256": "220293f00cd46b188b469f0c74b0b37a069ac87950086588aa12d90b29fdf860"
+    },
+    "NIGHT_XTIME_V002-011": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-011.input.v001.json",
+      "sha256": "a4ffe9a3820e3947787b0d5a19b489a4f404b6fd02515396616d831269adb78d"
+    },
+    "NIGHT_XTIME_V002-012": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-012.input.v001.json",
+      "sha256": "5fe20c1df9dc3bbf28e4b0746c28f3d0723cf9732528ec7bdb23a55918adc3ed"
+    },
+    "NIGHT_XTIME_V002-013": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-013.input.v001.json",
+      "sha256": "60d5b860b07515a972116d0dcbb518cb44f5daeea31beac6c588682254ba748e"
+    },
+    "NIGHT_XTIME_V002-014": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-014.input.v001.json",
+      "sha256": "c781a86883bcb2367f4a8849a65a09988cfedc43b1d051715795dd7f37913b2c"
+    },
+    "NIGHT_XTIME_V002-015": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-015.input.v001.json",
+      "sha256": "b3c84f0b488701d54da6694a577fb734075c689430c16557e7a5aa98dceb6f95"
+    },
+    "NIGHT_XTIME_V002-016": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-016.input.v001.json",
+      "sha256": "b5ec8bb1f5a3c651e15cda7a828e4bc552561dc3103ad9206d3acfd13f0df48d"
+    },
+    "NIGHT_XTIME_V002-017": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-017.input.v001.json",
+      "sha256": "7890b72dcacfe67a34efdb318a0c60940191f8d53b800f6eb549961caf211e83"
+    },
+    "NIGHT_XTIME_V002-018": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-018.input.v001.json",
+      "sha256": "246d9623c429eb91eec89175f1eef0267196508e5ee0fc2f5340f55d6e519bce"
+    },
+    "NIGHT_XTIME_V002-019": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-019.input.v001.json",
+      "sha256": "6b06738c8c418e6d1602913679270df706ce12969430968e6f6ca1d77ad3ca42"
+    },
+    "NIGHT_XTIME_V002-020": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-020.input.v001.json",
+      "sha256": "fdd4eb580c5a7ff8dfc0d8e8104fb9485cc29a8f70d0c4cfd21ba4a6129f4124"
+    },
+    "NIGHT_XTIME_V002-021": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-021.input.v001.json",
+      "sha256": "8763c49314cc725038ab7235c9698154599b4b9aaddd4d91de1756d32a34f20a"
+    },
+    "NIGHT_XTIME_V002-022": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-022.input.v001.json",
+      "sha256": "c31b85a198b0d2fdb5aaef74d43f5d69697c2bdcc11b624bc076fdeb19a998ae"
+    },
+    "NIGHT_XTIME_V002-023": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-023.input.v001.json",
+      "sha256": "7114bb2e7db0816cfaa979ca9bcfb68cb7c6ae0715e2c402fd3d9d7a4cd9ab5a"
+    },
+    "NIGHT_XTIME_V002-024": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-024.input.v001.json",
+      "sha256": "9e173e8e2d8f770bbaf151088afed212c3cf1baf552994e0b7c2b3b939db00c1"
+    },
+    "NIGHT_XTIME_V002-025": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-025.input.v001.json",
+      "sha256": "27f745758313535f24cfb1505d50d5792fd7ed9f8582901a2857492c3267061e"
+    },
+    "NIGHT_XTIME_V002-026": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-026.input.v001.json",
+      "sha256": "7d16a0bbaf91da3cc0c2770d5e290299848e580d0a4daf6f4881ab5538b927c9"
+    },
+    "NIGHT_XTIME_V002-027": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-027.input.v001.json",
+      "sha256": "f9862eaf25a6d26a84e617df9f34957111f61a74d856080bf89d29d6350fb2db"
+    },
+    "NIGHT_XTIME_V002-028": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-028.input.v001.json",
+      "sha256": "278acfea09966f49755f652c17907177da029960a8b07dea4bc4389ca857b81e"
+    },
+    "NIGHT_XTIME_V002-029": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-029.input.v001.json",
+      "sha256": "baf8b5fb2217dec5c6ab2db6b625676fb52327c56bf79a53cca764cdc87c54bf"
+    },
+    "NIGHT_XTIME_V002-030": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-030.input.v001.json",
+      "sha256": "9952300ded8c9c9530a0259e905e6a8fd1dcd81f73080c7f3c377523777ac7f0"
+    },
+    "NIGHT_XTIME_V002-031": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-031.input.v001.json",
+      "sha256": "239c742311c88dbe604f34132489dccafcc77afba0ed14dec898987e35b11245"
+    },
+    "NIGHT_XTIME_V002-032": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-032.input.v001.json",
+      "sha256": "ee9151d15304073ec962e176df60b5ffd1c200c1f413f7ca700978283018958c"
+    },
+    "NIGHT_XTIME_V002-033": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-033.input.v001.json",
+      "sha256": "dd5f81f1157e7871372f78edff60d9c92b52c49531d9da50ab008a9f8b86ddb8"
+    },
+    "NIGHT_XTIME_V002-034": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-034.input.v001.json",
+      "sha256": "bf62f1d869c7e968e379a07cae12a8b01f68d91c523da3929a723aff589f3b1a"
+    },
+    "NIGHT_XTIME_V002-035": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-035.input.v001.json",
+      "sha256": "cb48947926177fda97435efb2c609e3aa8978fd471ef87b4138233501fb8b769"
+    },
+    "NIGHT_XTIME_V002-036": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME_V002-036.input.v001.json",
+      "sha256": "11af422067f72705abca160f62289edcfbce594b43cbc37f3f311847dd6a46fa"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "f1027f3992b2e51b10a90f8f0aa231803c84b58356c70292429c2e7babf19959",
+  "source_bundle_sha256": "17a821132cdc1fb3e847b51d764299facbbca5d549d3bf2c78cedd98d10cc80b"
+}

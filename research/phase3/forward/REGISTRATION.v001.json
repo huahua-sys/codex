@@ -1,0 +1,294 @@
+{
+  "actual_decision_time": "REAL_LOCK_TIME_AFTER_ALL_CURRENT_RAW_SOURCE_RETRIEVALS",
+  "assets": [
+    {
+      "asset_id": "SPY",
+      "currency": "USD",
+      "industry": "Broad",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "SPY",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "SSE",
+      "currency": "CNY",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "CN",
+      "symbol": "000001.SS",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "asset_id": "HSI",
+      "currency": "HKD",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "HK",
+      "symbol": "^HSI",
+      "timezone": "Asia/Hong_Kong"
+    },
+    {
+      "asset_id": "N225",
+      "currency": "JPY",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "JP",
+      "symbol": "^N225",
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "asset_id": "STOXX50E",
+      "currency": "EUR",
+      "industry": "Broad",
+      "instrument_type": "INDEX",
+      "market": "EU",
+      "symbol": "^STOXX50E",
+      "timezone": "Europe/Paris"
+    },
+    {
+      "asset_id": "GLD",
+      "currency": "USD",
+      "industry": "Gold",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "GLD",
+      "timezone": "America/New_York"
+    },
+    {
+      "asset_id": "BIL",
+      "currency": "USD",
+      "industry": "Cash_1_3m",
+      "instrument_type": "ETF",
+      "market": "US",
+      "symbol": "BIL",
+      "timezone": "America/New_York"
+    }
+  ],
+  "calendar_limit": "Anchor is last weekday; per-market session is last full source-observed month bar, not exchange-calendar audited",
+  "capture_window": "Month-end weekday after US16:00 close through next3 calendar days, summer20/winter21UTC",
+  "decision_policy": "NO_RESEARCH_TRADE_BENCHMARK_ONLY_NO_VALIDATED_EDGE",
+  "effective_sample_assessment": {
+    "live_month_clusters": 0,
+    "mature_labels": 0,
+    "n_effective": null,
+    "warning": "Seven assets are correlated; monthly 12/24m returns overlap"
+  },
+  "features": [
+    "r252_known_action_wealth",
+    "drawdown252",
+    "vol252"
+  ],
+  "genuine_locked_decisions": 0,
+  "horizons": {
+    "12m": 252,
+    "1m": 21,
+    "1w": 5,
+    "24m": 504,
+    "3m": 63,
+    "6m": 126
+  },
+  "late_capture_policy": "Label actual delayed decision; next observed open after real lock time",
+  "months": [
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2026-10-30",
+      "decision_at": null,
+      "month": "2026-10",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2026-11-30",
+      "decision_at": null,
+      "month": "2026-11",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2026-12-31",
+      "decision_at": null,
+      "month": "2026-12",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-01-29",
+      "decision_at": null,
+      "month": "2027-01",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-02-26",
+      "decision_at": null,
+      "month": "2027-02",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-03-31",
+      "decision_at": null,
+      "month": "2027-03",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-04-30",
+      "decision_at": null,
+      "month": "2027-04",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-05-31",
+      "decision_at": null,
+      "month": "2027-05",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-06-30",
+      "decision_at": null,
+      "month": "2027-06",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-07-30",
+      "decision_at": null,
+      "month": "2027-07",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-08-31",
+      "decision_at": null,
+      "month": "2027-08",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-09-30",
+      "decision_at": null,
+      "month": "2027-09",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-10-29",
+      "decision_at": null,
+      "month": "2027-10",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-11-30",
+      "decision_at": null,
+      "month": "2027-11",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2027-12-31",
+      "decision_at": null,
+      "month": "2027-12",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-01-31",
+      "decision_at": null,
+      "month": "2028-01",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-02-29",
+      "decision_at": null,
+      "month": "2028-02",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-03-31",
+      "decision_at": null,
+      "month": "2028-03",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-04-28",
+      "decision_at": null,
+      "month": "2028-04",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-05-31",
+      "decision_at": null,
+      "month": "2028-05",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-06-30",
+      "decision_at": null,
+      "month": "2028-06",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-07-31",
+      "decision_at": null,
+      "month": "2028-07",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-08-31",
+      "decision_at": null,
+      "month": "2028-08",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    },
+    {
+      "asset_decisions": [],
+      "calendar_weekday_anchor": "2028-09-29",
+      "decision_at": null,
+      "month": "2028-09",
+      "predictions": [],
+      "status": "PENDING_DECISION"
+    }
+  ],
+  "probability_predictions": 0,
+  "raw_observations": 0,
+  "registered_at": "2026-10-09T05:40:26.918498+00:00",
+  "roundtrip_cost_bps_assumed": 50,
+  "scheduler_deployed": false,
+  "study_id": "PHASE3-LIVE-FORWARD-v001",
+  "trust_limit": "Current UTC and local append-only SHA, not externally witnessed timestamp or tamper-proof storage",
+  "valuation_earnings_credit_unavailable_policy": "UNKNOWN_NOT_IMPUTED"
+}

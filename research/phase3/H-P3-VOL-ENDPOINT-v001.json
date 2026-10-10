@@ -1,0 +1,14 @@
+{
+  "DAX_source_interpretation": "^GDAXI native performance index contains dividend performance; zero separately added actions; not a tradable price-only return comparison",
+  "definition": "Current sample stdev of last252 simple known-action-wealth daily returns * sqrt252 > median of252 sample stdev252 daily-return windows each ending strictly before current; 505 prices required",
+  "hypothesis_id": "H-P3-VOL-ENDPOINT-v001",
+  "missingness": "504-price rows retained; other features kept; relativevol UNKNOWN with insufficient252 prior estimates",
+  "new_labels_seen_before_amendment": false,
+  "original_protocol_sha256": "440f23d764e99fb4e772d2a92c7fe1c8e236be4c6887944fac499fd6da2b4e3c",
+  "parameter_search": false,
+  "parent_hypothesis": "H-P3-VOL",
+  "reason": "Protocol arithmetic ambiguity: 504 prices yield only251 prior rolling252 return-vol estimates when current excluded; strict252 prior estimates need505 prices",
+  "registered_at": "2026-10-09T05:31:49.776064+00:00",
+  "return_evidence": null,
+  "sampling_or_period_change": false
+}

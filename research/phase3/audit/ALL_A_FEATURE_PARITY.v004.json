@@ -1,0 +1,36 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "explanation": "Feature parity counts repeat historical source rows and correlated dates/assets; they are measurement checks, not independent investment experiments.",
+    "n_effective": null
+  },
+  "RAW OBSERVATIONS": {
+    "asset_sources": 23,
+    "discrepancies": 0,
+    "eligible_decision_points_checked": 2113,
+    "independent_numeric_feature_checks": 10474,
+    "known_action_row_occurrences": 89971,
+    "known_price_row_occurrences": 6738203,
+    "new_forward_labels_computed": 0
+  },
+  "audit_id": "PHASE3_ALL_A_INDEPENDENT_FEATURE_PARITY_V004",
+  "checks": [
+    "r63,r252,annualized samplevol252,252wealth peak drawdown",
+    "Naive numpy sliding windows:252 prior rolling252-return vol estimates excluding current,505 price minimum",
+    "Known price ID set SHA and count equal StageA evidence",
+    "Known action object SHA and record ID list equal StageA evidence",
+    "Each complete historical price close<=available_at<=cutoff",
+    "Quarter terminal observed session equals StageA decision_session_date",
+    "Source canonical SHA matches locked StageA provenance",
+    "No probability forecast, fitting, old strategy run or forward labels calculated"
+  ],
+  "errors": [],
+  "feature_sha256": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+  "max_numeric_tolerance": {
+    "absolute": 2e-11,
+    "relative": 2e-09
+  },
+  "reviewed_at": "2026-10-09T05:51:39.377332+00:00",
+  "scope": "Independent recomputation of ALL eligible locked historical features from available_at<=cutoff rows only. Administrator canonical files were opened as full already-acquired bytes then filtered for each cutoff; no forward price performance computed, no StageB label file opened or outcome evaluator invoked. This is logical reconstruction and must not be claimed hardware/cognitive blindness.",
+  "source_limit": "Current-provider reconstructed source and conditional cash-exdate reinvestment limitations remain. Parity does not independently certify dividend amounts or vendor vintage.",
+  "status": "PASS"
+}

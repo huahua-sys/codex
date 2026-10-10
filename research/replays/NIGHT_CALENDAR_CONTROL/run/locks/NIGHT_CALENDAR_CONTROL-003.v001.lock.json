@@ -1,0 +1,23 @@
+{
+  "episode_id": "NIGHT_CALENDAR_CONTROL-003",
+  "hash_is_not_trusted_timestamp": true,
+  "implementation_sha256": {
+    "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+    "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+    "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+  },
+  "input_manifest_sha256": "ef3c4d405bd0874e93b47fa15cd4e97051a9d6f4a037b7ee5d8c4059311c7896",
+  "input_path": "NIGHT_CALENDAR_CONTROL-003.input.v001.json",
+  "input_sha256": "f2fed4e4ce671196a94d9abfb8009834b8e7ebb9abf7acfabb38b91f8cb160cf",
+  "locked_at": "2026-10-08T16:24:46.030593+00:00",
+  "operator": "deterministic-python-stage-a",
+  "prediction_markdown_sha256": "abd76f3501353ee75f36e524dfa4b6dbf6111df5593776fde10b6ddbb0f2b74d",
+  "prediction_sha256": "56324881a3a4b91ac178b479016056f5a897f12b50dc4ce31370247f02ad4b17",
+  "preregistration_sha256": "0a4fdfb58181825b2578785b00ce4090909ff191d7f800992107d31415763aec",
+  "rule_id": "R002-TREND-PRIOR-v001",
+  "selection_sha256": "d1774388baa6f465a5f99e594d05731c3afb0a13c23fd629fe540d86148cbe3f",
+  "separation": "SEPARATION_LOGICAL_ONLY",
+  "status": "EX_ANTE_LOCKED"
+}

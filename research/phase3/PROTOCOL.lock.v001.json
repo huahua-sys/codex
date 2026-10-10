@@ -1,0 +1,11 @@
+{
+  "files": {
+    "SAMPLE_EXPANSION_PROTOCOL.md": "440f23d764e99fb4e772d2a92c7fe1c8e236be4c6887944fac499fd6da2b4e3c",
+    "research/phase3/audit/PRIOR_STATE.v001.json": "f50ddd476244ed877649d3a1f217fc8d6ed26c964cee308502da5ebb8a00c87f",
+    "research/phase3/design.v001.json": "95d5f2ccbf6fa7fe0e0c5a4036022db62fee498951279ef3a3044e1fb8334a7f"
+  },
+  "locked_at": "2026-10-09T05:27:43.123833+00:00",
+  "new_historical_acquisition_started": false,
+  "state": "LOCKED_BEFORE_NEW_DATA_ACQUISITION_AND_FEATURES",
+  "trust_limit": "Local SHA evidence; not externally witnessed timestamp or cognitive blindness"
+}

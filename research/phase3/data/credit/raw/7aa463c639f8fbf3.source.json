@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:39:02.169303+00:00",
+  "content_type": "text/html",
+  "final_url": "https://www.federalreserve.gov/newsevents/2025-february.htm",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos/sloos-202501.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "historical_release_calendar",
+  "source_path": "research/phase3/data/credit/raw/7aa463c639f8fbf3.bin",
+  "source_sha256": "69e5af099933df3a54b9d2cd0883edc82ef95acd5ba068221b792d8630a64541",
+  "url": "https://www.federalreserve.gov/newsevents/2025-february.htm"
+}

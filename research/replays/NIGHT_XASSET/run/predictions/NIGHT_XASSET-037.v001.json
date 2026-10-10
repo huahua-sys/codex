@@ -1,0 +1,567 @@
+{
+  "asset_id": "GLD",
+  "biggest_unknown": "缺少盈利、估值、信用初值和可验证政策执行；趋势延续与反转均可能发生。",
+  "cash_alternative_return": 0.0,
+  "cash_alternative_status": "ASSUMPTION_NOT_OBSERVED_CASH_RETURN",
+  "confidence": "D",
+  "context_state": {
+    "Breadth": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Capital Actions": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Credit": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Earnings": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Industry": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Inflation": {
+      "evidence_record_ids": [
+        "BLS-CPI-09162016",
+        "BLS-CPI-09142017"
+      ],
+      "status": "KNOWN_AT_T",
+      "value": {
+        "core_yoy_evidence": "index for all items less food and energy rose 1.7 percent over the past 12 months",
+        "cpi_core_yoy_pct_first_release": 1.7,
+        "cpi_headline_mom_sa_pct_first_release": 0.4,
+        "cpi_headline_yoy_pct_first_release": 1.9,
+        "headline_mom_evidence": "Consumer Price Index for All Urban Consumers (CPI-U) rose 0.4 percent",
+        "headline_yoy_evidence": "Over the last 12 months, the all items index rose 1.9 percent",
+        "original_release_excerpt": "CONSUMER PRICE INDEX – AUGUST 2017 The Consumer Price Index for All Urban Consumers (CPI-U) rose 0.4 percent in August on a seasonally adjusted basis, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months, the all items index rose 1.9 percent. Increases in the indexes for gasoline and shelter accounted for nearly all of the seasonally adjusted increase in the all items index. The energy index rose 2.8 percent in August as the gasoline index increased 6.3 percent. The shelter index rose 0.5 percent in August with the rent index up 0.4 percent. The food index rose slightly in August, with the index for food away from home increasing and the food at home index declining. The index for all items less food and energy rose 0.2 percent in August. Along with the shelter index, the indexes for motor vehicle insurance, medical care, and recreation all increased in August. The indexes for airline fares and for used cars and trucks were among those that declined in August. The all items index rose 1.9 percent for the 12 months ending August, a larger increase than the 1.7 percent increase for the 12 months ending July. The 12-month change in the index for all items less food and energy remained at 1.7 percent for the fourth month in a row. It has remained in the range of 1.6 percent to 2.3 percent since June 2011. The energy index rose 6.4 percent over the past 12 months, and the food index increased 1.1 percent. _________________________________________________________________________________ HURRICANE HARVEY Hurricane Harvey had a very small effect on survey response rates in August. Price collection late in the month was disrupted in 2 of the 87 collection areas. _________________________________________________________________________________ Table A. Percent changes in CPI for All Urban Consumers (CPI-U): U.S. city average Seasonally adjusted changes from preceding month Un- adjusted 12-mos. Feb. Mar. Apr. May June July Aug. ended 2017 2017 2017 2017 2017 2017 2017 Aug. 2017 All items.................. .1 -.3 .2 -.1 .0 .1 .4 1.9 Food...................... .2 .3 .2 .2 .0 .2 .1 1.1 Food at home............. .3 .5 .2 .1 -.1 .2 -.2 .3 Food away from home (1).. .2 .2 .2 .2 .0 .2 .3 2.2 Energy.................... -1.0 -3.2 1.1 -2.7 -1.6 -.1 2.8 6.4 Energy commodities....... -2.8 -6.0 1.3 -6.2 -2.7 .0 6.1 10.3 Gasoline (all types).... -3.0 -6.2 1.2 -6.4 -2.8 .0 6.3 10.4 Fuel oil (1)............ -.4 -.8 -.3 -2.8 -3.7 -2.0 2.9 9.4 Energy services.......... 1.0 -.3 .9 .7 -.5 -.2 -.1 2.9 Electricity............. .8 -.1 .6 .3 -.6 .4 .0 2.3 Utility (piped) gas service.............. 1.5 -.8 2.2 1.9 -.2 -2.3 -.5 5.4 All items less food and energy................. .2 -.1 .1 .1 .1 .1 .2 1.7 Commodities less food and energy commodities.... .0 -.3 -.2 -.3 -.1 -.1 -.1 -.9 New vehicles............ -.2 -.3 -.2 -.2 -.3 -.5 .0 -.7 Used cars and trucks.... -.6 -.9 -.5 -.2 -.7 -.5 -.2 -3.8 Apparel................. .6 -.7 -.3 -.8 -.1 .3 .1 -.6 Medical care commodities -.2 .2 -.8 .4 .7 1.0 -.1 2.4 Services less energy services.............. .3 -.1 .1 .2 .2 .2 .4 2.5 Shelter................. .3 .1 .3 .2 .2 .1 .5 3.3 Transportation services .7 .4 -.2 .3 .2 .2 .4 3.5 Medical care services... .2 .1 .0 -.1 .3 .3 .2 1.6 1 Not seasonally adjusted. Food The food index rose 0.1 percent in August following a 0.2-percent increase in July. The index for food at home declined 0.2 percent after rising 0.2 percent the prior month. Five of the six major grocery store food group indexes fell, with the indexes for dairy and related products and for nonalcoholic beverages both declining 0.4 percent. The index for meats, poultry, fish, and eggs fell 0.2 percent, as did the fruits and vegetables index; both indexes increased in July. The index for other food at home fell 0.1 percent in August. The only major grocery store food group index to rise in August was the index for cereal and bakery products, which rose 0.3 percent after declining in July. The index for food away for home also increased, rising 0.3 percent. Over the last 12 months, the index for food at home rose 0.3 percent. Four of the six major grocery store food group indexes increased, but none more than 1.0 percent. The indexes for cereals and bakery products and for nonalcoholic beverages fell slightly over the span. The index for food away from home rose 2.2 percent over the last year. Energy The energy index rose 2.8 percent in August, its largest monthly increase since January. The gasoline index increased 6.3 percent after being unchanged in July. (Before seasonal adjustment, gasoline prices increased 3.9 percent in August.) However, the index for natural gas continued to decline, falling 0.5 percent in August after a 2.3-percent decrease in July. The electricity index was unchanged in August following an increase in July. The major energy component indexes all continued to show increases over the past 12 months. The gasoline index increased 10.4 percent, the index for natural gas rose 5.4 percent, and the index for electricity advanced 2.3 percent. All items less food and energy The index for all items less food and energy increased 0.2 percent in August. The shelter index was the main contributor to the rise, increasing 0.5 percent, its largest increase since October 2005. The rent index increased 0.4 percent, and the index for owners' equivalent rent rose 0.3 percent. The index for lodging away from home rose sharply, increasing 4.4 percent after decreasing 4.2 percent in July. The motor vehicle insurance index continued to rise, increasing 1.0 percent in August. The recreation index also increased in August, rising 0.2 percent. The medical care index rose 0.1 percent in August. The index for physicians' services advanced 0.4 percent, and the hospital services index increased 0.2 percent. The apparel index rose 0.1 percent in August, as did the indexes for alcoholic beverages and for household furnishings and operations. The index for new vehicles was unchanged in August after declining in July. The index for airline fares, which rose 0.7 percent in July, fell 1.0 percent in August. The index for used cars and trucks continued to decline, falling 0.2 percent. The indexes for tobacco, for education, for wireless telephone services, and for personal care all declined 0.1 percent over the month. The index for all items less food and energy rose 1.7 percent over the past 12 months. The index for motor vehicle insurance rose 8.1 percent over the last year. The shelter index rose 3.3 percent, with the rent index increasing 3.9 percent, the index for owners' equivalent rent rising 3.3 percent, and the lodging away from home index advancing 0.2 percent. The medical care index rose 1.8 percent. Several indexes declined over the past 12 months, including those for wireless telephone services (-13.2 percent), used cars and trucks (-3.8 percent), airline fares (-3.2 percent), new vehicles (-0.7 percent), and apparel (-0.6 percent). Not seasonally adjusted CPI measures The Consumer Price Index for All Urban Consumers (CPI-U) increased 1.9 percent over the last 12 months to an index level of 245.519 (1982-84=100). For the month, the index increased 0.3 percent prior to seasonal adjustment. The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) increased 1.9 percent over the last 12 months to an index level of 239.448 (1982-84=100). For the month, the index increased 0.3 percent prior to seasonal adjustment. The Chained Consumer Price Index for All Urban Consumers (C-CPI-U) increased 1.8 percent over the last 12 months. For the month, the index increased 0.3 percent on a not seasonally adjusted basis. Please note that the indexes for the past 10 to 12 months are subject to revision. The Consumer Price Index for September 2017 is scheduled to be released on Friday, October 13, 2017, at 8:30 a.m. (EDT). ---------------------------------------------------------------------------------- Consumer Price Index Geographic Revision for 2018 In January 2018, BLS will introduce a new geographic area sample for the Consumer Price Index (CPI). The 2018 revision utilizes the 2010 Decennial Census and incorporates an updated area sample design, changes the frequency of publication for several local area indexes, and establishes some new local area and aggregate indexes. The first indexes using the new structure will be published in February 2018. Additional information on the geographic revision is available at: www.bls.gov/cpi/georevision2018.htm. ---------------------------------------------------------------------------------- Technical Note Brief Explanation of the CPI The Consumer Price Index (CPI) measures the change in prices paid by consumers for goods and services. The CPI reflects spending patterns for each of two population groups: all urban consumers and urban wage earners and clerical workers. The all urban consumer group represents about 89 percent of the total U.S. population. It is based on the expenditures of almost all residents of urban or metropolitan areas, including professionals, the self-employed, the poor, the unemployed, and retired people, as well as urban wage earners and clerical workers. Not included in the CPI are the spending patterns of people living in rural nonmetropolitan areas, farming families, people in the Armed Forces, and those in institutions, such as prisons and mental hospitals. Consumer inflation for all urban consumers is measured by two indexes, namely, the Consumer Price Index for All Urban Consumers (CPI-U) and the Chained Consumer Price Index for All Urban Consumers (C-CPI-U). The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) is based on the expenditures of households included in the CPI-U definition that meet two requirements: more than one-half of the household's income must come from clerical or wage occupations, and at least one of the household's earners must have been employed for at least 37 weeks during the previous 12 months. The CPI-W population represents about 28 percent of the total U.S. population and is a subset of the CPI-U population. The CPIs are based on prices of food, clothing, shelter, fuels, transportation, doctors’ and dentists’ services, drugs, and other goods and services that people buy for day-to-day living. Prices are collected each month in 87 urban areas across the country from about 6,000 housing units and approximately 24,000 retail establishments (department stores, supermarkets, hospitals, filling stations, and other types of stores and service establishments). All taxes directly associated with the purchase and use of items are included in the index. Prices of fuels and a few other items are obtained every month in all 87 locations. Prices of most other commodities and services are collected every month in the three largest geographic areas and every other month in other areas. Prices of most goods and services are obtained by personal visits or telephone calls by the Bureau’s trained representatives. In calculating the index, price changes for the various items in each location are aggregated using weights, which represent their importance in the spending of the appropriate population group. Local data are then combined to obtain a U.S. city average. For the CPI-U and CPI-W, separate indexes are also published by size of city, by region of the country, for cross-classifications of regions and population-size classes, and for 27 selected local areas. Area indexes do not measure differences in the level of prices among cities; they only measure the average change in prices for each area since the base period. For the C-CPI-U, data are issued only at the national level. The CPI-U and CPI-W are considered final when released, but the C-CPI-U is issued in preliminary form and subject to three subsequent quarterly revisions. The index measures price change from a designed reference date. For most of the CPI-U and the CPI-W, the reference base is 1982-84 equals 100. The reference base for the C-CPI-U is December 1999 equals 100. An increase of 7 percent from the reference base, for example, is shown as 107.000. Alternatively, that relationship can also be expressed as the price of a base period market basket of goods and services rising from $100 to $107. Sampling Error in the CPI The CPI is a statistical estimate that is subject to sampling error because it is based upon a sample of retail prices and not the complete universe of all prices. BLS calculates and publishes estimates of the 1-month, 2-month, 6-month, and 12-month percent change standard errors annually for the CPI-U. These standard error estimates can be used to construct confidence intervals for hypothesis testing. For example, the estimated standard error of the 1-month percent change is 0.03 percent for the U.S. all items CPI. This means that if we repeatedly sample from the universe of all retail prices using the same methodology, and estimate a percentage change for each sample, then 95 percent of these estimates will be within 0.06 percent of the 1-month percentage change based on all retail prices. For example, for a 1-month change of 0.2 percent in the all items CPI-U, we are 95 percent confident that the actual percent change based on all retail prices would fall between 0.14 and 0.26 percent. For the latest data, including information on how to use the estimates of standard error, see www.bls.gov/cpi/cpivar2016.pdf. Calculating Index Changes Movements of the indexes from 1 month to another are usually expressed as percent changes rather than changes in index points, because index point changes are affected by the level of the index in relation to its base period, while percent changes are not. The following table shows an example of using index values to calculate percent changes: Item A Item B Item C Year I 112.500 225.000 110.000 Year II 121.500 243.000 128.000 Change in index points 9.000 18.000 18.000 Percent change 9.0/112.500 x 100 = 8.0 8.0/225.000 x 100 = 8.0 18.0/110.000 x 100 = 16.4 Use of Seasonally Adjusted and Unadjusted Data The Consumer Price Index (CPI) produces both unadjusted and seasonally adjusted data. Seasonally adjusted data are computed using seasonal factors derived by the X-13ARIMA-SEATS seasonal adjustment method. These factors are updated each February, and the new factors are used to revise the previous 5 years of seasonally adjusted data. For more information on data revision scheduling, please see the Fact Sheet on Seasonal Adjustment at www.bls.gov/cpi/cpisaqanda.htm and the Timeline of Seasonal Adjustment Methodological Changes at www.bls.gov/cpi/cpiseastimeline.htm. For analyzing short-term price trends in the economy, seasonally adjusted changes are usually preferred since they eliminate the effect of changes that normally occur at the same time and in about the same magnitude every year—such as price movements resulting from weather events, production cycles, model "
+      }
+    },
+    "Liquidity": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Macro": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "News": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Policy": {
+      "evidence_record_ids": [
+        "FED-FOMC-20160921",
+        "FED-FOMC-20170920"
+      ],
+      "status": "KNOWN_AT_T",
+      "value": {
+        "fed_funds_target_high_pct": 1.25,
+        "fed_funds_target_low_pct": 1.0,
+        "original_statement_text": "Information received since the Federal Open Market Committee met in July indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. Job gains have remained solid in recent months, and the unemployment rate has stayed low. Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters. On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey, Irma, and Maria have devastated many communities, inflicting severe hardship. Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term. Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments. The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data. In October, the Committee will initiate the balance sheet normalization program described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans. ",
+        "rate_evidence": "target range for the federal funds rate at 1 to 1-1/4 percent"
+      }
+    },
+    "Rates": {
+      "evidence_record_ids": [
+        "FED-FOMC-20160921-RATES",
+        "FED-FOMC-20170920-RATES"
+      ],
+      "status": "KNOWN_AT_T",
+      "value": {
+        "fed_funds_target_high_pct": 1.25,
+        "fed_funds_target_low_pct": 1.0,
+        "original_statement_text": "Information received since the Federal Open Market Committee met in July indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. Job gains have remained solid in recent months, and the unemployment rate has stayed low. Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters. On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance. Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey, Irma, and Maria have devastated many communities, inflicting severe hardship. Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term. Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely. In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation. In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments. The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data. In October, the Committee will initiate the balance sheet normalization program described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans. ",
+        "rate_evidence": "target range for the federal funds rate at 1 to 1-1/4 percent"
+      }
+    },
+    "Sentiment": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Trend": {
+      "evidence_record_ids": [
+        "YAHOO_CHART_GLD:PRICE:2017-09-29",
+        "YAHOO_CHART_GLD:PRICE:2017-06-30",
+        "YAHOO_CHART_GLD:PRICE:2016-09-29"
+      ],
+      "status": "KNOWN_AT_T",
+      "value": "MIXED_TREND"
+    },
+    "Valuation": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    }
+  },
+  "cost_bps_roundtrip": 50.0,
+  "created_at": "2026-10-08T16:19:06.033647+00:00",
+  "currency": "USD",
+  "cutoff_at": "2017-09-30T23:59:59+00:00",
+  "cutoff_timezone": "UTC",
+  "decision": "WAIT",
+  "direction": "Base",
+  "episode_id": "NIGHT_XASSET-037",
+  "execution_rule": "first available session OPEN strictly after cutoff; exit OPEN after N complete sessions; N=5/21/63/126/252/504; no interim rebalance",
+  "exposure": 0,
+  "features": {
+    "actions_used": [],
+    "annual_volatility_252": 0.11313329736601631,
+    "evidence_record_ids": [
+      "YAHOO_CHART_GLD:PRICE:2017-09-29",
+      "YAHOO_CHART_GLD:PRICE:2017-06-30",
+      "YAHOO_CHART_GLD:PRICE:2016-09-29"
+    ],
+    "formula": "known-action wealth ratios; sample stdev(last252 daily simple returns)*sqrt(252)",
+    "price_rows": 3239,
+    "r252": -0.035615117590532375,
+    "r63": 0.03016442373536954
+  },
+  "fitted": false,
+  "frozen_rule": {
+    "baseline_interpretation": "constant fair-coin and unfitted equity-upward-prior; no selection by outcome",
+    "cash_return_default": 0.0,
+    "cash_status": "ASSUMPTION_NOT_OBSERVED_CASH_RETURN",
+    "confidence": "D",
+    "cost_bps_roundtrip_default": 50.0,
+    "date_asset_specific_logic": false,
+    "features": [
+      "known_action_total_return_63_sessions",
+      "known_action_total_return_252_sessions",
+      "past_252_session_annualized_volatility"
+    ],
+    "fitted": false,
+    "horizon_sessions": {
+      "12m": 252,
+      "1m": 21,
+      "1w": 5,
+      "24m": 504,
+      "3m": 63,
+      "6m": 126
+    },
+    "id": "R002-TREND-PRIOR-v001",
+    "minimum_past_returns": 252,
+    "mixed": {
+      "exposure": 0,
+      "p_up": 0.5,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "scenarios": [
+        0.3,
+        0.4,
+        0.3
+      ]
+    },
+    "model_payoff_vol_multiplier": 1.0,
+    "negative": {
+      "exposure": 0,
+      "p_up": 0.4,
+      "p_up_range": [
+        0.25,
+        0.55
+      ],
+      "scenarios": [
+        0.4,
+        0.4,
+        0.2
+      ]
+    },
+    "parameter_searches": 0,
+    "positive": {
+      "exposure": 1,
+      "p_up": 0.6,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "scenarios": [
+        0.2,
+        0.4,
+        0.4
+      ]
+    },
+    "primary_horizon": "12m",
+    "probability_baselines": [
+      0.5,
+      0.6
+    ],
+    "scenario_band_vol_multiplier": 0.5,
+    "scenario_probability_half_width": 0.15
+  },
+  "fx_return": null,
+  "horizons": {
+    "12m": {
+      "direction": "Base",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.0,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "p_up_scoring_probability": 0.5,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.056566648683008154,
+      "scenario_threshold_upper": 0.056566648683008154,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.11313329736601631,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.3
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.11313329736601631,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.3
+        }
+      ],
+      "session_count": 252,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "1m": {
+      "direction": "Base",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.0,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "p_up_scoring_probability": 0.5,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.016329384922144873,
+      "scenario_threshold_upper": 0.016329384922144873,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.032658769844289746,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.3
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.032658769844289746,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.3
+        }
+      ],
+      "session_count": 21,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "1w": {
+      "direction": "Base",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.0,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "p_up_scoring_probability": 0.5,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.00796792396836293,
+      "scenario_threshold_upper": 0.00796792396836293,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.01593584793672586,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.3
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.01593584793672586,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.3
+        }
+      ],
+      "session_count": 5,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "24m": {
+      "direction": "Base",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.0,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "p_up_scoring_probability": 0.5,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.07999732174550431,
+      "scenario_threshold_upper": 0.07999732174550431,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.15999464349100861,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.3
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.15999464349100861,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.3
+        }
+      ],
+      "session_count": 504,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "3m": {
+      "direction": "Base",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.0,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "p_up_scoring_probability": 0.5,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.028283324341504077,
+      "scenario_threshold_upper": 0.028283324341504077,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.056566648683008154,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.3
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.056566648683008154,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.3
+        }
+      ],
+      "session_count": 63,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "6m": {
+      "direction": "Base",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.0,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "p_up_scoring_probability": 0.5,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.039998660872752154,
+      "scenario_threshold_upper": 0.039998660872752154,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.07999732174550431,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.3
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.07999732174550431,
+          "probability_range": [
+            0.15,
+            0.44999999999999996
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.3
+        }
+      ],
+      "session_count": 126,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    }
+  },
+  "implementation_sha256": {
+    "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+    "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+    "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+  },
+  "information_set": "KNOWN_AT_T_ONLY",
+  "input_manifest_sha256": "60aeb3f0e6c6e93b51656c0ec97ef1dc5bd95bc9e499fad27f035adef86bfe53",
+  "input_quality": {
+    "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+    "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+    "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+    "price_basis": "UNADJUSTED",
+    "return_basis": "TOTAL_RETURN",
+    "tradability": "EXCHANGE_TRADED_ETF"
+  },
+  "input_sha256": "f569c9ae4cc7a5aa02134123564d040985d8621be61fde0d766de7554bed8b7c",
+  "kill_thesis": [
+    "每周复核；若最近63或252个完整已公开时段总回报不再同时为正，则原趋势买入理由失效。",
+    "若数据来源、公司行动、时间证据或可交易性被否定，则暂停，不以未来结果重写原判断。"
+  ],
+  "kill_thesis_execution": "DIAGNOSTIC_ONLY_THIS_ROUND_FIXED_HOLDING_NO_DYNAMIC_EXIT_LABEL",
+  "market": "US",
+  "missing_features_not_imputed": true,
+  "model_memory_contamination": "NO_PER_EPISODE_LLM_JUDGMENT_RULE_DESIGNED_IN_2026_WITH_PRIOR_KNOWLEDGE_POSSIBLE",
+  "negative_evidence": [
+    {
+      "evidence_record_ids": [
+        "YAHOO_CHART_GLD:PRICE:2016-09-29",
+        "YAHOO_CHART_GLD:PRICE:2017-09-29"
+      ],
+      "statement": "252-session历史已知行动经济总回报=-0.035615",
+      "type": "OBSERVED_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    }
+  ],
+  "next_review_at": "2017-10-07T23:59:59+00:00",
+  "positive_evidence": [
+    {
+      "evidence_record_ids": [
+        "YAHOO_CHART_GLD:PRICE:2017-06-30",
+        "YAHOO_CHART_GLD:PRICE:2017-09-29"
+      ],
+      "statement": "63-session历史已知行动经济总回报=0.030164",
+      "type": "OBSERVED_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "可靠正面证据不足；不得用故事补足。",
+      "type": "NO_ADDITIONAL_POSITIVE_EVIDENCE"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "可靠正面证据不足；不得用故事补足。",
+      "type": "NO_ADDITIONAL_POSITIVE_EVIDENCE"
+    }
+  ],
+  "preregistration_sha256": "6aec3a4d18aa85252feee57b3223a5bcdd1d000158977f1deb7de93e5f058dc5",
+  "price_in_assessment": "UNKNOWN: only lagged market behavior observed; no historical valuation/expectation source, cannot identify expectations already reflected",
+  "record_type": "prediction_ex_ante",
+  "regime": "MIXED_TREND",
+  "replay_type": "EXPLORATORY_RULE_BASED_MASKED_REPLAY",
+  "reporting_currency": "USD",
+  "research_stage": "EXPLORATORY",
+  "return_basis": "TOTAL_RETURN",
+  "round_id": "ROUND_002",
+  "rule_id": "R002-TREND-PRIOR-v001",
+  "rule_sha256": "3f45039c4376334501be3e177bab113cc65d7f4b3296f9c6b2e82e66a57b5729",
+  "selection_sha256": "fb646a4a1a3cd6de70ab652f870918d80b40c8fcdb1d557676d2b388d51f921e",
+  "separation": "SEPARATION_LOGICAL_ONLY",
+  "status": "EX_ANTE_LOCKED",
+  "tradability": "EXCHANGE_TRADED_ETF"
+}

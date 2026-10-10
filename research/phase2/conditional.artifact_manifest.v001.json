@@ -1,0 +1,28 @@
+{
+  "artifact_sha256": {
+    "conditional.evidence.v001.md": "a704c6f9f33271acd4a3af0ed8e8427c1d4adf913c3b7612ab82fcf47910e8a3",
+    "conditional.outcomes.v001.csv": "e1996278cfd96a5200da389ea2b1cc4947f948affc1f63e5196f4b99e0e6cafa",
+    "conditional.perturbations.v001.json": "ea92bc664dca8045da05b78989eccb36c10e69ac1eb6fd9b15f4aad93bc4e8f9",
+    "conditional.placebos.v001.json": "4b1c0e06951603aec8a1eb23ab8a878ab6b4fe17d99febf4410c45dbe25ac40b",
+    "conditional.results.v001.json": "075f2b21f4934ef843df1e59f61f3941fd23e3278c0f0831c382067281c65339"
+  },
+  "benchmark_label_computations_cached": 88,
+  "created_at": "2026-10-09T00:16:40.399300+00:00",
+  "preregistration_sha256": "aece92f58b7e87078d00c7ffa7f196ec27dd1117174131dd7fe56cf4465df023",
+  "self_test": {
+    "checks": 15,
+    "investment_evidence": false,
+    "real_market_files_opened": false,
+    "status": "SYNTHETIC_ENGINEERING_ONLY_PASS"
+  },
+  "source_and_code_sha256": {
+    "data/raw/round_002/market/BIL.canonical.json": "47d1a9dc7657afea42f5dbe0d39abff0a3ccb5a1e2d7d466105fcb8983d800eb",
+    "data/raw/round_002/market/IEF.canonical.json": "a7c4676d7b929d22b5d29687d0c9740c25206aaa5cb507d306a069436e6b17a9",
+    "data/raw/round_002/market/SPY.canonical.json": "b8fd3fcd5434381c8e8c15f81f92e5441b972a7843085e7242c88c97bcf4c874",
+    "data/raw/round_002/official/release_records.json": "c4cb850b6b2450015303cfe0350c2e811315bd6eaa3b2da06c43d595ab35ae93",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "scripts/analyze_cash_and_sell.py": "0c10ac9dbe8077512e0d3b5cd92e840c0c43a5c617d9fcd1a1bdac9604c272d4",
+    "scripts/phase2_benchmarks.py": "f1018fcd6716235693207a1f9f23951e01ba9a9babbca8bf26c37f73e5153f3a",
+    "scripts/phase2_conditional.py": "d31c9251707965698ac8f58338a3fd9fdd9b179c252521e19d157346dbf253f3"
+  }
+}

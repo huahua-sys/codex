@@ -1,0 +1,188 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_XTIME-001": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-001.input.v001.json",
+      "sha256": "7cbe66c57a64cb8451a9376b1b6b1886c362d1d15d25524af68a998017bc5692"
+    },
+    "NIGHT_XTIME-002": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-002.input.v001.json",
+      "sha256": "12f33626efb1afbfd4d7b37cfccf74834cd967cfb743c489a9e4f48e858bea6a"
+    },
+    "NIGHT_XTIME-003": {
+      "cutoff_at": "2005-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-003.input.v001.json",
+      "sha256": "f30fd2695df5b1795f1c6673446e3aa38c2a1259e7cd03985e662e0792a2cfb6"
+    },
+    "NIGHT_XTIME-004": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-004.input.v001.json",
+      "sha256": "29c8530f9c92c8d5f78d5a6693ef1067b0dd36a77334b05cc8218a1c71ae9ef4"
+    },
+    "NIGHT_XTIME-005": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-005.input.v001.json",
+      "sha256": "87e3503f14ddd48ca86eb9e540b15745ed4909d9073d076435b4221d0ce2625f"
+    },
+    "NIGHT_XTIME-006": {
+      "cutoff_at": "2006-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-006.input.v001.json",
+      "sha256": "63ba8b00095d08e32818a9d23cdb1a4c5c564106e0c74ca42e65351e2e8df1db"
+    },
+    "NIGHT_XTIME-007": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-007.input.v001.json",
+      "sha256": "86f66257db755dcc40e21d09cd982cae6272e5f81735c5105399b3e0679ef1b8"
+    },
+    "NIGHT_XTIME-008": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-008.input.v001.json",
+      "sha256": "0d39ded988c58d81ec6b61475384734a1d386969841a6d5a6cff5b556236bbe6"
+    },
+    "NIGHT_XTIME-009": {
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-009.input.v001.json",
+      "sha256": "1c9b3f4835ef45b56e4ae85ce770c26e8da5ca4e7a02cdd39f6bdf0741278afe"
+    },
+    "NIGHT_XTIME-010": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-010.input.v001.json",
+      "sha256": "07142dbc19a07eb39a0b29cf0b0d6d139c5712727067e4c6be0e8cd8a9354125"
+    },
+    "NIGHT_XTIME-011": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-011.input.v001.json",
+      "sha256": "cf8a0280d35132ccf9f6e8f12b25800a1bc0bd6992795f5ef2dcebac6e07ecbe"
+    },
+    "NIGHT_XTIME-012": {
+      "cutoff_at": "2008-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-012.input.v001.json",
+      "sha256": "6d8a3018dabb64296643e44704d6bf8f4309c3ec4a8c03653f3c0ba36bebdffa"
+    },
+    "NIGHT_XTIME-013": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-013.input.v001.json",
+      "sha256": "35c85ecb2f1c47dff7e286b57c52fb1845b44a366873e3d0f0011e7a4d713178"
+    },
+    "NIGHT_XTIME-014": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-014.input.v001.json",
+      "sha256": "273571d683ee0be7dd041e8704fb89d43bfb7e72f3ef244c41b5f8c405bdb272"
+    },
+    "NIGHT_XTIME-015": {
+      "cutoff_at": "2009-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-015.input.v001.json",
+      "sha256": "cb219a34f312ef9fc7db10089c30c4f2e5b4ff785c3186bbf9f194b0e285d76e"
+    },
+    "NIGHT_XTIME-016": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-016.input.v001.json",
+      "sha256": "0d4804a9cdfdf8341e9e3a149794aff436be8f5e93fff7da8f5a3a656bc8a8af"
+    },
+    "NIGHT_XTIME-017": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-017.input.v001.json",
+      "sha256": "6c29cc22e2fd674eee78e00ef03f08f5ed0879e5534e00573ee91a2ca7ce8c83"
+    },
+    "NIGHT_XTIME-018": {
+      "cutoff_at": "2010-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-018.input.v001.json",
+      "sha256": "cce8321daa07ab46fe0fce8401140e6e7300d8c0df008fe8c87461efcc8d422a"
+    },
+    "NIGHT_XTIME-019": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-019.input.v001.json",
+      "sha256": "f90b8de945840dffdbfa4b9ea13b407567e46590ed0cf30f4f72b825a00c8557"
+    },
+    "NIGHT_XTIME-020": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-020.input.v001.json",
+      "sha256": "25a63c19e982688cf07fe44b2c330f2b8f4ff24afe331d9c3eaf43d133848163"
+    },
+    "NIGHT_XTIME-021": {
+      "cutoff_at": "2011-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-021.input.v001.json",
+      "sha256": "f1a5f7df489fbb058aa3a7ce5a1d140019f88aa06bb936d0044267b69a1d02f3"
+    },
+    "NIGHT_XTIME-022": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-022.input.v001.json",
+      "sha256": "ba673ba6b3de5a61937996355730971dd82e972699e22f88cdf54a2b7ae9f965"
+    },
+    "NIGHT_XTIME-023": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-023.input.v001.json",
+      "sha256": "bd6916a7d84e76c83067e2c44d27b23eac21b87e5d2f29f0c4b098b9fd5811e6"
+    },
+    "NIGHT_XTIME-024": {
+      "cutoff_at": "2012-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-024.input.v001.json",
+      "sha256": "4c42c5883941a427f590d16a4fdcc54690113d60016320813a4e1817b6ff260d"
+    },
+    "NIGHT_XTIME-025": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-025.input.v001.json",
+      "sha256": "d92b0238e326d50025ddd938199ec5a914f7e07503257434e3100700cf6e7735"
+    },
+    "NIGHT_XTIME-026": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-026.input.v001.json",
+      "sha256": "eea6d20f0be7bb6dd92a8b17bad2996d13d2ea7ce6fc03030a6ad00b1d8c313a"
+    },
+    "NIGHT_XTIME-027": {
+      "cutoff_at": "2013-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-027.input.v001.json",
+      "sha256": "2d807d41c9d243308731b5705b74c72c7d127b6d89827bc97b0301c86c693359"
+    },
+    "NIGHT_XTIME-028": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-028.input.v001.json",
+      "sha256": "193c5bf3adb48b90da32fc0b38905173d94dfff4d4b1aeafb862b72f28cc472c"
+    },
+    "NIGHT_XTIME-029": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-029.input.v001.json",
+      "sha256": "5fb23374915e3de831b6b0ad6e444dde3130f25031f7d75da1378feb646d3226"
+    },
+    "NIGHT_XTIME-030": {
+      "cutoff_at": "2014-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-030.input.v001.json",
+      "sha256": "f263648774f95d55c533074adbf312aee55efb90bb347137a1430a2b6ab504af"
+    },
+    "NIGHT_XTIME-031": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-031.input.v001.json",
+      "sha256": "042a8676ec0b12deee617f5d4780668fe103767f7a0fb9cba908f9f9d1d2c66e"
+    },
+    "NIGHT_XTIME-032": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-032.input.v001.json",
+      "sha256": "3cc817a59a82287adbd725983b2b42d6482fda69fd8c9a8284b7372bc8e8c3be"
+    },
+    "NIGHT_XTIME-033": {
+      "cutoff_at": "2015-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-033.input.v001.json",
+      "sha256": "3434bdc980d27358cc938b49ef091ffc446ad92dcb5ef86e1f84a652cce5038f"
+    },
+    "NIGHT_XTIME-034": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-034.input.v001.json",
+      "sha256": "3e530c5f34516e05117c75266f0a2c9a31fc24c8c026560a1c5c550a66c85e6d"
+    },
+    "NIGHT_XTIME-035": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-035.input.v001.json",
+      "sha256": "6d50eb5048f986f119d63acbf65ea5b49e836e8d933da2d0a8cf4be9d94241e0"
+    },
+    "NIGHT_XTIME-036": {
+      "cutoff_at": "2024-09-30T23:59:59+00:00",
+      "path": "NIGHT_XTIME-036.input.v001.json",
+      "sha256": "4078a6dfd57d2f161f0498b1009cd704c4005edcd1839691cec7b77d7aa587e0"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "a4f568529322e34d68a19efad469c84e798eaad47f87edf6e5358190e76801d3",
+  "source_bundle_sha256": "45024905cbd6df149f8ed7bf460ba9c004b1e97b4521e763c56ce945c8c8139e"
+}

@@ -1,0 +1,2849 @@
+{
+  "check_count": 567,
+  "checks": [
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_01"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_05"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_08"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_11"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2000_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_02"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_05"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_08"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_11"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2001_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_02"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_05"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_08"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_11"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2002_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_01"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_05"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_08"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_10"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2003_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_01"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_07"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_05"
+    },
+    {
+      "check": "uncertain_value_is_null",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "check": "table_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    },
+    {
+      "check": "exact_count_total",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    },
+    {
+      "check": "net_formula",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    },
+    {
+      "check": "date_source_sha",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    },
+    {
+      "check": "timezone_aware",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    },
+    {
+      "check": "published_equals_conservative_availability",
+      "pass": true,
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    }
+  ],
+  "effective_sample_assessment": {
+    "n_effective": null,
+    "notes": "Quarterly surveys overlap bank respondents and lending cycle; serial/global regime dependence. Credit records are source releases, not independent investments.",
+    "year_clusters": 22
+  },
+  "failed": 0,
+  "independence": "Acquisition QA by same author; parent independent scientific QA remains required.",
+  "raw_observations": 104,
+  "status": "PASS_SOURCE_HASH_ARITHMETIC_AND_TIME_CHECKS"
+}

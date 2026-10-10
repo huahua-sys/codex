@@ -1,0 +1,521 @@
+{
+  "count": 103,
+  "records": [
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200001/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "May",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200005/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "August",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200008/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "November",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200011/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200102/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "March",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200103/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "May",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200105/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "August",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200108/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200111/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200202/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200205/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "August",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200208/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200211/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200301/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200305/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "August",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200308/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200310/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200401/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200405/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200407/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200410/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200501/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200505/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200508/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200510/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200601/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200605/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200608/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200610/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200701/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200705/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200708/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200711/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200801/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200805/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200808/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200811/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200902/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200905/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200908/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200911/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201002/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201005/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201008/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201011/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201102/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201104/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201108/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201111/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201201/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201205/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201208/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201210/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201302/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201305/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201308/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201311/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201402/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201405/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201408/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201411/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201502/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201505/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201508/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201511/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201602/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201605/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201608/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201611/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/201702/default.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201802.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201804.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201807.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201810.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201901.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201904.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201907.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-201910.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202001.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202004.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202007.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "September",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202009.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202010.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202101.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202104.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202107.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202110.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202201.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202204.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202207.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202210.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202301.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202304.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202307.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202310.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202401.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202404.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202407.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202410.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "January",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202501.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "April",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202504.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "July",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202507.htm"
+    },
+    {
+      "parent_url": "https://www.federalreserve.gov/data/sloos.htm",
+      "text": "October",
+      "url": "https://www.federalreserve.gov/data/sloos/sloos-202510.htm"
+    }
+  ],
+  "selection": "All archive-linked 2000–2025 quarterly original releases. No market returns observed."
+}

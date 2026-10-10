@@ -1,0 +1,186 @@
+{
+  "round_id": "ROUND_002",
+  "checked_at": "2026-10-08T16:11:44.084888+00:00",
+  "scope": "OFFICIAL_RELEASES_ONLY_NO_PRICE_OR_OUTCOME_ACCESS",
+  "record_count": 16,
+  "verified_count": 16,
+  "checks": [
+    {
+      "record_id": "FED-FOMC-20160921",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09162016",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "FED-FOMC-20170920",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09142017",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "FED-FOMC-20180926",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09132018",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "FED-FOMC-20190918",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09122019",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "FED-FOMC-20200916",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09112020",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "FED-FOMC-20210922",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09142021",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "FED-FOMC-20220921",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09132022",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "FED-FOMC-20230920",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    },
+    {
+      "record_id": "BLS-CPI-09132023",
+      "source_hash_valid": true,
+      "timestamp_valid": true,
+      "released_before_cutoff": true,
+      "reference_period_distinct": true,
+      "original_body_excludes_current_navigation": true,
+      "publication_evidence_present": true,
+      "numeric_evidence_present": true,
+      "display_decoding_replacement": false
+    }
+  ],
+  "qualification": "Archived official release body is a vintage, not an immutable external historical timestamp witness."
+}

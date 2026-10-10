@@ -1,0 +1,1642 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "n_effective": null,
+    "notes": [
+      "The same start contributes six related labels.",
+      "Market/sector/global dependence and overlapping returns remain.",
+      "Merged greedy nonoverlap is an appendix, not an effective-N estimator.",
+      "Conditional provider TR and original-vintage/survivor limitations remain."
+    ]
+  },
+  "RAW OBSERVATIONS": {
+    "feature_eligible_mature_12m": 2087,
+    "new_predictions_or_investment_tests": 0,
+    "prior_immutable_file_hashes": 3366,
+    "revealed_horizon_labels": 13086,
+    "scalar_checks": 196878,
+    "selected_decision_points": 2704
+  },
+  "audit_id": "PHASE3_OUTCOME_PATH_INTEGRITY_QA_V005",
+  "check_counts": {
+    "fixed_mdd": 22644,
+    "fixed_residual": 22644,
+    "fixed_return": 22644,
+    "paired_benchmark_difference": 9114,
+    "paired_benchmark_return": 9114,
+    "primary_gross_return": 13086,
+    "primary_max_adverse_excursion": 13086,
+    "primary_max_drawdown": 13086,
+    "primary_max_favorable_excursion": 13086,
+    "primary_net_return": 13086,
+    "revealed_horizon_labels": 13086,
+    "same_helper_asset_mdd": 22644,
+    "same_helper_asset_return": 22644
+  },
+  "fixed_return_method": "Independent shares/cash entitlement ledger; initial buy cost and terminal stock-only sell cost; primary label and comparable net NAV kept separate.",
+  "hash_and_local_order_checks": "PASS; local hashes/times are not trusted external timestamps or true future-OOS proof.",
+  "merged_nonoverlap_appendix": [
+    {
+      "asset_id": "BIL",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-BIL-2023Q2",
+          "earlier_exit": "2024-07-03",
+          "later": "P3-BIL-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 16,
+      "merged_point_ids": [
+        "P3-BIL-2008Q2",
+        "P3-BIL-2009Q2",
+        "P3-BIL-2010Q2",
+        "P3-BIL-2011Q2",
+        "P3-BIL-2012Q2",
+        "P3-BIL-2013Q3",
+        "P3-BIL-2014Q3",
+        "P3-BIL-2015Q3",
+        "P3-BIL-2016Q3",
+        "P3-BIL-2017Q4",
+        "P3-BIL-2019Q1",
+        "P3-BIL-2020Q1",
+        "P3-BIL-2021Q1",
+        "P3-BIL-2022Q1",
+        "P3-BIL-2023Q2",
+        "P3-BIL-2024Q3"
+      ],
+      "partition_internal_sum": 17,
+      "raw_mature_feature_eligible": 70
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 0,
+      "merged_point_ids": [],
+      "partition_internal_sum": 0,
+      "raw_mature_feature_eligible": 0
+    },
+    {
+      "asset_id": "CSI300",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 0,
+      "merged_point_ids": [],
+      "partition_internal_sum": 0,
+      "raw_mature_feature_eligible": 0
+    },
+    {
+      "asset_id": "DAX",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 25,
+      "merged_point_ids": [
+        "P3-DAX-2000Q4",
+        "P3-DAX-2001Q4",
+        "P3-DAX-2002Q4",
+        "P3-DAX-2003Q4",
+        "P3-DAX-2004Q4",
+        "P3-DAX-2005Q4",
+        "P3-DAX-2006Q4",
+        "P3-DAX-2007Q4",
+        "P3-DAX-2008Q4",
+        "P3-DAX-2009Q4",
+        "P3-DAX-2010Q4",
+        "P3-DAX-2011Q4",
+        "P3-DAX-2012Q4",
+        "P3-DAX-2013Q4",
+        "P3-DAX-2014Q4",
+        "P3-DAX-2015Q4",
+        "P3-DAX-2016Q4",
+        "P3-DAX-2017Q4",
+        "P3-DAX-2019Q1",
+        "P3-DAX-2020Q1",
+        "P3-DAX-2021Q1",
+        "P3-DAX-2022Q1",
+        "P3-DAX-2023Q1",
+        "P3-DAX-2024Q1",
+        "P3-DAX-2025Q1"
+      ],
+      "partition_internal_sum": 25,
+      "raw_mature_feature_eligible": 100
+    },
+    {
+      "asset_id": "DBC",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-DBC-2023Q2",
+          "earlier_exit": "2024-07-03",
+          "later": "P3-DBC-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 17,
+      "merged_point_ids": [
+        "P3-DBC-2007Q1",
+        "P3-DBC-2008Q2",
+        "P3-DBC-2009Q2",
+        "P3-DBC-2010Q2",
+        "P3-DBC-2011Q2",
+        "P3-DBC-2012Q2",
+        "P3-DBC-2013Q3",
+        "P3-DBC-2014Q3",
+        "P3-DBC-2015Q3",
+        "P3-DBC-2016Q3",
+        "P3-DBC-2017Q4",
+        "P3-DBC-2019Q1",
+        "P3-DBC-2020Q1",
+        "P3-DBC-2021Q1",
+        "P3-DBC-2022Q1",
+        "P3-DBC-2023Q2",
+        "P3-DBC-2024Q3"
+      ],
+      "partition_internal_sum": 18,
+      "raw_mature_feature_eligible": 75
+    },
+    {
+      "asset_id": "FTSE",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 24,
+      "merged_point_ids": [
+        "P3-FTSE-2001Q1",
+        "P3-FTSE-2002Q2",
+        "P3-FTSE-2003Q2",
+        "P3-FTSE-2004Q2",
+        "P3-FTSE-2005Q2",
+        "P3-FTSE-2006Q2",
+        "P3-FTSE-2007Q2",
+        "P3-FTSE-2008Q2",
+        "P3-FTSE-2009Q2",
+        "P3-FTSE-2010Q2",
+        "P3-FTSE-2011Q2",
+        "P3-FTSE-2012Q3",
+        "P3-FTSE-2013Q3",
+        "P3-FTSE-2014Q3",
+        "P3-FTSE-2015Q3",
+        "P3-FTSE-2016Q3",
+        "P3-FTSE-2017Q3",
+        "P3-FTSE-2018Q3",
+        "P3-FTSE-2019Q3",
+        "P3-FTSE-2020Q3",
+        "P3-FTSE-2021Q3",
+        "P3-FTSE-2022Q4",
+        "P3-FTSE-2024Q1",
+        "P3-FTSE-2025Q1"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "GLD",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-GLD-2023Q2",
+          "earlier_exit": "2024-07-03",
+          "later": "P3-GLD-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 18,
+      "merged_point_ids": [
+        "P3-GLD-2005Q4",
+        "P3-GLD-2007Q1",
+        "P3-GLD-2008Q2",
+        "P3-GLD-2009Q2",
+        "P3-GLD-2010Q2",
+        "P3-GLD-2011Q2",
+        "P3-GLD-2012Q2",
+        "P3-GLD-2013Q3",
+        "P3-GLD-2014Q3",
+        "P3-GLD-2015Q3",
+        "P3-GLD-2016Q3",
+        "P3-GLD-2017Q4",
+        "P3-GLD-2019Q1",
+        "P3-GLD-2020Q1",
+        "P3-GLD-2021Q1",
+        "P3-GLD-2022Q1",
+        "P3-GLD-2023Q2",
+        "P3-GLD-2024Q3"
+      ],
+      "partition_internal_sum": 19,
+      "raw_mature_feature_eligible": 80
+    },
+    {
+      "asset_id": "HSI",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-HSI-2023Q3",
+          "earlier_exit": "2024-10-14",
+          "later": "P3-HSI-2024Q1",
+          "later_entry": "2024-04-02"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 20,
+      "merged_point_ids": [
+        "P3-HSI-2001Q1",
+        "P3-HSI-2002Q2",
+        "P3-HSI-2003Q3",
+        "P3-HSI-2004Q4",
+        "P3-HSI-2006Q1",
+        "P3-HSI-2007Q2",
+        "P3-HSI-2008Q3",
+        "P3-HSI-2009Q4",
+        "P3-HSI-2011Q1",
+        "P3-HSI-2012Q2",
+        "P3-HSI-2013Q3",
+        "P3-HSI-2014Q4",
+        "P3-HSI-2016Q1",
+        "P3-HSI-2017Q2",
+        "P3-HSI-2018Q3",
+        "P3-HSI-2019Q4",
+        "P3-HSI-2021Q1",
+        "P3-HSI-2022Q2",
+        "P3-HSI-2023Q3",
+        "P3-HSI-2024Q4"
+      ],
+      "partition_internal_sum": 21,
+      "raw_mature_feature_eligible": 98
+    },
+    {
+      "asset_id": "IEF",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-IEF-2023Q1",
+          "earlier_exit": "2024-04-04",
+          "later": "P3-IEF-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 21,
+      "merged_point_ids": [
+        "P3-IEF-2003Q3",
+        "P3-IEF-2004Q3",
+        "P3-IEF-2005Q3",
+        "P3-IEF-2006Q4",
+        "P3-IEF-2008Q1",
+        "P3-IEF-2009Q1",
+        "P3-IEF-2010Q1",
+        "P3-IEF-2011Q1",
+        "P3-IEF-2012Q1",
+        "P3-IEF-2013Q2",
+        "P3-IEF-2014Q2",
+        "P3-IEF-2015Q2",
+        "P3-IEF-2016Q2",
+        "P3-IEF-2017Q2",
+        "P3-IEF-2018Q3",
+        "P3-IEF-2019Q4",
+        "P3-IEF-2020Q4",
+        "P3-IEF-2021Q4",
+        "P3-IEF-2023Q1",
+        "P3-IEF-2024Q2",
+        "P3-IEF-2025Q3"
+      ],
+      "partition_internal_sum": 21,
+      "raw_mature_feature_eligible": 89
+    },
+    {
+      "asset_id": "KBE",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-KBE-2023Q1",
+          "earlier_exit": "2024-04-04",
+          "later": "P3-KBE-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 18,
+      "merged_point_ids": [
+        "P3-KBE-2006Q4",
+        "P3-KBE-2008Q1",
+        "P3-KBE-2009Q1",
+        "P3-KBE-2010Q1",
+        "P3-KBE-2011Q1",
+        "P3-KBE-2012Q1",
+        "P3-KBE-2013Q2",
+        "P3-KBE-2014Q2",
+        "P3-KBE-2015Q2",
+        "P3-KBE-2016Q2",
+        "P3-KBE-2017Q2",
+        "P3-KBE-2018Q3",
+        "P3-KBE-2019Q4",
+        "P3-KBE-2020Q4",
+        "P3-KBE-2021Q4",
+        "P3-KBE-2023Q1",
+        "P3-KBE-2024Q2",
+        "P3-KBE-2025Q3"
+      ],
+      "partition_internal_sum": 18,
+      "raw_mature_feature_eligible": 76
+    },
+    {
+      "asset_id": "N225",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-N225-2023Q3",
+          "earlier_exit": "2024-10-11",
+          "later": "P3-N225-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 20,
+      "merged_point_ids": [
+        "P3-N225-2001Q1",
+        "P3-N225-2002Q2",
+        "P3-N225-2003Q3",
+        "P3-N225-2004Q4",
+        "P3-N225-2006Q1",
+        "P3-N225-2007Q2",
+        "P3-N225-2008Q3",
+        "P3-N225-2009Q4",
+        "P3-N225-2011Q1",
+        "P3-N225-2012Q2",
+        "P3-N225-2013Q3",
+        "P3-N225-2014Q4",
+        "P3-N225-2016Q1",
+        "P3-N225-2017Q2",
+        "P3-N225-2018Q3",
+        "P3-N225-2019Q4",
+        "P3-N225-2021Q1",
+        "P3-N225-2022Q2",
+        "P3-N225-2023Q3",
+        "P3-N225-2024Q4"
+      ],
+      "partition_internal_sum": 21,
+      "raw_mature_feature_eligible": 98
+    },
+    {
+      "asset_id": "QQQ",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-QQQ-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-QQQ-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-QQQ-2001Q1",
+        "P3-QQQ-2002Q2",
+        "P3-QQQ-2003Q2",
+        "P3-QQQ-2004Q2",
+        "P3-QQQ-2005Q2",
+        "P3-QQQ-2006Q2",
+        "P3-QQQ-2007Q3",
+        "P3-QQQ-2008Q3",
+        "P3-QQQ-2009Q3",
+        "P3-QQQ-2010Q3",
+        "P3-QQQ-2011Q3",
+        "P3-QQQ-2012Q4",
+        "P3-QQQ-2013Q4",
+        "P3-QQQ-2014Q4",
+        "P3-QQQ-2015Q4",
+        "P3-QQQ-2016Q4",
+        "P3-QQQ-2018Q1",
+        "P3-QQQ-2019Q2",
+        "P3-QQQ-2020Q2",
+        "P3-QQQ-2021Q2",
+        "P3-QQQ-2022Q2",
+        "P3-QQQ-2023Q3",
+        "P3-QQQ-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "SHY",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SHY-2023Q1",
+          "earlier_exit": "2024-04-04",
+          "later": "P3-SHY-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 21,
+      "merged_point_ids": [
+        "P3-SHY-2003Q3",
+        "P3-SHY-2004Q3",
+        "P3-SHY-2005Q3",
+        "P3-SHY-2006Q4",
+        "P3-SHY-2008Q1",
+        "P3-SHY-2009Q1",
+        "P3-SHY-2010Q1",
+        "P3-SHY-2011Q1",
+        "P3-SHY-2012Q1",
+        "P3-SHY-2013Q2",
+        "P3-SHY-2014Q2",
+        "P3-SHY-2015Q2",
+        "P3-SHY-2016Q2",
+        "P3-SHY-2017Q2",
+        "P3-SHY-2018Q3",
+        "P3-SHY-2019Q4",
+        "P3-SHY-2020Q4",
+        "P3-SHY-2021Q4",
+        "P3-SHY-2023Q1",
+        "P3-SHY-2024Q2",
+        "P3-SHY-2025Q3"
+      ],
+      "partition_internal_sum": 21,
+      "raw_mature_feature_eligible": 89
+    },
+    {
+      "asset_id": "SOXX",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SOXX-2023Q1",
+          "earlier_exit": "2024-04-04",
+          "later": "P3-SOXX-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 22,
+      "merged_point_ids": [
+        "P3-SOXX-2002Q3",
+        "P3-SOXX-2003Q3",
+        "P3-SOXX-2004Q3",
+        "P3-SOXX-2005Q3",
+        "P3-SOXX-2006Q4",
+        "P3-SOXX-2008Q1",
+        "P3-SOXX-2009Q1",
+        "P3-SOXX-2010Q1",
+        "P3-SOXX-2011Q1",
+        "P3-SOXX-2012Q1",
+        "P3-SOXX-2013Q2",
+        "P3-SOXX-2014Q2",
+        "P3-SOXX-2015Q2",
+        "P3-SOXX-2016Q2",
+        "P3-SOXX-2017Q2",
+        "P3-SOXX-2018Q3",
+        "P3-SOXX-2019Q4",
+        "P3-SOXX-2020Q4",
+        "P3-SOXX-2021Q4",
+        "P3-SOXX-2023Q1",
+        "P3-SOXX-2024Q2",
+        "P3-SOXX-2025Q3"
+      ],
+      "partition_internal_sum": 22,
+      "raw_mature_feature_eligible": 93
+    },
+    {
+      "asset_id": "SPY",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SPY-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-SPY-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-SPY-2001Q1",
+        "P3-SPY-2002Q2",
+        "P3-SPY-2003Q2",
+        "P3-SPY-2004Q2",
+        "P3-SPY-2005Q2",
+        "P3-SPY-2006Q2",
+        "P3-SPY-2007Q3",
+        "P3-SPY-2008Q3",
+        "P3-SPY-2009Q3",
+        "P3-SPY-2010Q3",
+        "P3-SPY-2011Q3",
+        "P3-SPY-2012Q4",
+        "P3-SPY-2013Q4",
+        "P3-SPY-2014Q4",
+        "P3-SPY-2015Q4",
+        "P3-SPY-2016Q4",
+        "P3-SPY-2018Q1",
+        "P3-SPY-2019Q2",
+        "P3-SPY-2020Q2",
+        "P3-SPY-2021Q2",
+        "P3-SPY-2022Q2",
+        "P3-SPY-2023Q3",
+        "P3-SPY-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "SSE",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SSE-2023Q3",
+          "earlier_exit": "2024-10-23",
+          "later": "P3-SSE-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 20,
+      "merged_point_ids": [
+        "P3-SSE-2001Q1",
+        "P3-SSE-2002Q2",
+        "P3-SSE-2003Q3",
+        "P3-SSE-2004Q4",
+        "P3-SSE-2006Q1",
+        "P3-SSE-2007Q2",
+        "P3-SSE-2008Q3",
+        "P3-SSE-2009Q4",
+        "P3-SSE-2011Q1",
+        "P3-SSE-2012Q2",
+        "P3-SSE-2013Q3",
+        "P3-SSE-2014Q4",
+        "P3-SSE-2016Q1",
+        "P3-SSE-2017Q2",
+        "P3-SSE-2018Q3",
+        "P3-SSE-2019Q4",
+        "P3-SSE-2021Q1",
+        "P3-SSE-2022Q2",
+        "P3-SSE-2023Q3",
+        "P3-SSE-2024Q4"
+      ],
+      "partition_internal_sum": 21,
+      "raw_mature_feature_eligible": 98
+    },
+    {
+      "asset_id": "STOXX50E",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 16,
+      "merged_point_ids": [
+        "P3-STOXX50E-2008Q2",
+        "P3-STOXX50E-2009Q3",
+        "P3-STOXX50E-2010Q3",
+        "P3-STOXX50E-2011Q3",
+        "P3-STOXX50E-2012Q4",
+        "P3-STOXX50E-2014Q1",
+        "P3-STOXX50E-2015Q2",
+        "P3-STOXX50E-2016Q2",
+        "P3-STOXX50E-2017Q2",
+        "P3-STOXX50E-2018Q3",
+        "P3-STOXX50E-2019Q4",
+        "P3-STOXX50E-2020Q4",
+        "P3-STOXX50E-2021Q4",
+        "P3-STOXX50E-2022Q4",
+        "P3-STOXX50E-2024Q1",
+        "P3-STOXX50E-2025Q2"
+      ],
+      "partition_internal_sum": 16,
+      "raw_mature_feature_eligible": 70
+    },
+    {
+      "asset_id": "TLT",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-TLT-2023Q1",
+          "earlier_exit": "2024-04-04",
+          "later": "P3-TLT-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 21,
+      "merged_point_ids": [
+        "P3-TLT-2003Q3",
+        "P3-TLT-2004Q3",
+        "P3-TLT-2005Q3",
+        "P3-TLT-2006Q4",
+        "P3-TLT-2008Q1",
+        "P3-TLT-2009Q1",
+        "P3-TLT-2010Q1",
+        "P3-TLT-2011Q1",
+        "P3-TLT-2012Q1",
+        "P3-TLT-2013Q2",
+        "P3-TLT-2014Q2",
+        "P3-TLT-2015Q2",
+        "P3-TLT-2016Q2",
+        "P3-TLT-2017Q2",
+        "P3-TLT-2018Q3",
+        "P3-TLT-2019Q4",
+        "P3-TLT-2020Q4",
+        "P3-TLT-2021Q4",
+        "P3-TLT-2023Q1",
+        "P3-TLT-2024Q2",
+        "P3-TLT-2025Q3"
+      ],
+      "partition_internal_sum": 21,
+      "raw_mature_feature_eligible": 89
+    },
+    {
+      "asset_id": "UUP",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-UUP-2023Q1",
+          "earlier_exit": "2024-04-04",
+          "later": "P3-UUP-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 17,
+      "merged_point_ids": [
+        "P3-UUP-2008Q1",
+        "P3-UUP-2009Q1",
+        "P3-UUP-2010Q1",
+        "P3-UUP-2011Q1",
+        "P3-UUP-2012Q1",
+        "P3-UUP-2013Q2",
+        "P3-UUP-2014Q2",
+        "P3-UUP-2015Q2",
+        "P3-UUP-2016Q2",
+        "P3-UUP-2017Q2",
+        "P3-UUP-2018Q3",
+        "P3-UUP-2019Q4",
+        "P3-UUP-2020Q4",
+        "P3-UUP-2021Q4",
+        "P3-UUP-2023Q1",
+        "P3-UUP-2024Q2",
+        "P3-UUP-2025Q3"
+      ],
+      "partition_internal_sum": 17,
+      "raw_mature_feature_eligible": 71
+    },
+    {
+      "asset_id": "XLE",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLE-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-XLE-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-XLE-2001Q1",
+        "P3-XLE-2002Q2",
+        "P3-XLE-2003Q2",
+        "P3-XLE-2004Q2",
+        "P3-XLE-2005Q2",
+        "P3-XLE-2006Q2",
+        "P3-XLE-2007Q3",
+        "P3-XLE-2008Q3",
+        "P3-XLE-2009Q3",
+        "P3-XLE-2010Q3",
+        "P3-XLE-2011Q3",
+        "P3-XLE-2012Q4",
+        "P3-XLE-2013Q4",
+        "P3-XLE-2014Q4",
+        "P3-XLE-2015Q4",
+        "P3-XLE-2016Q4",
+        "P3-XLE-2018Q1",
+        "P3-XLE-2019Q2",
+        "P3-XLE-2020Q2",
+        "P3-XLE-2021Q2",
+        "P3-XLE-2022Q2",
+        "P3-XLE-2023Q3",
+        "P3-XLE-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "XLF",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 0,
+      "merged_point_ids": [],
+      "partition_internal_sum": 0,
+      "raw_mature_feature_eligible": 0
+    },
+    {
+      "asset_id": "XLI",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLI-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-XLI-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-XLI-2001Q1",
+        "P3-XLI-2002Q2",
+        "P3-XLI-2003Q2",
+        "P3-XLI-2004Q2",
+        "P3-XLI-2005Q2",
+        "P3-XLI-2006Q2",
+        "P3-XLI-2007Q3",
+        "P3-XLI-2008Q3",
+        "P3-XLI-2009Q3",
+        "P3-XLI-2010Q3",
+        "P3-XLI-2011Q3",
+        "P3-XLI-2012Q4",
+        "P3-XLI-2013Q4",
+        "P3-XLI-2014Q4",
+        "P3-XLI-2015Q4",
+        "P3-XLI-2016Q4",
+        "P3-XLI-2018Q1",
+        "P3-XLI-2019Q2",
+        "P3-XLI-2020Q2",
+        "P3-XLI-2021Q2",
+        "P3-XLI-2022Q2",
+        "P3-XLI-2023Q3",
+        "P3-XLI-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "XLK",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLK-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-XLK-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-XLK-2001Q1",
+        "P3-XLK-2002Q2",
+        "P3-XLK-2003Q2",
+        "P3-XLK-2004Q2",
+        "P3-XLK-2005Q2",
+        "P3-XLK-2006Q2",
+        "P3-XLK-2007Q3",
+        "P3-XLK-2008Q3",
+        "P3-XLK-2009Q3",
+        "P3-XLK-2010Q3",
+        "P3-XLK-2011Q3",
+        "P3-XLK-2012Q4",
+        "P3-XLK-2013Q4",
+        "P3-XLK-2014Q4",
+        "P3-XLK-2015Q4",
+        "P3-XLK-2016Q4",
+        "P3-XLK-2018Q1",
+        "P3-XLK-2019Q2",
+        "P3-XLK-2020Q2",
+        "P3-XLK-2021Q2",
+        "P3-XLK-2022Q2",
+        "P3-XLK-2023Q3",
+        "P3-XLK-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "XLU",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLU-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-XLU-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-XLU-2001Q1",
+        "P3-XLU-2002Q2",
+        "P3-XLU-2003Q2",
+        "P3-XLU-2004Q2",
+        "P3-XLU-2005Q2",
+        "P3-XLU-2006Q2",
+        "P3-XLU-2007Q3",
+        "P3-XLU-2008Q3",
+        "P3-XLU-2009Q3",
+        "P3-XLU-2010Q3",
+        "P3-XLU-2011Q3",
+        "P3-XLU-2012Q4",
+        "P3-XLU-2013Q4",
+        "P3-XLU-2014Q4",
+        "P3-XLU-2015Q4",
+        "P3-XLU-2016Q4",
+        "P3-XLU-2018Q1",
+        "P3-XLU-2019Q2",
+        "P3-XLU-2020Q2",
+        "P3-XLU-2021Q2",
+        "P3-XLU-2022Q2",
+        "P3-XLU-2023Q3",
+        "P3-XLU-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "XLV",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLV-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-XLV-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-XLV-2001Q1",
+        "P3-XLV-2002Q2",
+        "P3-XLV-2003Q2",
+        "P3-XLV-2004Q2",
+        "P3-XLV-2005Q2",
+        "P3-XLV-2006Q2",
+        "P3-XLV-2007Q3",
+        "P3-XLV-2008Q3",
+        "P3-XLV-2009Q3",
+        "P3-XLV-2010Q3",
+        "P3-XLV-2011Q3",
+        "P3-XLV-2012Q4",
+        "P3-XLV-2013Q4",
+        "P3-XLV-2014Q4",
+        "P3-XLV-2015Q4",
+        "P3-XLV-2016Q4",
+        "P3-XLV-2018Q1",
+        "P3-XLV-2019Q2",
+        "P3-XLV-2020Q2",
+        "P3-XLV-2021Q2",
+        "P3-XLV-2022Q2",
+        "P3-XLV-2023Q3",
+        "P3-XLV-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "XLY",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLY-2023Q3",
+          "earlier_exit": "2024-10-02",
+          "later": "P3-XLY-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "12m",
+      "merged_greedy_nonoverlap": 23,
+      "merged_point_ids": [
+        "P3-XLY-2001Q1",
+        "P3-XLY-2002Q2",
+        "P3-XLY-2003Q2",
+        "P3-XLY-2004Q2",
+        "P3-XLY-2005Q2",
+        "P3-XLY-2006Q2",
+        "P3-XLY-2007Q3",
+        "P3-XLY-2008Q3",
+        "P3-XLY-2009Q3",
+        "P3-XLY-2010Q3",
+        "P3-XLY-2011Q3",
+        "P3-XLY-2012Q4",
+        "P3-XLY-2013Q4",
+        "P3-XLY-2014Q4",
+        "P3-XLY-2015Q4",
+        "P3-XLY-2016Q4",
+        "P3-XLY-2018Q1",
+        "P3-XLY-2019Q2",
+        "P3-XLY-2020Q2",
+        "P3-XLY-2021Q2",
+        "P3-XLY-2022Q2",
+        "P3-XLY-2023Q3",
+        "P3-XLY-2024Q4"
+      ],
+      "partition_internal_sum": 24,
+      "raw_mature_feature_eligible": 99
+    },
+    {
+      "asset_id": "BIL",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-BIL-2023Q1",
+          "earlier_exit": "2025-04-07",
+          "later": "P3-BIL-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 8,
+      "merged_point_ids": [
+        "P3-BIL-2008Q2",
+        "P3-BIL-2010Q2",
+        "P3-BIL-2012Q2",
+        "P3-BIL-2014Q3",
+        "P3-BIL-2016Q3",
+        "P3-BIL-2018Q4",
+        "P3-BIL-2020Q4",
+        "P3-BIL-2023Q1"
+      ],
+      "partition_internal_sum": 9,
+      "raw_mature_feature_eligible": 66
+    },
+    {
+      "asset_id": "CHINEXT",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 0,
+      "merged_point_ids": [],
+      "partition_internal_sum": 0,
+      "raw_mature_feature_eligible": 0
+    },
+    {
+      "asset_id": "CSI300",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 0,
+      "merged_point_ids": [],
+      "partition_internal_sum": 0,
+      "raw_mature_feature_eligible": 0
+    },
+    {
+      "asset_id": "DAX",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-DAX-2023Q1",
+          "earlier_exit": "2025-03-27",
+          "later": "P3-DAX-2024Q1",
+          "later_entry": "2024-04-02"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-DAX-2000Q4",
+        "P3-DAX-2002Q4",
+        "P3-DAX-2004Q4",
+        "P3-DAX-2006Q4",
+        "P3-DAX-2008Q4",
+        "P3-DAX-2010Q4",
+        "P3-DAX-2012Q4",
+        "P3-DAX-2014Q4",
+        "P3-DAX-2016Q4",
+        "P3-DAX-2019Q1",
+        "P3-DAX-2021Q1",
+        "P3-DAX-2023Q1"
+      ],
+      "partition_internal_sum": 13,
+      "raw_mature_feature_eligible": 96
+    },
+    {
+      "asset_id": "DBC",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-DBC-2023Q4",
+          "earlier_exit": "2026-01-06",
+          "later": "P3-DBC-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 9,
+      "merged_point_ids": [
+        "P3-DBC-2007Q1",
+        "P3-DBC-2009Q1",
+        "P3-DBC-2011Q1",
+        "P3-DBC-2013Q2",
+        "P3-DBC-2015Q2",
+        "P3-DBC-2017Q2",
+        "P3-DBC-2019Q3",
+        "P3-DBC-2021Q3",
+        "P3-DBC-2023Q4"
+      ],
+      "partition_internal_sum": 10,
+      "raw_mature_feature_eligible": 71
+    },
+    {
+      "asset_id": "FTSE",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-FTSE-2023Q3",
+          "earlier_exit": "2025-09-29",
+          "later": "P3-FTSE-2024Q1",
+          "later_entry": "2024-04-02"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-FTSE-2001Q1",
+        "P3-FTSE-2003Q1",
+        "P3-FTSE-2005Q1",
+        "P3-FTSE-2007Q1",
+        "P3-FTSE-2009Q1",
+        "P3-FTSE-2011Q1",
+        "P3-FTSE-2013Q2",
+        "P3-FTSE-2015Q2",
+        "P3-FTSE-2017Q2",
+        "P3-FTSE-2019Q2",
+        "P3-FTSE-2021Q2",
+        "P3-FTSE-2023Q3"
+      ],
+      "partition_internal_sum": 13,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "GLD",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-GLD-2022Q3",
+          "earlier_exit": "2024-10-04",
+          "later": "P3-GLD-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 9,
+      "merged_point_ids": [
+        "P3-GLD-2005Q4",
+        "P3-GLD-2008Q1",
+        "P3-GLD-2010Q1",
+        "P3-GLD-2012Q1",
+        "P3-GLD-2014Q2",
+        "P3-GLD-2016Q2",
+        "P3-GLD-2018Q3",
+        "P3-GLD-2020Q3",
+        "P3-GLD-2022Q3"
+      ],
+      "partition_internal_sum": 10,
+      "raw_mature_feature_eligible": 76
+    },
+    {
+      "asset_id": "HSI",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-HSI-2023Q3",
+          "earlier_exit": "2025-10-21",
+          "later": "P3-HSI-2024Q1",
+          "later_entry": "2024-04-02"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 11,
+      "merged_point_ids": [
+        "P3-HSI-2001Q1",
+        "P3-HSI-2003Q2",
+        "P3-HSI-2005Q3",
+        "P3-HSI-2007Q4",
+        "P3-HSI-2010Q1",
+        "P3-HSI-2012Q2",
+        "P3-HSI-2014Q3",
+        "P3-HSI-2016Q4",
+        "P3-HSI-2019Q1",
+        "P3-HSI-2021Q2",
+        "P3-HSI-2023Q3"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 94
+    },
+    {
+      "asset_id": "IEF",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-IEF-2022Q3",
+          "earlier_exit": "2024-10-04",
+          "later": "P3-IEF-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 10,
+      "merged_point_ids": [
+        "P3-IEF-2003Q3",
+        "P3-IEF-2005Q3",
+        "P3-IEF-2007Q4",
+        "P3-IEF-2009Q4",
+        "P3-IEF-2011Q4",
+        "P3-IEF-2014Q1",
+        "P3-IEF-2016Q1",
+        "P3-IEF-2018Q2",
+        "P3-IEF-2020Q3",
+        "P3-IEF-2022Q3"
+      ],
+      "partition_internal_sum": 11,
+      "raw_mature_feature_eligible": 85
+    },
+    {
+      "asset_id": "KBE",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-KBE-2023Q3",
+          "earlier_exit": "2025-10-06",
+          "later": "P3-KBE-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 9,
+      "merged_point_ids": [
+        "P3-KBE-2006Q4",
+        "P3-KBE-2008Q4",
+        "P3-KBE-2010Q4",
+        "P3-KBE-2013Q1",
+        "P3-KBE-2015Q1",
+        "P3-KBE-2017Q1",
+        "P3-KBE-2019Q2",
+        "P3-KBE-2021Q2",
+        "P3-KBE-2023Q3"
+      ],
+      "partition_internal_sum": 10,
+      "raw_mature_feature_eligible": 72
+    },
+    {
+      "asset_id": "N225",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-N225-2023Q3",
+          "earlier_exit": "2025-10-24",
+          "later": "P3-N225-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 11,
+      "merged_point_ids": [
+        "P3-N225-2001Q1",
+        "P3-N225-2003Q2",
+        "P3-N225-2005Q3",
+        "P3-N225-2007Q4",
+        "P3-N225-2010Q1",
+        "P3-N225-2012Q2",
+        "P3-N225-2014Q3",
+        "P3-N225-2016Q4",
+        "P3-N225-2019Q1",
+        "P3-N225-2021Q2",
+        "P3-N225-2023Q3"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 94
+    },
+    {
+      "asset_id": "QQQ",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-QQQ-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-QQQ-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-QQQ-2001Q1",
+        "P3-QQQ-2003Q2",
+        "P3-QQQ-2005Q2",
+        "P3-QQQ-2007Q3",
+        "P3-QQQ-2009Q3",
+        "P3-QQQ-2011Q3",
+        "P3-QQQ-2013Q4",
+        "P3-QQQ-2015Q4",
+        "P3-QQQ-2018Q1",
+        "P3-QQQ-2020Q1",
+        "P3-QQQ-2022Q1",
+        "P3-QQQ-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "SHY",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SHY-2022Q3",
+          "earlier_exit": "2024-10-04",
+          "later": "P3-SHY-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 10,
+      "merged_point_ids": [
+        "P3-SHY-2003Q3",
+        "P3-SHY-2005Q3",
+        "P3-SHY-2007Q4",
+        "P3-SHY-2009Q4",
+        "P3-SHY-2011Q4",
+        "P3-SHY-2014Q1",
+        "P3-SHY-2016Q1",
+        "P3-SHY-2018Q2",
+        "P3-SHY-2020Q3",
+        "P3-SHY-2022Q3"
+      ],
+      "partition_internal_sum": 11,
+      "raw_mature_feature_eligible": 85
+    },
+    {
+      "asset_id": "SOXX",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SOXX-2023Q3",
+          "earlier_exit": "2025-10-06",
+          "later": "P3-SOXX-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 11,
+      "merged_point_ids": [
+        "P3-SOXX-2002Q3",
+        "P3-SOXX-2004Q3",
+        "P3-SOXX-2006Q3",
+        "P3-SOXX-2008Q4",
+        "P3-SOXX-2010Q4",
+        "P3-SOXX-2013Q1",
+        "P3-SOXX-2015Q1",
+        "P3-SOXX-2017Q1",
+        "P3-SOXX-2019Q2",
+        "P3-SOXX-2021Q2",
+        "P3-SOXX-2023Q3"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 89
+    },
+    {
+      "asset_id": "SPY",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SPY-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-SPY-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-SPY-2001Q1",
+        "P3-SPY-2003Q2",
+        "P3-SPY-2005Q2",
+        "P3-SPY-2007Q3",
+        "P3-SPY-2009Q3",
+        "P3-SPY-2011Q3",
+        "P3-SPY-2013Q4",
+        "P3-SPY-2015Q4",
+        "P3-SPY-2018Q1",
+        "P3-SPY-2020Q1",
+        "P3-SPY-2022Q1",
+        "P3-SPY-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "SSE",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-SSE-2023Q3",
+          "earlier_exit": "2025-11-05",
+          "later": "P3-SSE-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 11,
+      "merged_point_ids": [
+        "P3-SSE-2001Q1",
+        "P3-SSE-2003Q2",
+        "P3-SSE-2005Q3",
+        "P3-SSE-2007Q4",
+        "P3-SSE-2010Q1",
+        "P3-SSE-2012Q2",
+        "P3-SSE-2014Q3",
+        "P3-SSE-2016Q4",
+        "P3-SSE-2019Q1",
+        "P3-SSE-2021Q2",
+        "P3-SSE-2023Q3"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 94
+    },
+    {
+      "asset_id": "STOXX50E",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-STOXX50E-2023Q3",
+          "earlier_exit": "2025-10-07",
+          "later": "P3-STOXX50E-2024Q1",
+          "later_entry": "2024-04-02"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 8,
+      "merged_point_ids": [
+        "P3-STOXX50E-2008Q2",
+        "P3-STOXX50E-2010Q3",
+        "P3-STOXX50E-2012Q4",
+        "P3-STOXX50E-2015Q1",
+        "P3-STOXX50E-2017Q1",
+        "P3-STOXX50E-2019Q2",
+        "P3-STOXX50E-2021Q3",
+        "P3-STOXX50E-2023Q3"
+      ],
+      "partition_internal_sum": 9,
+      "raw_mature_feature_eligible": 66
+    },
+    {
+      "asset_id": "TLT",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-TLT-2022Q3",
+          "earlier_exit": "2024-10-04",
+          "later": "P3-TLT-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 10,
+      "merged_point_ids": [
+        "P3-TLT-2003Q3",
+        "P3-TLT-2005Q3",
+        "P3-TLT-2007Q4",
+        "P3-TLT-2009Q4",
+        "P3-TLT-2011Q4",
+        "P3-TLT-2014Q1",
+        "P3-TLT-2016Q1",
+        "P3-TLT-2018Q2",
+        "P3-TLT-2020Q3",
+        "P3-TLT-2022Q3"
+      ],
+      "partition_internal_sum": 11,
+      "raw_mature_feature_eligible": 85
+    },
+    {
+      "asset_id": "UUP",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-UUP-2022Q3",
+          "earlier_exit": "2024-10-04",
+          "later": "P3-UUP-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 8,
+      "merged_point_ids": [
+        "P3-UUP-2008Q1",
+        "P3-UUP-2010Q1",
+        "P3-UUP-2012Q1",
+        "P3-UUP-2014Q2",
+        "P3-UUP-2016Q2",
+        "P3-UUP-2018Q3",
+        "P3-UUP-2020Q3",
+        "P3-UUP-2022Q3"
+      ],
+      "partition_internal_sum": 9,
+      "raw_mature_feature_eligible": 67
+    },
+    {
+      "asset_id": "XLE",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLE-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-XLE-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-XLE-2001Q1",
+        "P3-XLE-2003Q2",
+        "P3-XLE-2005Q2",
+        "P3-XLE-2007Q3",
+        "P3-XLE-2009Q3",
+        "P3-XLE-2011Q3",
+        "P3-XLE-2013Q4",
+        "P3-XLE-2015Q4",
+        "P3-XLE-2018Q1",
+        "P3-XLE-2020Q1",
+        "P3-XLE-2022Q1",
+        "P3-XLE-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "XLF",
+      "cross_partition_overlap_pairs": [],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 0,
+      "merged_point_ids": [],
+      "partition_internal_sum": 0,
+      "raw_mature_feature_eligible": 0
+    },
+    {
+      "asset_id": "XLI",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLI-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-XLI-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-XLI-2001Q1",
+        "P3-XLI-2003Q2",
+        "P3-XLI-2005Q2",
+        "P3-XLI-2007Q3",
+        "P3-XLI-2009Q3",
+        "P3-XLI-2011Q3",
+        "P3-XLI-2013Q4",
+        "P3-XLI-2015Q4",
+        "P3-XLI-2018Q1",
+        "P3-XLI-2020Q1",
+        "P3-XLI-2022Q1",
+        "P3-XLI-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "XLK",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLK-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-XLK-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-XLK-2001Q1",
+        "P3-XLK-2003Q2",
+        "P3-XLK-2005Q2",
+        "P3-XLK-2007Q3",
+        "P3-XLK-2009Q3",
+        "P3-XLK-2011Q3",
+        "P3-XLK-2013Q4",
+        "P3-XLK-2015Q4",
+        "P3-XLK-2018Q1",
+        "P3-XLK-2020Q1",
+        "P3-XLK-2022Q1",
+        "P3-XLK-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "XLU",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLU-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-XLU-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-XLU-2001Q1",
+        "P3-XLU-2003Q2",
+        "P3-XLU-2005Q2",
+        "P3-XLU-2007Q3",
+        "P3-XLU-2009Q3",
+        "P3-XLU-2011Q3",
+        "P3-XLU-2013Q4",
+        "P3-XLU-2015Q4",
+        "P3-XLU-2018Q1",
+        "P3-XLU-2020Q1",
+        "P3-XLU-2022Q1",
+        "P3-XLU-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "XLV",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLV-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-XLV-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-XLV-2001Q1",
+        "P3-XLV-2003Q2",
+        "P3-XLV-2005Q2",
+        "P3-XLV-2007Q3",
+        "P3-XLV-2009Q3",
+        "P3-XLV-2011Q3",
+        "P3-XLV-2013Q4",
+        "P3-XLV-2015Q4",
+        "P3-XLV-2018Q1",
+        "P3-XLV-2020Q1",
+        "P3-XLV-2022Q1",
+        "P3-XLV-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    },
+    {
+      "asset_id": "XLY",
+      "cross_partition_overlap_pairs": [
+        {
+          "earlier": "P3-XLY-2022Q1",
+          "earlier_exit": "2024-04-05",
+          "later": "P3-XLY-2024Q1",
+          "later_entry": "2024-04-01"
+        }
+      ],
+      "effective_independent_n": null,
+      "horizon": "24m",
+      "merged_greedy_nonoverlap": 12,
+      "merged_point_ids": [
+        "P3-XLY-2001Q1",
+        "P3-XLY-2003Q2",
+        "P3-XLY-2005Q2",
+        "P3-XLY-2007Q3",
+        "P3-XLY-2009Q3",
+        "P3-XLY-2011Q3",
+        "P3-XLY-2013Q4",
+        "P3-XLY-2015Q4",
+        "P3-XLY-2018Q1",
+        "P3-XLY-2020Q1",
+        "P3-XLY-2022Q1",
+        "P3-XLY-2024Q2"
+      ],
+      "partition_internal_sum": 12,
+      "raw_mature_feature_eligible": 95
+    }
+  ],
+  "numeric_errors": [],
+  "prior_immutable_changed": [],
+  "reviewed_at": "2026-10-09T06:03:42.973193+00:00",
+  "scope": "Root-authorized independent future-label QA after both partitions locked; no research artifact modified, no rule or forecast changed.",
+  "source_hashes": {
+    "allA": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+    "audit_code": "c98b8475be73bde9db86972f4e2805595cc242b101b114e9f5c656563c4995a5",
+    "development_labels": "5e3e07c0f95fa374e4146545f21faf6950d5c496bf1c7cf34a8825f2d357cd37",
+    "holdout_labels": "a3dee7c7c4d83eb1bd0dd845925d532c39080436616f52f14b4ee6b1a8c6bcbd"
+  },
+  "status": "PASS"
+}

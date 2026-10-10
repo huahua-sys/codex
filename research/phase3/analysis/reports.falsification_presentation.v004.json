@@ -1,0 +1,28 @@
+{
+  "mode": "PRESENTATION_OF_ALREADY_LOCKED_COUNTEREXAMPLES_NO_NEW_TESTS",
+  "n_effective": null,
+  "new_decisions": 0,
+  "new_forecasts": 0,
+  "new_investment_principles": 0,
+  "new_report_sha256": {
+    "CROSS_TIME_VALIDATION.md": "a3ff768bf8cab58e5d9e5433401c32b7e3e2f0ae9573b50fd793cf3f8f4bc3b5",
+    "EFFECTIVE_SAMPLE_REPORT.md": "d36d628b5875dae8daf89d7e5f1c47844c1c35c1845d721373887c238740d139",
+    "EXPANDED_PANEL_REPORT.md": "e1264ffe9aedbef995679bc95b7eb3bd5c24544bef4ea995da2ccc7fd09f9064",
+    "MULTIPLE_TESTING_LEDGER.md": "b325c00dde2ed2707c3cc6c864d23c80af748e23196b9f5f07cf91384a760796"
+  },
+  "old_report_sha256": {
+    "CROSS_TIME_VALIDATION.md": "5c5effb6e492aba189ddd0c887fb4db23016ea883b45ec8cd6f2b19014e18b98",
+    "EFFECTIVE_SAMPLE_REPORT.md": "2c90aa18be507791327c8c6b37099e2d0816bab0a0349bc1085b43f36e867871",
+    "EXPANDED_PANEL_REPORT.md": "453d4775c78e746246c5a89a4985f8f1f8c2a60b5b3be2ed41409221a5b01c88",
+    "MULTIPLE_TESTING_LEDGER.md": "dfa1384e06132bd4d77e0f0e8f32e6bee5f84d742107be7e188a39c9ccc57820"
+  },
+  "operative_framework_changed": false,
+  "raw_observations": 2704,
+  "recorded_followup_comparison_slots": 194,
+  "sources_sha256": {
+    "research/phase3/audit/OUTCOME_PATH_INTEGRITY_QA.v005.json": "647de3ce9afc649a9bf81b9704f7873812a658844b09ba607bf2c8c887e72093",
+    "research/phase3/matched/RESULTS.v001.json": "30aafe54a6adf0d4210d70077edea3f1e96f8da3b6fd48f184e1a3fe654f26c3",
+    "research/phase3/vol_falsification/RESULTS.v001.json": "f9e13dd229bc5b08850c4c3e633496750c053c9054125704804f63ac2a38ca82"
+  },
+  "written_at": "2026-10-09T15:31:15.235565+00:00"
+}

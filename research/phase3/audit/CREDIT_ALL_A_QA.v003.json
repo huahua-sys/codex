@@ -1,0 +1,1307 @@
+{
+  "EFFECTIVE SAMPLE ASSESSMENT": {
+    "calendar_quarter_grid": 104,
+    "calendar_year_grid": 26,
+    "n_effective": null,
+    "notes": [
+      "2704 cells are not independent experiments.",
+      "104 reports/85 available releases are not investment samples; serial banking survey/cycle dependence.",
+      "Same-quarter global/industry/market correlation and overlapping future horizons remain.",
+      "StageA isolation is logical reconstruction, not cognitive/originalvendor blindness."
+    ]
+  },
+  "RAW OBSERVATIONS": {
+    "count_arithmetic_checks": 104,
+    "credit_context_panel_points": 1566,
+    "credit_original_reports": 104,
+    "credit_verified_publication_date": 85,
+    "date_only_conservative_upperbound": 7,
+    "deep_selected": 273,
+    "derived_credit_text_pinned": 98,
+    "official_cover_minute": 78,
+    "original_or_source_linked_text_category_checks_all_match": 104,
+    "panel_selected": 2704,
+    "primary_credit_bytes_pinned": 293,
+    "real_outcome_labels_read": 0,
+    "registered_source_code_hashes_checked": 467,
+    "stage_a_feature_eligible": 2113,
+    "status_counts": {
+      "EXCLUDED_INSTRUMENT": 104,
+      "FEATURES_AVAILABLE": 2113,
+      "INSUFFICIENT_HISTORY": 92,
+      "NO_SOURCE": 395
+    },
+    "unknown_publication_quarantined": 19
+  },
+  "all104_numeric_values_and_available_at_unchanged_from_credit_v001": true,
+  "all2704_cutoff_and_missingness_checks_pass": true,
+  "all_a_sha256": "5f19cd49b5f13346caafee18008e7f1f5bedd35b703051ff5e22f41d4d37fc27",
+  "all_registered_hashes_pass": true,
+  "audit_id": "PHASE3_CREDIT_AND_ALL_A_QA_V003",
+  "credit_v002_sha256": "7a9ba70837a5f75f480c61ba56d03a2520ec2be2a5634849843227ad12fbce2e",
+  "future_label_files_at_review": "BOTH_ABSENT",
+  "maximum_known_credit_age_days": 146.41666666666666,
+  "panel_code_sha256": "c77528294f35da77b3da9b726947322b02deaed2139afce372773775b9dfa8ea",
+  "publication_time_conversions_pass": true,
+  "reviewed_at": "2026-10-09T05:49:43.697892+00:00",
+  "scope": "AllStageA/credit evidence/source/code hashes only. No future labels computed or read. Credit release original contents are input facts, not investment outcome labels.",
+  "source_pit_limits": [
+    "Today-hosted original release archives may silently change; hashes preserve this retrieval only.",
+    "Derived text is separately typed and pinned, not original publication evidence.",
+    "7date-only conservative upper bounds are not actual release minute timestamps.",
+    "19 unknown publication records remain quarantined even though numeric tables exist.",
+    "Source-text matching is independent HTML visible-text parsing, or separately pinned derivative PDF text; it is not a second independent data provider."
+  ],
+  "source_text_category_checks": [
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2000_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2000_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2000_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2000_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2001_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2001_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2001_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2001_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2002_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2002_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2002_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2002_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2003_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2003_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2003_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2003_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2004_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2004_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2004_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "DERIVED_PDF_TEXT_LINKED_TO_PINNED_PRIMARY_BYTES",
+      "record_id": "SLOOS_ORIGINAL_2004_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2005_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2005_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2005_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2005_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2006_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2006_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2006_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2006_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2007_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2007_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2007_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2007_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2008_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2008_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2008_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2008_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2009_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2009_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2009_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2009_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2010_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2010_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2010_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2010_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2011_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2011_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2011_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2011_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2012_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2012_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2012_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2012_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2013_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2013_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2013_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2013_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2014_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2014_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2014_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2014_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2015_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2015_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2015_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2015_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2016_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2016_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2016_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2016_11"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2017_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2017_05"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2017_08"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2017_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2018_02"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2018_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2018_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2018_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2019_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2019_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2019_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2019_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2020_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2020_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2020_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2020_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2021_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2021_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2021_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2021_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2022_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2022_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2022_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2022_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2023_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2023_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2023_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2023_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2024_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2024_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2024_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2024_10"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2025_01"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2025_04"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2025_07"
+    },
+    {
+      "all_five_match": true,
+      "category_count_matches": {
+        "Eased considerably": true,
+        "Eased somewhat": true,
+        "Remained basically unchanged": true,
+        "Tightened considerably": true,
+        "Tightened somewhat": true
+      },
+      "mode": "INDEPENDENT_HTML_VISIBLE_TEXT",
+      "record_id": "SLOOS_ORIGINAL_2025_10"
+    }
+  ],
+  "status": "PASS_ALL_A_ALLOW_ROOT_DEVELOPMENT_REVEAL_WITH_RECORDED_SOURCE_TEXT_LIMITS",
+  "unresolved_text_match_cases": []
+}

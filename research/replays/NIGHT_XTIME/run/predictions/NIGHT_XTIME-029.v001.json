@@ -1,0 +1,964 @@
+{
+  "asset_id": "N225",
+  "biggest_unknown": "缺少盈利、估值、信用初值和可验证政策执行；趋势延续与反转均可能发生。",
+  "cash_alternative_return": 0.0,
+  "cash_alternative_status": "ASSUMPTION_NOT_OBSERVED_CASH_RETURN",
+  "confidence": "D",
+  "context_state": {
+    "Breadth": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Capital Actions": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Credit": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Earnings": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Industry": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Inflation": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Liquidity": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Macro": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "News": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Policy": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Rates": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Sentiment": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    },
+    "Trend": {
+      "evidence_record_ids": [
+        "YAHOO_CHART_N225:PRICE:2014-09-30",
+        "YAHOO_CHART_N225:PRICE:2014-06-30",
+        "YAHOO_CHART_N225:PRICE:2013-09-18"
+      ],
+      "status": "KNOWN_AT_T",
+      "value": "POSITIVE_TREND"
+    },
+    "Valuation": {
+      "evidence_record_ids": [],
+      "status": "DATA_REQUIRED",
+      "value": null
+    }
+  },
+  "cost_bps_roundtrip": 50.0,
+  "created_at": "2026-10-08T16:12:57.053325+00:00",
+  "currency": "JPY",
+  "cutoff_at": "2014-09-30T23:59:59+00:00",
+  "cutoff_timezone": "UTC",
+  "decision": "HYPOTHETICAL_LONG",
+  "direction": "Bull",
+  "episode_id": "NIGHT_XTIME-029",
+  "execution_rule": "first available session OPEN strictly after cutoff; exit OPEN after N complete sessions; N=5/21/63/126/252/504; no interim rebalance",
+  "exposure": 1,
+  "features": {
+    "actions_used": [],
+    "annual_volatility_252": 0.18927971712308608,
+    "evidence_record_ids": [
+      "YAHOO_CHART_N225:PRICE:2014-09-30",
+      "YAHOO_CHART_N225:PRICE:2014-06-30",
+      "YAHOO_CHART_N225:PRICE:2013-09-18"
+    ],
+    "formula": "known-action wealth ratios; sample stdev(last252 daily simple returns)*sqrt(252)",
+    "price_rows": 3126,
+    "r252": 0.1150029464457818,
+    "r63": 0.06670711497302273
+  },
+  "fitted": false,
+  "frozen_rule": {
+    "baseline_interpretation": "constant fair-coin and unfitted equity-upward-prior; no selection by outcome",
+    "cash_return_default": 0.0,
+    "cash_status": "ASSUMPTION_NOT_OBSERVED_CASH_RETURN",
+    "confidence": "D",
+    "cost_bps_roundtrip_default": 50.0,
+    "date_asset_specific_logic": false,
+    "features": [
+      "known_action_total_return_63_sessions",
+      "known_action_total_return_252_sessions",
+      "past_252_session_annualized_volatility"
+    ],
+    "fitted": false,
+    "horizon_sessions": {
+      "12m": 252,
+      "1m": 21,
+      "1w": 5,
+      "24m": 504,
+      "3m": 63,
+      "6m": 126
+    },
+    "id": "R002-TREND-PRIOR-v001",
+    "minimum_past_returns": 252,
+    "mixed": {
+      "exposure": 0,
+      "p_up": 0.5,
+      "p_up_range": [
+        0.35,
+        0.65
+      ],
+      "scenarios": [
+        0.3,
+        0.4,
+        0.3
+      ]
+    },
+    "model_payoff_vol_multiplier": 1.0,
+    "negative": {
+      "exposure": 0,
+      "p_up": 0.4,
+      "p_up_range": [
+        0.25,
+        0.55
+      ],
+      "scenarios": [
+        0.4,
+        0.4,
+        0.2
+      ]
+    },
+    "parameter_searches": 0,
+    "positive": {
+      "exposure": 1,
+      "p_up": 0.6,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "scenarios": [
+        0.2,
+        0.4,
+        0.4
+      ]
+    },
+    "primary_horizon": "12m",
+    "probability_baselines": [
+      0.5,
+      0.6
+    ],
+    "scenario_band_vol_multiplier": 0.5,
+    "scenario_probability_half_width": 0.15
+  },
+  "fx_return": null,
+  "horizons": {
+    "12m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.03785594342461722,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.09463985856154304,
+      "scenario_threshold_upper": 0.09463985856154304,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.18927971712308608,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.18927971712308608,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 252,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "1m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.010928069563314997,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.02732017390828749,
+      "scenario_threshold_upper": 0.02732017390828749,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.05464034781657498,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.05464034781657498,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 21,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "1w": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.005332351942012876,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.013330879855032188,
+      "scenario_threshold_upper": 0.013330879855032188,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.026661759710064376,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.026661759710064376,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 5,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "24m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.05353638860752226,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.13384097151880564,
+      "scenario_threshold_upper": 0.13384097151880564,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.2676819430376113,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.2676819430376113,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 504,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "3m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.01892797171230861,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.04731992928077152,
+      "scenario_threshold_upper": 0.04731992928077152,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.09463985856154304,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.09463985856154304,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 63,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    },
+    "6m": {
+      "direction": "Bull",
+      "expected_value_status": "UNFITTED_SCENARIO_ASSUMPTION_NOT_ESTIMATED_EXPECTED_RETURN",
+      "model_expected_value": 0.02676819430376113,
+      "p_up_range": [
+        0.45,
+        0.75
+      ],
+      "p_up_scoring_probability": 0.6,
+      "payoff_assumption": "Bear=-past annualvol*sqrt(N/252);Base=0;Bull=+same; not tail bounds",
+      "risk": "volatility-scale assumption; actual losses can exceed scenario payoff; valuation/credit/earnings unobserved",
+      "scenario_definition": "Bear net<-band; Base -band<=net<=band; Bull net>band; net includes frozen cost assumption",
+      "scenario_threshold_lower": -0.06692048575940282,
+      "scenario_threshold_upper": 0.06692048575940282,
+      "scenarios": [
+        {
+          "assumed_net_payoff": -0.13384097151880564,
+          "probability_range": [
+            0.05000000000000002,
+            0.35
+          ],
+          "scenario": "Bear",
+          "scoring_probability": 0.2
+        },
+        {
+          "assumed_net_payoff": 0.0,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Base",
+          "scoring_probability": 0.4
+        },
+        {
+          "assumed_net_payoff": 0.13384097151880564,
+          "probability_range": [
+            0.25,
+            0.55
+          ],
+          "scenario": "Bull",
+          "scoring_probability": 0.4
+        }
+      ],
+      "session_count": 126,
+      "up_event": "net outcome > 0 using frozen model costs; index label is hypothetical price return, not investable total return"
+    }
+  },
+  "implementation_sha256": {
+    "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+    "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+    "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+  },
+  "information_set": "KNOWN_AT_T_ONLY",
+  "input_manifest_sha256": "4ff3e45280535ec457155c4c4919abffd2a3cfc0654c4e92fe13a2ed50b4cabf",
+  "input_quality": {
+    "action_coverage": "NOT_APPLICABLE_PRICE_INDEX",
+    "action_coverage_evidence": "Yahoo events=div,splits requested for entire price interval; complete means provider-reported coverage, not independent exchange verification",
+    "adjclose_used": false,
+    "asset_id": "N225",
+    "availability_convention": "Following local calendar day 00:00 after conservative session-close bound; inferred market observability, not archived server timestamp",
+    "currency": "JPY",
+    "dividend_basis": "Yahoo split-normalized cash dividend multiplied by subsequent split factors",
+    "dividend_count": 0,
+    "execution_eligibility": "NONTRADEABLE_INDEX_BENCHMARK_ONLY",
+    "first_date": "2002-01-04",
+    "historical_publication_timestamps_verified": false,
+    "inception_date_status": "SECONDARY_REFERENCE_NOT_HISTORICAL_LISTING_ARCHIVE",
+    "inception_reference_date": "1950-09-07",
+    "instrument_type": "INDEX",
+    "last_date": "2026-10-07",
+    "latest_metadata_used_as_historical_feature": false,
+    "limitations": [
+      "No original historical vendor snapshot",
+      "No dividend payment dates; exdate reinvestment convention only",
+      "No security-level constituents or breadth",
+      "No historical costs, bid-ask, halts or FX execution",
+      "Index level is price return only and not a directly executable investment"
+    ],
+    "market": "JP",
+    "no_splits_in_analysis_interval_confirmed": true,
+    "original_vintage_status": "NOT_ARCHIVED_PROVIDER_CORRECTIONS_POSSIBLE",
+    "point_in_time_quality": "OBSERVED_DAILY_PRICES_CURRENT_QUOTE_VINTAGE_NOT_ARCHIVED_VINTAGE",
+    "price_basis": "UNADJUSTED",
+    "price_reconstruction": "Multiply each pre-split Yahoo OHLC by product of later split ratios; do not use adjclose.",
+    "price_reconstruction_verified_against_exchange_archive": false,
+    "raw_path": "data/raw/round_002/market/N225.yahoo.raw.json",
+    "rejected_rows": [
+      {
+        "date": "2002-01-14",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-02-11",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-03-21",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-04-29",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-05-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-05-06",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-09-16",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-09-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-10-14",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-11-04",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-12-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2002-12-31",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-01-01",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-01-02",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-01-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-01-13",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-02-11",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-03-21",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-04-29",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-05-05",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-07-21",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-09-15",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-09-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-10-13",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-11-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-11-24",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-12-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2003-12-31",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-01-01",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-01-02",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-01-12",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-02-11",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-04-29",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-05-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-05-04",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-05-05",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-07-19",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-09-20",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-09-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-10-11",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-11-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-11-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-12-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2004-12-31",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-01-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-01-10",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-02-11",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-03-21",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-04-29",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-05-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-05-04",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-05-05",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-07-18",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-09-19",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-09-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-10-10",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-11-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-11-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2005-12-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-01-02",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-01-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-01-09",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-03-21",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-05-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-05-04",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-05-05",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-07-17",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-09-18",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-10-09",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-11-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2006-11-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2009-09-21",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2017-07-17",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2017-08-11",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2017-09-18",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2017-10-09",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2017-11-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2017-11-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-01-01",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-01-02",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-01-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-01-08",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-02-12",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-03-21",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-04-30",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-05-03",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-05-04",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-09-17",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-09-24",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-10-08",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-11-23",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-12-24",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2018-12-31",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      },
+      {
+        "date": "2026-10-08",
+        "reason": "MISSING_OR_NONPOSITIVE_OHLC"
+      }
+    ],
+    "response_headers": {
+      "content-type": "application/json;charset=utf-8",
+      "date": "Thu, 08 Oct 2026 16:06:45 GMT"
+    },
+    "retrieved_at": "2026-10-08T16:06:46.786294+00:00",
+    "return_basis": "PRICE_ONLY",
+    "revision_risk": "Provider correction/backfill possible; original vintages unavailable; source bytes now frozen",
+    "row_count": 6060,
+    "session_clock_method": "ZoneInfo normal-session clock. Close is conservative full-day bound on half days; no complete historical halt/calendar audit.",
+    "source_id": "YAHOO_CHART_N225",
+    "source_price_basis": "SPLIT_NORMALIZED",
+    "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246",
+    "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?period1=1009843200&period2=1791504000&interval=1d&events=div%2Csplits",
+    "split_action_validation_required": false,
+    "split_count": 0,
+    "survivorship_risk": "Fixed currently surviving ETF/index sample; no market-universe inference or delisted-asset coverage",
+    "symbol": "^N225",
+    "timezone": "Asia/Tokyo",
+    "total_return_eligible": false,
+    "tradability": "NONTRADABLE_INDEX",
+    "underlying": "Nikkei 225"
+  },
+  "input_sha256": "5fb23374915e3de831b6b0ad6e444dde3130f25031f7d75da1378feb646d3226",
+  "kill_thesis": [
+    "每周复核；若最近63或252个完整已公开时段总回报不再同时为正，则原趋势买入理由失效。",
+    "若数据来源、公司行动、时间证据或可交易性被否定，则暂停，不以未来结果重写原判断。"
+  ],
+  "kill_thesis_execution": "DIAGNOSTIC_ONLY_THIS_ROUND_FIXED_HOLDING_NO_DYNAMIC_EXIT_LABEL",
+  "market": "JP",
+  "missing_features_not_imputed": true,
+  "model_memory_contamination": "NO_PER_EPISODE_LLM_JUDGMENT_RULE_DESIGNED_IN_2026_WITH_PRIOR_KNOWLEDGE_POSSIBLE",
+  "negative_evidence": [
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "估值/盈利/信用缺失；不能排除价格已反映预期或状态改变。",
+      "type": "LIMITATION_NOT_OBSERVED_NEGATIVE_SIGNAL"
+    }
+  ],
+  "next_review_at": "2014-10-07T23:59:59+00:00",
+  "positive_evidence": [
+    {
+      "evidence_record_ids": [
+        "YAHOO_CHART_N225:PRICE:2014-06-30",
+        "YAHOO_CHART_N225:PRICE:2014-09-30"
+      ],
+      "statement": "63-session历史价格回报=0.066707",
+      "type": "OBSERVED_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [
+        "YAHOO_CHART_N225:PRICE:2013-09-18",
+        "YAHOO_CHART_N225:PRICE:2014-09-30"
+      ],
+      "statement": "252-session历史价格回报=0.115003",
+      "type": "OBSERVED_SIGNAL"
+    },
+    {
+      "evidence_record_ids": [],
+      "statement": "可靠正面证据不足；不得用故事补足。",
+      "type": "NO_ADDITIONAL_POSITIVE_EVIDENCE"
+    }
+  ],
+  "preregistration_sha256": "1353f8ae9fc0136e11d966ac47821858cf7451eedfebf78aea0a6c3f6f40592f",
+  "price_in_assessment": "UNKNOWN: only lagged market behavior observed; no historical valuation/expectation source, cannot identify expectations already reflected",
+  "record_type": "prediction_ex_ante",
+  "regime": "POSITIVE_TREND",
+  "replay_type": "EXPLORATORY_RULE_BASED_MASKED_REPLAY",
+  "reporting_currency": "JPY",
+  "research_stage": "EXPLORATORY",
+  "return_basis": "PRICE_ONLY",
+  "round_id": "ROUND_002",
+  "rule_id": "R002-TREND-PRIOR-v001",
+  "rule_sha256": "3f45039c4376334501be3e177bab113cc65d7f4b3296f9c6b2e82e66a57b5729",
+  "selection_sha256": "a4f568529322e34d68a19efad469c84e798eaad47f87edf6e5358190e76801d3",
+  "separation": "SEPARATION_LOGICAL_ONLY",
+  "status": "EX_ANTE_LOCKED",
+  "tradability": "NONTRADABLE_INDEX"
+}

@@ -1,0 +1,7 @@
+{
+  "recorded_at": "2026-10-09T15:38:59.168062+00:00",
+  "status": "UNACTIVATED_ENGINEERING_BETA_SUPERSEDED",
+  "reason": "No real captures. v002 corrects feature endpoints and held-session benchmark semantics; v001 files/locks unchanged.",
+  "active_script": "scripts/phase3_forward_v002.py",
+  "new_forecasts": 0
+}

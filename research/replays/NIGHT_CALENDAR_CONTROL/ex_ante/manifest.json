@@ -1,0 +1,308 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "NIGHT_CALENDAR_CONTROL-001": {
+      "cutoff_at": "2005-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-001.input.v001.json",
+      "sha256": "f7cb669dff64e6037aedfb9830be570adaa25634820c9399b457e385b927dd6f"
+    },
+    "NIGHT_CALENDAR_CONTROL-002": {
+      "cutoff_at": "2005-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-002.input.v001.json",
+      "sha256": "9e1e10d85bb1f130a5b0e61cad185a6c9dc0e628caa0faea0e677fa166a05dd0"
+    },
+    "NIGHT_CALENDAR_CONTROL-003": {
+      "cutoff_at": "2005-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-003.input.v001.json",
+      "sha256": "f2fed4e4ce671196a94d9abfb8009834b8e7ebb9abf7acfabb38b91f8cb160cf"
+    },
+    "NIGHT_CALENDAR_CONTROL-004": {
+      "cutoff_at": "2006-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-004.input.v001.json",
+      "sha256": "c567851ab1d83d65a6c07ffe0fe6a74d20042afbb7f2df7157d97d497b1e9474"
+    },
+    "NIGHT_CALENDAR_CONTROL-005": {
+      "cutoff_at": "2006-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-005.input.v001.json",
+      "sha256": "bae227b96a434603dc6c3e4b9643d240d9d050d24e7131b4edca84e5e1c6a442"
+    },
+    "NIGHT_CALENDAR_CONTROL-006": {
+      "cutoff_at": "2006-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-006.input.v001.json",
+      "sha256": "0d4a583abcc7b49283e8bc0ff1620eb3adcad2e460d536486fd002a02db04ddf"
+    },
+    "NIGHT_CALENDAR_CONTROL-007": {
+      "cutoff_at": "2007-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-007.input.v001.json",
+      "sha256": "867823f4a7e3f5e9c6b3e11275c47b48e62cc71c7f98b732284c8eadf0b977af"
+    },
+    "NIGHT_CALENDAR_CONTROL-008": {
+      "cutoff_at": "2007-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-008.input.v001.json",
+      "sha256": "a3fc049c504a8049842e6cbe30845d34a01fb5b2a58c24485a5a3278fbb4d8e9"
+    },
+    "NIGHT_CALENDAR_CONTROL-009": {
+      "cutoff_at": "2007-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-009.input.v001.json",
+      "sha256": "ee3e5bd0f0a18683694f84ac6c2c2f0781b44a2956c86b878f7c4421eca4756b"
+    },
+    "NIGHT_CALENDAR_CONTROL-010": {
+      "cutoff_at": "2008-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-010.input.v001.json",
+      "sha256": "440ae35a0a9b5ce8cb3f15a7f998b57eb2dfc51231f36cb1357df3f5c2360b35"
+    },
+    "NIGHT_CALENDAR_CONTROL-011": {
+      "cutoff_at": "2008-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-011.input.v001.json",
+      "sha256": "07543f584418a5b33fd3ecb58e7881be53e13cd10590dc69dbb1a3a287c1ba26"
+    },
+    "NIGHT_CALENDAR_CONTROL-012": {
+      "cutoff_at": "2008-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-012.input.v001.json",
+      "sha256": "51b3950b969562546500d355995d2f52780e7d8bfbbe82907ace305294e8ed6d"
+    },
+    "NIGHT_CALENDAR_CONTROL-013": {
+      "cutoff_at": "2009-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-013.input.v001.json",
+      "sha256": "e03a5a6b85f416f58035c64f30f0873ffcd59da091e465e138a111ab6ad4781b"
+    },
+    "NIGHT_CALENDAR_CONTROL-014": {
+      "cutoff_at": "2009-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-014.input.v001.json",
+      "sha256": "1c0bf6b7e1502ccaa756d0bee6758c569eaf41cd2180707bf0abe0cf8c02dbde"
+    },
+    "NIGHT_CALENDAR_CONTROL-015": {
+      "cutoff_at": "2009-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-015.input.v001.json",
+      "sha256": "0791991f014831cf57c0256e802c8799d37ce8c22006e8f4832c33267b91e2f8"
+    },
+    "NIGHT_CALENDAR_CONTROL-016": {
+      "cutoff_at": "2010-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-016.input.v001.json",
+      "sha256": "1b7e039b5b2345a66dbbb7428f204e473718fa5a2ec1f02ccb51a420613c4841"
+    },
+    "NIGHT_CALENDAR_CONTROL-017": {
+      "cutoff_at": "2010-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-017.input.v001.json",
+      "sha256": "c0074b1b4005cc4d59af37e541a0c330647f69b8abf01a9af99fddf33a4d0d20"
+    },
+    "NIGHT_CALENDAR_CONTROL-018": {
+      "cutoff_at": "2010-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-018.input.v001.json",
+      "sha256": "6dbdcffcb9da844881a41cc77129739a649d4c74a76722318b43ac5aa8fc66d4"
+    },
+    "NIGHT_CALENDAR_CONTROL-019": {
+      "cutoff_at": "2011-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-019.input.v001.json",
+      "sha256": "347f1c1bb55e7560a49cc36a95d2e3bd7359172fa769cdb43c3c90bdae573b7e"
+    },
+    "NIGHT_CALENDAR_CONTROL-020": {
+      "cutoff_at": "2011-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-020.input.v001.json",
+      "sha256": "08ef0a97387d290d44c22f00279a502e8cd4480253615593f05e5d5d59b10371"
+    },
+    "NIGHT_CALENDAR_CONTROL-021": {
+      "cutoff_at": "2011-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-021.input.v001.json",
+      "sha256": "1827267fb9d72fb210ea4c590f47fd770cdee55efc9fbab6994802c84cd91369"
+    },
+    "NIGHT_CALENDAR_CONTROL-022": {
+      "cutoff_at": "2012-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-022.input.v001.json",
+      "sha256": "6105ec23cd4c0717331040ff1ccbae772e92e0fbdde7020ce6d1ae1108b968e1"
+    },
+    "NIGHT_CALENDAR_CONTROL-023": {
+      "cutoff_at": "2012-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-023.input.v001.json",
+      "sha256": "772b2d9cb52b4fb85f9b5e66ca7c38a79de57b9aedc64a8ba6e3d6bb72973071"
+    },
+    "NIGHT_CALENDAR_CONTROL-024": {
+      "cutoff_at": "2012-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-024.input.v001.json",
+      "sha256": "6396120025aec42a98209f5f2dbec593cf46faf6fa7a486450b7e94e9ceae38a"
+    },
+    "NIGHT_CALENDAR_CONTROL-025": {
+      "cutoff_at": "2013-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-025.input.v001.json",
+      "sha256": "881f0de3e6d562de643af5f2f2598fb81db96a97067c9ca7187cc81bd16d8ab4"
+    },
+    "NIGHT_CALENDAR_CONTROL-026": {
+      "cutoff_at": "2013-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-026.input.v001.json",
+      "sha256": "91f8c9e6b3bb9320035f19c5c7e6dd376bbab23866005f1a68b3270ebac1e41c"
+    },
+    "NIGHT_CALENDAR_CONTROL-027": {
+      "cutoff_at": "2013-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-027.input.v001.json",
+      "sha256": "5de0857a43d77476f5f1420c0a563717502d14a14048d8b5e618526133b4b3b7"
+    },
+    "NIGHT_CALENDAR_CONTROL-028": {
+      "cutoff_at": "2014-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-028.input.v001.json",
+      "sha256": "760236488f6d238f24fe4b3217430d2ae180bc5af6c2c952e97e31da8dda1ca0"
+    },
+    "NIGHT_CALENDAR_CONTROL-029": {
+      "cutoff_at": "2014-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-029.input.v001.json",
+      "sha256": "8802c6b2a80f7f168135925b383193800e8d084710a1e7d347cc7bb940e07ccc"
+    },
+    "NIGHT_CALENDAR_CONTROL-030": {
+      "cutoff_at": "2014-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-030.input.v001.json",
+      "sha256": "52303624090366629aa64ef5c0101187e5e173ba58e803fe5092fdb5591aae21"
+    },
+    "NIGHT_CALENDAR_CONTROL-031": {
+      "cutoff_at": "2015-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-031.input.v001.json",
+      "sha256": "0e1b2e8534ea2d13e13d033e6d63c809293d61eea169c29f2eeeca1b8c764bff"
+    },
+    "NIGHT_CALENDAR_CONTROL-032": {
+      "cutoff_at": "2015-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-032.input.v001.json",
+      "sha256": "e59b13c53136ce96c347f7a100811d3fd2d819e012c8a84180c54a8da6563181"
+    },
+    "NIGHT_CALENDAR_CONTROL-033": {
+      "cutoff_at": "2015-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-033.input.v001.json",
+      "sha256": "51411e614fc48892b20ede102d910022a2bde574affe0ed6987d0ae77e15c0a1"
+    },
+    "NIGHT_CALENDAR_CONTROL-034": {
+      "cutoff_at": "2016-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-034.input.v001.json",
+      "sha256": "4df81b7efd45ee611b1e33a6c3c1d467f7036e4973ebcbff51cf20addd158681"
+    },
+    "NIGHT_CALENDAR_CONTROL-035": {
+      "cutoff_at": "2016-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-035.input.v001.json",
+      "sha256": "b7f269394cb80b8a59618f131429fb39a84cf0d9ede191fc39e4cbb5b6b0ffdb"
+    },
+    "NIGHT_CALENDAR_CONTROL-036": {
+      "cutoff_at": "2016-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-036.input.v001.json",
+      "sha256": "a7691d77dcc0f539067e0f1baa9aba7e1337179c216fbcfc79ead538866eb65a"
+    },
+    "NIGHT_CALENDAR_CONTROL-037": {
+      "cutoff_at": "2017-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-037.input.v001.json",
+      "sha256": "a989f6c670009540b1b6e7a17c86ecc0f2bf76338fd6300557e2411c876ad4af"
+    },
+    "NIGHT_CALENDAR_CONTROL-038": {
+      "cutoff_at": "2017-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-038.input.v001.json",
+      "sha256": "db27edbe8399aae650a05f8f427076d014713edd408e9d7af39be308888a5b39"
+    },
+    "NIGHT_CALENDAR_CONTROL-039": {
+      "cutoff_at": "2017-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-039.input.v001.json",
+      "sha256": "c8931b96d3335c27b1ef037ae1ff6f9ee67e0053230f7e770e790575bb111b2c"
+    },
+    "NIGHT_CALENDAR_CONTROL-040": {
+      "cutoff_at": "2018-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-040.input.v001.json",
+      "sha256": "f7a1dcc36e1c6291df1494a35ca11461c3e0be4c6287ee54b0951fccf0113f49"
+    },
+    "NIGHT_CALENDAR_CONTROL-041": {
+      "cutoff_at": "2018-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-041.input.v001.json",
+      "sha256": "d935ef9ebe0e2b752925cc6e5b70ebce5d0cf120f7ee57a44e50b8f8f46185a6"
+    },
+    "NIGHT_CALENDAR_CONTROL-042": {
+      "cutoff_at": "2018-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-042.input.v001.json",
+      "sha256": "8fe1abcacdc0c7201db9ffea22b765fa8df1e1e10611c1258d1d8d16612a0a53"
+    },
+    "NIGHT_CALENDAR_CONTROL-043": {
+      "cutoff_at": "2019-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-043.input.v001.json",
+      "sha256": "7e7cc4140d8814202688a0bcc17285b7228f1a73376ec6296d97a51587a05d1d"
+    },
+    "NIGHT_CALENDAR_CONTROL-044": {
+      "cutoff_at": "2019-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-044.input.v001.json",
+      "sha256": "96e08c6e36570a4ec5fcdcf5ce3a9b07ed4f46fa305086bed26bd789a2b7a664"
+    },
+    "NIGHT_CALENDAR_CONTROL-045": {
+      "cutoff_at": "2019-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-045.input.v001.json",
+      "sha256": "277adab8511d747939f3f0b73590b5c82a4253a159bbd4e0aef302e97a659f83"
+    },
+    "NIGHT_CALENDAR_CONTROL-046": {
+      "cutoff_at": "2020-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-046.input.v001.json",
+      "sha256": "654e0f51d5dff515c8a0041a2c2da875e584af59df1f6e6d72add6083e60b082"
+    },
+    "NIGHT_CALENDAR_CONTROL-047": {
+      "cutoff_at": "2020-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-047.input.v001.json",
+      "sha256": "a8f1421ffac428da3c7e680a0ab46d3eb0ed3e88ee9fc6b9ce23d851589aa96b"
+    },
+    "NIGHT_CALENDAR_CONTROL-048": {
+      "cutoff_at": "2020-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-048.input.v001.json",
+      "sha256": "1bd2af3b139d7ee95cb4e0cc301947debbe4197c350d030eecc03595a494b0a2"
+    },
+    "NIGHT_CALENDAR_CONTROL-049": {
+      "cutoff_at": "2021-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-049.input.v001.json",
+      "sha256": "f77aab208d8ffea484284c544b1ddbd1e6aa700e9866739a0cefd40f38912ee7"
+    },
+    "NIGHT_CALENDAR_CONTROL-050": {
+      "cutoff_at": "2021-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-050.input.v001.json",
+      "sha256": "4ccd19fdd4111973322cc57952c9ec0a37b673d1bf53d8a705ba5710e716314b"
+    },
+    "NIGHT_CALENDAR_CONTROL-051": {
+      "cutoff_at": "2021-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-051.input.v001.json",
+      "sha256": "6d554200810cf06b7e8fba3c7bb5ecc62e566609f8e3add72c6fd8fc88b062b8"
+    },
+    "NIGHT_CALENDAR_CONTROL-052": {
+      "cutoff_at": "2022-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-052.input.v001.json",
+      "sha256": "ef748b71d6f241a31d23fa272054af2233eac29e4a2ca9be71b7e88627badbc3"
+    },
+    "NIGHT_CALENDAR_CONTROL-053": {
+      "cutoff_at": "2022-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-053.input.v001.json",
+      "sha256": "fc62bc4f720d297ae6c23cd5c7b889a5729e8225eaede4490af97f951f3bd82c"
+    },
+    "NIGHT_CALENDAR_CONTROL-054": {
+      "cutoff_at": "2022-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-054.input.v001.json",
+      "sha256": "5fc5cdb441ae2fe789df86c3c5d4608fff5bdf6fc5a7cf5fb7141c4c4c798bee"
+    },
+    "NIGHT_CALENDAR_CONTROL-055": {
+      "cutoff_at": "2023-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-055.input.v001.json",
+      "sha256": "16b0cd9138199920ac33a2dc0885848dd315664849509bf50d444b0f8e1fc128"
+    },
+    "NIGHT_CALENDAR_CONTROL-056": {
+      "cutoff_at": "2023-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-056.input.v001.json",
+      "sha256": "46a8612d7a02557652d3a771bbe01f69af3651d50a2ed890057345d7c5184614"
+    },
+    "NIGHT_CALENDAR_CONTROL-057": {
+      "cutoff_at": "2023-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-057.input.v001.json",
+      "sha256": "3e6e27c8e256cc6dad1e9a07ced5d4927a8a1a1a886e5bc047c8c5d8669bd04e"
+    },
+    "NIGHT_CALENDAR_CONTROL-058": {
+      "cutoff_at": "2024-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-058.input.v001.json",
+      "sha256": "05613c7cd0508f80293f42b3c6ba930645e9d3c1cf58a505c9b8713f66e1f579"
+    },
+    "NIGHT_CALENDAR_CONTROL-059": {
+      "cutoff_at": "2024-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-059.input.v001.json",
+      "sha256": "6531da1ed46a0b4e0e830a600ac7206b508b6724e53f2d9a5e6221fad7fa32eb"
+    },
+    "NIGHT_CALENDAR_CONTROL-060": {
+      "cutoff_at": "2024-03-31T23:59:59+00:00",
+      "path": "NIGHT_CALENDAR_CONTROL-060.input.v001.json",
+      "sha256": "2e440a823e641d8b261d5d2e31a18764db7fa25f56cb7b67e0627b1cb91bc06b"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "d1774388baa6f465a5f99e594d05731c3afb0a13c23fd629fe540d86148cbe3f",
+  "source_bundle_sha256": "d4af501d1a89141ce42670240d94b3e1ac07b6c603266302c212bde2d1bffe14"
+}

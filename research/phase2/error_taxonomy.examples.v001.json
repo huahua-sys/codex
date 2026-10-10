@@ -1,0 +1,344 @@
+[
+  {
+    "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+    "known_at_t": {
+      "annual_volatility_known_at_t": 0.19559270153448977,
+      "asset_id": "SOXX",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "episode_id": "NIGHT_SECTOR_V002-017",
+      "exposure": 1,
+      "input_path": "research/replays/NIGHT_SECTOR_V002/ex_ante/NIGHT_SECTOR_V002-017.input.v001.json",
+      "input_sha256": "f35a86fc57f6da2f0cdb392e2872d8884c5044b36929605c45dde6a3d7750563",
+      "market": "US",
+      "prediction_path": "research/replays/NIGHT_SECTOR_V002/run/predictions/NIGHT_SECTOR_V002-017.v001.json",
+      "prediction_sha256": "3fde1c583edf4b0ebb2524799f244ed931267a8e6123973e3e39e446cb2fc781",
+      "probability_up": 0.6,
+      "r252_known_at_t": 0.10214312188060903,
+      "r63_known_at_t": 0.026293234532380305
+    },
+    "known_at_t_price_evidence": [
+      {
+        "available_at": "2006-09-28T04:00:00+00:00",
+        "date": "2006-09-27",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_SOXX:PRICE:2006-09-27",
+        "source_id": "YAHOO_CHART_SOXX",
+        "source_sha256": "f38eab88e0591dce9cf74413c19264eff4944269a95f9059eb873b571372af56"
+      },
+      {
+        "available_at": "2007-06-30T04:00:00+00:00",
+        "date": "2007-06-29",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_SOXX:PRICE:2007-06-29",
+        "source_id": "YAHOO_CHART_SOXX",
+        "source_sha256": "f38eab88e0591dce9cf74413c19264eff4944269a95f9059eb873b571372af56"
+      },
+      {
+        "available_at": "2007-09-29T04:00:00+00:00",
+        "date": "2007-09-28",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_SOXX:PRICE:2007-09-28",
+        "source_id": "YAHOO_CHART_SOXX",
+        "source_sha256": "f38eab88e0591dce9cf74413c19264eff4944269a95f9059eb873b571372af56"
+      }
+    ],
+    "known_only_after_t": {
+      "actual_scenario": "Bear",
+      "classification": "FALSE_POSITIVE",
+      "entry_date": "2007-10-01",
+      "exit_date": "2008-09-30",
+      "label_path": "research/replays/NIGHT_SECTOR_V002/run/labels/NIGHT_SECTOR_V002-017.v001.json",
+      "label_sha256": "5c34632e6d96c7be0d9b151469e5d5393f3529789c2bae3ecaf0223b80130191",
+      "max_adverse_excursion_gross": -0.43210233136999354,
+      "max_favorable_excursion_gross": 0.023865685343116283,
+      "net_return": -0.43493473869483146,
+      "no_trade_class": null
+    },
+    "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+  },
+  {
+    "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+    "known_at_t": {
+      "annual_volatility_known_at_t": 0.5566114639866652,
+      "asset_id": "XLE",
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "episode_id": "NIGHT_SECTOR_V002-122",
+      "exposure": 0,
+      "input_path": "research/replays/NIGHT_SECTOR_V002/ex_ante/NIGHT_SECTOR_V002-122.input.v001.json",
+      "input_sha256": "43452e74aedc93988956ebff13a0a3a90b19829be26611a0f9ffcf4c902ac98a",
+      "market": "US",
+      "prediction_path": "research/replays/NIGHT_SECTOR_V002/run/predictions/NIGHT_SECTOR_V002-122.v001.json",
+      "prediction_sha256": "8aa8722f19ff4cb76a579160ddcf7c64761d84c58217da4091129d8039b9f55c",
+      "probability_up": 0.4,
+      "r252_known_at_t": -0.4434113810435065,
+      "r63_known_at_t": -0.19283589470329754
+    },
+    "known_at_t_price_evidence": [
+      {
+        "available_at": "2019-10-01T04:00:00+00:00",
+        "date": "2019-09-30",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_XLE:PRICE:2019-09-30",
+        "source_id": "YAHOO_CHART_XLE",
+        "source_sha256": "6a867d1836e7d0eac5ae6dd5a04cb3ea31045c0c47dc411187f2d7256f4ff050"
+      },
+      {
+        "available_at": "2020-07-01T04:00:00+00:00",
+        "date": "2020-06-30",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_XLE:PRICE:2020-06-30",
+        "source_id": "YAHOO_CHART_XLE",
+        "source_sha256": "6a867d1836e7d0eac5ae6dd5a04cb3ea31045c0c47dc411187f2d7256f4ff050"
+      },
+      {
+        "available_at": "2020-09-30T04:00:00+00:00",
+        "date": "2020-09-29",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_XLE:PRICE:2020-09-29",
+        "source_id": "YAHOO_CHART_XLE",
+        "source_sha256": "6a867d1836e7d0eac5ae6dd5a04cb3ea31045c0c47dc411187f2d7256f4ff050"
+      }
+    ],
+    "known_only_after_t": {
+      "actual_scenario": "Bull",
+      "classification": "FALSE_NEGATIVE",
+      "entry_date": "2020-10-01",
+      "exit_date": "2021-10-01",
+      "label_path": "research/replays/NIGHT_SECTOR_V002/run/labels/NIGHT_SECTOR_V002-122.v001.json",
+      "label_sha256": "20b316ef9e80d3d853bd583ae8b3e0ebc8569be1931279d3f096e98a0c8f8b3c",
+      "max_adverse_excursion_gross": -0.08912900817680725,
+      "max_favorable_excursion_gross": 0.9594100173148117,
+      "net_return": 0.8463325234049139,
+      "no_trade_class": "MISSED_OPPORTUNITY_PROXY"
+    },
+    "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+  },
+  {
+    "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+    "known_at_t": {
+      "annual_volatility_known_at_t": 0.1965453499785356,
+      "asset_id": "HSI",
+      "cutoff_at": "2007-09-30T23:59:59+00:00",
+      "episode_id": "NIGHT_XTIME_V003-007",
+      "exposure": 1,
+      "input_path": "research/replays/NIGHT_XTIME_V003/ex_ante/NIGHT_XTIME_V003-007.input.v001.json",
+      "input_sha256": "e389ac7d36f3d12171497aff674469f03abfb08d165e945f3a86c522e1979806",
+      "market": "HK",
+      "prediction_path": "research/replays/NIGHT_XTIME_V003/run/predictions/NIGHT_XTIME_V003-007.v001.json",
+      "prediction_sha256": "f125ff5dc1edc3ddc96879e0c51d3049a0dc98220820b03dc0e787a3a5b8de2c",
+      "probability_up": 0.6,
+      "r252_known_at_t": 0.5498504678900773,
+      "r63_known_at_t": 0.24662686391502864
+    },
+    "known_at_t_price_evidence": [
+      {
+        "available_at": "2006-09-20T16:00:00+00:00",
+        "date": "2006-09-20",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_HSI:PRICE:2006-09-20",
+        "source_id": "YAHOO_CHART_HSI",
+        "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+      },
+      {
+        "available_at": "2007-06-29T16:00:00+00:00",
+        "date": "2007-06-29",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_HSI:PRICE:2007-06-29",
+        "source_id": "YAHOO_CHART_HSI",
+        "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+      },
+      {
+        "available_at": "2007-09-28T16:00:00+00:00",
+        "date": "2007-09-28",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_HSI:PRICE:2007-09-28",
+        "source_id": "YAHOO_CHART_HSI",
+        "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+      }
+    ],
+    "known_only_after_t": {
+      "actual_scenario": "Bear",
+      "classification": "FALSE_POSITIVE",
+      "entry_date": "2007-10-02",
+      "exit_date": "2008-10-14",
+      "label_path": "research/replays/NIGHT_XTIME_V003/run/labels/NIGHT_XTIME_V003-007.v001.json",
+      "label_sha256": "869f4ef1569d9985d44d64871682dfad85e1e9f03ea40aac287abc19f68e76cd",
+      "max_adverse_excursion_gross": -0.48238194309429616,
+      "max_favorable_excursion_gross": 0.14888385364039403,
+      "net_return": -0.38686384746917535,
+      "no_trade_class": null
+    },
+    "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+  },
+  {
+    "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+    "known_at_t": {
+      "annual_volatility_known_at_t": 0.4934099192283882,
+      "asset_id": "HSI",
+      "cutoff_at": "2009-03-31T23:59:59+00:00",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-013",
+      "exposure": 0,
+      "input_path": "research/replays/NIGHT_CALENDAR_CONTROL/ex_ante/NIGHT_CALENDAR_CONTROL-013.input.v001.json",
+      "input_sha256": "e03a5a6b85f416f58035c64f30f0873ffcd59da091e465e138a111ab6ad4781b",
+      "market": "HK",
+      "prediction_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/predictions/NIGHT_CALENDAR_CONTROL-013.v001.json",
+      "prediction_sha256": "53a2c47fe86614fcd406732307a4b9c9a2909dc2bbd2add2ae3ae96e1c39155a",
+      "probability_up": 0.4,
+      "r252_known_at_t": -0.36514998739601623,
+      "r63_known_at_t": -0.04287324661629888
+    },
+    "known_at_t_price_evidence": [
+      {
+        "available_at": "2008-03-18T16:00:00+00:00",
+        "date": "2008-03-18",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_HSI:PRICE:2008-03-18",
+        "source_id": "YAHOO_CHART_HSI",
+        "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+      },
+      {
+        "available_at": "2008-12-24T16:00:00+00:00",
+        "date": "2008-12-24",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_HSI:PRICE:2008-12-24",
+        "source_id": "YAHOO_CHART_HSI",
+        "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+      },
+      {
+        "available_at": "2009-03-31T16:00:00+00:00",
+        "date": "2009-03-31",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_HSI:PRICE:2009-03-31",
+        "source_id": "YAHOO_CHART_HSI",
+        "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+      }
+    ],
+    "known_only_after_t": {
+      "actual_scenario": "Bull",
+      "classification": "FALSE_NEGATIVE",
+      "entry_date": "2009-04-01",
+      "exit_date": "2010-04-08",
+      "label_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/labels/NIGHT_CALENDAR_CONTROL-013.v001.json",
+      "label_sha256": "8b4074313623b37fdcf966fa64cca133975760391192828cd0ab362a503f3356",
+      "max_adverse_excursion_gross": -0.02432600591868994,
+      "max_favorable_excursion_gross": 0.680435643766933,
+      "net_return": 0.5806217138705101,
+      "no_trade_class": "MISSED_OPPORTUNITY_PROXY"
+    },
+    "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+  },
+  {
+    "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+    "known_at_t": {
+      "annual_volatility_known_at_t": 0.18033615259608457,
+      "asset_id": "N225",
+      "cutoff_at": "2007-03-31T23:59:59+00:00",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-008",
+      "exposure": 1,
+      "input_path": "research/replays/NIGHT_CALENDAR_CONTROL/ex_ante/NIGHT_CALENDAR_CONTROL-008.input.v001.json",
+      "input_sha256": "a3fc049c504a8049842e6cbe30845d34a01fb5b2a58c24485a5a3278fbb4d8e9",
+      "market": "JP",
+      "prediction_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/predictions/NIGHT_CALENDAR_CONTROL-008.v001.json",
+      "prediction_sha256": "1b1fcd7fc41fe775a1fb33a3b40fc7f6266e5e30bd5b302affeb53db3b52f550",
+      "probability_up": 0.6,
+      "r252_known_at_t": 0.04841187332226582,
+      "r63_known_at_t": 0.011394197148851593
+    },
+    "known_at_t_price_evidence": [
+      {
+        "available_at": "2006-03-23T15:00:00+00:00",
+        "date": "2006-03-23",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_N225:PRICE:2006-03-23",
+        "source_id": "YAHOO_CHART_N225",
+        "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+      },
+      {
+        "available_at": "2006-12-25T15:00:00+00:00",
+        "date": "2006-12-25",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_N225:PRICE:2006-12-25",
+        "source_id": "YAHOO_CHART_N225",
+        "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+      },
+      {
+        "available_at": "2007-03-30T15:00:00+00:00",
+        "date": "2007-03-30",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_N225:PRICE:2007-03-30",
+        "source_id": "YAHOO_CHART_N225",
+        "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+      }
+    ],
+    "known_only_after_t": {
+      "actual_scenario": "Bear",
+      "classification": "FALSE_POSITIVE",
+      "entry_date": "2007-04-02",
+      "exit_date": "2008-04-10",
+      "label_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/labels/NIGHT_CALENDAR_CONTROL-008.v001.json",
+      "label_sha256": "72ca8869229a0e71563012acf160c1f7e8ac42e624317883d5c77b0198db7be7",
+      "max_adverse_excursion_gross": -0.3260214743820711,
+      "max_favorable_excursion_gross": 0.054810117460546204,
+      "net_return": -0.2525864098053221,
+      "no_trade_class": null
+    },
+    "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+  },
+  {
+    "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+    "known_at_t": {
+      "annual_volatility_known_at_t": 0.21649919359036598,
+      "asset_id": "N225",
+      "cutoff_at": "2020-03-31T23:59:59+00:00",
+      "episode_id": "NIGHT_CALENDAR_CONTROL-047",
+      "exposure": 0,
+      "input_path": "research/replays/NIGHT_CALENDAR_CONTROL/ex_ante/NIGHT_CALENDAR_CONTROL-047.input.v001.json",
+      "input_sha256": "a8f1421ffac428da3c7e680a0ab46d3eb0ed3e88ee9fc6b9ce23d851589aa96b",
+      "market": "JP",
+      "prediction_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/predictions/NIGHT_CALENDAR_CONTROL-047.v001.json",
+      "prediction_sha256": "7d140b392a3aa726b9ddacf67ef5a28573d59d5460ccf6ba68dbbc1cf2da973e",
+      "probability_up": 0.4,
+      "r252_known_at_t": -0.1114703470991476,
+      "r63_known_at_t": -0.20587200756157065
+    },
+    "known_at_t_price_evidence": [
+      {
+        "available_at": "2019-03-13T15:00:00+00:00",
+        "date": "2019-03-13",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_N225:PRICE:2019-03-13",
+        "source_id": "YAHOO_CHART_N225",
+        "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+      },
+      {
+        "available_at": "2019-12-23T15:00:00+00:00",
+        "date": "2019-12-23",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_N225:PRICE:2019-12-23",
+        "source_id": "YAHOO_CHART_N225",
+        "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+      },
+      {
+        "available_at": "2020-03-31T15:00:00+00:00",
+        "date": "2020-03-31",
+        "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+        "record_id": "YAHOO_CHART_N225:PRICE:2020-03-31",
+        "source_id": "YAHOO_CHART_N225",
+        "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+      }
+    ],
+    "known_only_after_t": {
+      "actual_scenario": "Bull",
+      "classification": "FALSE_NEGATIVE",
+      "entry_date": "2020-04-01",
+      "exit_date": "2021-04-13",
+      "label_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/labels/NIGHT_CALENDAR_CONTROL-047.v001.json",
+      "label_sha256": "22fa44b58410867ebaf5517ba5daba3a41d52055868d666b2ad5fbdfc9956048",
+      "max_adverse_excursion_gross": -0.05563590453433376,
+      "max_favorable_excursion_gross": 0.6437077865180882,
+      "net_return": 0.5764659281264559,
+      "no_trade_class": "MISSED_OPPORTUNITY_PROXY"
+    },
+    "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+  }
+]

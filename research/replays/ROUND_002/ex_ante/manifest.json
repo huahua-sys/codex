@@ -1,0 +1,128 @@
+{
+  "information_set": "KNOWN_AT_T_ONLY",
+  "inputs": {
+    "ROUND_002-001": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "ROUND_002-001.input.v001.json",
+      "sha256": "75ac776c6fbb954ae483e39f748d3dfef975e9eafe992763ab031478eed062b0"
+    },
+    "ROUND_002-002": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "ROUND_002-002.input.v001.json",
+      "sha256": "be806317b238273c472779c0d2486c937ee4f5d2febb375832a3d4ca065b0f01"
+    },
+    "ROUND_002-003": {
+      "cutoff_at": "2016-09-30T23:59:59+00:00",
+      "path": "ROUND_002-003.input.v001.json",
+      "sha256": "740f133f1c1302b5abcb1a3e4f857a60209b59417836ebc81fa42f3d46aa84cf"
+    },
+    "ROUND_002-004": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "ROUND_002-004.input.v001.json",
+      "sha256": "8ea9d265ba8a3f29a45e70bd86f5b9cfd60f3b2164f0cfcd93f55207483ec327"
+    },
+    "ROUND_002-005": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "ROUND_002-005.input.v001.json",
+      "sha256": "096f73450811a28af8b91f76383dee90ab6ef629ae8e2605eeefbe652e8b46ea"
+    },
+    "ROUND_002-006": {
+      "cutoff_at": "2017-09-30T23:59:59+00:00",
+      "path": "ROUND_002-006.input.v001.json",
+      "sha256": "76901285c4a4ac567f70e61f26120d3cd74ca54763291ec79f7830d5b63a6f40"
+    },
+    "ROUND_002-007": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "ROUND_002-007.input.v001.json",
+      "sha256": "d52942db79d27dd365598b794c71a2da051f0009a8639ea5f8fd8bed666b50e7"
+    },
+    "ROUND_002-008": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "ROUND_002-008.input.v001.json",
+      "sha256": "bda94e45e5d87eabd0aea830519438d5dac52adca6c047c2807f51672f947a8d"
+    },
+    "ROUND_002-009": {
+      "cutoff_at": "2018-09-30T23:59:59+00:00",
+      "path": "ROUND_002-009.input.v001.json",
+      "sha256": "82c31ee47689ea280f3bedc857027776dda76a828802443014716ebd15093472"
+    },
+    "ROUND_002-010": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "ROUND_002-010.input.v001.json",
+      "sha256": "cb51e03ad8975e93173aa615a9fb0317b66ff637fa6a6c38efdb3e5687d7623d"
+    },
+    "ROUND_002-011": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "ROUND_002-011.input.v001.json",
+      "sha256": "145adac1f31c9a1756ab3ffd5c5a2b056105ef0e93e8c6686417415b37b9e34a"
+    },
+    "ROUND_002-012": {
+      "cutoff_at": "2019-09-30T23:59:59+00:00",
+      "path": "ROUND_002-012.input.v001.json",
+      "sha256": "167c57fc7f08ea4d379f7ba1f046f105ea963aa5da58933317977731189b2d97"
+    },
+    "ROUND_002-013": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "ROUND_002-013.input.v001.json",
+      "sha256": "b666dd3a8644f37ad2bc3485149735dc64c8d505f0d7b8a41bc8212e84607ed3"
+    },
+    "ROUND_002-014": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "ROUND_002-014.input.v001.json",
+      "sha256": "d1da65ef7cd94d2077a7f148e3134983df0400cc9956449b8f1df4bb877a401b"
+    },
+    "ROUND_002-015": {
+      "cutoff_at": "2020-09-30T23:59:59+00:00",
+      "path": "ROUND_002-015.input.v001.json",
+      "sha256": "c33a8844270369d6ee9c72199570448904f9fccb5d55df2401a5377fe1ab92ca"
+    },
+    "ROUND_002-016": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "ROUND_002-016.input.v001.json",
+      "sha256": "5c3593e4d7572e1769a7a8eaebbedb3ab97d44cb21b2efb3b519cf0002367ef3"
+    },
+    "ROUND_002-017": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "ROUND_002-017.input.v001.json",
+      "sha256": "7f1668b9058ddcdec5d16bfcad62b2cba99f97fdc102b129183bdb9776362fdc"
+    },
+    "ROUND_002-018": {
+      "cutoff_at": "2021-09-30T23:59:59+00:00",
+      "path": "ROUND_002-018.input.v001.json",
+      "sha256": "05f1e4a17493f3dbcc36f35bcfe591b76334fd100e4fe5858e75b07ab200d2ec"
+    },
+    "ROUND_002-019": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "ROUND_002-019.input.v001.json",
+      "sha256": "e23055a1f575875009044647716a09431d8ca8ca4fca64ad0a80c6bf37af38b0"
+    },
+    "ROUND_002-020": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "ROUND_002-020.input.v001.json",
+      "sha256": "f9bc4eb88bdc8fe154f48c5137074db7e9742523dfd904b4d7dfceee2371fd5e"
+    },
+    "ROUND_002-021": {
+      "cutoff_at": "2022-09-30T23:59:59+00:00",
+      "path": "ROUND_002-021.input.v001.json",
+      "sha256": "618ab3909a1cd11190cd28dade63ca819ca17686a2f3ae5947ddbc041a53ec11"
+    },
+    "ROUND_002-022": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "ROUND_002-022.input.v001.json",
+      "sha256": "1dc62100c326aa9ba0222c9fc16a9b277ebff295dfeff661195bf1aa02fef646"
+    },
+    "ROUND_002-023": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "ROUND_002-023.input.v001.json",
+      "sha256": "7841227c4ffcfe2a78547af7fbc525b0f2d8d8308d4c06564184ef6a63c4c239"
+    },
+    "ROUND_002-024": {
+      "cutoff_at": "2023-09-30T23:59:59+00:00",
+      "path": "ROUND_002-024.input.v001.json",
+      "sha256": "35fd67c99617e33940e77cf6832eaabb8baa81249311c44f729976f53dddab70"
+    }
+  },
+  "round_id": "ROUND_002",
+  "selection_sha256": "2d33feedb66e670e6ee99e4ac0cec4cead7d2c97add74435363a45590eabfd7a",
+  "source_bundle_sha256": "84751984060a8bcc2f287c98303541f4817706e640af6be260134e83f16ea2d0"
+}

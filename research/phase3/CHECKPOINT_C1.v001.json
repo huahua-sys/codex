@@ -1,0 +1,29 @@
+{
+  "stage": "PHASE3_C1_PROTOCOL_AND_ACQUISITION",
+  "at": "2026-10-09T05:37:39.042582+00:00",
+  "protocol_lock_sha": "13d666307eef55086fd802c4628d6669a1d51ccc1d02dc8e19afe91577cbf92b",
+  "source_manifest_sha": "ca86a40ca7985de4fba9fc6970e8dc6d18cd616ba275fccb6bb49cbe45497852",
+  "rootmemory_sha": {
+    "AGENTS.md": "7615418a6e7cb2ec8bda2499a0074935da7c9f8b3f14a8788c041786792ab116",
+    "RESEARCH_CONSTITUTION.md": "fcdd3daebd89fdd0cf242e234e9866aac8db4b7e9f56332b88cdc72d8130bb2c",
+    "RESEARCH_LEDGER.md": "7f86a99c5d5701b919bfcfd391810b54b1c2b1eb7ec3bf82125ba5c72350743a",
+    "FAILED_HYPOTHESES.md": "e90a0348aa6b29a2507717a2134cba0b810e41cd39d97a2ecb4d571b72bc9c81",
+    "HYPOTHESIS_REGISTRY.md": "711126ad3b919da8eeb4bf31ca0e78386c207f63a970c753b8e887dd6e080dbf",
+    "CANDIDATE_PRINCIPLES.md": "f6dce79e520b8adaed43b1e739c9fd890ea239bf321297e47604f8bc3647d31e",
+    "OPEN_QUESTIONS.md": "bb565dcab2bd537c5b330f61f997609832a3015af79e0d903f08ca184e975d51",
+    "CURRENT_FRAMEWORK.json": "4dfc3bfc6a1992ed3d27123b7f82617bed0e916e583bb8f6293d018ea3ebef2c",
+    "CHANGELOG.md": "9ac3e97b64ebc7c63443368e826ba12fefe920bc072bea89de4a37ecfaa9ed93",
+    "PREDICTION_LEDGER.md": "25ebe22682971b8d22dd484f880e24d4316d2dbd71d1b521f591688d694115d2",
+    "research/status/LATEST.md": "6510356dcffd2c574f7c5785d6ef7728915eaa6121315170be9af745c1c3b0d8"
+  },
+  "raw_observations": {
+    "selection_planned": 2704,
+    "features_locked": 0,
+    "labels_revealed": 0
+  },
+  "effective_sample_assessment": {
+    "independent_n": null,
+    "not_measured_from_planned_rows": true
+  },
+  "operational_framework_changed": false
+}

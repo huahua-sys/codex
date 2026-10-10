@@ -1,0 +1,14 @@
+{
+  "files": {
+    "SAMPLE_EXPANSION_PROTOCOL.md": "440f23d764e99fb4e772d2a92c7fe1c8e236be4c6887944fac499fd6da2b4e3c",
+    "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+    "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+    "research/phase3/PROTOCOL.lock.v001.json": "13d666307eef55086fd802c4628d6669a1d51ccc1d02dc8e19afe91577cbf92b",
+    "research/phase3/audit/PRIOR_OPERATIVE_FRAMEWORK.v001.json": "55806c0036d781ae7a95583602646de246b8c9a6e3b21c665aedf6dedfc6d860",
+    "research/phase3/design.v001.json": "95d5f2ccbf6fa7fe0e0c5a4036022db62fee498951279ef3a3044e1fb8334a7f",
+    "research/phase3/forward/REGISTRATION.v001.json": "2fff69deb738c04adee7d46110b4b2535cb251deaee8fb76f112aa903557e815",
+    "scripts/phase3_forward.py": "de3f6363514a1c1fd09f0e4b051e74c26d07757befe2fd73657f1834438d60b3"
+  },
+  "locked_at": "2026-10-09T05:40:26.918922+00:00",
+  "scope": "Appointments/policy locked; pending appointments contain no decision or forecast"
+}

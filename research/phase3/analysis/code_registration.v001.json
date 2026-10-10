@@ -1,0 +1,48 @@
+{
+  "bootstrap": {
+    "repetitions": 500,
+    "seed": 20261009,
+    "unit": "fixed joint two-calendar-year blocks, every asset sampled together"
+  },
+  "code_path": "scripts/phase3_analyze.py",
+  "code_sha256": "cd2e453a8c3c259a6e566dcf2762f9ec2903f65c9f66fd490f049363210afe49",
+  "cohorts": [
+    "ALL",
+    "asset",
+    "market",
+    "industry",
+    "era",
+    "validation_scope",
+    "fixed_Q4",
+    "prior_exposure",
+    "asset_x_era",
+    "market_x_era",
+    "industry_x_era"
+  ],
+  "design_sha256": "95d5f2ccbf6fa7fe0e0c5a4036022db62fee498951279ef3a3044e1fb8334a7f",
+  "estimands": "Raw distributions and date-equal group differences; not strategy returns or alpha.",
+  "holdout_rule": "No holdout read before development.lock.v001.json and its file SHAs verified.",
+  "horizons": [
+    "1w",
+    "1m",
+    "3m",
+    "6m",
+    "12m",
+    "24m"
+  ],
+  "labels_read_before_registration": false,
+  "operative_framework_change": false,
+  "optimization": false,
+  "registered_at": "2026-10-09T05:36:53.742781+00:00",
+  "variables": [
+    "H-P3-TREND",
+    "H-P3-DRAWDOWN",
+    "H-P3-VOL",
+    "H-P3-CREDIT"
+  ],
+  "vol_endpoint_interpretation": {
+    "504_bar_point": "Other features kept; relative-vol comparison UNKNOWN.",
+    "formula": "252 previous rolling252-return vol observations, excludes current; requires505 price bars.",
+    "registered_question": "H-P3-VOL-ENDPOINT-v001"
+  }
+}

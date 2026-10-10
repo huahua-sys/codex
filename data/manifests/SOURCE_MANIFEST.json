@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "observed_at": "2026-10-08T07:21:50.316738+00:00",
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "path": "/tmp/codex-remote-attachments/01a11a5d-5dfc-702a-89f7-c4b07b4bb0af/391ce631-62e6-49db-9d97-4fb44511dace/1-Codex_Investment_Research_Lab_Master_Prompt_v3.md",
+      "artifact_type": "instruction_prompt",
+      "size_bytes": 27597,
+      "sha256": "4d165d66b77d021325b9c96909433d044f10b818b8cf74796bfb205c2e0c13bb",
+      "encoding": "UTF-8",
+      "observational_records": 0,
+      "market_coverage": [],
+      "historical_year_coverage": [],
+      "historical_publication_timestamp": null,
+      "point_in_time_eligible": false,
+      "archived_path": "sources/Codex_Investment_Research_Lab_Master_Prompt_v3.md"
+    }
+  ],
+  "empirical_source_count": 0,
+  "generated_files_are_not_source_evidence": true
+}

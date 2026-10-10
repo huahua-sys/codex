@@ -1,0 +1,593 @@
+{
+  "records": [
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:57.775976+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2000-february.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: February 8, 2000",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200001/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:57.966601+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2000-may.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: May 19, 2000",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200005/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:58.156396+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2000-august.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: August 25, 2000",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200008/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:58.327430+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2000-november.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: November 17, 2000",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200011/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:58.505978+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2001-february.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: February 5, 2001",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200102/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:58.678904+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2001-may.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: May 17, 2001",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200105/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:58.859579+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2001-august.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: August 24, 2001",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200108/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:59.034052+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2001-november.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: November 13, 2001",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200111/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:59.219930+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2002-february.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: February 4, 2002",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200202/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:59.395852+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2002-may.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: May 10, 2002",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200205/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:59.568892+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2002-august.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: August 19, 2002",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200208/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:59.736029+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2002-november.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: November 12, 2002",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200211/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:38:59.915068+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2003-january.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: January 31, 2003",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200301/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:00.080990+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2003-may.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: May 9, 2003",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200305/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:00.246050+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2003-august.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: August 15, 2003",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200308/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:00.406681+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2003-november.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: November 3, 2003",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200310/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:00.577396+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2004-february.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: February 3, 2004",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200401/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:00.753854+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2004-august.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: August 16, 2004",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200407/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:00.925198+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2007-may.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last update: May 17, 2007",
+      "release_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200705/default.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:01.105029+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2022-may.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202204.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/350f19096625238b.bin",
+        "source_sha256": "defa39a4b078d6887b6e4467e025fd73a9af863181da30362c74dc46159634d5",
+        "url": "https://www.federalreserve.gov/newsevents/2022-may.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last Update: May 09, 2022",
+      "matches": [],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202204.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:01.275290+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2022-august.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202207.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/dfedb8a612b387f3.bin",
+        "source_sha256": "065a571fa178490a3014129df1a05f0f22872eaed6a2b813ee9f2d7497985711",
+        "url": "https://www.federalreserve.gov/newsevents/2022-august.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last Update: August 01, 2022",
+      "matches": [],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202207.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:01.455568+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2024-february.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202401.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/5dc9f5bd18fa4dac.bin",
+        "source_sha256": "66392c8f3b670aa87bd405f9915768d2bf41fb5b063536d3dae61da59428eb6b",
+        "url": "https://www.federalreserve.gov/newsevents/2024-february.htm"
+      },
+      "date_proof": {
+        "publication_date": "2024-02-05",
+        "quality": "OFFICIAL_HISTORICAL_CALENDAR_MATCHING_ORIGINAL_PAGE_DATE",
+        "quote": "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 5",
+        "source": {
+          "accessed_at": "2026-10-09T05:39:01.455568+00:00",
+          "content_type": "text/html",
+          "final_url": "https://www.federalreserve.gov/newsevents/2024-february.htm",
+          "http_status": 200,
+          "linked_from": [
+            "https://www.federalreserve.gov/data/sloos/sloos-202401.htm"
+          ],
+          "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+          "role": "historical_release_calendar",
+          "source_path": "research/phase3/data/credit/raw/5dc9f5bd18fa4dac.bin",
+          "source_sha256": "66392c8f3b670aa87bd405f9915768d2bf41fb5b063536d3dae61da59428eb6b",
+          "url": "https://www.federalreserve.gov/newsevents/2024-february.htm"
+        },
+        "text_path": null
+      },
+      "location_clue": "Last Update: February 05, 2024",
+      "matches": [
+        [
+          5,
+          "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 5"
+        ]
+      ],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202401.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:01.632655+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2024-may.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202404.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/88c0b59e60564047.bin",
+        "source_sha256": "c010dafa83c7a448dc126571975a0012495a269abd0d884224092b25ec530966",
+        "url": "https://www.federalreserve.gov/newsevents/2024-may.htm"
+      },
+      "date_proof": {
+        "publication_date": "2024-05-06",
+        "quality": "OFFICIAL_HISTORICAL_CALENDAR_MATCHING_ORIGINAL_PAGE_DATE",
+        "quote": "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 6",
+        "source": {
+          "accessed_at": "2026-10-09T05:39:01.632655+00:00",
+          "content_type": "text/html",
+          "final_url": "https://www.federalreserve.gov/newsevents/2024-may.htm",
+          "http_status": 200,
+          "linked_from": [
+            "https://www.federalreserve.gov/data/sloos/sloos-202404.htm"
+          ],
+          "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+          "role": "historical_release_calendar",
+          "source_path": "research/phase3/data/credit/raw/88c0b59e60564047.bin",
+          "source_sha256": "c010dafa83c7a448dc126571975a0012495a269abd0d884224092b25ec530966",
+          "url": "https://www.federalreserve.gov/newsevents/2024-may.htm"
+        },
+        "text_path": null
+      },
+      "location_clue": "Last Update: May 06, 2024",
+      "matches": [
+        [
+          6,
+          "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 6"
+        ]
+      ],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202404.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:01.805091+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2024-august.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202407.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/f2954546327f277b.bin",
+        "source_sha256": "de67b74b19f591d9d0a64d54c89e3797ece9967bc23f1ac694ee6a3db6186fc9",
+        "url": "https://www.federalreserve.gov/newsevents/2024-august.htm"
+      },
+      "date_proof": {
+        "publication_date": "2024-08-05",
+        "quality": "OFFICIAL_HISTORICAL_CALENDAR_MATCHING_ORIGINAL_PAGE_DATE",
+        "quote": "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 5",
+        "source": {
+          "accessed_at": "2026-10-09T05:39:01.805091+00:00",
+          "content_type": "text/html",
+          "final_url": "https://www.federalreserve.gov/newsevents/2024-august.htm",
+          "http_status": 200,
+          "linked_from": [
+            "https://www.federalreserve.gov/data/sloos/sloos-202407.htm"
+          ],
+          "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+          "role": "historical_release_calendar",
+          "source_path": "research/phase3/data/credit/raw/f2954546327f277b.bin",
+          "source_sha256": "de67b74b19f591d9d0a64d54c89e3797ece9967bc23f1ac694ee6a3db6186fc9",
+          "url": "https://www.federalreserve.gov/newsevents/2024-august.htm"
+        },
+        "text_path": null
+      },
+      "location_clue": "Last Update: August 05, 2024",
+      "matches": [
+        [
+          5,
+          "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 5"
+        ]
+      ],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202407.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:01.981001+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2024-november.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202410.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/5dbc772f77308470.bin",
+        "source_sha256": "49cfe4609d44f6bfafaeb3db90a4659fbb46515fc9927b33c277da329546b084",
+        "url": "https://www.federalreserve.gov/newsevents/2024-november.htm"
+      },
+      "date_proof": {
+        "publication_date": "2024-11-12",
+        "quality": "OFFICIAL_HISTORICAL_CALENDAR_MATCHING_ORIGINAL_PAGE_DATE",
+        "quote": "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 12",
+        "source": {
+          "accessed_at": "2026-10-09T05:39:01.981001+00:00",
+          "content_type": "text/html",
+          "final_url": "https://www.federalreserve.gov/newsevents/2024-november.htm",
+          "http_status": 200,
+          "linked_from": [
+            "https://www.federalreserve.gov/data/sloos/sloos-202410.htm"
+          ],
+          "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+          "role": "historical_release_calendar",
+          "source_path": "research/phase3/data/credit/raw/5dbc772f77308470.bin",
+          "source_sha256": "49cfe4609d44f6bfafaeb3db90a4659fbb46515fc9927b33c277da329546b084",
+          "url": "https://www.federalreserve.gov/newsevents/2024-november.htm"
+        },
+        "text_path": null
+      },
+      "location_clue": "Last Update: November 12, 2024",
+      "matches": [
+        [
+          12,
+          "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 12"
+        ]
+      ],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202410.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:02.169303+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2025-february.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202501.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/7aa463c639f8fbf3.bin",
+        "source_sha256": "69e5af099933df3a54b9d2cd0883edc82ef95acd5ba068221b792d8630a64541",
+        "url": "https://www.federalreserve.gov/newsevents/2025-february.htm"
+      },
+      "date_proof": {
+        "publication_date": "2025-02-03",
+        "quality": "OFFICIAL_HISTORICAL_CALENDAR_MATCHING_ORIGINAL_PAGE_DATE",
+        "quote": "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 3",
+        "source": {
+          "accessed_at": "2026-10-09T05:39:02.169303+00:00",
+          "content_type": "text/html",
+          "final_url": "https://www.federalreserve.gov/newsevents/2025-february.htm",
+          "http_status": 200,
+          "linked_from": [
+            "https://www.federalreserve.gov/data/sloos/sloos-202501.htm"
+          ],
+          "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+          "role": "historical_release_calendar",
+          "source_path": "research/phase3/data/credit/raw/7aa463c639f8fbf3.bin",
+          "source_sha256": "69e5af099933df3a54b9d2cd0883edc82ef95acd5ba068221b792d8630a64541",
+          "url": "https://www.federalreserve.gov/newsevents/2025-february.htm"
+        },
+        "text_path": null
+      },
+      "location_clue": "Last Update: February 03, 2025",
+      "matches": [
+        [
+          3,
+          "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 3"
+        ]
+      ],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202501.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:02.374105+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2025-may.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202504.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/fa587469fabd9ef9.bin",
+        "source_sha256": "8f6ead1ddba12d74e70c300a09422799404ec700b83f605be4266881a3c85855",
+        "url": "https://www.federalreserve.gov/newsevents/2025-may.htm"
+      },
+      "date_proof": {
+        "publication_date": "2025-05-12",
+        "quality": "OFFICIAL_HISTORICAL_CALENDAR_MATCHING_ORIGINAL_PAGE_DATE",
+        "quote": "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 12",
+        "source": {
+          "accessed_at": "2026-10-09T05:39:02.374105+00:00",
+          "content_type": "text/html",
+          "final_url": "https://www.federalreserve.gov/newsevents/2025-may.htm",
+          "http_status": 200,
+          "linked_from": [
+            "https://www.federalreserve.gov/data/sloos/sloos-202504.htm"
+          ],
+          "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+          "role": "historical_release_calendar",
+          "source_path": "research/phase3/data/credit/raw/fa587469fabd9ef9.bin",
+          "source_sha256": "8f6ead1ddba12d74e70c300a09422799404ec700b83f605be4266881a3c85855",
+          "url": "https://www.federalreserve.gov/newsevents/2025-may.htm"
+        },
+        "text_path": null
+      },
+      "location_clue": "Last Update: May 12, 2025",
+      "matches": [
+        [
+          12,
+          "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 12"
+        ]
+      ],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202504.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:02.544625+00:00",
+        "content_type": "text/html",
+        "final_url": "https://www.federalreserve.gov/newsevents/2025-august.htm",
+        "http_status": 200,
+        "linked_from": [
+          "https://www.federalreserve.gov/data/sloos/sloos-202507.htm"
+        ],
+        "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+        "role": "historical_release_calendar",
+        "source_path": "research/phase3/data/credit/raw/5c7b553db8ee12b0.bin",
+        "source_sha256": "d62dc39461f9dfb753d7039b9266b396f42a3c6a883fad692959e6d9e54d8ca2",
+        "url": "https://www.federalreserve.gov/newsevents/2025-august.htm"
+      },
+      "date_proof": {
+        "publication_date": "2025-08-04",
+        "quality": "OFFICIAL_HISTORICAL_CALENDAR_MATCHING_ORIGINAL_PAGE_DATE",
+        "quote": "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 4",
+        "source": {
+          "accessed_at": "2026-10-09T05:39:02.544625+00:00",
+          "content_type": "text/html",
+          "final_url": "https://www.federalreserve.gov/newsevents/2025-august.htm",
+          "http_status": 200,
+          "linked_from": [
+            "https://www.federalreserve.gov/data/sloos/sloos-202507.htm"
+          ],
+          "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+          "role": "historical_release_calendar",
+          "source_path": "research/phase3/data/credit/raw/5c7b553db8ee12b0.bin",
+          "source_sha256": "d62dc39461f9dfb753d7039b9266b396f42a3c6a883fad692959e6d9e54d8ca2",
+          "url": "https://www.federalreserve.gov/newsevents/2025-august.htm"
+        },
+        "text_path": null
+      },
+      "location_clue": "Last Update: August 04, 2025",
+      "matches": [
+        [
+          4,
+          "2:00 p.m. | Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) | 4"
+        ]
+      ],
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202507.htm"
+    },
+    {
+      "calendar_source": {
+        "accessed_at": "2026-10-09T05:39:02.720665+00:00",
+        "error": "HTTP Error 404: Not Found",
+        "http_status": 404,
+        "role": "historical_release_calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2025-november.htm"
+      },
+      "date_proof": null,
+      "location_clue": "Last Update: November 03, 2025",
+      "release_url": "https://www.federalreserve.gov/data/sloos/sloos-202510.htm"
+    }
+  ],
+  "selection": "All original releases without explicit PDF cover date; last-update month only locates official calendar; exact matching required."
+}

@@ -1,0 +1,2203 @@
+{
+  "analysis_status": "POST_REVEAL_ERROR_AUDIT_NOT_NEW_CONFIRMATORY_TEST",
+  "audit_examples": [
+    {
+      "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+      "known_at_t": {
+        "annual_volatility_known_at_t": 0.19559270153448977,
+        "asset_id": "SOXX",
+        "cutoff_at": "2007-09-30T23:59:59+00:00",
+        "episode_id": "NIGHT_SECTOR_V002-017",
+        "exposure": 1,
+        "input_path": "research/replays/NIGHT_SECTOR_V002/ex_ante/NIGHT_SECTOR_V002-017.input.v001.json",
+        "input_sha256": "f35a86fc57f6da2f0cdb392e2872d8884c5044b36929605c45dde6a3d7750563",
+        "market": "US",
+        "prediction_path": "research/replays/NIGHT_SECTOR_V002/run/predictions/NIGHT_SECTOR_V002-017.v001.json",
+        "prediction_sha256": "3fde1c583edf4b0ebb2524799f244ed931267a8e6123973e3e39e446cb2fc781",
+        "probability_up": 0.6,
+        "r252_known_at_t": 0.10214312188060903,
+        "r63_known_at_t": 0.026293234532380305
+      },
+      "known_at_t_price_evidence": [
+        {
+          "available_at": "2006-09-28T04:00:00+00:00",
+          "date": "2006-09-27",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_SOXX:PRICE:2006-09-27",
+          "source_id": "YAHOO_CHART_SOXX",
+          "source_sha256": "f38eab88e0591dce9cf74413c19264eff4944269a95f9059eb873b571372af56"
+        },
+        {
+          "available_at": "2007-06-30T04:00:00+00:00",
+          "date": "2007-06-29",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_SOXX:PRICE:2007-06-29",
+          "source_id": "YAHOO_CHART_SOXX",
+          "source_sha256": "f38eab88e0591dce9cf74413c19264eff4944269a95f9059eb873b571372af56"
+        },
+        {
+          "available_at": "2007-09-29T04:00:00+00:00",
+          "date": "2007-09-28",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_SOXX:PRICE:2007-09-28",
+          "source_id": "YAHOO_CHART_SOXX",
+          "source_sha256": "f38eab88e0591dce9cf74413c19264eff4944269a95f9059eb873b571372af56"
+        }
+      ],
+      "known_only_after_t": {
+        "actual_scenario": "Bear",
+        "classification": "FALSE_POSITIVE",
+        "entry_date": "2007-10-01",
+        "exit_date": "2008-09-30",
+        "label_path": "research/replays/NIGHT_SECTOR_V002/run/labels/NIGHT_SECTOR_V002-017.v001.json",
+        "label_sha256": "5c34632e6d96c7be0d9b151469e5d5393f3529789c2bae3ecaf0223b80130191",
+        "max_adverse_excursion_gross": -0.43210233136999354,
+        "max_favorable_excursion_gross": 0.023865685343116283,
+        "net_return": -0.43493473869483146,
+        "no_trade_class": null
+      },
+      "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+    },
+    {
+      "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+      "known_at_t": {
+        "annual_volatility_known_at_t": 0.5566114639866652,
+        "asset_id": "XLE",
+        "cutoff_at": "2020-09-30T23:59:59+00:00",
+        "episode_id": "NIGHT_SECTOR_V002-122",
+        "exposure": 0,
+        "input_path": "research/replays/NIGHT_SECTOR_V002/ex_ante/NIGHT_SECTOR_V002-122.input.v001.json",
+        "input_sha256": "43452e74aedc93988956ebff13a0a3a90b19829be26611a0f9ffcf4c902ac98a",
+        "market": "US",
+        "prediction_path": "research/replays/NIGHT_SECTOR_V002/run/predictions/NIGHT_SECTOR_V002-122.v001.json",
+        "prediction_sha256": "8aa8722f19ff4cb76a579160ddcf7c64761d84c58217da4091129d8039b9f55c",
+        "probability_up": 0.4,
+        "r252_known_at_t": -0.4434113810435065,
+        "r63_known_at_t": -0.19283589470329754
+      },
+      "known_at_t_price_evidence": [
+        {
+          "available_at": "2019-10-01T04:00:00+00:00",
+          "date": "2019-09-30",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_XLE:PRICE:2019-09-30",
+          "source_id": "YAHOO_CHART_XLE",
+          "source_sha256": "6a867d1836e7d0eac5ae6dd5a04cb3ea31045c0c47dc411187f2d7256f4ff050"
+        },
+        {
+          "available_at": "2020-07-01T04:00:00+00:00",
+          "date": "2020-06-30",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_XLE:PRICE:2020-06-30",
+          "source_id": "YAHOO_CHART_XLE",
+          "source_sha256": "6a867d1836e7d0eac5ae6dd5a04cb3ea31045c0c47dc411187f2d7256f4ff050"
+        },
+        {
+          "available_at": "2020-09-30T04:00:00+00:00",
+          "date": "2020-09-29",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_XLE:PRICE:2020-09-29",
+          "source_id": "YAHOO_CHART_XLE",
+          "source_sha256": "6a867d1836e7d0eac5ae6dd5a04cb3ea31045c0c47dc411187f2d7256f4ff050"
+        }
+      ],
+      "known_only_after_t": {
+        "actual_scenario": "Bull",
+        "classification": "FALSE_NEGATIVE",
+        "entry_date": "2020-10-01",
+        "exit_date": "2021-10-01",
+        "label_path": "research/replays/NIGHT_SECTOR_V002/run/labels/NIGHT_SECTOR_V002-122.v001.json",
+        "label_sha256": "20b316ef9e80d3d853bd583ae8b3e0ebc8569be1931279d3f096e98a0c8f8b3c",
+        "max_adverse_excursion_gross": -0.08912900817680725,
+        "max_favorable_excursion_gross": 0.9594100173148117,
+        "net_return": 0.8463325234049139,
+        "no_trade_class": "MISSED_OPPORTUNITY_PROXY"
+      },
+      "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+    },
+    {
+      "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+      "known_at_t": {
+        "annual_volatility_known_at_t": 0.1965453499785356,
+        "asset_id": "HSI",
+        "cutoff_at": "2007-09-30T23:59:59+00:00",
+        "episode_id": "NIGHT_XTIME_V003-007",
+        "exposure": 1,
+        "input_path": "research/replays/NIGHT_XTIME_V003/ex_ante/NIGHT_XTIME_V003-007.input.v001.json",
+        "input_sha256": "e389ac7d36f3d12171497aff674469f03abfb08d165e945f3a86c522e1979806",
+        "market": "HK",
+        "prediction_path": "research/replays/NIGHT_XTIME_V003/run/predictions/NIGHT_XTIME_V003-007.v001.json",
+        "prediction_sha256": "f125ff5dc1edc3ddc96879e0c51d3049a0dc98220820b03dc0e787a3a5b8de2c",
+        "probability_up": 0.6,
+        "r252_known_at_t": 0.5498504678900773,
+        "r63_known_at_t": 0.24662686391502864
+      },
+      "known_at_t_price_evidence": [
+        {
+          "available_at": "2006-09-20T16:00:00+00:00",
+          "date": "2006-09-20",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_HSI:PRICE:2006-09-20",
+          "source_id": "YAHOO_CHART_HSI",
+          "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+        },
+        {
+          "available_at": "2007-06-29T16:00:00+00:00",
+          "date": "2007-06-29",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_HSI:PRICE:2007-06-29",
+          "source_id": "YAHOO_CHART_HSI",
+          "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+        },
+        {
+          "available_at": "2007-09-28T16:00:00+00:00",
+          "date": "2007-09-28",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_HSI:PRICE:2007-09-28",
+          "source_id": "YAHOO_CHART_HSI",
+          "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+        }
+      ],
+      "known_only_after_t": {
+        "actual_scenario": "Bear",
+        "classification": "FALSE_POSITIVE",
+        "entry_date": "2007-10-02",
+        "exit_date": "2008-10-14",
+        "label_path": "research/replays/NIGHT_XTIME_V003/run/labels/NIGHT_XTIME_V003-007.v001.json",
+        "label_sha256": "869f4ef1569d9985d44d64871682dfad85e1e9f03ea40aac287abc19f68e76cd",
+        "max_adverse_excursion_gross": -0.48238194309429616,
+        "max_favorable_excursion_gross": 0.14888385364039403,
+        "net_return": -0.38686384746917535,
+        "no_trade_class": null
+      },
+      "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+    },
+    {
+      "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+      "known_at_t": {
+        "annual_volatility_known_at_t": 0.4934099192283882,
+        "asset_id": "HSI",
+        "cutoff_at": "2009-03-31T23:59:59+00:00",
+        "episode_id": "NIGHT_CALENDAR_CONTROL-013",
+        "exposure": 0,
+        "input_path": "research/replays/NIGHT_CALENDAR_CONTROL/ex_ante/NIGHT_CALENDAR_CONTROL-013.input.v001.json",
+        "input_sha256": "e03a5a6b85f416f58035c64f30f0873ffcd59da091e465e138a111ab6ad4781b",
+        "market": "HK",
+        "prediction_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/predictions/NIGHT_CALENDAR_CONTROL-013.v001.json",
+        "prediction_sha256": "53a2c47fe86614fcd406732307a4b9c9a2909dc2bbd2add2ae3ae96e1c39155a",
+        "probability_up": 0.4,
+        "r252_known_at_t": -0.36514998739601623,
+        "r63_known_at_t": -0.04287324661629888
+      },
+      "known_at_t_price_evidence": [
+        {
+          "available_at": "2008-03-18T16:00:00+00:00",
+          "date": "2008-03-18",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_HSI:PRICE:2008-03-18",
+          "source_id": "YAHOO_CHART_HSI",
+          "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+        },
+        {
+          "available_at": "2008-12-24T16:00:00+00:00",
+          "date": "2008-12-24",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_HSI:PRICE:2008-12-24",
+          "source_id": "YAHOO_CHART_HSI",
+          "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+        },
+        {
+          "available_at": "2009-03-31T16:00:00+00:00",
+          "date": "2009-03-31",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_HSI:PRICE:2009-03-31",
+          "source_id": "YAHOO_CHART_HSI",
+          "source_sha256": "6ff81bd7c454cdb623557217714d8ced13ba93c2e6daae23458d4b33c6193900"
+        }
+      ],
+      "known_only_after_t": {
+        "actual_scenario": "Bull",
+        "classification": "FALSE_NEGATIVE",
+        "entry_date": "2009-04-01",
+        "exit_date": "2010-04-08",
+        "label_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/labels/NIGHT_CALENDAR_CONTROL-013.v001.json",
+        "label_sha256": "8b4074313623b37fdcf966fa64cca133975760391192828cd0ab362a503f3356",
+        "max_adverse_excursion_gross": -0.02432600591868994,
+        "max_favorable_excursion_gross": 0.680435643766933,
+        "net_return": 0.5806217138705101,
+        "no_trade_class": "MISSED_OPPORTUNITY_PROXY"
+      },
+      "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+    },
+    {
+      "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+      "known_at_t": {
+        "annual_volatility_known_at_t": 0.18033615259608457,
+        "asset_id": "N225",
+        "cutoff_at": "2007-03-31T23:59:59+00:00",
+        "episode_id": "NIGHT_CALENDAR_CONTROL-008",
+        "exposure": 1,
+        "input_path": "research/replays/NIGHT_CALENDAR_CONTROL/ex_ante/NIGHT_CALENDAR_CONTROL-008.input.v001.json",
+        "input_sha256": "a3fc049c504a8049842e6cbe30845d34a01fb5b2a58c24485a5a3278fbb4d8e9",
+        "market": "JP",
+        "prediction_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/predictions/NIGHT_CALENDAR_CONTROL-008.v001.json",
+        "prediction_sha256": "1b1fcd7fc41fe775a1fb33a3b40fc7f6266e5e30bd5b302affeb53db3b52f550",
+        "probability_up": 0.6,
+        "r252_known_at_t": 0.04841187332226582,
+        "r63_known_at_t": 0.011394197148851593
+      },
+      "known_at_t_price_evidence": [
+        {
+          "available_at": "2006-03-23T15:00:00+00:00",
+          "date": "2006-03-23",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_N225:PRICE:2006-03-23",
+          "source_id": "YAHOO_CHART_N225",
+          "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+        },
+        {
+          "available_at": "2006-12-25T15:00:00+00:00",
+          "date": "2006-12-25",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_N225:PRICE:2006-12-25",
+          "source_id": "YAHOO_CHART_N225",
+          "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+        },
+        {
+          "available_at": "2007-03-30T15:00:00+00:00",
+          "date": "2007-03-30",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_N225:PRICE:2007-03-30",
+          "source_id": "YAHOO_CHART_N225",
+          "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+        }
+      ],
+      "known_only_after_t": {
+        "actual_scenario": "Bear",
+        "classification": "FALSE_POSITIVE",
+        "entry_date": "2007-04-02",
+        "exit_date": "2008-04-10",
+        "label_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/labels/NIGHT_CALENDAR_CONTROL-008.v001.json",
+        "label_sha256": "72ca8869229a0e71563012acf160c1f7e8ac42e624317883d5c77b0198db7be7",
+        "max_adverse_excursion_gross": -0.3260214743820711,
+        "max_favorable_excursion_gross": 0.054810117460546204,
+        "net_return": -0.2525864098053221,
+        "no_trade_class": null
+      },
+      "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+    },
+    {
+      "cause_status": "UNIDENTIFIED_CAUSE_CREDIT_VALUATION_EXPECTATIONS_NOT_OBSERVED_AT_T",
+      "known_at_t": {
+        "annual_volatility_known_at_t": 0.21649919359036598,
+        "asset_id": "N225",
+        "cutoff_at": "2020-03-31T23:59:59+00:00",
+        "episode_id": "NIGHT_CALENDAR_CONTROL-047",
+        "exposure": 0,
+        "input_path": "research/replays/NIGHT_CALENDAR_CONTROL/ex_ante/NIGHT_CALENDAR_CONTROL-047.input.v001.json",
+        "input_sha256": "a8f1421ffac428da3c7e680a0ab46d3eb0ed3e88ee9fc6b9ce23d851589aa96b",
+        "market": "JP",
+        "prediction_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/predictions/NIGHT_CALENDAR_CONTROL-047.v001.json",
+        "prediction_sha256": "7d140b392a3aa726b9ddacf67ef5a28573d59d5460ccf6ba68dbbc1cf2da973e",
+        "probability_up": 0.4,
+        "r252_known_at_t": -0.1114703470991476,
+        "r63_known_at_t": -0.20587200756157065
+      },
+      "known_at_t_price_evidence": [
+        {
+          "available_at": "2019-03-13T15:00:00+00:00",
+          "date": "2019-03-13",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_N225:PRICE:2019-03-13",
+          "source_id": "YAHOO_CHART_N225",
+          "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+        },
+        {
+          "available_at": "2019-12-23T15:00:00+00:00",
+          "date": "2019-12-23",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_N225:PRICE:2019-12-23",
+          "source_id": "YAHOO_CHART_N225",
+          "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+        },
+        {
+          "available_at": "2020-03-31T15:00:00+00:00",
+          "date": "2020-03-31",
+          "pit_status": "KNOWN_MARKET_OBSERVATION_RECONSTRUCTED",
+          "record_id": "YAHOO_CHART_N225:PRICE:2020-03-31",
+          "source_id": "YAHOO_CHART_N225",
+          "source_sha256": "1445f2785b5a54018f14ed35ae64b8efe6d7ff38eb6d2112a571a2f86b88e246"
+        }
+      ],
+      "known_only_after_t": {
+        "actual_scenario": "Bull",
+        "classification": "FALSE_NEGATIVE",
+        "entry_date": "2020-04-01",
+        "exit_date": "2021-04-13",
+        "label_path": "research/replays/NIGHT_CALENDAR_CONTROL/run/labels/NIGHT_CALENDAR_CONTROL-047.v001.json",
+        "label_sha256": "22fa44b58410867ebaf5517ba5daba3a41d52055868d666b2ad5fbdfc9956048",
+        "max_adverse_excursion_gross": -0.05563590453433376,
+        "max_favorable_excursion_gross": 0.6437077865180882,
+        "net_return": 0.5764659281264559,
+        "no_trade_class": "MISSED_OPPORTUNITY_PROXY"
+      },
+      "selection": "POST_REVEAL_DIAGNOSTIC_EXTREME_PER_MARKET_AND_ERROR_CLASS_NOT_CONFIRMATORY"
+    }
+  ],
+  "batch_counts": {
+    "NIGHT_ASHARE": {
+      "horizon_statuses": {
+        "12m": {
+          "REVEALED": 14,
+          "UNRESOLVED_DATA": 28
+        },
+        "1m": {
+          "REVEALED": 14,
+          "UNRESOLVED_DATA": 28
+        },
+        "1w": {
+          "REVEALED": 14,
+          "UNRESOLVED_DATA": 28
+        },
+        "24m": {
+          "PENDING_HORIZON": 1,
+          "REVEALED": 13,
+          "UNRESOLVED_DATA": 28
+        },
+        "3m": {
+          "REVEALED": 14,
+          "UNRESOLVED_DATA": 28
+        },
+        "6m": {
+          "REVEALED": 14,
+          "UNRESOLVED_DATA": 28
+        }
+      },
+      "selected_rows": 42
+    },
+    "NIGHT_CALENDAR_CONTROL": {
+      "horizon_statuses": {
+        "12m": {
+          "REVEALED": 60
+        },
+        "1m": {
+          "REVEALED": 60
+        },
+        "1w": {
+          "REVEALED": 60
+        },
+        "24m": {
+          "REVEALED": 60
+        },
+        "3m": {
+          "REVEALED": 60
+        },
+        "6m": {
+          "REVEALED": 60
+        }
+      },
+      "selected_rows": 60
+    },
+    "NIGHT_EARLY": {
+      "horizon_statuses": {
+        "12m": {
+          "REVEALED": 20,
+          "UNRESOLVED_DATA": 2
+        },
+        "1m": {
+          "REVEALED": 20,
+          "UNRESOLVED_DATA": 2
+        },
+        "1w": {
+          "REVEALED": 20,
+          "UNRESOLVED_DATA": 2
+        },
+        "24m": {
+          "REVEALED": 20,
+          "UNRESOLVED_DATA": 2
+        },
+        "3m": {
+          "REVEALED": 20,
+          "UNRESOLVED_DATA": 2
+        },
+        "6m": {
+          "REVEALED": 20,
+          "UNRESOLVED_DATA": 2
+        }
+      },
+      "selected_rows": 22
+    },
+    "NIGHT_RECENT": {
+      "horizon_statuses": {
+        "12m": {
+          "PENDING_HORIZON": 3,
+          "REVEALED": 12,
+          "UNRESOLVED_DATA": 3
+        },
+        "1m": {
+          "REVEALED": 15,
+          "UNRESOLVED_DATA": 3
+        },
+        "1w": {
+          "REVEALED": 15,
+          "UNRESOLVED_DATA": 3
+        },
+        "24m": {
+          "PENDING_HORIZON": 15,
+          "UNRESOLVED_DATA": 3
+        },
+        "3m": {
+          "REVEALED": 15,
+          "UNRESOLVED_DATA": 3
+        },
+        "6m": {
+          "REVEALED": 15,
+          "UNRESOLVED_DATA": 3
+        }
+      },
+      "selected_rows": 18
+    },
+    "NIGHT_SECTOR_V002": {
+      "horizon_statuses": {
+        "12m": {
+          "REVEALED": 140,
+          "UNRESOLVED_DATA": 20
+        },
+        "1m": {
+          "REVEALED": 140,
+          "UNRESOLVED_DATA": 20
+        },
+        "1w": {
+          "REVEALED": 140,
+          "UNRESOLVED_DATA": 20
+        },
+        "24m": {
+          "REVEALED": 140,
+          "UNRESOLVED_DATA": 20
+        },
+        "3m": {
+          "REVEALED": 140,
+          "UNRESOLVED_DATA": 20
+        },
+        "6m": {
+          "REVEALED": 140,
+          "UNRESOLVED_DATA": 20
+        }
+      },
+      "selected_rows": 160
+    },
+    "NIGHT_XASSET": {
+      "horizon_statuses": {
+        "12m": {
+          "REVEALED": 68
+        },
+        "1m": {
+          "REVEALED": 68
+        },
+        "1w": {
+          "REVEALED": 68
+        },
+        "24m": {
+          "REVEALED": 68
+        },
+        "3m": {
+          "REVEALED": 68
+        },
+        "6m": {
+          "REVEALED": 68
+        }
+      },
+      "selected_rows": 68
+    },
+    "NIGHT_XTIME_V003": {
+      "horizon_statuses": {
+        "12m": {
+          "REVEALED": 36
+        },
+        "1m": {
+          "REVEALED": 36
+        },
+        "1w": {
+          "REVEALED": 36
+        },
+        "24m": {
+          "PENDING_HORIZON": 2,
+          "REVEALED": 34
+        },
+        "3m": {
+          "REVEALED": 36
+        },
+        "6m": {
+          "REVEALED": 36
+        }
+      },
+      "selected_rows": 36
+    },
+    "ROUND_002_V003": {
+      "horizon_statuses": {
+        "12m": {
+          "REVEALED": 24
+        },
+        "1m": {
+          "REVEALED": 24
+        },
+        "1w": {
+          "REVEALED": 24
+        },
+        "24m": {
+          "REVEALED": 24
+        },
+        "3m": {
+          "REVEALED": 24
+        },
+        "6m": {
+          "REVEALED": 24
+        }
+      },
+      "selected_rows": 24
+    }
+  },
+  "causal_attribution_status": "UNIDENTIFIED",
+  "feature_diagnostics": {
+    "ABSTAIN": {
+      "mean_gross_mae": -0.10301044779682354,
+      "mean_net_label": 0.09844814069779134,
+      "mean_past_annual_volatility": 0.20748774301390277,
+      "mean_r252": 0.09402968126455735,
+      "mean_r63": -0.018058318655170037,
+      "n": 89
+    },
+    "FALSE_NEGATIVE": {
+      "mean_gross_mae": -0.08445403362540957,
+      "mean_net_label": 0.21508185861084475,
+      "mean_past_annual_volatility": 0.22754897542953934,
+      "mean_r252": -0.13414347876297786,
+      "mean_r63": -0.09197040900961526,
+      "n": 52
+    },
+    "FALSE_POSITIVE": {
+      "mean_gross_mae": -0.19866910778759592,
+      "mean_net_label": -0.13082075443893448,
+      "mean_past_annual_volatility": 0.1674150589169594,
+      "mean_r252": 0.2347246815725154,
+      "mean_r63": 0.06872113585190431,
+      "n": 50
+    },
+    "TRUE_NEGATIVE": {
+      "mean_gross_mae": -0.22681900992642395,
+      "mean_net_label": -0.09485614997661652,
+      "mean_past_annual_volatility": 0.18256646636343613,
+      "mean_r252": -0.12215811413360787,
+      "mean_r63": -0.08291748057300288,
+      "n": 27
+    },
+    "TRUE_POSITIVE": {
+      "mean_gross_mae": -0.06614741091120777,
+      "mean_net_label": 0.1791410508469,
+      "mean_past_annual_volatility": 0.18247975078539147,
+      "mean_r252": 0.18787344580401244,
+      "mean_r63": 0.07449042564725648,
+      "n": 156
+    }
+  },
+  "hash_and_cutoff_assertions": "PASS",
+  "independent_sample_size": "UNKNOWN_DEPENDENT_OVERLAPPING_EPISODES",
+  "missing_comparison": {
+    "expanded_374": {
+      "ABSTAIN": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 748.4791550925926,
+            "mean_days": 88.58629794973545,
+            "n_observed": 28
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 741.249988425926,
+            "mean_days": 81.53570271164021,
+            "n_observed": 28
+          },
+          "Rates": {
+            "max_days": 741.249988425926,
+            "mean_days": 81.53570271164021,
+            "n_observed": 28
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Inflation": {
+            "fraction_missing": 0.6853932584269663,
+            "n_missing": 61
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Policy": {
+            "fraction_missing": 0.6853932584269663,
+            "n_missing": 61
+          },
+          "Rates": {
+            "fraction_missing": 0.6853932584269663,
+            "n_missing": 61
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 89
+          }
+        },
+        "n": 89
+      },
+      "ALL": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 748.4791550925926,
+            "mean_days": 131.51040509259258,
+            "n_observed": 128
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 741.249988425926,
+            "mean_days": 124.07811342592593,
+            "n_observed": 128
+          },
+          "Rates": {
+            "max_days": 741.249988425926,
+            "mean_days": 124.07811342592593,
+            "n_observed": 128
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Inflation": {
+            "fraction_missing": 0.6577540106951871,
+            "n_missing": 246
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Policy": {
+            "fraction_missing": 0.6577540106951871,
+            "n_missing": 246
+          },
+          "Rates": {
+            "fraction_missing": 0.6577540106951871,
+            "n_missing": 246
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 374
+          }
+        },
+        "n": 374
+      },
+      "CORRECT_TP_TN": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 748.4791550925926,
+            "mean_days": 159.51090112433863,
+            "n_observed": 63
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 741.249988425926,
+            "mean_days": 152.45633763227514,
+            "n_observed": 63
+          },
+          "Rates": {
+            "max_days": 741.249988425926,
+            "mean_days": 152.45633763227514,
+            "n_observed": 63
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Inflation": {
+            "fraction_missing": 0.6557377049180327,
+            "n_missing": 120
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Policy": {
+            "fraction_missing": 0.6557377049180327,
+            "n_missing": 120
+          },
+          "Rates": {
+            "fraction_missing": 0.6557377049180327,
+            "n_missing": 120
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 183
+          }
+        },
+        "n": 183
+      },
+      "ERROR_FP_FN": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 748.4791550925926,
+            "mean_days": 116.31699293043043,
+            "n_observed": 37
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 741.249988425926,
+            "mean_days": 107.95269112862863,
+            "n_observed": 37
+          },
+          "Rates": {
+            "max_days": 741.249988425926,
+            "mean_days": 107.95269112862863,
+            "n_observed": 37
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Inflation": {
+            "fraction_missing": 0.6372549019607843,
+            "n_missing": 65
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Policy": {
+            "fraction_missing": 0.6372549019607843,
+            "n_missing": 65
+          },
+          "Rates": {
+            "fraction_missing": 0.6372549019607843,
+            "n_missing": 65
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 102
+          }
+        },
+        "n": 102
+      }
+    },
+    "original_282": {
+      "ABSTAIN": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 383.4791550925926,
+            "mean_days": 47.31248842592592,
+            "n_observed": 24
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 376.24998842592595,
+            "mean_days": 40.33332175925926,
+            "n_observed": 24
+          },
+          "Rates": {
+            "max_days": 376.24998842592595,
+            "mean_days": 40.33332175925926,
+            "n_observed": 24
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Inflation": {
+            "fraction_missing": 0.6363636363636364,
+            "n_missing": 42
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Policy": {
+            "fraction_missing": 0.6363636363636364,
+            "n_missing": 42
+          },
+          "Rates": {
+            "fraction_missing": 0.6363636363636364,
+            "n_missing": 42
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 66
+          }
+        },
+        "n": 66
+      },
+      "ALL": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 383.4791550925926,
+            "mean_days": 57.923599537037035,
+            "n_observed": 108
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 376.24998842592595,
+            "mean_days": 50.47221064814815,
+            "n_observed": 108
+          },
+          "Rates": {
+            "max_days": 376.24998842592595,
+            "mean_days": 50.47221064814815,
+            "n_observed": 108
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Inflation": {
+            "fraction_missing": 0.6170212765957447,
+            "n_missing": 174
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Policy": {
+            "fraction_missing": 0.6170212765957447,
+            "n_missing": 174
+          },
+          "Rates": {
+            "fraction_missing": 0.6170212765957447,
+            "n_missing": 174
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 282
+          }
+        },
+        "n": 282
+      },
+      "CORRECT_TP_TN": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 383.4791550925926,
+            "mean_days": 66.5945397079772,
+            "n_observed": 52
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 376.24998842592595,
+            "mean_days": 59.49998842592593,
+            "n_observed": 52
+          },
+          "Rates": {
+            "max_days": 376.24998842592595,
+            "mean_days": 59.49998842592593,
+            "n_observed": 52
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Inflation": {
+            "fraction_missing": 0.6312056737588653,
+            "n_missing": 89
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Policy": {
+            "fraction_missing": 0.6312056737588653,
+            "n_missing": 89
+          },
+          "Rates": {
+            "fraction_missing": 0.6312056737588653,
+            "n_missing": 89
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 141
+          }
+        },
+        "n": 141
+      },
+      "ERROR_FP_FN": {
+        "latest_observation_age_days": {
+          "Breadth": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Capital Actions": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Credit": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Earnings": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Industry": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Inflation": {
+            "max_days": 383.4791550925926,
+            "mean_days": 51.79165509259259,
+            "n_observed": 32
+          },
+          "Liquidity": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Macro": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "News": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Policy": {
+            "max_days": 376.24998842592595,
+            "mean_days": 43.40623842592593,
+            "n_observed": 32
+          },
+          "Rates": {
+            "max_days": 376.24998842592595,
+            "mean_days": 43.40623842592593,
+            "n_observed": 32
+          },
+          "Sentiment": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          },
+          "Valuation": {
+            "max_days": null,
+            "mean_days": null,
+            "n_observed": 0
+          }
+        },
+        "missing_context": {
+          "Breadth": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Capital Actions": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Credit": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Earnings": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Industry": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Inflation": {
+            "fraction_missing": 0.5733333333333334,
+            "n_missing": 43
+          },
+          "Liquidity": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Macro": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "News": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Policy": {
+            "fraction_missing": 0.5733333333333334,
+            "n_missing": 43
+          },
+          "Rates": {
+            "fraction_missing": 0.5733333333333334,
+            "n_missing": 43
+          },
+          "Sentiment": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          },
+          "Valuation": {
+            "fraction_missing": 1,
+            "n_missing": 75
+          }
+        },
+        "n": 75
+      }
+    }
+  },
+  "no_parameter_search": true,
+  "primary_horizon": "12m",
+  "provenance": {
+    "NIGHT_ASHARE": {
+      "all_locks_sha256": "264042a0b54d5f519287ebebc7788c200f261084fdfcc5927f124ecca537b667",
+      "evaluation_summary_sha256": "c55471bf13d98a7c3fd13042536836076c9e845b5836f60e5536e490739c3042",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "98483743ed7904c1a738d1077afe9a9fefa56a9124c6dc1740004100debbfa4b",
+      "preregistration_sha256": "a90ff17b6d339af3035096500984f6ef8d96224565486bbd9858a6e28006a563",
+      "selection_sha256": "adb7e4220dc4eeab724b6c06b51b0aedd33cc519f10d8050f3bcf8184bf17f64",
+      "source_bundle_sha256": "b845e59884fab4922997e7bbb9ecc78822f5f8d4b49d8f6e314a49bc0ed0d92b"
+    },
+    "NIGHT_CALENDAR_CONTROL": {
+      "all_locks_sha256": "07dae04ebb56d6a3a52f489ef460c77d2a704f07bfe5ae82711ade5c7e76c911",
+      "evaluation_summary_sha256": "980ec577c5bd7edcb7923c7c6cd4343fb5905fcd0b1b8fb29f6f244747547d24",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "ef3c4d405bd0874e93b47fa15cd4e97051a9d6f4a037b7ee5d8c4059311c7896",
+      "preregistration_sha256": "0a4fdfb58181825b2578785b00ce4090909ff191d7f800992107d31415763aec",
+      "selection_sha256": "d1774388baa6f465a5f99e594d05731c3afb0a13c23fd629fe540d86148cbe3f",
+      "source_bundle_sha256": "d4af501d1a89141ce42670240d94b3e1ac07b6c603266302c212bde2d1bffe14"
+    },
+    "NIGHT_EARLY": {
+      "all_locks_sha256": "055caa42bba7a9fbdbfe689aa4fa9b9048ea6cec665a236dd5c2eecdbafecdb9",
+      "evaluation_summary_sha256": "6bc50fd1f1d310f83105b231854696ab773b619a80b814b9adb16074e730fc2b",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "b1d3b4e6e00c08a6de8f4b1689416b1e49b46084dec6e0e6c4c7ad41d39965d1",
+      "preregistration_sha256": "78719ae1a892d231e55581858025e9e47d318ab4044d1fdaf997a955587fedc5",
+      "selection_sha256": "6db9e3cca07f5e8948c3492bd7c95433d65391b6ec0ec9dcf5270406c3e1177a",
+      "source_bundle_sha256": "13f24d9a62719fdc99e18361012ba96644653120682a3e5ba925389069bc026d"
+    },
+    "NIGHT_RECENT": {
+      "all_locks_sha256": "4baaf5f14a0fec55bafef3a852cc487d57a4e0b63bac6802eb17e7723ede4a27",
+      "evaluation_summary_sha256": "4bee9d38a5049f0ea4c8428d5897f6f35a14c9540f9e36a28b5a896adceb3b5d",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "47b2ca87c0775d22055198bb3571f51be4d742902873e5f8888d992f0aac5dfb",
+      "preregistration_sha256": "5f6faa2fc26b7637a1646ae533b3deb6e30b04a65a0ccecd0d584047b96b3533",
+      "selection_sha256": "bedeb3a1ca4b399e274ff2992f2a511aff09151addc290c4d2dc265019bee035",
+      "source_bundle_sha256": "5bbaa29371e0d9623563b545d12facf055f787d7e926b510024f325155754855"
+    },
+    "NIGHT_SECTOR_V002": {
+      "all_locks_sha256": "aae1d62cda0403493bde0433626a8fcf72c5440110e4a0ea1e29ab7d43a62612",
+      "evaluation_summary_sha256": "5d1ce7f75e2479614fc3963add3381d9c90f918af29fb8b46427e67f341c4b36",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "ea4ea9079f7522068eaa785cc43cb254ed093b9f14efe5d97d8dc716ea1bb584",
+      "preregistration_sha256": "efb9611554901bf489972f19aa15208347fa42f413ec3a7cba838b1a1e600297",
+      "selection_sha256": "85cec2b51e610d2f09a6bcccbad8b4539d00fb0cd848239ff4290c547bc8555c",
+      "source_bundle_sha256": "483bb56ecb53507d11568a5d7543c93cd8f9815b578c003a06bc5f1c9bb8edfd"
+    },
+    "NIGHT_XASSET": {
+      "all_locks_sha256": "87e7a9cf1d47c6c1c9313e9296176c64524334ecaa8da092fe6b462fd3b031a8",
+      "evaluation_summary_sha256": "09e311446f2b148331311fad82c4215e54637279f1536e30e41ad1c5e5e28fbc",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "60aeb3f0e6c6e93b51656c0ec97ef1dc5bd95bc9e499fad27f035adef86bfe53",
+      "preregistration_sha256": "6aec3a4d18aa85252feee57b3223a5bcdd1d000158977f1deb7de93e5f058dc5",
+      "selection_sha256": "fb646a4a1a3cd6de70ab652f870918d80b40c8fcdb1d557676d2b388d51f921e",
+      "source_bundle_sha256": "fc9770c976615da777af85832389f904c1388e2ddab29de089ffc48485df4102"
+    },
+    "NIGHT_XTIME_V003": {
+      "all_locks_sha256": "6a92f755b3facddbea77116605cc926d170cafdc07f13399dd2dc536f3411f08",
+      "evaluation_summary_sha256": "de96496b1adad59769a0ea3c6ecdaa9eda3ac95fadb0b25702b32b7998a8510c",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "0a904746b20a257b5e43a3a13b206c1da0b5b38003186379207ae3eb7123f4c1",
+      "preregistration_sha256": "1062e0117f2210c7217f341a433652bff067ab61c9ae3413adc491b3afdd2249",
+      "selection_sha256": "715f200ad4195917131a53e5f5b69633075e1b642aed0b61e33e38082ac3955e",
+      "source_bundle_sha256": "739d644b46063c6ffa74225264f6bd6584dd91699a9bf21cd6b897007b197e47"
+    },
+    "ROUND_002_V003": {
+      "all_locks_sha256": "8653e8b30252e26672e573bd0f8058c67aac32bfd7106ec68d1406fe615b55af",
+      "evaluation_summary_sha256": "f025a48997ad9e113ec06bbaf08bf34057176e7de8dcfc289fe0e498f4e765f5",
+      "implementation_sha256": {
+        "lab/evaluate.py": "e8da6e8f72dfa4eadf2e84d85ab8e4ff7c950852a0874c7c4dee41a3374da040",
+        "lab/replay.py": "b747ef29df0e53f80584261b4dfaf2f855d04f1e4354ae4d69e124fd5e8a38b4",
+        "lab/schema.py": "67155717d7d8ebb964848e9001ff4e429da0c1b38543c91520b4248fc56f3c26",
+        "lab/select.py": "3516c74bb4850c93a1c4a1047449937526dc5a150343c19a3ea73dfe69e87de8",
+        "scripts/run_replay.py": "591b56dc6d85d097f3d430b531c89e327c961286c2a74d7fff50a30fdff073c7"
+      },
+      "input_manifest_sha256": "8b2b49e70c51615b106fecda5de5cb152b6a5d08c3407800617845a213ce250a",
+      "preregistration_sha256": "9e865ebd93ebb2c1ab28e5ef5b54985b9471b1e6579000b5f63401ae569824af",
+      "selection_sha256": "5c9561e8478aa26271fece5e7424dc191afc15b4628da2cd4f296164dbbbbf5e",
+      "source_bundle_sha256": "831110a98deabd4268b211e2e751096b0d147114898b104a7b12db8d30a038fc"
+    }
+  },
+  "rule_sha256": "3f45039c4376334501be3e177bab113cc65d7f4b3296f9c6b2e82e66a57b5729",
+  "summaries": {
+    "expanded_374": {
+      "12m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.6582278481012658,
+            "mean_net_label": 0.10915367846069976,
+            "n": 79,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.7191011235955056,
+            "mean_net_label": 0.09844814069779134,
+            "n": 89,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.7572815533980582,
+            "mean_net_label": 0.10390760296198873,
+            "n": 206,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 89,
+          "FALSE_NEGATIVE": 52,
+          "FALSE_POSITIVE": 50,
+          "TRUE_NEGATIVE": 27,
+          "TRUE_POSITIVE": 156
+        },
+        "date_cluster_count": 43,
+        "direction_accuracy_on_nonabstained": 0.6421052631578947,
+        "n_mature": 374,
+        "n_selected": 430,
+        "n_unscored": 56,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 84,
+          "MISSED_OPPORTUNITY_PROXY": 84
+        },
+        "year_cluster_count": 23
+      },
+      "1m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.5569620253164557,
+            "mean_net_label": -0.0013487435993559977,
+            "n": 79,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.5842696629213483,
+            "mean_net_label": 0.012783323200483667,
+            "n": 89,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.5358851674641149,
+            "mean_net_label": 0.004735024247316442,
+            "n": 209,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 89,
+          "FALSE_NEGATIVE": 44,
+          "FALSE_POSITIVE": 97,
+          "TRUE_NEGATIVE": 35,
+          "TRUE_POSITIVE": 112
+        },
+        "date_cluster_count": 43,
+        "direction_accuracy_on_nonabstained": 0.5104166666666666,
+        "n_mature": 377,
+        "n_selected": 430,
+        "n_unscored": 53,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 111,
+          "MISSED_OPPORTUNITY_PROXY": 57
+        },
+        "year_cluster_count": 23
+      },
+      "1w": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.5063291139240507,
+            "mean_net_label": -0.015749366479328876,
+            "n": 79,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.5168539325842697,
+            "mean_net_label": 0.00411990626521203,
+            "n": 89,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.4784688995215311,
+            "mean_net_label": -0.0010641124726415787,
+            "n": 209,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 89,
+          "FALSE_NEGATIVE": 40,
+          "FALSE_POSITIVE": 109,
+          "TRUE_NEGATIVE": 39,
+          "TRUE_POSITIVE": 100
+        },
+        "date_cluster_count": 43,
+        "direction_accuracy_on_nonabstained": 0.4826388888888889,
+        "n_mature": 377,
+        "n_selected": 430,
+        "n_unscored": 53,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 116,
+          "MISSED_OPPORTUNITY_PROXY": 52
+        },
+        "year_cluster_count": 23
+      },
+      "24m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.810126582278481,
+            "mean_net_label": 0.28295129414668224,
+            "n": 79,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.7701149425287356,
+            "mean_net_label": 0.24616041604215197,
+            "n": 87,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.7616580310880829,
+            "mean_net_label": 0.18284599326852827,
+            "n": 193,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 87,
+          "FALSE_NEGATIVE": 64,
+          "FALSE_POSITIVE": 46,
+          "TRUE_NEGATIVE": 15,
+          "TRUE_POSITIVE": 147
+        },
+        "date_cluster_count": 42,
+        "direction_accuracy_on_nonabstained": 0.5955882352941176,
+        "n_mature": 359,
+        "n_selected": 430,
+        "n_unscored": 71,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 65,
+          "MISSED_OPPORTUNITY_PROXY": 101
+        },
+        "year_cluster_count": 22
+      },
+      "3m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.5949367088607594,
+            "mean_net_label": 0.01856291791387339,
+            "n": 79,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.6966292134831461,
+            "mean_net_label": 0.040687416221549914,
+            "n": 89,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.7081339712918661,
+            "mean_net_label": 0.03598614596883938,
+            "n": 209,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 89,
+          "FALSE_NEGATIVE": 47,
+          "FALSE_POSITIVE": 61,
+          "TRUE_NEGATIVE": 32,
+          "TRUE_POSITIVE": 148
+        },
+        "date_cluster_count": 43,
+        "direction_accuracy_on_nonabstained": 0.625,
+        "n_mature": 377,
+        "n_selected": 430,
+        "n_unscored": 53,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 93,
+          "MISSED_OPPORTUNITY_PROXY": 75
+        },
+        "year_cluster_count": 23
+      },
+      "6m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.6075949367088608,
+            "mean_net_label": 0.03928554055234995,
+            "n": 79,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.7415730337078652,
+            "mean_net_label": 0.06919139825792281,
+            "n": 89,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.6650717703349283,
+            "mean_net_label": 0.053849542159378046,
+            "n": 209,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 89,
+          "FALSE_NEGATIVE": 48,
+          "FALSE_POSITIVE": 70,
+          "TRUE_NEGATIVE": 31,
+          "TRUE_POSITIVE": 139
+        },
+        "date_cluster_count": 43,
+        "direction_accuracy_on_nonabstained": 0.5902777777777778,
+        "n_mature": 377,
+        "n_selected": 430,
+        "n_unscored": 53,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 91,
+          "MISSED_OPPORTUNITY_PROXY": 77
+        },
+        "year_cluster_count": 23
+      }
+    },
+    "original_282": {
+      "12m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.6290322580645161,
+            "mean_net_label": 0.08659452029958638,
+            "n": 62,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.696969696969697,
+            "mean_net_label": 0.11262092422866135,
+            "n": 66,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.7662337662337663,
+            "mean_net_label": 0.09571673337185017,
+            "n": 154,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 66,
+          "FALSE_NEGATIVE": 39,
+          "FALSE_POSITIVE": 36,
+          "TRUE_NEGATIVE": 23,
+          "TRUE_POSITIVE": 118
+        },
+        "date_cluster_count": 20,
+        "direction_accuracy_on_nonabstained": 0.6527777777777778,
+        "n_mature": 282,
+        "n_selected": 330,
+        "n_unscored": 48,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 67,
+          "MISSED_OPPORTUNITY_PROXY": 61
+        },
+        "year_cluster_count": 20
+      },
+      "1m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.532258064516129,
+            "mean_net_label": -0.012936653126923332,
+            "n": 62,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.5606060606060606,
+            "mean_net_label": 0.014991042992907861,
+            "n": 66,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.4805194805194805,
+            "mean_net_label": -0.0016910241701036035,
+            "n": 154,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 66,
+          "FALSE_NEGATIVE": 33,
+          "FALSE_POSITIVE": 80,
+          "TRUE_NEGATIVE": 29,
+          "TRUE_POSITIVE": 74
+        },
+        "date_cluster_count": 20,
+        "direction_accuracy_on_nonabstained": 0.47685185185185186,
+        "n_mature": 282,
+        "n_selected": 330,
+        "n_unscored": 48,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 86,
+          "MISSED_OPPORTUNITY_PROXY": 42
+        },
+        "year_cluster_count": 20
+      },
+      "1w": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.46774193548387094,
+            "mean_net_label": -0.024256167715560512,
+            "n": 62,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.5151515151515151,
+            "mean_net_label": 0.0047688435545579205,
+            "n": 66,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.4155844155844156,
+            "mean_net_label": -0.005825098057416032,
+            "n": 154,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 66,
+          "FALSE_NEGATIVE": 29,
+          "FALSE_POSITIVE": 90,
+          "TRUE_NEGATIVE": 33,
+          "TRUE_POSITIVE": 64
+        },
+        "date_cluster_count": 20,
+        "direction_accuracy_on_nonabstained": 0.44907407407407407,
+        "n_mature": 282,
+        "n_selected": 330,
+        "n_unscored": 48,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 91,
+          "MISSED_OPPORTUNITY_PROXY": 37
+        },
+        "year_cluster_count": 20
+      },
+      "24m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.8387096774193549,
+            "mean_net_label": 0.2767999826752424,
+            "n": 62,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.7846153846153846,
+            "mean_net_label": 0.28682912547697403,
+            "n": 65,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.7631578947368421,
+            "mean_net_label": 0.17412427978040906,
+            "n": 152,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 65,
+          "FALSE_NEGATIVE": 52,
+          "FALSE_POSITIVE": 36,
+          "TRUE_NEGATIVE": 10,
+          "TRUE_POSITIVE": 116
+        },
+        "date_cluster_count": 20,
+        "direction_accuracy_on_nonabstained": 0.5887850467289719,
+        "n_mature": 279,
+        "n_selected": 330,
+        "n_unscored": 51,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 50,
+          "MISSED_OPPORTUNITY_PROXY": 77
+        },
+        "year_cluster_count": 20
+      },
+      "3m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.532258064516129,
+            "mean_net_label": 0.0007591194138212996,
+            "n": 62,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.696969696969697,
+            "mean_net_label": 0.04700701275614478,
+            "n": 66,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.7012987012987013,
+            "mean_net_label": 0.03627231902646781,
+            "n": 154,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 66,
+          "FALSE_NEGATIVE": 33,
+          "FALSE_POSITIVE": 46,
+          "TRUE_NEGATIVE": 29,
+          "TRUE_POSITIVE": 108
+        },
+        "date_cluster_count": 20,
+        "direction_accuracy_on_nonabstained": 0.6342592592592593,
+        "n_mature": 282,
+        "n_selected": 330,
+        "n_unscored": 48,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 75,
+          "MISSED_OPPORTUNITY_PROXY": 53
+        },
+        "year_cluster_count": 20
+      },
+      "6m": {
+        "calibration": [
+          {
+            "actual_up_fraction": 0.5806451612903226,
+            "mean_net_label": 0.021932682932530662,
+            "n": 62,
+            "probability": 0.4
+          },
+          {
+            "actual_up_fraction": 0.7272727272727273,
+            "mean_net_label": 0.0824355579224393,
+            "n": 66,
+            "probability": 0.5
+          },
+          {
+            "actual_up_fraction": 0.6753246753246753,
+            "mean_net_label": 0.055683139070765934,
+            "n": 154,
+            "probability": 0.6
+          }
+        ],
+        "classification_counts": {
+          "ABSTAIN": 66,
+          "FALSE_NEGATIVE": 36,
+          "FALSE_POSITIVE": 50,
+          "TRUE_NEGATIVE": 26,
+          "TRUE_POSITIVE": 104
+        },
+        "date_cluster_count": 20,
+        "direction_accuracy_on_nonabstained": 0.6018518518518519,
+        "n_mature": 282,
+        "n_selected": 330,
+        "n_unscored": 48,
+        "wait_outcome_proxy_counts": {
+          "CORRECT_NO_TRADE_PROXY": 68,
+          "MISSED_OPPORTUNITY_PROXY": 60
+        },
+        "year_cluster_count": 20
+      }
+    }
+  },
+  "wait_scoring": "FROZEN_BULL_BAND_OUTCOME_PROXY_NOT_EX_ANTE_EXPECTED_VALUE"
+}

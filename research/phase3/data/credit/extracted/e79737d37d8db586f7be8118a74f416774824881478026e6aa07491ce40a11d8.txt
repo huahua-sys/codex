@@ -1,0 +1,1624 @@
+For release at 2:00 p.m. ET                                           October 30, 2006
+
+
+
+
+TO:    HEADS OF RESEARCH AT ALL FEDERAL RESERVE BANKS
+
+
+
+
+       Enclosed for distribution to respondents is a national summary of the October
+2006 Senior Loan Officer Opinion Survey on Bank Lending Practices.
+
+
+
+
+Enclosures
+
+
+
+
+This document is available on the Federal Reserve Board=s web site
+(http://www.federalreserve.gov/boarddocs/surveys).
+Board of Governors of the Federal Reserve System
+
+
+The October 2006 Senior Loan Officer Opinion Survey
+on Bank Lending Practices
+
+The October 2006 Senior Loan Officer Opinion Survey on Bank Lending Practices
+addressed changes in the supply of, and demand for, bank loans to businesses and
+households over the past three months. Special questions in the survey queried banks
+about the extent to which the recent strength in commercial and industrial lending reflected
+a surge in loans to fund merger and acquisition activity. This article is based on responses
+from fifty-five domestic banks and seventeen foreign banking institutions.
+
+Overall, the respondents noted mixed changes in lending standards and terms over the past
+three months, while demand for most loan types reportedly declined somewhat. Both
+domestic and foreign institutions indicated that they had eased lending terms on
+commercial and industrial (C&I) loans over the previous three months, while credit
+standards on such loans had changed little. Domestic banks, however, reported that they
+had tightened lending standards on commercial real estate loans over the previous three
+months. Demand for C&I loans at domestic institutions was reportedly little changed in
+the October survey, while demand for commercial real estate loans at these institutions
+weakened over the past three months. In the household sector, respondents generally
+reported no change in credit standards on residential mortgage loans over the survey
+period, while demand for such loans continued to weaken. Standards and terms on credit
+card and non-credit-card consumer loans were also little changed, but a considerable net
+fraction of domestic institutions indicated that they had experienced weaker demand for
+consumer loans over the previous three months.
+
+C&I Lending
+(Table 1, questions 1-16; Table 2, questions 1-16)
+
+In the October survey, domestic institutions reported that credit standards on C&I loans to
+large and middle-market firms were unchanged, on net, over the past three months. On
+balance, however, domestic respondents indicated that they had further eased terms on
+C&I loans to such firms over the same period. Almost one-third of respondents—a
+somewhat smaller net fraction than in the July survey—noted that they had trimmed
+spreads of loan rates over their cost of funds over the past three months, while nearly one-
+fifth of banks—about the same net percentage as in the previous survey—reported that
+they had reduced the costs of credit lines. About 15 percent of domestic respondents, on
+net, indicated that they had eased loan covenants.
+
+Credit standards on C&I loans to small firms were also reportedly little changed, on net, in
+the October survey. However, one-third of domestic institutions, on balance, indicated that
+they had trimmed spreads of loan rates over their cost of funds over the previous three
+months, and nearly one-fifth of respondents noted that they had reduced the costs of credit
+lines.
+2                                            Board of Governors of the Federal Reserve System
+
+
+
+At U.S. branches and agencies of foreign banks, only two institutions reported that they
+had eased their standards on C&I loans during the survey period. Considerable net
+fractions of these institutions, however, indicated that they had trimmed spreads of loan
+rates over their cost of funds and reduced the cost of credit lines.
+
+All domestic and foreign respondents that reported having eased their lending standards or
+terms in the October survey pointed to more-aggressive competition from other banks or
+nonbank lenders as the most important reason for having done so. Notable net fractions of
+domestic institutions also cited increased liquidity in the secondary market for these loans,
+a more favorable or less uncertain economic outlook, and a reduction in defaults by
+borrowers in public debt markets as reasons for having eased credit standards or terms on
+C&I loans.
+
+At domestic banks, demand for C&I loans from large and middle-market firms was
+reportedly little changed, on balance, in the October survey. About 15 percent of these
+institutions, on net, indicated that they had experienced weaker demand for such loans
+from small firms over the previous three months. At U.S. branches and agencies of foreign
+banks, nearly one-fifth of respondents, on balance, reported that they had seen weaker
+demand for C&I loans over the same period. All of the domestic institutions that
+experienced weaker demand for C&I loans attributed the softening, in part, to borrowers’
+decreased needs to finance investment in plant or equipment. Considerable fractions of
+respondents also cited borrowers’ decreased financing needs for inventories and accounts
+receivable, as well as increases in customers’ internally generated funds, as reasons for
+weaker loan demand. Among domestic banks that saw stronger demand for C&I loans,
+three-fourths pointed to a rise in merger and acquisition (M&A) activity as a reason for
+stronger loan demand, while two-thirds cited borrowers’ increased needs to finance
+inventories.
+
+Regarding future business, about 10 percent of domestic institutions, on net, and nearly 20
+percent of foreign respondents reported that the number of inquiries from potential
+business borrowers had decreased moderately over the previous three months.
+
+The October survey included a set of special questions about the extent to which the recent
+strength in C&I lending has reflected a surge in loans to fund M&A activity. 1 Holdings of
+C&I loans originated for M&A-related purposes were generally small for the respondent
+banks. 2 About one-half of domestic institutions indicated that M&A-related C&I loans
+
+1
+  The number of domestic banks that responded to these special questions varied from ten to fifty-four
+depending on the question. According to second-quarter Call Reports, these respondents accounted for
+between 12 percent and 56 percent of all C&I loans on the books of domestic commercial banks as of June
+30, 2006. The number of foreign institutions that responded to these special questions varied from two to
+seventeen depending on the question. As of June 30, 2006, the foreign respondents accounted for between 10
+percent and 48 percent of all C&I loans on the books of U.S. branches and agencies of foreign banks.
+2
+  In the survey, M&A-related C&I loans were defined as those made to finance leveraged buyouts and other
+Senior Loan Officer Opinion Survey                                                                         3
+
+
+
+accounted for less than 5 percent of the loans currently on their books, and roughly one-
+third of banks noted that such loans accounted for between 5 percent and 10 percent of
+their loans. The remainder of banks—except for one institution—reported a share that was
+between 11 percent and 30 percent. 3 On average, those banks with larger C&I loan
+portfolios had higher M&A loan concentrations. As a result, when the responses are
+weighted by the dollar volume of C&I loans at the end of the second quarter, banks that
+reported an M&A share of less than 5 percent accounted for only about one-third of all
+C&I loans on the books of banks responding to this special question. At U.S. branches and
+agencies of foreign banks, more than one-half of respondents indicated that the share of
+M&A-related C&I loans was 10 percent or less, while almost one-third noted that the share
+was between 11 percent and 20 percent. The remainder of foreign banks reported a share
+that was between 21 percent and 40 percent. In contrast to the domestic banks, foreign
+banks with larger C&I loan portfolios had somewhat smaller M&A loan concentration on
+average: Foreign institutions that reported an M&A share of 10 percent or less accounted
+for 65 percent of all C&I loans on the books of respondent institutions.
+
+Nearly one-half of domestic respondents and 60 percent of foreign respondents, on
+balance, reported that the share of M&A-related C&I loans on their books had increased
+over the past twelve months. These institutions accounted for 70 percent and about 85
+percent, respectively, of loans outstanding at the end of the second quarter.
+
+Among the domestic institutions that experienced an increase in the share of M&A-related
+C&I loans over the past twelve months, about one-third indicated that this increase
+reflected to a moderate extent a shift of funding for M&A activity to banks as a result of a
+reduction in the relative attractiveness of bond finance. Eighty percent of these institutions
+pointed to relatively more favorable nonprice terms as a reason for the shift of M&A
+financing out of the bond market, while 60 percent pointed to relatively more favorable
+pricing in the loan market. Only two of the foreign respondents that experienced an
+increase in the share of M&A-related C&I loans pointed to a shift of funding for M&A
+activity from the bond market to banks as a reason for the increase.
+
+Domestic respondents generally reported that the share of M&A-related C&I loans on their
+books that were used to finance leveraged buyouts was fairly small. Roughly three-fourths
+of institutions indicated that this share was less than or equal to 10 percent, and only about
+one-tenth of domestic banks reported that this share was between 51 percent and 75
+percent. 4 These fractions are roughly similar if the responses are weighted by the
+
+M&A activity.
+3
+  A similar question regarding the share of C&I loans on banks’ books that were merger related was asked in
+the late 1980s and early 1990s, when M&A activity was strong. On average, the fraction of institutions that
+reported shares of 10 percent or less was smaller than in the current survey, while the fraction of banks that
+indicated shares between 11 percent and 20 percent was significantly larger.
+4
+  In the late 1980s and early 1990s, the share of merger-related C&I loans used to finance leveraged buyouts
+was reportedly considerably higher. Banks that indicated a share of less than 20 percent accounted for as
+4                                              Board of Governors of the Federal Reserve System
+
+
+
+respondents’ C&I loans. The shares of C&I loans accounted for by leveraged buyouts
+were larger on average at the U.S. branches and agencies of foreign banks. Nonetheless,
+about one-half of the foreign respondents reported that the share was less than or equal to
+10 percent, and nearly one-third of respondents indicated that the share was between 11
+percent and 50 percent. 5 On average, foreign respondents with larger C&I loan portfolios
+had somewhat larger fractions of their M&A-related loans devoted to leveraged buyouts.
+
+Domestic respondents generally reported that the share of M&A-related C&I loans on their
+books that were bridge loans was quite small: Ninety percent of domestic institutions
+reported that this share was less than or equal to 10 percent. 6 Again, these shares were
+higher at U.S. branches and agencies of foreign banks, where about two-thirds of
+respondents indicated that the share of such loans was 10 percent or less, while nearly one-
+third of respondents noted that this share was between 11 percent and 50 percent.
+
+On balance, about 15 percent of domestic institutions reported that they had tightened
+credit standards for approving applications for M&A-related C&I loans or credit lines over
+the past twelve months. These respondents, however, indicated that they had eased some
+terms on such loans or credit lines over the same period: Nearly one-third of domestic
+respondents, on net, indicated that they had trimmed spreads of loan rates over their cost of
+funds, and 15 percent noted that they had reduced the costs of credit lines. In contrast to
+their domestic counterparts, about one-fourth of the foreign institutions reported that they
+had eased credit standards for approving applications for M&A-related C&I loans or credit
+lines over the past twelve months. Significant net fractions of foreign respondents also
+indicated that they had increased the maximum size of loans or credit lines, reduced the
+costs of credit lines, and eased loan covenants.
+
+About one-fourth of domestic respondents indicated that they anticipate that the quality of
+M&A-related C&I loans currently on their books will deteriorate over the next twelve
+months, and the rest expect that loan quality will likely stabilize around current levels. A
+somewhat larger net fraction of domestic respondents—about 35 percent—reported that
+they expect the quality of their C&I loans that were not used to finance M&A activity to
+deteriorate over the same period. 7 However, when the responses to these two special
+
+little as 5 percent of all respondents in February 1989 and for as much as 40 percent in March 1991. Banks
+that indicated a share of more than 80 percent accounted for as little as 15 percent of all respondents in March
+1991 and for as much as 30 percent in February 1988.
+5
+  Two foreign respondents noted that the share of M&A-related C&I loans on their books that were used to
+finance leveraged buyouts was more than 75 percent. These institutions, however, accounted for only 1
+percent of all C&I loans on the books of the foreign banks that responded to this special question.
+6
+  In the survey, bridge loans were defined as those loans that banks expected to be paid down with funds
+raised in capital markets within the next twelve months.
+7
+  In the late 1980s and early 1990s, banks that had charged off merger-related C&I loans were asked to
+compare the chargeoff rate on such loans with that on comparably seasoned C&I loans that were not merger
+related. In the survey conducted in February 1987, a considerable net fraction of banks—about 75 percent—
+reported that the chargeoff rate on merger-related C&I loans was somewhat or much lower than that on other
+Senior Loan Officer Opinion Survey                                                                       5
+
+
+
+questions are weighted by the dollar volume of C&I loans at the end of the second quarter,
+the institutions that anticipate a deterioration in the credit quality accounted for about 45
+percent and 35 percent, respectively, of all C&I loans held by respondent banks. At foreign
+institutions, 35 percent of respondents indicated that they anticipate that the quality of
+M&A-related C&I loans currently on their books will deteriorate over the next twelve
+months, while 30 percent indicated that they expect that the quality of their C&I loans that
+were not used to finance M&A activity will deteriorate over the same period. These shares
+are broadly similar if the responses are weighted by the respondents’ C&I loans
+outstanding.
+
+Commercial Real Estate Lending
+(Table 1, questions 17-18; Table 2, questions 17-18)
+
+Nearly 40 percent of domestic institutions—a notably larger net fraction than in the July
+survey—indicated that they had tightened lending standards on commercial real estate
+loans over the previous three months. More than one-fourth of domestic respondents—
+also a larger net percentage than in the previous survey—reported that they had
+experienced weaker demand for such loans over the same period. By contrast, both
+lending standards and demand for commercial real estate loans at foreign institutions
+were little changed in the October survey.
+
+Lending to Households
+(Table 1, questions 19-26)
+
+Domestic banks reported that credit standards on residential mortgage loans were little
+changed, on net, over the past three months. Demand for residential mortgage loans
+weakened further in the October survey: Sixty percent of domestic institutions—roughly
+the same net fraction as in the July survey—noted that demand for such loans had
+weakened over the previous three months.
+
+Domestic respondents indicated that their willingness to make consumer installment
+loans was about unchanged in the October survey. On net, standards and terms on credit
+card and non-credit-card consumer loans changed little over the past three months.
+
+
+comparable C&I loans. The net fraction of banks giving a similar answer declined notably over subsequent
+surveys. In March 1991, about 20 percent of respondents, on net, indicated that the chargeoff rate on merger-
+related C&I loans was somewhat or much higher than the chargeoff rate on comparably seasoned C&I loans
+that were not merger related.
+6                                    Board of Governors of the Federal Reserve System
+
+
+
+About 45 percent of domestic respondents reported that they had experienced weaker
+demand for consumer loans, a somewhat larger net fraction than in the July survey.
+
+
+
+
+This document was prepared by Fabio Natalucci with the research assistance of Arshia
+Burney, Division of Monetary Affairs, Board of Governors of the Federal Reserve
+System.
+                 Measures of Supply and Demand for C&I Loans,
+                         by Size of Firm Seeking Loan
+
+
+Net Percentage of Domestic Respondents Tightening Standards for C&I Loans
+                                                                                                     Percent
+                                                                                                               80
+                       Loans to large and medium-sized firms
+                       Loans to small firms                                                                    60
+
+
+                                                                                                               40
+
+
+                                                                                                               20
+
+
+                                                                                                                0
+
+
+                                                                                                               -20
+
+   1990        1992           1994        1996         1998    2000     2002       2004        2006
+
+
+
+
+Net Percentage of Domestic Respondents Increasing Spreads of Loan Rates over Banks’ Costs of Funds
+                                                                                                     Percent
+                                                                                                               80
+
+                                                                                                               60
+
+                                                                                                               40
+
+                                                                                                               20
+
+                                                                                                                0
+
+                                                                                                               -20
+
+                                                                                                               -40
+
+                                                                                                               -60
+
+   1990        1992           1994        1996         1998    2000     2002       2004        2006
+
+
+
+
+Net Percentage of Domestic Respondents Reporting Stronger Demand for C&I Loans
+                                                                                                     Percent
+                                                                                                               60
+
+                                                                                                               40
+
+                                                                                                               20
+
+                                                                                                                0
+
+                                                                                                               -20
+
+                                                                                                               -40
+
+                                                                                                               -60
+
+
+     1990       1992           1994        1996         1998   2000     2002        2004       2006
+             Measures of Supply and Demand for Loans to Households
+
+
+
+Net Percentage of Domestic Respondents Tightening Standards for Consumer Loans
+                                                                                                                           Percent
+                                                                                                                                     60
+Credit card loans
+                                                                                                                                     50
+
+                                                                                                                                     40
+
+                                                                                                                                     30
+
+                                                                                                                                     20
+
+                                                                                                                                     10
+ Other consumer loans
+
+                                                                                                                                      0
+
+                                                                                                                                     -10
+         1996        1997         1998          1999          2000    2001   2002      2003          2004    2005   2006
+
+
+
+
+Net Percentage of Domestic Respondents Reporting Stronger Demand for Loans to Households
+                                                                                                                           Percent
+                                                                                                                                      80
+                Residential mortgages                                                                                                 60
+
+                                                                                                                                      40
+
+                                                                                                                                      20
+
+                                                                                                                                      0
+
+                                                                                                                                     -20
+
+                 Consumer loans                                                                                                      -40
+
+                                                                                                                                     -60
+
+                                                                                                                                     -80
+      1990            1992               1994            1996         1998      2000          2002          2004     2006
+
+
+
+
+Net Percentage of Domestic Respondents Tightening Standards for Mortgages to Individuals
+                                                                                                                           Percent
+                                                                                                                                     40
+
+
+                                                                                                                                     30
+
+
+                                                                                                                                     20
+
+
+                                                                                                                                     10
+
+
+                                                                                                                                      0
+
+
+                                                                                                                                     -10
+
+
+  1990              1992           1994                1996          1998     2000            2002          2004     2006
+                                                       Table 1
+
+                Senior Loan Officer Opinion Survey on Bank Lending Practices
+                                                                                           1
+                            at Selected Large Banks in the United States
+
+                                      (Status of policy as of October 2006)
+
+Questions 1-6 ask about commercial and industrial (C&I) loans at your bank. Questions 1-3 deal with changes in your
+bank's lending policies over the past three months. Questions 4-5 deal with changes in demand for C&I loans over the
+past three months. Question 6 asks about changes in prospective demand for C&I loans at your bank, as indicated by
+the volume of recent inquiries about the availability of new credit lines or increases in existing lines. If your bank's
+lending policies have not changed over the past three months, please report them as unchanged even if the policies are
+either restrictive or accommodative relative to longer-term norms. If your bank's policies have tightened or eased over
+the past three months, please so report them regardless of how they stand relative to longer-term norms. Also, please
+report changes in enforcement of existing policies as changes in policies.
+
+1. Over the past three months, how have your bank's credit standards for approving applications for C&I loans or credit
+lines--other than those to be used to finance mergers and acquisitions--to large and middle-market firms and to small
+firms changed? (If your bank defines firm size differently from the categories suggested below, please use your
+definitions and indicate what they are.)
+
+      a. Standards for large and middle-market firms (annual sales of $50 million or more):
+
+                                                    All Respondents    Large Banks       Other Banks
+
+                                                    Banks   Percent   Banks   Percent   Banks   Percent
+
+                  Tightened considerably                0      0.0       0       0.0       0       0.0
+
+                  Tightened somewhat                    4      7.4       1       2.8       3      16.7
+
+                  Remained basically unchanged         46     85.2      32      88.9      14      77.8
+
+                  Eased somewhat                        4      7.4       3       8.3       1       5.6
+
+                  Eased considerably                    0      0.0       0       0.0       0       0.0
+
+                  Total                                54    100.0      36     100.0      18     100.0
+b. Standards for small firms (annual sales of less than $50 million):
+
+                                              All Respondents     Large Banks       Other Banks
+
+                                              Banks    Percent   Banks   Percent   Banks   Percent
+
+            Tightened considerably                 0      0.0       0       0.0       0       0.0
+
+            Tightened somewhat                     1      1.9       0       0.0       1       5.3
+
+            Remained basically unchanged         51      94.4      34      97.1      17      89.5
+
+            Eased somewhat                         2      3.7       1       2.9       1       5.3
+
+            Eased considerably                     0      0.0       0       0.0       0       0.0
+
+            Total                                54     100.0      35     100.0      19     100.0
+2. For applications for C&I loans or credit lines--other than those to be used to finance mergers and acquisitions--from
+large and middle-market firms and from small firms that your bank currently is willing to approve, how have the terms
+of those loans changed over the past three months? (Please assign each term a number between 1 and 5 using the
+following scale: 1=tightened considerably, 2=tightened somewhat, 3=remained basically unchanged, 4=eased
+somewhat, 5=eased considerably.)
+
+      a. Terms for large and middle-market firms (annual sales of $50 million or more):
+
+                                                                                       All         Large       Other
+                                                                                   Respondents     Banks       Banks
+
+                                                                                      Mean          Mean        Mean
+
+ Maximum size of credit lines                                                              3.07        3.14        2.95
+
+ Maximum maturity of loans or credit lines                                                 3.06        3.00        3.16
+
+ Costs of credit lines                                                                     3.15        3.23        3.00
+
+ Spreads of loan rates over your bank's cost of funds (wider
+                                                                                           3.30        3.31        3.26
+ spreads=tightened; narrower spreads=eased)
+
+ Premiums charged on riskier loans                                                         3.02        3.09        2.89
+
+ Loan covenants                                                                            3.13        3.23        2.95
+
+ Collateralization requirements                                                            3.06        3.11        2.95
+
+ Other (please specify)                                                                    0.00        0.00        0.00
+
+ Number of banks responding                                                                  54         35          19
+     b. Terms for small firms (annual sales of less than $50 million):
+
+                                                                             All        Large    Other
+                                                                         Respondents    Banks    Banks
+
+                                                                            Mean        Mean     Mean
+
+Maximum size of credit lines                                                    3.07      3.14     2.95
+
+Maximum maturity of loans or credit lines                                       3.07      3.03     3.16
+
+Costs of credit lines                                                           3.17      3.23     3.05
+
+Spreads of loan rates over your bank's cost of funds (wider
+                                                                                3.31      3.34     3.26
+spreads=tightened; narrower spreads=eased)
+
+Premiums charged on riskier loans                                               3.00      3.00     3.00
+
+Loan covenants                                                                  3.02      3.06     2.95
+
+Collateralization requirements                                                  3.04      3.09     2.95
+
+Other (please specify)                                                          0.00      0.00     0.00
+
+Number of banks responding                                                         54       35       19
+3. If your bank has tightened or eased its credit standards or its terms for C&I loans or credit lines over the past three
+months (as described in questions 1 and 2), how important have been the following possible reasons for the change?
+(Please respond to either A, B, or both as appropriate and rate each possible reason using the following scale: 1=not
+important, 2=somewhat important, 3=very important.)
+
+       a. Possible reasons for tightening credit standards or loan terms:
+
+                                                                                           All          Large       Other
+                                                                                       Respondents      Banks       Banks
+
+                                                                                          Mean          Mean        Mean
+
+ Deterioration in your bank's current or expected capital position                             1.15        1.22        1.00
+
+ Less favorable or more uncertain economic outlook                                             1.85        1.78        2.00
+
+ Worsening of industry-specific problems (please specify industries)                           1.62        1.67        1.50
+
+ Less aggressive competition from other banks or nonbank lenders (other
+                                                                                               1.31        1.11        1.75
+ financial intermediaries or the capital markets)
+
+ Reduced tolerance for risk                                                                    1.62        1.44        2.00
+
+ Decreased liquidity in the secondary market for these loans                                   1.15        1.11        1.25
+
+ Increase in defaults by borrowers in public debt markets                                      1.08        1.11        1.00
+
+ Other (please specify)                                                                        2.00        2.00        0.00
+
+ Number of banks responding                                                                      13             9            4
+     b. Possible reasons for easing credit standards or loan terms:
+
+                                                                             All        Large    Other
+                                                                         Respondents    Banks    Banks
+
+                                                                            Mean        Mean     Mean
+
+Improvement in your bank's current or expected capital position                 1.04      1.06     1.00
+
+More favorable or less uncertain economic outlook                               1.24      1.28     1.14
+
+Improvement in industry-specific problems (please specify industries)           1.04      1.06     1.00
+
+More aggressive competition from other banks or nonbank lenders (other
+                                                                                2.76      2.72     2.86
+financial intermediaries or the capital markets)
+
+Increased tolerance for risk                                                    1.20      1.28     1.00
+
+Increased liquidity in the secondary market for these loans                     1.32      1.44     1.00
+
+Reduction in defaults by borrowers in public debt markets                       1.20      1.28     1.00
+
+Other (please specify)                                                          2.00      0.00     2.00
+
+Number of banks responding                                                         26       18           8
+4. Apart from normal seasonal variation, how has demand for C&I loans changed over the past three months? (Please
+consider only funds actually disbursed as opposed to requests for new or increased lines of credit.)
+
+      a. Demand for C&I loans from large and middle-market firms (annual sales of $50 million or more):
+
+                                               All Respondents    Large Banks       Other Banks
+
+                                               Banks   Percent   Banks   Percent   Banks   Percent
+
+                      Substantially stronger       0      0.0       0       0.0       0       0.0
+
+                      Moderately stronger          8     14.5       6      16.7       2      10.5
+
+                      About the same             37      67.3      22      61.1      15      78.9
+
+                      Moderately weaker            9     16.4       7      19.4       2      10.5
+
+                      Substantially weaker         1      1.8       1       2.8       0       0.0
+
+                      Total                      55     100.0      36     100.0      19     100.0
+
+
+      b. Demand for C&I loans from small firms (annual sales of less than $50 million):
+
+                                               All Respondents    Large Banks       Other Banks
+
+                                               Banks   Percent   Banks   Percent   Banks   Percent
+
+                      Substantially stronger       0      0.0       0       0.0       0       0.0
+
+                      Moderately stronger          6     11.1       4      11.4       2      10.5
+
+                      About the same             35      64.8      21      60.0      14      73.7
+
+                      Moderately weaker          13      24.1      10      28.6       3      15.8
+
+                      Substantially weaker         0      0.0       0       0.0       0       0.0
+
+                      Total                      54     100.0      35     100.0      19     100.0
+5. If demand for C&I loans has strengthened or weakened over the past three months (as described in question 4), how
+important have been the following possible reasons for the change? (Please respond to either A, B, or both as
+appropriate and rate each possible reason using the following scale: 1=not important, 2=somewhat important, 3=very
+important.)
+
+      a. If stronger loan demand (answer 1 or 2 to question 4A or 4B), possible reasons:
+
+                                                                                       All          Large       Other
+                                                                                   Respondents      Banks       Banks
+
+                                                                                      Mean          Mean        Mean
+
+ Customer inventory financing needs increased                                              1.67       1.67        1.67
+
+ Customer accounts receivable financing needs increased                                    1.58       1.56        1.67
+
+ Customer investment in plant or equipment increased                                       1.58       1.44        2.00
+
+ Customer internally generated funds decreased                                             1.00       1.00        1.00
+
+ Customer merger or acquisition financing needs increased                                  1.83       1.67        2.33
+
+ Customer borrowing shifted to your bank from other bank or nonbank sources
+                                                                                           1.42       1.44        1.33
+ because these other sources became less attractive
+
+ Other (please specify)                                                                    2.00       2.00        0.00
+
+ Number of banks responding                                                                   12            9           3
+
+
+      b. If weaker loan demand (answer 4 or 5 to question 4A or 4B), possible reasons:
+
+                                                                                       All          Large       Other
+                                                                                   Respondents      Banks       Banks
+
+                                                                                      Mean          Mean        Mean
+
+ Customer inventory financing needs decreased                                                1.80     1.83        1.67
+
+ Customer accounts receivable financing needs decreased                                      1.73     1.75        1.67
+
+ Customer investment in plant or equipment decreased                                         2.07     2.08        2.00
+
+ Customer internally generated funds increased                                               1.73     1.67        2.00
+
+ Customer merger or acquisition financing needs decreased                                    1.47     1.58        1.00
+
+ Customer borrowing shifted from your bank to other bank or nonbank credit
+                                                                                             1.53     1.33        2.33
+ sources because these other sources became more attractive
+
+ Other (please specify)                                                                      3.00     3.00        0.00
+
+ Number of banks responding                                                                   15        12              3
+6. At your bank, how has the number of inquiries from potential business borrowers regarding the availability and
+terms of new credit lines or increases in existing lines changed over the past three months? (Please consider only
+inquiries for additional C&I lines as opposed to the refinancing of existing loans.)
+
+                                                              All Respondents    Large Banks       Other Banks
+
+                                                              Banks   Percent   Banks   Percent   Banks   Percent
+
+        The number of inquiries has increased substantially       0       0.0      0       0.0       0       0.0
+
+        The number of inquiries has increased moderately          6     10.9       4      11.1       2      10.5
+
+        The number of inquiries has stayed about the same        37     67.3      23      63.9      14      73.7
+
+        The number of inquiries has decreased moderately         12     21.8       9      25.0       3      15.8
+
+        The number of inquiries has decreased substantially       0       0.0      0       0.0       0       0.0
+
+        Total                                                    55    100.0      36     100.0      19     100.0
+Merger and acquisition (M&A) activity in the nonfinancial sector has boomed since 2005. Over the same period, C&I
+loans on banks' books have also expanded rapidly. Questions 7-16 ask about the extent to which the recent strength in
+C&I lending reflects the surge in M&A activity.
+
+7. About what share of the dollar volume of C&I loans currently on your bank's books was originated for M&A-related
+purposes? (M&A-related C&I loans include those made to finance leveraged buyouts and other M&A activity.)
+
+                                                      All Respondents          Large Banks             Other Banks
+
+                                                     Banks        Percent    Banks        Percent    Banks        Percent
+
+                Less than 5 percent                      27         50.9        14          41.2        13          68.4
+
+                Between 5 percent and 10 percent         17         32.1        12          35.3            5       26.3
+
+                Between 11 percent and 20 percent           5        9.4            4       11.8            1        5.3
+
+                Between 21 percent and 30 percent           3        5.7            3        8.8            0        0.0
+
+                Between 31 percent and 40 percent           0        0.0            0        0.0            0        0.0
+
+                More than 40 percent                        1        1.9            1        2.9            0        0.0
+
+                Total                                    53        100.0        34         100.0        19         100.0
+
+
+8. How has the share of M&A-related C&I loans on your bank's books (as reported in question 7) changed over the past
+twelve months?
+
+                                                    All Respondents          Large Banks             Other Banks
+
+                                                    Banks       Percent     Banks       Percent     Banks       Percent
+
+                  Increased substantially               1          1.9         1           2.9         0           0.0
+
+                  Increased moderately                26          49.1        20          58.8         6          31.6
+
+                  Remained basically unchanged        24          45.3        12          35.3        12          63.2
+
+                  Decreased moderately                  1          1.9         1           2.9         0           0.0
+
+                  Decreased substantially               1          1.9         0           0.0         1           5.3
+
+                  Total                               53         100.0        34         100.0        19         100.0
+9. If your bank has experienced an increase in the share of M&A-related C&I loans over the past twelve months (as
+reported in question 8), to what extent has the increase reflected a shift of funding for M&A activity to banks as a result
+of a reduction in the relative attractiveness of bond finance?
+
+                                                          All Respondents    Large Banks        Other Banks
+
+                                                          Banks   Percent   Banks   Percent   Banks      Percent
+
+               To a substantial extent                        0      0.0       0       0.0        0          0.0
+
+               To a moderate extent                         10      35.7       9      42.9        1         14.3
+
+               To an insignificant extent or not at all     18      64.3      12      57.1        6         85.7
+
+               Total                                        28     100.0      21     100.0        7        100.0
+
+
+10. If demand for C&I loans at your bank has been strengthened by a shift of M&A financing out of the bond market
+(as described in question 9), how important have been the following possible reasons? (Please rate each possible reason
+using the following scale: 1=not important, 2=somewhat important, 3=very important.)
+
+                                                                                               All           Large      Other
+                                                                                           Respondents       Banks      Banks
+
+                                                                                              Mean           Mean       Mean
+
+ Relatively more favorable pricing in the loan market                                             1.70         1.67       2.00
+
+ Relatively more favorable nonprice terms (including the maximum size and
+ maturity of loans or credit lines, loan covenants, and collateralization                         1.90         1.89       2.00
+ requirements) in the loan market
+
+ Other (please specify)                                                                           2.25         2.25       0.00
+
+ Number of banks responding                                                                           10            9          1
+11. About what share of the dollar volume of M&A-related C&I loans currently on your bank's books was used to
+finance leveraged buyouts?
+
+                                                      All Respondents    Large Banks       Other Banks
+
+                                                      Banks   Percent   Banks   Percent   Banks   Percent
+
+                Less than or equal to 10 percent         40     76.9      24      70.6      16      88.9
+
+                Between 11 percent and 20 percent         1      1.9       1       2.9       0       0.0
+
+                Between 21 percent and 30 percent         3      5.8       3       8.8       0       0.0
+
+                Between 31 percent and 50 percent         2      3.8       2       5.9       0       0.0
+
+                Between 51 percent and 75 percent         6     11.5       4      11.8       2      11.1
+
+                More than 75 percent                      0      0.0       0       0.0       0       0.0
+
+                Total                                    52    100.0      34     100.0      18     100.0
+
+
+12. About what share of the dollar volume of M&A-related C&I loans currently on your bank's books is accounted for
+by ``bridge loans'' that your bank expects to be paid down with funds raised in capital markets within the next twelve
+months?
+
+                                                      All Respondents    Large Banks       Other Banks
+
+                                                      Banks   Percent   Banks   Percent   Banks   Percent
+
+                Less than or equal to 10 percent         49     90.7      30      85.7      19     100.0
+
+                Between 11 percent and 20 percent         3      5.6       3       8.6       0       0.0
+
+                Between 21 percent and 30 percent         0      0.0       0       0.0       0       0.0
+
+                Between 31 percent and 50 percent         0      0.0       0       0.0       0       0.0
+
+                Between 51 percent and 75 percent         0      0.0       0       0.0       0       0.0
+
+                More than 75 percent                      2      3.7       2       5.7       0       0.0
+
+                Total                                    54    100.0      35     100.0      19     100.0
+13. How have your bank's credit standards for approving applications for M&A-related C&I loans or credit lines
+changed over the past twelve months?
+
+                                                    All Respondents       Large Banks        Other Banks
+
+                                                    Banks      Percent   Banks   Percent   Banks       Percent
+
+                   Tightened considerably               1         1.9       1       2.9           0          0.0
+
+                   Tightened somewhat                   9        17.3       6      17.1           3         17.6
+
+                   Remained basically unchanged        39        75.0      26      74.3       13            76.5
+
+                   Eased somewhat                       3         5.8       2       5.7           1          5.9
+
+                   Eased considerably                   0         0.0       0       0.0           0          0.0
+
+                   Total                               52       100.0      35     100.0       17           100.0
+
+
+14. For applications for M&A-related C&I loans or credit lines that your bank currently is willing to approve, how
+have the terms of those loans changed over the past twelve months? (Please assign each term a number between 1 and
+5 using the following scale: 1=tightened considerably, 2=tightened somewhat, 3=remained basically unchanged,
+4=eased somewhat, 5=eased considerably.)
+
+                                                                                            All               Large       Other
+                                                                                        Respondents           Banks       Banks
+
+                                                                                           Mean               Mean        Mean
+
+ Maximum size of loans or credit lines                                                         3.02                3.09     2.88
+
+ Maximum maturity of loans or credit lines                                                     3.12                3.06     3.24
+
+ Costs of credit lines                                                                         3.13                3.14     3.12
+
+ Spreads of loan rates over your bank's cost of funds (wider
+                                                                                               3.29                3.34     3.18
+ spreads=tightened; narrower spreads=eased)
+
+ Premiums charged on riskier loans                                                             3.06                3.09     3.00
+
+ Loan covenants                                                                                3.08                3.11     3.00
+
+ Collateralization requirements                                                                3.06                3.06     3.06
+
+ Other (please specify)                                                                        3.00                3.00     0.00
+
+ Number of banks responding                                                                           52            35        17
+15. What is your bank's outlook over the next twelve months for delinquencies and chargeoffs on M&A-related C&I
+loans currently on your bank's books, assuming that economic activity progresses in line with consensus forecasts?
+
+                                                                  All Respondents    Large Banks       Other Banks
+
+                                                                  Banks   Percent   Banks   Percent   Banks   Percent
+
+      Loan quality is likely to improve substantially                 0      0.0       0       0.0       0       0.0
+
+      Loan quality is likely to improve somewhat                      0      0.0       0       0.0       0       0.0
+
+      Loan quality is likely to stabilize around current levels     38      73.1      23      65.7      15      88.2
+
+      Loan quality is likely to deteriorate somewhat                13      25.0      11      31.4       2      11.8
+
+      Loan quality is likely to deteriorate substantially             1      1.9       1       2.9       0       0.0
+
+      Total                                                         52     100.0      35     100.0      17     100.0
+
+
+16. What is your bank's outlook over the next twelve months for delinquencies and chargeoffs on C&I loans currently
+on your bank's books that were not used to finance M&A activity , assuming that economic activity progresses in line
+with consensus forecasts?
+
+                                                                  All Respondents    Large Banks       Other Banks
+
+                                                                  Banks   Percent   Banks   Percent   Banks   Percent
+
+      Loan quality is likely to improve substantially                 0      0.0       0       0.0       0       0.0
+
+      Loan quality is likely to improve somewhat                      1      1.9       1       2.9       0       0.0
+
+      Loan quality is likely to stabilize around current levels     32      61.5      20      57.1      12      70.6
+
+      Loan quality is likely to deteriorate somewhat                19      36.5      14      40.0       5      29.4
+
+      Loan quality is likely to deteriorate substantially             0      0.0       0       0.0       0       0.0
+
+      Total                                                         52     100.0      35     100.0      17     100.0
+Questions 17-18 ask about commercial real estate loans at your bank, including construction and land development
+loans and loans secured by nonfarm nonresidential real estate. Question 17 deals with changes in your bank's
+standards over the last three months. Question 18 deals with changes in demand. If your bank's lending standards or
+terms have not changed over the relevant period, please report them as unchanged even if they are either restrictive or
+accommodative relative to longer-term norms. If your bank's standards or terms have tightened or eased over the
+relevant period, please so report them regardless of how they stand relative to longer-term norms. Also, please report
+changes in enforcement of existing standards as changes in standards.
+
+17. Over the past three months, how have your bank's credit standards for approving applications for commercial real
+estate loans changed?
+
+                                                    All Respondents             Large Banks              Other Banks
+
+                                                    Banks      Percent      Banks       Percent      Banks       Percent
+
+                  Tightened considerably                 1           1.8          0           0.0          1           5.3
+
+                  Tightened somewhat                    22          40.0         15          41.7          7          36.8
+
+                  Remained basically unchanged          29          52.7         19          52.8         10          52.6
+
+                  Eased somewhat                         3           5.5          2           5.6          1           5.3
+
+                  Eased considerably                     0           0.0          0           0.0          0           0.0
+
+                  Total                                 55      100.0            36      100.0            19      100.0
+
+
+18. Apart from normal seasonal variation, how has demand for commercial real estate loans changed over the past three
+months?
+
+                                                All Respondents        Large Banks              Other Banks
+
+                                                Banks   Percent      Banks       Percent      Banks       Percent
+
+                       Substantially stronger       0         0.0           0          0.0           0          0.0
+
+                       Moderately stronger          3         5.5           2          5.6           1          5.3
+
+                       About the same             34         61.8          23         63.9          11         57.9
+
+                       Moderately weaker          17         30.9          11         30.6           6         31.6
+
+                       Substantially weaker         1         1.8           0          0.0           1          5.3
+
+                       Total                      55     100.0             36     100.0             19     100.0
+Questions 19-20 ask about residential mortgage loans at your bank. Question 19 deals with changes in your bank's
+credit standards over the past three months, and question 20 deals with changes in demand over the same period. If
+your bank's credit standards have not changed over the relevant period, please report them as unchanged even if the
+standards are either restrictive or accommodative relative to longer-term norms. If your bank's credit standards have
+tightened or eased over the relevant period, please so report them regardless of how they stand relative to longer-term
+norms. Also, please report changes in enforcement of existing standards as changes in standards.
+
+19. Over the past three months, how have your bank's credit standards for approving applications from individuals for
+mortgage loans to purchase homes changed?
+
+                                                    All Respondents             Large Banks              Other Banks
+
+                                                    Banks      Percent      Banks       Percent      Banks       Percent
+
+                  Tightened considerably                 0           0.0          0           0.0          0          0.0
+
+                  Tightened somewhat                     3           5.7          3           8.3          0          0.0
+
+                  Remained basically unchanged          48          90.6         31          86.1         17      100.0
+
+                  Eased somewhat                         2           3.8          2           5.6          0          0.0
+
+                  Eased considerably                     0           0.0          0           0.0          0          0.0
+
+                  Total                                 53      100.0            36      100.0            17      100.0
+
+
+20. Apart from normal seasonal variation, how has demand from individuals for mortgages to purchase homes changed
+over the past three months? (Please consider only new originations as opposed to the refinancing of existing
+mortgages.)
+
+                                                All Respondents        Large Banks              Other Banks
+
+                                                Banks   Percent      Banks       Percent      Banks       Percent
+
+                       Substantially stronger       0         0.0           0          0.0           0          0.0
+
+                       Moderately stronger          1         1.9           1          2.8           0          0.0
+
+                       About the same             19         35.8          10         27.8           9         52.9
+
+                       Moderately weaker          30         56.6          22         61.1           8         47.1
+
+                       Substantially weaker         3         5.7           3          8.3           0          0.0
+
+                       Total                      53     100.0             36     100.0             17     100.0
+Questions 21-26 ask about consumer lending at your bank. Question 21 deals with changes in your bank's willingness
+to make consumer loans over the past three months. Questions 22-25 deal with changes in credit standards and loan
+terms over the same period. Question 26 deals with changes in demand for consumer loans over the past three months.
+If your bank's lending policies have not changed over the past three months, please report them as unchanged even if
+the policies are either restrictive or accommodative relative to longer-term norms. If your bank's policies have
+tightened or eased over the past three months, please so report them regardless of how they stand relative to
+longer-term norms. Also, please report changes in enforcement of existing policies as changes in policies.
+
+21. Please indicate your bank's willingness to make consumer installment loans now as opposed to three months ago.
+
+                                                All Respondents            Large Banks              Other Banks
+
+                                                Banks    Percent      Banks       Percent      Banks       Percent
+
+                      Much more willing             0          0.0           0          0.0           0          0.0
+
+                      Somewhat more willing         2          3.8           2          5.9           0          0.0
+
+                      About unchanged              50         94.3          31         91.2          19        100.0
+
+                      Somewhat less willing         1          1.9           1          2.9           0          0.0
+
+                      Much less willing             0          0.0           0          0.0           0          0.0
+
+                      Total                        53        100.0          34        100.0          19        100.0
+
+
+22. Over the past three months, how have your bank's credit standards for approving applications for credit cards from
+individuals or households changed?
+
+                                                    All Respondents           Large Banks              Other Banks
+
+                                                    Banks      Percent      Banks       Percent      Banks       Percent
+
+                  Tightened considerably                 0           0.0          0           0.0          0           0.0
+
+                  Tightened somewhat                     1           2.9          1           5.6          0           0.0
+
+                  Remained basically unchanged          31       91.2            15       83.3            16      100.0
+
+                  Eased somewhat                         2           5.9          2       11.1             0           0.0
+
+                  Eased considerably                     0           0.0          0           0.0          0           0.0
+
+                  Total                                 34      100.0            18      100.0            16      100.0
+23. Over the past three months, how have your bank's credit standards for approving applications for consumer loans
+other than credit card loans changed?
+
+                                                    All Respondents    Large Banks          Other Banks
+
+                                                   Banks    Percent   Banks   Percent     Banks    Percent
+
+                  Tightened considerably                0      0.0       0         0.0        0          0.0
+
+                  Tightened somewhat                    1      2.0       1         3.0        0          0.0
+
+                  Remained basically unchanged        46      90.2      28      84.8         18     100.0
+
+                  Eased somewhat                        4      7.8       4      12.1          0          0.0
+
+                  Eased considerably                    0      0.0       0         0.0        0          0.0
+
+                  Total                               51     100.0      33     100.0         18     100.0
+
+
+24. Over the past three months, how has your bank changed the following terms and conditions on new or existing
+credit card accounts for individuals or households? (Please assign each term a number between 1 and 5 using the
+following scale: 1=tightened considerably, 2=tightened somewhat, 3=remained basically unchanged, 4=eased
+somewhat, 5=eased considerably.)
+
+                                                                                             All           Large       Other
+                                                                                         Respondents       Banks       Banks
+
+                                                                                            Mean               Mean    Mean
+
+ Credit limits                                                                                    3.10          3.16     3.00
+
+ Spreads of interest rates charged on outstanding balances over your bank's cost
+                                                                                                  3.03          3.00     3.08
+ of funds (wider spreads=tightened; narrower spreads=eased)
+
+ Minimum percent of outstanding balances required to be repaid each month                         2.97          2.95     3.00
+
+ Minimum required credit score (increased score=tightened; reduced
+                                                                                                  3.00          3.00     3.00
+ score=eased)
+
+ The extent to which loans are granted to some customers that do not meet credit
+                                                                                                  2.97          2.95     3.00
+ scoring thresholds (decreased=tightened; increased=eased)
+
+ Other (please specify)                                                                           3.00          3.00     0.00
+
+ Number of banks responding                                                                        31             19       12
+25. Over the past three months, how has your bank changed the following terms and conditions on consumer loans
+other than credit card loans? (Please assign each term a number between 1 and 5 using the following scale: 1=tightened
+considerably, 2=tightened somewhat, 3=remained basically unchanged, 4=eased somewhat, 5=eased considerably.)
+
+                                                                                             All           Large     Other
+                                                                                         Respondents       Banks     Banks
+
+                                                                                              Mean         Mean      Mean
+
+ Maximum maturity                                                                                 3.09       3.06      3.16
+
+ Spreads of loan rates over your bank's cost of funds (wider spreads=tightened;
+                                                                                                  2.98       3.03      2.89
+ narrower spreads=eased)
+
+ Minimum required downpayment                                                                     3.04       3.06      3.00
+
+ Minimum required credit score (increased score=tightened; reduced
+                                                                                                  3.06       3.06      3.05
+ score=eased)
+
+ The extent to which loans are granted to some customers that do not meet credit
+                                                                                                  3.00       3.00      3.00
+ scoring thresholds (decreased=tightened; increased=eased)
+
+ Other (please specify)                                                                           3.33       3.00      4.00
+
+ Number of banks responding                                                                           53       34        19
+
+
+26. Apart from normal seasonal variation, how has demand for consumer loans of all types changed over the past three
+months?
+
+                                                  All Respondents    Large Banks       Other Banks
+
+                                                  Banks   Percent   Banks   Percent   Banks    Percent
+
+                        Substantially stronger        0       0.0       0       0.0       0          0.0
+
+                        Moderately stronger           1       1.9       1       2.9       0          0.0
+
+                        About the same               28     52.8       16     47.1       12      63.2
+
+                        Moderately weaker            24     45.3       17     50.0        7      36.8
+
+                        Substantially weaker          0       0.0       0       0.0       0          0.0
+
+                        Total                        53    100.0       34    100.0       19     100.0
+
+
+1. The sample is selected from among the largest banks in each Federal Reserve District. In the table, large banks are
+defined as those with total domestic assets of $20 billion or more as of June 30, 2006. The combined assets of the 36
+large banks totaled $4.88 trillion, compared to $5.08 trillion for the entire panel of 55 banks, and $8.24 trillion for all
+domestically chartered, federally insured commercial banks.
+                                                        Table 2
+
+                Senior Loan Officer Opinion Survey on Bank Lending Practices
+                                                                                                            1
+         at Selected Branches and Agencies of Foreign Banks in the United States
+
+                                      (Status of policy as of October 2006)
+
+Questions 1-6 ask about commercial and industrial (C&I) loans at your bank. Questions 1-3 deal with changes in your
+bank's lending policies over the past three months. Questions 4-5 deal with changes in demand for C&I loans over the
+past three months. Question 6 asks about changes in prospective demand for C&I loans at your bank, as indicated by
+the volume of recent inquiries about the availability of new credit lines or increases in existing lines. If your bank's
+lending policies have not changed over the past three months, please report them as unchanged even if the policies are
+either restrictive or accommodative relative to longer-term norms. If your bank's policies have tightened or eased over
+the past three months, please so report them regardless of how they stand relative to longer-term norms. Also, please
+report changes in enforcement of existing policies as changes in policies.
+
+1. Over the past three months, how have your bank's credit standards for approving applications for C&I loans or credit
+lines--other than those to be used to finance mergers and acquisitions--changed?
+
+                                                                     All Respondents
+
+                                                                     Banks   Percent
+
+                                   Tightened considerably                0      0.0
+
+                                   Tightened somewhat                    0      0.0
+
+                                   Remained basically unchanged         15     88.2
+
+                                   Eased somewhat                        2     11.8
+
+                                   Eased considerably                    0      0.0
+
+                                   Total                                17    100.0
+2. For applications for C&I loans or credit lines--other than those to be used to finance mergers and acquisitions--that
+your bank currently is willing to approve, how have the terms of those loans changed over the past three months?
+(Please assign each term a number between 1 and 5 using the following scale: 1=tightened considerably, 2=tightened
+somewhat, 3=remained basically unchanged, 4=eased somewhat, 5=eased considerably.)
+
+                                                                                                          All Respondents
+
+                                                                                                               Mean
+
+ Maximum size of credit lines                                                                                         3.12
+
+ Maximum maturity of loans or credit lines                                                                            3.06
+
+ Costs of credit lines                                                                                                3.35
+
+ Spreads of loan rates over your bank's cost of funds (wider spreads=tightened; narrower
+                                                                                                                      3.41
+ spreads=eased)
+
+ Premiums charged on riskier loans                                                                                    3.18
+
+ Loan covenants                                                                                                       3.12
+
+ Collateralization requirements                                                                                       3.06
+
+ Other (please specify)                                                                                               3.00
+
+ Number of banks responding                                                                                            17
+3. If your bank has tightened or eased its credit standards or its terms for C&I loans or credit lines over the past three
+months (as described in questions 1 and 2), how important have been the following possible reasons for the change?
+(Please respond to either A, B, or both as appropriate and rate each possible reason using the following scale: 1=not
+important, 2=somewhat important, 3=very important.)
+
+       a. Possible reasons for tightening credit standards or loan terms:
+
+                                                                                                                  All
+                                                                                                              Respondents
+
+                                                                                                                 Mean
+
+ Deterioration in your bank's current or expected capital position                                                      1.00
+
+ Less favorable or more uncertain economic outlook                                                                      1.50
+
+ Worsening of industry-specific problems (please specify industries)                                                    1.50
+
+ Less aggressive competition from other banks or nonbank lenders (other financial intermediaries or
+                                                                                                                        1.50
+ the capital markets)
+
+ Reduced tolerance for risk                                                                                             1.00
+
+ Decreased liquidity in the secondary market for these loans                                                            1.50
+
+ Increase in defaults by borrowers in public debt markets                                                               1.00
+
+ Other (please specify)                                                                                                 3.00
+
+ Number of banks responding                                                                                                  2
+      b. Possible reasons for easing credit standards or loan terms:
+
+                                                                                                          All
+                                                                                                      Respondents
+
+                                                                                                         Mean
+
+ Improvement in your bank's current or expected capital position                                                1.33
+
+ More favorable or less uncertain economic outlook                                                              1.50
+
+ Improvement in industry-specific problems (please specify industries)                                          1.33
+
+ More aggressive competition from other banks or nonbank lenders (other financial intermediaries or
+                                                                                                                2.71
+ the capital markets)
+
+ Increased tolerance for risk                                                                                   1.86
+
+ Increased liquidity in the secondary market for these loans                                                    1.71
+
+ Reduction in defaults by borrowers in public debt markets                                                      1.33
+
+ Other (please specify)                                                                                         2.00
+
+ Number of banks responding                                                                                         7
+
+
+4. Apart from normal seasonal variation, how has demand for C&I loans changed over the past three months? (Please
+consider only funds actually disbursed as opposed to requests for new or increased lines of credit.)
+
+                                                                 All Respondents
+
+                                                                 Banks      Percent
+
+                                        Substantially stronger          0      0.0
+
+                                        Moderately stronger             0      0.0
+
+                                        About the same                 14     82.4
+
+                                        Moderately weaker               3     17.6
+
+                                        Substantially weaker            0      0.0
+
+                                        Total                          17    100.0
+5. If demand for C&I loans has strengthened or weakened over the past three months (as described in question 4), how
+important have been the following possible reasons for the change? (Please rate each possible reason using the
+following scale: 1=not important, 2=somewhat important, 3=very important.)
+
+      a. If stronger loan demand (answer 1 or 2 to question 4), possible reasons:
+
+                                                                                                           All
+                                                                                                       Respondents
+
+                                                                                                          Mean
+
+ Customer inventory financing needs increased                                                            !5aa1m.m!
+
+ Customer accounts receivable financing needs increased                                                  !5ab1m.m!
+
+ Customer investment in plant or equipment increased                                                     !5ac1m.m!
+
+ Customer internally generated funds decreased                                                           !5ad1m.m!
+
+ Customer merger or acquisition financing needs increased                                                !5ae1m.m!
+
+ Customer borrowing shifted to your bank from other bank or nonbank sources because these other
+                                                                                                         !5af1m.m!
+ sources became less attractive
+
+ Other (please specify)                                                                                  !5ag1m.m!
+
+ Number of banks responding                                                                                 !5at1b!
+
+
+      b. If weaker loan demand (answer 4 or 5 to question 4), possible reasons:
+
+                                                                                                           All
+                                                                                                       Respondents
+
+                                                                                                          Mean
+
+ Customer inventory financing needs decreased                                                                  1.00
+
+ Customer accounts receivable financing needs decreased                                                        1.00
+
+ Customer investment in plant or equipment decreased                                                           1.00
+
+ Customer internally generated funds increased                                                                 1.50
+
+ Customer merger or acquisition financing needs decreased                                                      1.50
+
+ Customer borrowing shifted from your bank to other bank or nonbank credit sources because these
+                                                                                                               2.00
+ other sources became more attractive
+
+ Other (please specify)                                                                                        2.00
+
+ Number of banks responding                                                                                          3
+6. At your bank, how has the number of inquiries from potential business borrowers regarding the availability and
+terms of new credit lines or increases in existing lines changed over the past three months? (Please consider only
+inquiries for additional C&I lines as opposed to the refinancing of existing loans.)
+
+                                                                               All Respondents
+
+                                                                               Banks   Percent
+
+                         The number of inquiries has increased substantially       0       0.0
+
+                         The number of inquiries has increased moderately          0       0.0
+
+                         The number of inquiries has stayed about the same        14     82.4
+
+                         The number of inquiries has decreased moderately          3     17.6
+
+                         The number of inquiries has decreased substantially       0       0.0
+
+                         Total                                                    17    100.0
+Merger and acquisition (M&A) activity in the nonfinancial sector has boomed since 2005. Over the same period, C&I
+loans on banks' books have also expanded rapidly. Questions 7-16 ask about the extent to which the recent strength in
+C&I lending reflects the surge in M&A activity.
+
+7. About what share of the dollar volume of C&I loans currently on your bank's books was originated for M&A-related
+purposes? (M&A-related C&I loans include those made to finance leveraged buyouts and other M&A activity.)
+
+                                                                       All Respondents
+
+                                                                      Banks        Percent
+
+                                 Less than 5 percent                         4       23.5
+
+                                 Between 5 percent and 10 percent            5       29.4
+
+                                 Between 11 percent and 20 percent           5       29.4
+
+                                 Between 21 percent and 30 percent           2       11.8
+
+                                 Between 31 percent and 40 percent           1        5.9
+
+                                 More than 40 percent                        0        0.0
+
+                                 Total                                    17        100.0
+
+
+8. How has the share of M&A-related C&I loans on your bank's books (as reported in question 7) changed over the past
+twelve months?
+
+                                                                     All Respondents
+
+                                                                     Banks       Percent
+
+                                   Increased substantially               0          0.0
+
+                                   Increased moderately                11          64.7
+
+                                   Remained basically unchanged          5         29.4
+
+                                   Decreased moderately                  1          5.9
+
+                                   Decreased substantially               0          0.0
+
+                                   Total                               17         100.0
+9. If your bank has experienced an increase in the share of M&A-related C&I loans over the past twelve months (as
+reported in question 8), to what extent has the increase reflected a shift of funding for M&A activity to banks as a result
+of a reduction in the relative attractiveness of bond finance?
+
+                                                                            All Respondents
+
+                                                                            Banks   Percent
+
+                                 To a substantial extent                        0      0.0
+
+                                 To a moderate extent                           2     18.2
+
+                                 To an insignificant extent or not at all       9     81.8
+
+                                 Total                                        11     100.0
+
+
+10. If demand for C&I loans at your bank has been strengthened by a shift of M&A financing out of the bond market
+(as described in question 9), how important have been the following possible reasons? (Please rate each possible reason
+using the following scale: 1=not important, 2=somewhat important, 3=very important.)
+
+                                                                                                                 All
+                                                                                                             Respondents
+
+                                                                                                                Mean
+
+ Relatively more favorable pricing in the loan market                                                                2.00
+
+ Relatively more favorable nonprice terms (including the maximum size and maturity of loans or
+                                                                                                                     2.00
+ credit lines, loan covenants, and collateralization requirements) in the loan market
+
+ Other (please specify)                                                                                              0.00
+
+ Number of banks responding                                                                                             2
+11. About what share of the dollar volume of M&A-related C&I loans currently on your bank's books was used to
+finance leveraged buyouts?
+
+                                                                       All Respondents
+
+                                                                       Banks   Percent
+
+                                 Less than or equal to 10 percent          8     47.1
+
+                                 Between 11 percent and 20 percent         1      5.9
+
+                                 Between 21 percent and 30 percent         3     17.6
+
+                                 Between 31 percent and 50 percent         1      5.9
+
+                                 Between 51 percent and 75 percent         2     11.8
+
+                                 More than 75 percent                      2     11.8
+
+                                 Total                                    17    100.0
+
+
+12. About what share of the dollar volume of M&A-related C&I loans currently on your bank's books is accounted for
+by ``bridge loans'' that your bank expects to be paid down with funds raised in capital markets within the next twelve
+months?
+
+                                                                       All Respondents
+
+                                                                       Banks   Percent
+
+                                 Less than or equal to 10 percent         11     64.7
+
+                                 Between 11 percent and 20 percent         3     17.6
+
+                                 Between 21 percent and 30 percent         1      5.9
+
+                                 Between 31 percent and 50 percent         1      5.9
+
+                                 Between 51 percent and 75 percent         0      0.0
+
+                                 More than 75 percent                      1      5.9
+
+                                 Total                                    17    100.0
+13. How have your bank's credit standards for approving applications for M&A-related C&I loans or credit lines
+changed over the past twelve months?
+
+                                                                    All Respondents
+
+                                                                    Banks   Percent
+
+                                   Tightened considerably               0      0.0
+
+                                   Tightened somewhat                   0      0.0
+
+                                   Remained basically unchanged        13     76.5
+
+                                   Eased somewhat                       4     23.5
+
+                                   Eased considerably                   0      0.0
+
+                                   Total                               17    100.0
+
+
+14. For applications for M&A-related C&I loans or credit lines that your bank currently is willing to approve, how
+have the terms of those loans changed over the past twelve months? (Please assign each term a number between 1 and
+5 using the following scale: 1=tightened considerably, 2=tightened somewhat, 3=remained basically unchanged,
+4=eased somewhat, 5=eased considerably.)
+
+                                                                                                     All Respondents
+
+                                                                                                          Mean
+
+ Maximum size of loans or credit lines                                                                           3.41
+
+ Maximum maturity of loans or credit lines                                                                       3.18
+
+ Costs of credit lines                                                                                           3.41
+
+ Spreads of loan rates over your bank's cost of funds (wider spreads=tightened; narrower
+                                                                                                                 3.18
+ spreads=eased)
+
+ Premiums charged on riskier loans                                                                               3.12
+
+ Loan covenants                                                                                                  3.41
+
+ Collateralization requirements                                                                                  3.06
+
+ Other (please specify)                                                                                          3.00
+
+ Number of banks responding                                                                                       17
+15. What is your bank's outlook over the next twelve months for delinquencies and chargeoffs on M&A-related C&I
+loans currently on your bank's books, assuming that economic activity progresses in line with consensus forecasts?
+
+                                                                                   All Respondents
+
+                                                                                   Banks   Percent
+
+                       Loan quality is likely to improve substantially                 0      0.0
+
+                       Loan quality is likely to improve somewhat                      0      0.0
+
+                       Loan quality is likely to stabilize around current levels     11      64.7
+
+                       Loan quality is likely to deteriorate somewhat                  6     35.3
+
+                       Loan quality is likely to deteriorate substantially             0      0.0
+
+                       Total                                                         17     100.0
+
+
+16. What is your bank's outlook over the next twelve months for delinquencies and chargeoffs on C&I loans currently
+on your bank's books that were not used to finance M&A activity , assuming that economic activity progresses in line
+with consensus forecasts?
+
+                                                                                   All Respondents
+
+                                                                                   Banks   Percent
+
+                       Loan quality is likely to improve substantially                 0      0.0
+
+                       Loan quality is likely to improve somewhat                      0      0.0
+
+                       Loan quality is likely to stabilize around current levels     12      70.6
+
+                       Loan quality is likely to deteriorate somewhat                  5     29.4
+
+                       Loan quality is likely to deteriorate substantially             0      0.0
+
+                       Total                                                         17     100.0
+Questions 17-18 ask about commercial real estate loans at your bank, including construction and land development
+loans and loans secured by nonfarm nonresidential real estate. Question 17 deals with changes in your bank's
+standards over the last three months. Question 18 deals with changes in demand. If your bank's lending standards or
+terms have not changed over the relevant period, please report them as unchanged even if they are either restrictive or
+accommodative relative to longer-term norms. If your bank's standards or terms have tightened or eased over the
+relevant period, please so report them regardless of how they stand relative to longer-term norms. Also, please report
+changes in enforcement of existing standards as changes in standards.
+
+17. Over the past three months, how have your bank's credit standards for approving applications for commercial real
+estate loans changed?
+
+                                                                      All Respondents
+
+                                                                      Banks     Percent
+
+                                    Tightened considerably                0           0.0
+
+                                    Tightened somewhat                    0           0.0
+
+                                    Remained basically unchanged         11          91.7
+
+                                    Eased somewhat                        1           8.3
+
+                                    Eased considerably                    0           0.0
+
+                                    Total                                12      100.0
+
+
+18. Apart from normal seasonal variation, how has demand for commercial real estate loans changed over the past three
+months?
+
+                                                                 All Respondents
+
+                                                                 Banks   Percent
+
+                                        Substantially stronger       0         0.0
+
+                                        Moderately stronger          2        16.7
+
+                                        About the same               9        75.0
+
+                                        Moderately weaker            1         8.3
+
+                                        Substantially weaker         0         0.0
+
+                                        Total                       12    100.0
+
+
+1. As of June 30, 2006, the 17 respondents had combined assets of $608 billion, compared to $1.40 trillion for all
+foreign related banking institutions in the United States. The sample is selected from among the largest foreign-related
+banking institutions in those Federal Reserve Districts where such institutions are common.
+

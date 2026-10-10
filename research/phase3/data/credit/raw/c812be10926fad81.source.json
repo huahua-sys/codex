@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:30:42.081095+00:00",
+  "content_type": "text/html",
+  "final_url": "https://www.federalreserve.gov/data/sloos/sloos-201910.htm",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/data/sloos.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_release",
+  "source_path": "research/phase3/data/credit/raw/c812be10926fad81.bin",
+  "source_sha256": "9d0d316f46e130beee5d8745869dcb2eb8783ddb1d9a28ddb7d7e0c5ad0fef3a",
+  "url": "https://www.federalreserve.gov/data/sloos/sloos-201910.htm"
+}

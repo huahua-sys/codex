@@ -1,0 +1,14 @@
+{
+  "accessed_at": "2026-10-09T05:38:20.741290+00:00",
+  "content_type": "application/pdf",
+  "final_url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200605/fullreport.pdf",
+  "http_status": 200,
+  "linked_from": [
+    "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200605/default.htm"
+  ],
+  "revision_risk": "Original release archive currently hosted; possible unrecorded hosting corrections; not contemporaneous capture.",
+  "role": "original_full_report_cover",
+  "source_path": "research/phase3/data/credit/raw/83eb844cdb0e471c.bin",
+  "source_sha256": "b83e56992b4e40089cecb076c286d2840f4719ff54bd85ff34abf0012dccf69a",
+  "url": "https://www.federalreserve.gov/boarddocs/SnLoanSurvey/200605/fullreport.pdf"
+}
